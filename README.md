@@ -2,9 +2,9 @@
 [![test](https://github.com/jcorporation/dasweltenbuch/actions/workflows/test.yml/badge.svg)](https://github.com/jcorporation/dasweltenbuch/actions/workflows/test.yml)
 [![create-data](https://github.com/jcorporation/dasweltenbuch/actions/workflows/create-data.yml/badge.svg)](https://github.com/jcorporation/dasweltenbuch/actions/workflows/create-data.yml)
 
-# SpacePirates
+# Das Weltenbuch
 
-Das ist das Repository für die Webpräsenz von SpacePirates.
+Das ist das Repository für die Webpräsenz des klischeehaften Fantasy-Rollenspiels "Das Weltenbuch".
 
 https://dasweltenbuch.jcgames.de/
 
