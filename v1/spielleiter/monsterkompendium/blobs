@@ -1,0 +1,28 @@
+<h1>Blobs</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/blob.jpg"/></p>
+<p>Blobs sind kleine schleimige Glubschdinger und vermutlich mit dem Gro&szlig;en Gr&uuml;nen Glubschdings verwandt. Ihre Gr&ouml;&szlig;e schwankt stark, die kleinsten sind kaum gr&ouml;&szlig;er als Tischtennisb&auml;lle, w&auml;hrend die gr&ouml;&szlig;ten fast so gro&szlig; wie Fu&szlig;b&auml;lle werden. Es gibt sie in allen schrillen und grellen Farben und Farbkombinationen.</p>
+<p>Wie auch das Gr&uuml;ne Glubschdings leben sie in dunklen Dungeonecken, wo sie munter auf- und abh&uuml;pfen, wobei sie &uuml;berall schleimige Abdr&uuml;cke hinterlassen. Wenn sie aufgeregt, aggressiv oder gut gelaunt sind (also eigentlich immer), fiepen sie in einem nervigen hohen Ton.</p>
+<p>Blobs springen auf jeden, der in ihre N&auml;he kommt, um ihn vollzuschleimen. Gef&auml;hrlich ist der Schleim nicht, aber er versaut jede R&uuml;stung und jedes Gewand. Selbst die besten Hausfrauen verzweifeln beim Versuch, diese Flecken wieder rauszukriegen.</p>
+<h2>Gro&szlig;er Blob</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>35</td></tr>
+<tr><th>Initiative</th><td>8</td></tr>
+<tr><th>Attacken</th><td>Vollschleimen: 5 (x1)</td></tr>
+<tr><th>Verteidigung</th><td>5</td></tr>
+<tr><th>MHst</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Unertr&auml;gliches gefiepse, schwere Probe auf Sturheit, sonst -2 auf alle Proben</td></tr>
+</tbody>
+</table>
+<h2>Kleiner Blob</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>25</td></tr>
+<tr><th>Initiative</th><td>5</td></tr>
+<tr><th>Attacken</th><td>Vollschleimen: 3 (x1)</td></tr>
+<tr><th>Verteidigung</th><td>3</td></tr>
+<tr><th>MHst</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Unertr&auml;gliches gefiepse, schwere Probe auf Sturheit, sonst -2 auf alle Proben<br/>
+gilt als kleines Ziel</td></tr>
+</tbody>
+</table>

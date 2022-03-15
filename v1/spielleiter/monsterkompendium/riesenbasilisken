@@ -1,0 +1,61 @@
+<h1>Riesenbasilisken</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/riesenbasilisk.jpg"/></p>
+<p>Der Riesenbasilisk ist eine menschengro&szlig;e Echsenart, die mit Schwanz 5-6 Meter lang ist. Er besitzt einen farbenfrohen Kamm, der sich auf dem R&uuml;cken und dem Schwanz entlang zieht, ansonsten ist seine schuppige Haut in dunklen T&ouml;nen gehalten. Es gibt auch Riesenbasilisken, die wie Cham&auml;leons, ihre Hautfarbe der Umgebung anpassen k&ouml;nnen.</p>
+<p>Riesenbasilisken leben meist als Einzelg&auml;nger, tief unter den Gebirgen der Doppelseite. Sie sind lichtscheu und kommen nur selten aus ihren H&ouml;hlen und Dungeons hervor. Riesenbasilisken sind sehr aggressiv, wenn jemand in ihr Territorium eindringt. Sie sind schon in allen gro&szlig;en Gebirgen der Doppelseite gesichtet worden und haben schon den ein oder anderen Bergarbeitertrupp gefressen.</p>
+<p>Riesenbasilisken besitzen sehr scharfe Z&auml;hne, die auch R&uuml;stungen durchbohren. Mit ihrem Schwanz k&ouml;nnen Riesenbasilisken ausgewachsene M&auml;nner an die Wand schmettern. Aber am gef&auml;hrlichsten ist ihr giftiger Atem, der L&auml;hmungserscheinungen verursacht und zum Tode f&uuml;hren kann. Der Atem verfl&uuml;chtigt sich extrem schnell und es bleibt nur ein bei&szlig;ender Gestank &uuml;brig. Leider ist es kein Ger&uuml;cht, dass auch der Blick eines Riesenbasilisken t&ouml;ten kann.</p>
+<h2>Riesenbasilisk - klein</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>50</td></tr>
+<tr><th>Initiative</th><td>12</td></tr>
+<tr><th>Attacken</th><td>Giftiger Hauch (Giftst&auml;rke: 14, L&auml;hmungserscheinungen: kummulativ -2 auf Geschick, wirkt sofort, h&auml;lt 2W6 Std an): 12<br/>
+Biss: 8 (x2)<br/>
+Schwanzschlag: 10 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>4</td></tr>
+<tr><th>MHSt</th><td>Standardheld</td></tr>
+<tr><th>Besonderheit</th><td>Verstecken: 6<br/>
+Widerstehen/Sturheit Probe gegen einen MW von 19 bei Augenkontakt, sonst rennt man schreiend davon</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>8</td><td>30</td></tr>
+<tr><td>3</td><td>L. Vorderbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>11</td><td>R. Vorderbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>4</td><td>L. Hinterbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>10</td><td>R. Hinterbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>9,5</td><td>Schwanz</td><td>-1</td><td>6</td><td>25</td></tr>
+</tbody>
+</table>
+<h2>Riesenbasilisk - gro&szlig;</h2>
+<table   >
+<tbody>
+<tr></tr>
+<tr><th>Lebenspunkte</th><td>70</td></tr>
+<tr><th>Initiative</th><td>14</td></tr>
+<tr><th>Attacken</th><td>Giftiger Hauch (Giftst&auml;rke: 16, L&auml;hmungserscheinungen: kummulativ -4 auf Geschick, wirkt sofort): 14<br/>
+Biss: 10 (x3)<br/>
+Schwanzschlag: 12 (x3)</td></tr>
+<tr><th>Verteidigung</th><td>6</td></tr>
+<tr><th>MHSt</th><td>Erfahrener Held</td></tr>
+<tr><th>Besonderheit</th><td>Verstecken: 6<br/>
+Widerstehen/Sturheit Probe gegen einen MW von 19 bei Augenkontakt, sonst rennt man schreiend davon</td></tr>
+</tbody>
+</table>
+<table   >
+<tbody>
+<tr></tr>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>6</td><td>25</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>10</td><td>35</td></tr>
+<tr><td>3</td><td>L. Vorderbein</td><td>-2</td><td>8</td><td>30</td></tr>
+<tr><td>11</td><td>R. Vorderbein</td><td>-2</td><td>8</td><td>30</td></tr>
+<tr><td>4</td><td>L. Hinterbein</td><td>-2</td><td>8</td><td>30</td></tr>
+<tr><td>10</td><td>R. Hinterbein</td><td>-2</td><td>8</td><td>30</td></tr>
+<tr><td>9,5</td><td>Schwanz</td><td>-1</td><td>8</td><td>30</td></tr>
+</tbody>
+</table>

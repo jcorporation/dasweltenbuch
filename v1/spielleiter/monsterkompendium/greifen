@@ -1,0 +1,28 @@
+<h1>Greifen</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/greif.jpg"/></p>
+<p>Der Greif ist ein Mischwesen aus Adler und L&ouml;we. Gr&ouml;&szlig;e, Rumpf, Hinterbeine und Schweif entsprechen denen eines L&ouml;wen, Kopf, Vorderbeine und Fl&uuml;gel denen eines Adlers. Dank ihrer Fl&uuml;gel k&ouml;nnen Greifen m&uuml;helos fliegen, aufgrund ihrer Gr&ouml;&szlig;e und ihrer Wildheit geh&ouml;ren sie zu den gef&auml;hrlichsten Fliegern des Weltenbuchs.</p>
+<p>Greifen leben in den Gebirgen der Doppelseite in H&ouml;hlen und halten sich meist in der N&auml;he ihrer Heimat auf. Sie sind Einzelg&auml;nger und treffen sich nur zur Paarung. Es gibt Geschichten von wagemutigen Helden, die Greifen gez&auml;hmt haben, um auf ihnen durch die Doppelseite zu reiten. Diese Greifenreiter sind genauso ber&uuml;hmt wie die legend&auml;ren Drachenreiter.</p>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>40</td></tr>
+<tr><th>Initiative</th><td>14</td></tr>
+<tr><th>Attacken</th><td>Biss: 14 (x2)<br/>
+Krallen: 12 (x1)</td></tr>
+<tr><th>Verteidigung</th><td>14</td></tr>
+<tr><th>MHSt</th><td>Erfahrener Held</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>2</td><td>17</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>3</td><td>27</td></tr>
+<tr><td>3</td><td>L. Vorderbein</td><td>-2</td><td>2</td><td>22</td></tr>
+<tr><td>11</td><td>R. Vorderbein</td><td>-2</td><td>2</td><td>22</td></tr>
+<tr><td>4</td><td>L. Hinterpfote</td><td>-2</td><td>2</td><td>22</td></tr>
+<tr><td>10</td><td>R. Hinterpfote</td><td>-2</td><td>2</td><td>22</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-4</td><td>2</td><td>17</td></tr>
+</tbody>
+</table>

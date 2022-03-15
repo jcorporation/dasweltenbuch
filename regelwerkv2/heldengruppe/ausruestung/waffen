@@ -1,0 +1,59 @@
+<h1>Waffen und R&uuml;stungen</h1>
+<h2>Nahkampfwaffen</h2>
+<table>
+<thead>
+<tr><th>Waffe</th><th>Bonus</th><th>Kosten</th></tr>
+</thead>
+<tbody>
+<tr><td>Dolch</td><td>&ndash;</td><td>20 BM</td></tr>
+<tr><td>Keule</td><td>&ndash;</td><td>20 BM</td></tr>
+<tr><td>Speer</td><td>&ndash;</td><td>20 BM</td></tr>
+<tr><td>Axt</td><td>&ndash;</td><td>40 BM</td></tr>
+<tr><td>Kurzschwert</td><td>&ndash;</td><td>40 BM</td></tr>
+<tr><td>Krumms&auml;bel</td><td>P+1</td><td>80 BM</td></tr>
+<tr><td>Langschwert</td><td>P+1</td><td>80 BM</td></tr>
+<tr><td>Bih&auml;nder</td><td>P+1</td><td>80 BM</td></tr>
+<tr><td>Zweihandaxt</td><td>P+1</td><td>80 BM</td></tr>
+</tbody>
+</table>
+<h2>Fernkampfwaffen</h2>
+<table>
+<thead>
+<tr><th>Waffe</th><th>Bonus</th><th>Kosten</th></tr>
+</thead>
+<tbody>
+<tr><td>Wurfdolch</td><td>&ndash;</td><td>25 BM</td></tr>
+<tr><td>Kurzbogen</td><td>&ndash;</td><td>45 BM</td></tr>
+<tr><td>Wurfspeer</td><td>&ndash;</td><td>45 BM</td></tr>
+<tr><td>Langbogen</td><td>P+1</td><td>85 BM</td></tr>
+<tr><td>Wurfaxt</td><td>P+1</td><td>85 BM</td></tr>
+</tbody>
+</table>
+<h2>R&uuml;stungen</h2>
+<table>
+<thead>
+<tr><th>R&uuml;stung</th><th>Bonus</th><th>Kosten</th></tr>
+</thead>
+<tbody>
+<tr><td>Lederr&uuml;stung</td><td>Z+1</td><td>80 BM</td></tr>
+<tr><td>Kettenhemd</td><td>Z+2</td><td>160 BM</td></tr>
+<tr><td>Metallpanzer</td><td>Z+3</td><td>300 BM</td></tr>
+</tbody>
+</table>
+
+<hr/>
+<h2>Besondere Waffen</h2>
+<table>
+<thead>
+<tr><th>Waffe</th><th>Bonus</th><th>Kosten</th></tr>
+</thead>
+<tbody>
+<tr><td>Elfenbogen</td><td>P+2</td><td>400 BM</td></tr>
+<tr><td>Graphitschwert</td><td>P+2</td><td>400 BM</td></tr>
+<tr><td>Yetischwert</td><td>P+2</td><td>400 BM</td></tr>
+</tbody>
+</table>
+<p><strong>Elfenb&ouml;gen</strong> werden aus dem Holz eines Baumes gefertigt, der nur im Elfenwald w&auml;chst.</p>
+<p><strong>Graphit</strong> ist das h&auml;rteste und leichteste Metall. Nur die Bleistiftzwerge k&ouml;nnen es schmieden.</p>
+<p><strong>Yetischwerter</strong> sind aus einem Metall gefertigt, das die Optik von glasklarem Eis besitzt und auch genauso kalt ist.</p>
+<p>&nbsp;</p>

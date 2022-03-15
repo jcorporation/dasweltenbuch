@@ -1,0 +1,40 @@
+<h1>Abenteuerflags erschaffen</h1>
+<p>Wenn man schon einen Plot im Kopf hat, reduziert man diesen einfach auf die wichtigsten Punkte und leitet daraus die Flags ab. Nun gibt man den Flags ein Gesicht, eine Beschreibung. Wenn noch kein Plot vorhanden ist, betrachtet man einfach die Flags der Spieler und leitet daraus Ereignisse oder Taten von NSC her, die im Widerspruch mit den Flags der Helden stehen.</p>
+<h2>NSC</h2>
+<p>Wenn es sich bei der Flag um einen NSC handelt, definiert man die interessanten Werte, seinen Namen, Beschreibungen. Das Flag repr&auml;sentiert dann sein Ziel und die Beziehung zu den Helden. Hilft er den Helden, steht er den Helden im Weg? W&auml;hrend des Abenteuers muss der Spielleiter dann nur noch den NSC und seine Motivationen ausspielen. Wichtig ist dabei, mit dem NSC auf die Aktionen der Helden dynamisch zu reagieren und den NSC auch mal agieren zu lassen. Wichtig bei der Erschaffung des NSC ist zudem auch dessen Rolle im Plot - ist er&nbsp;</p>
+<ul>
+<li>der Oberb&ouml;sewicht?</li>
+<li>ein m&auml;chtiger Handlanger?</li>
+<li>ein beeinflusster Dritter?</li>
+<li>nur ein Mook?</li>
+<li>den Helden gut gesinnter NSC?</li>
+</ul>
+<p>Alle diese drei NSC-Rollen k&ouml;nnen in einem Abenteuer vorkommen. Die ersten drei Rollen sollten durch Flags repr&auml;sentiert werden. Mooks tauchen eher in einer flagbehafteten Situation oder nebenbei auf, um etwas vom Plot abzulenken oder den Kriegern in der Gruppe auch mal etwas k&auml;mpfen zu lassen. In einem typischen Abenteuer taucht der Oberb&ouml;sewicht erst ganz am Ende des Abenteuers auf oder wird erst dann als Gegenspieler entlarvt, davor sp&uuml;ren die Spieler nur die Auswirkungen seines Handelns oder treffen auf Handlanger von ihm. Die m&auml;chtigen Handlanger und beeinflusste Dritte k&ouml;nnen als Auftraggeber oder Zwischenstationen dienen, die aber nie freiwillig ihre Absichten oder Auftraggeber verraten w&uuml;rden. Die NSC-Flags sind meist das Elementare in einem Abenteuer. Nur durch NSC- oder Ereignisflags entstehen die Abenteuer. Falls die Helden noch eine niedrige Heldenstufe besitzen, ist es wichtig, dass auch ein den Helden gut gesinnter NSC ein Flag besitzt, um ihnen ab und an unter die Arme zu greifen. Das eigentliche Abenteuer m&uuml;ssen dann aber auch M&ouml;chtegernhelden allein bestehen.</p>
+<ul>
+<li>weitere Infos zu <a href="/v1/spielleiter/nscs">NSCs</a></li>
+</ul>
+<h2>Situationen</h2>
+<p>Wenn es sich um eine Situation handelt, definiert man die Abh&auml;ngigkeiten und Voraussetzungen, wie es zu dieser Situation kommen kann. Wichtig ist dabei: Wenn die Voraussetzungen nicht eintreten, sollte man die Situation&nbsp; nicht erzwingen, sondern sie links liegen lassen. Vielleicht kann man sie sp&auml;ter noch brauchen oder eben auch nicht mehr. In solchen Situationen tritt im Normalfall keine der NSC-Flags auf.</p>
+<p>Eine solche Situation kann folgendes sein:</p>
+<ul>
+<li>ein Dungeon</li>
+<li>ein &Uuml;berfall von Mooks</li>
+<li>ein Hindernis, um eines der Ziele zu erreichen</li>
+<li>ein wichtiger Hinweis</li>
+</ul>
+<p>Meist sind mehr NSC-Flags vorhanden als Situationsflags, da sich aus ersteren auch mehr Situationen ergeben. Die Situationsflags erg&auml;nzen meist nur die NSC-Flags und spielen eher eine untergeordnete Rolle, sind aber dennoch wichtig f&uuml;r ein spannendes Abenteuer. Situationsflags sollten immer dann auftreten, wenn der Plot allzu deutlich wird, die Helden in einer Sackgasse sind oder der Spannungsfaden allzu locker ist.<br/>
+Situationsflags richtet man am besten an den Heldenflags aus. An diesen sieht man am besten, f&uuml;r welche Situationen sich die Helden gewappnet haben.</p>
+<p>Wobei auch das Einkaufsverhalten sehr deutlich zeigt, was die Spieler f&uuml;r Hindernisse und Fallstricke erwarten. R&uuml;sten sie sich mit vielen Pfeilen und Heiltr&auml;nken aus, ist es wohl ein sehr deutliches Zeichen, dass sie einen bevorstehenden Kampf vermuten. Wenn dann noch jedes zweite Klischee der Helden eine Kampffertigkeit ist, sind solche Situationen genau das, was die Helden erwarten und was ihnen wohl auch Freude bereitet.</p>
+<h2>Ereignisse</h2>
+<p>Wenn es sich bei der Flag um ein Ereignis handelt, das zwingend eintritt, definiert man a) wann es eintreten soll (entweder ein fester Zeitpunkt oder abh&auml;ngig von einem anderen Ereignis), b) was es f&uuml;r Folgen hat und c) inwieweit das Ereignis die Helden betrifft. Ereignisflags sind immer von gr&ouml;&szlig;erem Ausma&szlig; als NSC- oder Situationsflags, wobei jene aber sowohl ein Ereignis ausl&ouml;sen als auch von einem Ereignis verursacht werden k&ouml;nnen. Solche Ereignisse k&ouml;nnen sein:</p>
+<ul>
+<li>Resultat aus der Handlung eines NSC Flags</li>
+<li>Resultat aus der Handlung eines Helden (ungeplantes Ereignis)</li>
+<li>definitives Ereignis das den Plot definiert</li>
+</ul>
+<p>Solche Ereignisflags k&ouml;nnen, wie die NSC-Flags, das eigentliche Abenteuer definieren. Meist ist ein Ereignisflag mit einem NSC-Flag verbunden und betrifft die Helden oder ihre Umgebung direkt.</p>
+
+<hr/>
+<ul>
+<li><a href="/v1/spielleiter/abenteuerdesign_beziehungen">Flagbeziehungen</a></li>
+</ul>

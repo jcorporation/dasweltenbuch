@@ -1,0 +1,94 @@
+<h1>Drachen</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/drache.jpg" /></p>
+<p>Drachen sind riesige, fliegende Echsen mit gigantischen Fl&uuml;geln. Ihr K&ouml;rper ist von widerstandsf&auml;higen Schuppen umh&uuml;llt, ihre Gliedma&szlig;en enden in scharfen Krallen. Einige Drachen verf&uuml;gen zudem &uuml;ber H&ouml;rner oder einen Feueratem.</p>
+<p>Drachen sind intelligente Wesen, die ab und an auch eine Jungfrau rauben oder eine Jungfrau f&uuml;r einen Gefallen verlangen. (Der Gefallen kann auch sein, ein Dorf nicht in Asche zu verwandeln) Einem weit verbreiteten Ger&uuml;cht zufolge sind Jungfrauen die Leibspeise von Drachen. Dieses Ger&uuml;cht ist, wie so viele Ger&uuml;chte, allerdings falsch. In Wirklichkeit sind die Jungfrauen nur der K&ouml;der f&uuml;r den wirklichen Lieblingsschmaus der Drachen: Ritter. Dieser Mischung aus knackigem Kern und saftigem Kern k&ouml;nnen sie einfach nicht widerstehen. Aus diesem Grund findet der Ritter die Jungfrau auch immer noch lebend beim Drachen vor, schlie&szlig;lich ist nur ein lebender K&ouml;der ein guter K&ouml;der.</p>
+<p>Den gr&ouml;&szlig;ten Teil seiner Zeit verbringen Drachen aber damit, ihren Hort zu h&uuml;ten. Dieser befindet sich stets in der Wildnis, oft auf dem Gipfel eines Bergs. Ein anderes Ger&uuml;cht &uuml;ber Drachen ist &uuml;brigens wahr: In ihrem Hort h&auml;ufen sie Gold, Edelsteine und andere Sch&auml;tze an. Denn neben ger&ouml;steten Ritter m&ouml;gen Drachen nichts so sehr wie funkelnde Sch&auml;tze.</p>
+<table>
+<tbody>
+<tr><th>Lebenspunkte</th><td>240</td></tr>
+<tr><th>Initiative</th><td>20</td></tr>
+<tr><th>Attacken</th><td>Biss: 16 (x4)<br/>
+Feueratem: 16 (x3)<br/>
+Klauenschlag: 15 (x3)<br/>
+Schwanzschlag: 14 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>16</td></tr>
+<tr><th>MHSt</th><td>Halbg&ouml;ttlicher Held</td></tr>
+<tr><th>Besonderheit</th><td>gilt als gro&szlig;es Ziel</td></tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>30</td><td>30</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>40</td><td>40</td></tr>
+<tr><td>3</td><td>L. Vorderbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>11</td><td>R. Vorderbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>4</td><td>L. Hinterbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>10</td><td>R. Hinterbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-2</td><td>40</td><td>30</td></tr>
+</tbody>
+</table>
+<h2>Hausdrachen</h2>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/hausdrache.jpg" /></p>
+<p>Hausdrachen sind eine kleine Drachenart, sie werden ohne Schwanz in etwa so gro&szlig; wie Terrier. Hausdrachen k&ouml;nnen, wie ihre gro&szlig;en Verwandten, fliegen und auch Feuer spucken, sind aber lange nicht so intelligent. Sie besitzen widerstandsf&auml;hige Schuppen in den schillernsten Farben.<br/>
+&nbsp;<br/>
+Hausdrachen nisten sich gerne in den Giebeln von H&auml;usern ein und sind sehr schwer zu vertreiben, sodass sich die meisten Hausbesitzer mit ihren Mitbewohnern arrangieren. Solange man den Giebel in Ruhe l&auml;sst sind die neuen Mitbewohner auch friedlich. Hausdrachen ern&auml;hren sich vor allem von Kleingetier und halten somit in ihrer Umgebung die Rattenpopulation niedrig.</p>
+<table>
+<tbody>
+<tr><th>Lebenspunkte</th><td>60</td></tr>
+<tr><th>Initiative</th><td>14</td></tr>
+<tr><th>Attacken</th><td>Biss: 10 (x2)<br/>
+Feueratem: 12 (x2)<br/>
+Klauenschlag: 10 (x2)<br/>
+Schwanzschlag: 10 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>12</td></tr>
+<tr><th>MHSt</th><td>Erfahrener Held</td></tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>10</td><td>18</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>15</td><td>25</td></tr>
+<tr><td>3</td><td>L. Vorderbeine</td><td>-2</td><td>10</td><td>20</td></tr>
+<tr><td>11</td><td>R. Vorderbeine</td><td>-2</td><td>10</td><td>20</td></tr>
+<tr><td>4</td><td>L. Hinterbeine</td><td>-2</td><td>10</td><td>20</td></tr>
+<tr><td>10</td><td>R. Hinterbeine</td><td>-2</td><td>10</td><td>20</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-2</td><td>15</td><td>20</td></tr>
+</tbody>
+</table>
+<h2>Der lethargische Drache</h2>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/lethargischerdrache.jpg" /></p>
+<p>Diese spezielle Drachenart ist, wie ihr Name schon ahnen l&auml;sst, &auml;u&szlig;erst gelangweilt und antriebslos. Wie die lethargischen Drachen &uuml;berleben konnten, ist sehr r&auml;tselhaft, Ger&uuml;chten zufolge sind sie einfach zu faul zum Sterben. Im Gegensatz zu normalen Drachen haben die lethargischen Drachen auch keine Lust, Sch&auml;tze zu sammeln oder Jungfrauen als K&ouml;der zu entf&uuml;hren. Sie warten antriebslos in ihren H&ouml;hlen auf den n&auml;chstbesten Wanderer und begn&uuml;gen sich damit, ihnen etwas Angst zu machen, damit mal wieder ein Ritter vorbeigeschickt wird.</p>
+<p>&Uuml;berraschenderweise sind lethargische Drachen nicht sehr aggressiv, wenn sie auf Gruppen treffen. Sie haben nicht die Lust sich gleich mit mehreren Gegnern anzulegen. Bei Gruppen fangen die lethargischen Drachen an, von ihren Problemen zu erz&auml;hlen und &uuml;ber ihr deprimierendes (jahrhundertelanges) Leben zu berichten.</p>
+<table>
+<tbody>
+<tr><th>Lebenspunkte</th><td>180</td></tr>
+<tr><th>Initiative</th><td>5</td></tr>
+<tr><th>Attacken</th><td>Biss: 12 (x4)<br/>
+Feueratem: 12 (x3)<br/>
+Klauenschlag: 11 (x3)<br/>
+Schwanzschlag: 10 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>12</td></tr>
+<tr><th>MHSt</th><td>Legend&auml;rer Held</td></tr>
+<tr><th>Besonderheit</th><td>gilt als gro&szlig;es Ziel</td></tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>30</td><td>30</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>40</td><td>40</td></tr>
+<tr><td>3</td><td>L. Vorderbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>11</td><td>R. Vorderbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>4</td><td>L. Hinterbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>10</td><td>R. Hinterbeine</td><td>-2</td><td>30</td><td>30</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-2</td><td>40</td><td>30</td></tr>
+</tbody>
+</table>

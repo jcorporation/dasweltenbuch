@@ -1,0 +1,47 @@
+<h1>Gr&uuml;nes Glubschdings</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/glubschdings.jpg"/></p>
+<p>Das Gr&uuml;ne Glubschdings besteht eigentlich nur aus grellgr&uuml;nem, sehr elastischem Schleim, der die Angewohnheit hat, im dunklen zu leuchten und genauso giftig ist, wie es aussieht. In der Mitte des kegelf&ouml;rmigen Schleimbatzens liegt ein Mund, &uuml;ber dem zwei verschleimte Augen sitzen. Das Gr&uuml;ne Glubschdings kann seinen Schleim als Waffe einsetzen und ihn treffsicher verschie&szlig;en. Sobald es in die N&auml;he seines verschossenen Schleims kommt, flie&szlig;t dieser wieder zur&uuml;ck in seinen K&ouml;rper.</p>
+<p>Das Gr&uuml;ne Glubschdings bewohnt unheimliche, feuchte und dunkle Dungeons. Es ern&auml;hrt sich von allem, was in den Dungeons umherkriecht oder -l&auml;uft. Es hat immer Hunger und versucht alles Lebendige, das es erblickt, zu fressen. Auch eine R&uuml;stung oder ein Schwert halten es nicht davon ab.</p>
+<h2>Kleines Gr&uuml;nes Glubschdings</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>45</td></tr>
+<tr><th>Initiative</th><td>6</td></tr>
+<tr><th>Attacken</th><td>Biss: 12 (x2)<br/>
+Schleimwurf: 10 (x1), bis zu 10 Meter</td></tr>
+<tr><th>Verteidigung</th><td>6</td></tr>
+<tr><th>MHSt</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Regeneriert 2 LP pro Kampfrunde</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Maul</td><td>-3</td><td>2</td><td>20</td></tr>
+<tr><td>3-11</td><td>Rumpf</td><td>-1</td><td>3</td><td>20</td></tr>
+</tbody>
+</table>
+<h2>Gro&szlig;es Gr&uuml;nes Glubschdings</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>60</td></tr>
+<tr><th>Initiative</th><td>8</td></tr>
+<tr><th>Attacken</th><td>Biss: 14 (x2)<br/>
+Schleimwurf: 14 (x1), bis zu 10 Meter</td></tr>
+<tr><th>Verteidigung</th><td>10</td></tr>
+<tr><th>MHSt</th><td>Standardheld</td></tr>
+<tr><th>Besonderheit</th><td>Regeneriert 4 LP pro Kampfrunde<br/>
+gilt als gro&szlig;es Ziel</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Maul</td><td>-3</td><td>2</td><td>30</td></tr>
+<tr><td>3-11</td><td>Rumpf</td><td>-1</td><td>3</td><td>30</td></tr>
+</tbody>
+</table>

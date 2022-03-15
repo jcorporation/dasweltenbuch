@@ -1,0 +1,77 @@
+<h1>Heldenpunkte</h1>
+<p>Die Heldenpunkte repr&auml;sentieren den Heldenmut und die Bekanntheit des Helden auf der Doppelseite. Durch das Erringen von Heldenpunkten verbessert sich der Held und kann sich vom M&ouml;chtegernheld zum Halbg&ouml;ttlichen Held hocharbeiten. Die Heldenpunkte muss sich der Held aber erst durch heldenhafte Taten, w&auml;hrend des Abenteuers verdienen.</p>
+<h2>Das Erringen von Heldenpunkten</h2>
+<p>Heldenpunkte (HP) werden vom Spielleiter f&uuml;r die Erf&uuml;llung von Flags des Helden und des Abenteuers vergeben. Die Vergabe von Heldenpunkten erfolgt nur in Situationen in denen die Flags des Helden oder des Abenteuers eine zentrale Rolle spielen. Solche Situationen k&ouml;nnen z.B. sein:</p>
+<ul>
+<li>Gewinn eines Kampfes gegen einen wichtigen NSC (Abenteuerflag: NSC)</li>
+<li>Entdeckung eines wichtigen Details des Abenteuers (Abenteuerflag: Situation)</li>
+<li>Abwenden eines b&ouml;sen Ereignisses (Abenteuerflag: Ereignis)</li>
+<li>der Held erf&uuml;llt sein Klischee, obwohl es zu seinem Nachteil ist (Heldenflag)</li>
+<li>der Held erreicht einen Meilenstein zu einem seiner gesteckten Ziele (Heldenflag)</li>
+</ul>
+<p>In allen anderen Situationen werden keine Heldenpunkte vergeben. Pro Situation und Held k&ouml;nnen nur einmal HP errungen werden. Es z&auml;hlt immer die Aktion, in welcher der Held die meisten HP erringen kann, also die&nbsp; schwerste bestandene Fertigkeitsprobe. Die Heldenpunkte werden deshalb nicht direkt nach der Probe vergeben, sondern erst, wenn die Situation beendet ist. Die Heldenpunkte k&ouml;nnen ab dann sofort eingesetzt werden. Wenn wichtige Situationen nur ausgespielt werden und keine Fertigkeitsproben gew&uuml;rfelt werden, gibt es pauschal einen Heldenpunkt f&uuml;r jeden beteiligten Helden.</p>
+<p>Die Anzahl der zu vergebenden Heldenpunkte richtet sich nach der Schwierigkeit der Probe, also nach dem Mindestwurf (MW). Bei einer gelungenen vergleichende Probe werden die einzelnen Schwierigkeitsstufen als Schwellwerte benutzt, d.h. bei einer Probe mit einem Ergebnis von 16 bis 18 gibt es einen Heldenpunkt usw. Zus&auml;tzlich gibt es f&uuml;r einen sensationellen Erfolg (Wurf von 12) einen zus&auml;tzlichen Heldenpunkt. F&uuml;r automatische Erfolge gibt es keine Heldenpunkte.</p>
+<table>
+<thead>
+<tr><th>Schwierigkeit</th><th>HP</th></tr>
+</thead>
+<tbody>
+<tr><td>sehr schwer</td><td>1</td></tr>
+<tr><td>fast unm&ouml;glich</td><td>2</td></tr>
+<tr><td>unm&ouml;glich</td><td>3</td></tr>
+<tr><td>g&ouml;ttlich</td><td>4</td></tr>
+</tbody>
+</table>
+<p>Taron, der mutige Heldenanf&auml;nger, wirft sich in den Kampf gegen vier Orks, um den unbescholtenen H&auml;ndler zu sch&uuml;tzen, der ihn als S&ouml;ldner angeheuert hat. Er k&auml;mpft wacker gegen die Orks und kann einen nach dem anderen niederk&auml;mpfen. Sein letzter Schlag gelingt ihm besonders gut und er erwischt gleichzeitig die beiden letzten Orks und gewinnt dadurch den Kampf.<br/>
+<br/>
+Er hat eine 10 gew&uuml;rfelt und mit seinem Fertigkeitswert und seinem Geschick kommt er damit auf stolze 21, das war sein beste Probe und z&auml;hlt somit f&uuml;r die Vergabe der HP.<br/>
+<br/>
+Durch seinen Einsatz, der absolut zu seinem Klischee &bdquo;Blutr&uuml;nstiger Barbar&ldquo; passt erh&auml;lt Taron zwei Heldenpunkte.</p>
+<h2>Die Heldenskala</h2>
+<p>Durch das Erringen von Heldenpunkten steigt der Anfangs noch unerfahrene Held in der Heldenhierarchie auf. Pro Stufenaufstieg erh&auml;lt der Held Erfahrungspunkte (EP), diese k&ouml;nnen zur Steigerung der Werte des Helden genutzt werden. Der Stufenaufstieg findet immer erst nach der Spielrunde statt, um diese nicht zu unterbrechen. Beim Stufenanstieg k&ouml;nnen auch die Flags des Helden ge&auml;ndert werden.</p>
+<table>
+<thead>
+<tr><th>Heldenpunkte</th><th>Heldenstufe</th><th>EP</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>M&ouml;chtegernheld</td><td>0</td></tr>
+<tr><td>2-3</td><td>Heldenlehrling</td><td>10</td></tr>
+<tr><td>4-5</td><td>Heldenanf&auml;nger</td><td>20</td></tr>
+<tr><td>6-9</td><td>Standardheld</td><td>20</td></tr>
+<tr><td>10-17</td><td>Erfahrener Held</td><td>20</td></tr>
+<tr><td>18-27</td><td>Profiheld</td><td>20</td></tr>
+<tr><td>28-39</td><td>Legend&auml;rer Held</td><td>20</td></tr>
+<tr><td>40+</td><td>Halbg&ouml;ttlicher Held</td><td>20</td></tr>
+</tbody>
+</table>
+<h3>Steigerung</h3>
+<p>Mit den erhaltenen Erfahrungspunkten k&ouml;nnen die Spieler die Fertigkeiten ihres Helden steigern oder auch neue erlernen. Dazu m&uuml;ssen die Spieler ihre Erfahrungspunkte ausgeben, wie es unter Lernen von Fertigkeiten beschrieben ist. Die Erfahrungspunkte k&ouml;nnen auch aufgespart werden.</p>
+<h2>Der Einsatz von Heldenpunkten</h2>
+<p>Die Heldenpunkte k&ouml;nnen zur Vereinfachung oder Erschwerung einer Probe genutzt werden. Vor jedem Wurf kann der Spieler zwei HP einsetzen um die Schwierigkeit der Probe um eine Stufe zu senken oder zu erh&ouml;hen, z.B. von unm&ouml;glich auf fast unm&ouml;glich oder umgekehrt. Bei einer vergleichenden Fertigkeitsprobe entspricht der Einsatz von zwei HP einem Bonus bzw. Malus von zwei auf die Probe. Wenn die Probe gelingt k&ouml;nnen dadurch wieder HP erlangt werden, wie oben beschrieben, es gilt der modifizierte MW. Weiterhin kann ein Heldenpunkt auch ausgegeben werden um die Initiative um Zwei zu verbessern.</p>
+<table>
+<thead>
+<tr><th>Effekt</th><th>HP</th></tr>
+</thead>
+<tbody>
+<tr><td>Probenerleichterung / -erschwerung um eine Stufe</td><td>2</td></tr>
+<tr><td>vergleichende Fertigkeitsprobe</td><td>2</td></tr>
+<tr><td>Initiative</td><td>1</td></tr>
+</tbody>
+</table>
+<p><br/>
+Wenn die Probe durch den HP Einsatz erschwert wird und diese trotzdem erfolgreich gemeistert wird wechselt die Erz&auml;hlgewalt zum Spieler. Er kann jetzt die genaue Auswirkung seiner Aktion beschreiben, der Spielleiter erh&auml;lt aber ein Vetorecht, das er aber nur bei sehr unrealistischen und unpassenden Auswirkungen einsetzen sollte.<br/>
+<br/>
+Durch den Einsatz der HP sind diese vorerst verbraucht und werden unter &bdquo;HP Verbraucht&ldquo; auf dem Heldenpergament notiert. Der Verlust der Heldenpunkte ist aber nur tempor&auml;r.</p>
+<p>Taron, mittlerweile ein Heldenlehrling, ist durch etwas Pech in einen reisenden Strom gest&uuml;rzt. Er kann nur schlecht schwimmen (Fertigkeitswert: 1). Der Spielleiter setzt den Mindestwurf auf sehr schwer (MW: 16) an um der reisenden Str&ouml;mung zu entkommen, da Taron seine R&uuml;stung tr&auml;gt. Da seine Chance aus dieser Situation lebend zu entkommen nicht sehr hoch ist, setzt Taron zwei seiner Heldenpunkte ein um den Mindestwurf auf schwer (MW: 14) zu senken. Er w&uuml;rfelt eine 6 und hat es gerade noch geschafft der Str&ouml;mung zu entkommen. Ersch&ouml;pft, aber froh seines Lebens zieht er sich ans Ufer. Nur ein wahrer Held &uuml;berlebt auch eine solche Situation.</p>
+<h2>Regenerierung von Heldenpunkten</h2>
+<p>Je nach Kampagne oder Abenteuer regenerieren sich die Heldenpunkte unterschiedlich schnell. Die Regeneration sollte vor dem eigentlichen Spiel gekl&auml;rt werden, damit es zu keiner Hamsterei der Punkte kommt. Als Faustregel gilt, umso heroischer und epischer das Abenteuer oder die Kampagne sein soll, desto schneller sollten sich die Heldenpunkte regenerieren.</p>
+<table>
+<thead>
+<tr><th>Abenteuertyp</th><th>Regenerierungsintervall</th></tr>
+</thead>
+<tbody>
+<tr><td>Episch</td><td>nach einem Spieleabend</td></tr>
+<tr><td>Heldenhaft</td><td>nach einer Episode</td></tr>
+<tr><td>Standard</td><td>nach der Kampagne</td></tr>
+</tbody>
+</table>

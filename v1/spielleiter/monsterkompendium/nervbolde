@@ -1,0 +1,27 @@
+<h1>Nervbolde</h1>
+<p>Nervbolde sind kleine nervige D&auml;monen, die sogar von den anderen D&auml;monen gemieden werden und deshalb auch nicht auf der D&auml;monenseite, sondern nur in der H&ouml;lle anzutreffen sind. Sie sind meist kleiner als Zwerge und h&auml;sslicher als alles, was man kennt. Meist besitzen sie eine tiefrote Farbe, H&ouml;rner und K&ouml;rperteile von unterschiedlichen Tieren und sind genauso breit wie gro&szlig;.</p>
+<p>Sie tendieren dazu in kleineren Gruppen aufzutreten und die Bewohner der Doppelseite zu g&auml;ngeln. Sie lieben derbe Sp&auml;&szlig;e und spielen den Bewohnern gerne gemeine Streiche. Nervbolde besitzen kleine B&ouml;gen oder Speere als Waffen.</p>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>40</td></tr>
+<tr><th>Initiative</th><td>10</td></tr>
+<tr><th>Attacken</th><td>Speer: 10 (x2)<br/>
+Kurzbogen: 10 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>10</td></tr>
+<tr><th>MHSt</th><td>Heldenanf&auml;nger</td></tr>
+<tr><th>Beschw&ouml;ren MW</th><td>19</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-4</td><td>1</td><td>17</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>2</td><td>27</td></tr>
+<tr><td>3</td><td>L. Arm</td><td>-2</td><td>2</td><td>10</td></tr>
+<tr><td>11</td><td>R. Arm</td><td>-2</td><td>2</td><td>10</td></tr>
+<tr><td>4,5</td><td>L. Bein</td><td>-2</td><td>2</td><td>10</td></tr>
+<tr><td>9,10</td><td>R. Bein</td><td>-2</td><td>2</td><td>10</td></tr>
+</tbody>
+</table>

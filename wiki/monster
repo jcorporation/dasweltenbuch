@@ -1,0 +1,42 @@
+<h1>Monster</h1>
+<ul>
+<li>Bereits vorhandene <a href="/v1/spielleiter/monsterkompendium/">Monster</a></li>
+</ul>
+
+<hr/>
+<h2>Erg&auml;nzungsvorschlag Zyklopen</h2>
+<p>Sie leben in kleinen Sippen, <strong>sogenannten Zyklop&auml;dien</strong>, zusammen und haben keinen Entdeckerdrang.</p>
+<h2>Killerwal</h2>
+<p><img alt="" src="/www/weltenbuch/gallery/misc2/tn2/killerwal.png" /></p>
+<p>Der Killerwal lebt im Tintensee und ist &auml;u&szlig;erst blutr&uuml;nstig und gemein. Er zieht immer eine wei&szlig;e Spur hinter sich her (Tintenkiller).</p>
+<h2>Das Gemeinwesen</h2>
+<p>Bei dieser perfiden Kreatur handelt es sich dem &Auml;u&szlig;eren nach um einen lila Fellkn&ouml;del, der auf zwei Beinen l&auml;uft. Au&szlig;er zwei seitlich hervorragenden trompetenf&ouml;rmigen Ohren sind keine weiteren Sinnesorgane oder Extremit&auml;ten zu erkennen. Das durchschnittliche Gemeinwesen wird ca. einen halben Meter gro&szlig; und ist ein Kulturfolger. Man findet es in der N&auml;he von Ansiedlungen intelligenter Spezies. Trotz seinem possierlichen &Auml;u&szlig;eren handelt es sich bei dem Gemeinwesen um ein hinterh&auml;ltiges Biest, das nur ein Ziel kennt: Gemeinheiten. Es handelt sich bei ihm um einen begabten Telepaten, der sich darauf spezialisiert hat, seine Opfer - zum Wohle des Gemeinwesens - zu Taten zu zwingen, die ihnen nicht mal im Traum einfallen w&uuml;rden. Und hinterher macht es sich noch lustig &uuml;ber sie.</p>
+<h2>Ohrwurm</h2>
+<p>Ein besonders heimt&uuml;ckischer Bewohner des Edentals ist der Ohrwurm, den man vor allem in der Wichtigsten Stadt und ihrer Umgebung antrifft. Der Ohrwurm ist von l&auml;nglicher, schlangen&auml;hnlicher Gestalt, mit einem unglaublich dicken Auswuchs an einem Ende. Die glitschige, schleimige Haut ist von hypnotisierenden, bunten Schlieren bedeckt.</p>
+<p>Als Sinnesorgan ist nur ein langes, stabf&ouml;rmiges Gebilde am dicken Ende erkennbar, mit dem der Ohrwurm seine Nahrung aufnimmt: Lieder! Denn das scheint der einzige Sinn und Zweck des Ohrwurms zu sein: Lieder aufzusaugen und in schrecklich verzerrter Weise wieder hinauszugeben. Diese &bdquo;Lieder&ldquo; qu&auml;len den Zuh&ouml;rer auf eine subtile und dennoch schreckliche Art und Weise: Obwohl sie einfach nur unglaublich schlecht sind, gehen sie den Betroffenen einfach nicht mehr aus dem Kopf. Immer wieder schwirrt die Kakophonie des Wurms durch die Gedanken und hindert ihn an jedem anderen klaren Gedanken, was oft bis in den Wahnsinn f&uuml;hrt. Angeblich wurde der Wurm von einem der Barden- und Schaustellergilde feindlich gesinnten Magier geschaffen, der auf die Popularit&auml;t der Barden neidisch war und in seinen Minderwertigkeitskomplexen versuchte die Barden zu Grunde zu richten. Dies gelang ihm nat&uuml;rlich nicht, denn die Barden beherrschen das einzige Mittel gegen die Qual des Ohrwurms: Gute Lieder! Einzig und allein gute Lieder k&ouml;nnen die Kakophonie des Wurm verdr&auml;ngen...</p>
+<table>
+<tbody>
+<tr><th>Lebenspunkte</th><td>25</td></tr>
+<tr><th>Initiative</th><td>15</td></tr>
+<tr><th>Attacken</th><td>Speziell(Ohrwurmfluch)</td></tr>
+<tr><th>Verteidigung</th><td>4</td></tr>
+<tr><th>MHst</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Der einzige Angriff des Ohrwurms ist der Ohwurmfluch. Der Ohrwurmfluch funktioniert wie oben beschrieben, regeltechnisch bedeutet dies einen Abzug von -10 auf alle Proben. Dieser Effekt h&auml;lt so lange an, bis der Betroffene ein gutes Lied h&ouml;rt.</td></tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>0</td><td>15</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>0</td><td>20</td></tr>
+<tr><td>3</td><td>L. Vorderpfote</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>11</td><td>R. Vorderpfote</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>4</td><td>L. Hinterpfote</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>10</td><td>R. Hinterpfote</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-4</td><td>0</td><td>10</td></tr>
+</tbody>
+</table>
+<h2>Schwiegerdrache</h2>
+<p>Schwiegerdrachen sind selbst bei anderen Drachenarten unbeliebt. Die Zwerge in den Bleistiftmienen haben die Theorie aufgestellt, dass es interessanterweise nur weibliche Schwiegerdrachen gibt, aber es existieren in der Tat auch m&auml;nnliche, die aber meist zu Hause im Hort sitzen und, sollte die Dame des Hauses mal zur Abwechslung da sein, sich dann stundenlanges Gemecker anh&ouml;ren d&uuml;rfen. Sonst bewachen Schwiegerdrachen aber mit Vorliebe, einsame, heiratsf&auml;hige Prinzessinnen - viele K&ouml;nige der Doppelseite sch&auml;tzen die grimmigen Echsen als Anstandsdamen f&uuml;r ihre T&ouml;chter: Jeder Recke, der die Prinzessin zur Gemahlin nehmen will, wird erstmal vom Schwiegerdrachen auf eine ganze Reihe schwieriger, aufzehrender Quest geschickt, um zu beweisen, dass er der Prinzessin w&uuml;rdig ist. Gelingen ihm diese, kommt es meist trotzdem zum Kampf gegen den Schwiegerdrachen. Unterliegt der Schwiegerdrache, zieht er sich beleidigt zur&uuml;ck und ruft nicht mehr an... es sei denn der Recke verl&auml;sst sein holdes Weib, um auf Abenteuerreise zu gehen. Dann wird der Schwiegerdrache alles daran setzen, die ihm anvertraute Prinzessin davon zu &uuml;berzeugen, dass es der gr&ouml;&szlig;te Fehler ihres Lebens war, diesen Mann zu heiraten - oft geht, wenn der Held nach Hause kommt die ganze Questenreihe wieder von vorne los. Man hat auch schon von F&auml;llen geh&ouml;rt, in denen Schwiegerdrachen Prinzen bewacht haben - die potenzielle Ehefrau kann sich schon einmal auf erm&uuml;dende Questen einstellen, die viel mit B&uuml;geln, Kochen und Hausputz zu tun haben.</p>

@@ -1,0 +1,49 @@
+<h1>Beispiel f&uuml;r die Monstererschaffungsregeln</h1>
+<p>Als Beispiel f&uuml;r die Monstererschaffungsregeln soll die&nbsp; <a href="/v1/spielleiter/monsterkompendium/schwertlilien">Schwertlilie</a> dienen.</p>
+<h2>1. Beschreibung des Monsters</h2>
+<p>Hier begn&uuml;gen wir uns mit Stichworten, die vollst&auml;ndige Form l&auml;sst sich ja im Abschnitt Monster nachlesen:</p>
+<ul>
+<li>Aussehen: wie typische Lilien</li>
+<li>Lebensraum: leben unter anderen Lilien</li>
+<li>Verhalten: gemeine Meuchler, wollen hinterr&uuml;cks Duellanten meucheln</li>
+<li>Kampf: Bl&auml;tter werden als Schwert benutzt</li>
+</ul>
+<h2>2. Werte des Monsters</h2>
+<h3>Lebenspunkte</h3>
+<p>Die Schwertlilie ist zerbrechlich, man kann sie leicht mit einem Schlag erledigen &ndash; deshalb bekommt sie nur 10 Lebenspunkte.</p>
+<ul>
+<li><strong>Monsterwert 0:</strong> + 10 &divide; 4 = 2,5</li>
+</ul>
+<h3>Initiative</h3>
+<p>Blumen sind normalerweise nicht ganz so reaktionsschnell, daher ein unterdurchschnittlicher Wert: 8</p>
+<ul>
+<li><strong>Monsterwert 2,5:</strong> + 8 - 9 = 1,5</li>
+</ul>
+<h3>Attacken</h3>
+<p>Die Schwertlilie duelliert sich mit ihren Bl&auml;ttern, die sie wie ein Schwert formt. Sie ist zwar ein geschickter Fechter, Attackewert 12, ihre Treffer richten aber normalerweise nicht viel Schaden an, Schadensmodifikator 1.</p>
+<ul>
+<li><strong>Monsterwert 1,5:</strong> + 12 &times; 1 = 13,5</li>
+</ul>
+<h3>Verteidigung</h3>
+<p>Schwertlilien sind Meuchler, die m&ouml;glichst ungesehen zuschlagen und sich dann wieder im Blumenbeet verstecken, anstatt sich zu verteidigen, Verteidigungswert 6.</p>
+<ul>
+<li><strong>Monsterwert 13,5:</strong> + 6 = 19,5</li>
+</ul>
+<h3>R&uuml;stungsschutz und Trefferzonen</h3>
+<p>Schwertlilien haben zwei Trefferzonen: Bl&uuml;te und Stiel/Bl&auml;tter. Die Trefferzone Stiel/Bl&auml;tter ist viel einfacher zu treffen als die wesentlich kleinere Bl&uuml;te, entsprechend weisen wir ihr die weniger wahrscheinlichen W&uuml;rfelergebnisse zu und geben ihr einen etwas h&ouml;heren Malus f&uuml;r gezielte Treffer. R&uuml;stungsschutz hat eine Schwertlinie keinen, daher RS 0. Jede Trefferzone hat die H&auml;lfte der Gesamtlebenspunkte, wenn man ihr derart viel Schaden zuf&uuml;gt, zerteilt man entweder den Stiel oder die Bl&uuml;te.</p>
+<table>
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2-4,10-12</td><td>Bl&uuml;te</td><td>-2</td><td>0</td><td>5</td></tr>
+<tr><td>5-9</td><td>Stiel / Bl&auml;tter</td><td>-1</td><td>0</td><td>5</td></tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Monsterwert 19,5:</strong> + 0 = 19,5</li>
+</ul>
+<h3>Besonderheiten</h3>
+<p>Die Schwertlilie besitzt keine Besonderheiten.</p>
+<h2>3. Abschlie&szlig;end</h2>
+<p>Der Monsterwert von 19,5 wird abschlie&szlig;end kaufm&auml;nnisch gerundet auf 20 und ergibt die minimale Heldenstufe Heldenanf&auml;nger. Die Schwertlilie ist nun fertig und kann auf unbedachte Helden losgelassen werden.</p>

@@ -1,0 +1,55 @@
+<h1>Dunkelw&ouml;lfe</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/dunkelwolf.jpg"/></p>
+<p>Dunkelw&ouml;lfe sind eine besonders gro&szlig;e, gef&auml;hrliche und b&ouml;se Wolfsart, die ihrem Namen nicht nur ihrem grau-schwarzen Fell verdanken, sondern auch der Tatsache, dass sie von den Dunkelelfen gez&uuml;chtet wurden. Ausgewachsene Exemplare erreichen teilweise die Gr&ouml;&szlig;e eines Ponys, ohne dadurch aber an Geschick einzub&uuml;&szlig;en. Ihre Z&auml;hne und Klauen sind scharf und spitz. Dunkelw&ouml;lfe k&ouml;nnen nachts zwar bestens sehen, verlassen sich aber dennoch vorrangig auf ihren Geruch und sind dadurch geborene J&auml;ger, die sich sowohl im Wald als auch in Dungeons sehr gut zurechtfinden.</p>
+<p>Dunkelw&ouml;lfe sind in erster Linie in Begleitung von Dunkelelfen anzutreffen, gegen&uuml;ber denen sie ebenso gehorsam sind wie guterzogene Hunde gegen&uuml;ber ihrem Herrn. Es gibt aber auch wildlebende Dunkelw&ouml;lfe, die vor allem im F&uuml;rchtelforst und im Lesezeichengebirge ihr Unwesen treiben, aber auch in anderen d&uuml;steren Gebieten wurden schon Dunkelw&ouml;lfe gesehen.</p>
+<p>Dunkelw&ouml;lfe sind sehr aggressiv und greifen auch grundlos Menschen an, wenn sie sich &uuml;berlegen f&uuml;hlen. Sie streifen in Rudeln aus bis zu 12 W&ouml;lfen durch ihr Revier, wobei jedes Rudel von einer Leitw&ouml;lfin angef&uuml;hrt wird.</p>
+<h2>Leitwolf</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>55</td></tr>
+<tr><th>Initiative</th><td>16</td></tr>
+<tr><th>Attacken</th><td>Biss: 14 (x3)<br/>
+Klaue: 12 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>12</td></tr>
+<tr><th>MHSt</th><td>Erfahrener Held</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>0</td><td>18</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>0</td><td>25</td></tr>
+<tr><td>3</td><td>L. Vorderpfote</td><td>-2</td><td>0</td><td>15</td></tr>
+<tr><td>11</td><td>R. Vorderpfote</td><td>-2</td><td>0</td><td>15</td></tr>
+<tr><td>4</td><td>L. Hinterpfote</td><td>-2</td><td>0</td><td>15</td></tr>
+<tr><td>10</td><td>R. Hinterpfote</td><td>-2</td><td>0</td><td>15</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-4</td><td>0</td><td>10</td></tr>
+</tbody>
+</table>
+<h2>Wolf</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>40</td></tr>
+<tr><th>Initiative</th><td>12</td></tr>
+<tr><th>Attacken</th><td>Biss: 12 (x2)<br/>
+Klaue: 10 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>10</td></tr>
+<tr><th>MHSt</th><td>Standardheld</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-3</td><td>0</td><td>16</td></tr>
+<tr><td>6-9</td><td>Rumpf</td><td>-1</td><td>0</td><td>23</td></tr>
+<tr><td>3</td><td>L. Vorderpfote</td><td>-2</td><td>0</td><td>13</td></tr>
+<tr><td>11</td><td>R. Vorderpfote</td><td>-2</td><td>0</td><td>13</td></tr>
+<tr><td>4</td><td>L. Hinterpfote</td><td>-2</td><td>0</td><td>13</td></tr>
+<tr><td>10</td><td>R. Hinterpfote</td><td>-2</td><td>0</td><td>13</td></tr>
+<tr><td>5</td><td>Schwanz</td><td>-4</td><td>0</td><td>8</td></tr>
+</tbody>
+</table>

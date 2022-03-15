@@ -1,0 +1,77 @@
+<h1>Zombies</h1>
+<p>Zombies sind lebende Tote. Sie sind wiederauferstanden oder von einem Magier oder Schamanen belebt worden. Sie sind je nach Alter mehr oder weniger stark verrottet, aber die urspr&uuml;ngliche Rasse kann man meist noch erkennen.</p>
+<p>Sie besitzen den starken Drang, sich von Fleisch zu ern&auml;hren, f&uuml;r sie spielt es keine Rolle, von wem es stammt. Ihre Bewegungen sind sehr ungeschickt und ungenau. Sie k&ouml;nnen weder mit Werkzeug noch mit Waffen umgehen. Zombies k&auml;mpfen auch schwer verletzt weiter, ein abgetrennter Arm ist f&uuml;r sie kein Grund, den Kampf abzubrechen. Den Kopf abschlagen ist die sicherste Variante, einen Zombie endg&uuml;ltig zu t&ouml;ten. Wenn ein Held von einem Zombie verletzt wird, muss die Wunde schnellstm&ouml;glich desinfiziert werden. Wenn dies nicht innerhalb einer Stunde geschieht, verbreitet sich das Zombievirus im K&ouml;rper, und es kann unter Umst&auml;nden nur noch die Amputation des betreffenden K&ouml;rperteils helfen, damit aus dem Helden kein Zombie wird.</p>
+<h2>Standardzombie</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>keine</td></tr>
+<tr><th>Initiative</th><td>10</td></tr>
+<tr><th>Attacken</th><td>Nahkampf: 6 (x1)</td></tr>
+<tr><th>Verteidigung</th><td>Nahkampf: 6</td></tr>
+<tr><th>MHSt</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Stirbt nur wenn der Kopf abgeschlagen wird</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-4</td><td>0</td><td>10</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>0</td><td>15</td></tr>
+<tr><td>3</td><td>L. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>11</td><td>R. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>4,5</td><td>L. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>9,10</td><td>R. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+</tbody>
+</table>
+<h2>Wehrhafter Zombie</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>keine</td></tr>
+<tr><th>Initiative</th><td>12</td></tr>
+<tr><th>Attacken</th><td>Nahkampf: 8 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>Nahkampf: 8</td></tr>
+<tr><th>MHSt</th><td>Heldenlehrling</td></tr>
+<tr><th>Besonderheit</th><td>Stirbt nur wenn der Kopf abgeschlagen wird</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-4</td><td>0</td><td>10</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>0</td><td>15</td></tr>
+<tr><td>3</td><td>L. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>11</td><td>R. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>4,5</td><td>L. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>9,10</td><td>R. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+</tbody>
+</table>
+<h2>Kaffeezombie</h2>
+<p>Untote, die meist mit dem ersten Sonnenstrahl aus ihren Gr&auml;bern steigen und auf der Suche nach Kaffee umherirren. Man sollte tunlichst vermeiden, sich zwischen sie und einer Portion Kaffee zu stellen, denn dies kann lebensgef&auml;hrlich sein, ansonsten sind sie recht harmlos.</p>
+<p>Der Kaffeezombieismus ist eine ansteckende Krankheit, sie wird &uuml;bertragen, wenn man beim Kaffeetrinken mit einem Kaffeezombie spricht.</p>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>keine</td></tr>
+<tr><th>Initiative</th><td>16</td></tr>
+<tr><th>Attacken</th><td>Nahkampf: 6 (x2)</td></tr>
+<tr><th>Verteidigung</th><td>Nahkampf: 6</td></tr>
+<tr><th>MHSt</th><td>M&ouml;chtegernheld</td></tr>
+<tr><th>Besonderheit</th><td>Stirbt nur wenn der Kopf abgeschlagen wird</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>2,12</td><td>Kopf</td><td>-4</td><td>0</td><td>10</td></tr>
+<tr><td>6-8</td><td>Rumpf</td><td>-1</td><td>0</td><td>15</td></tr>
+<tr><td>3</td><td>L. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>11</td><td>R. Arm</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>4,5</td><td>L. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+<tr><td>9,10</td><td>R. Bein</td><td>-2</td><td>0</td><td>10</td></tr>
+</tbody>
+</table>

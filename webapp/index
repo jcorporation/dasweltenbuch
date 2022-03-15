@@ -1,0 +1,19 @@
+<h1>WebApp</h1>
+<p>Die Weltenbuch WebApp beinhaltet das gesamte Weltenbuch Material, die [/weltenbuch/chargen/charakter/all[Charakterverwaltung] und die [/weltenbuch/karte/[interaktive Karte der Doppelseite].</p>
+<p>Die App basiert auf meinem Webapp-Framework <a href="//jcgames/software/jcapp">jcAPP</a>. Sie ist f&uuml;r Touchscreens optimiert und kann mit vielen Smartphones und Tablets, aber nat&uuml;rlich auch mit Desktopbrowsern, verwendet werden. Dank HTML5 ben&ouml;tigt die App keine permanente Internetverbindung und aktualisiert sich automatisch.</p>
+<p>Mit der Hilfe der v&ouml;llig kostenlosen Weltenbuch-Wolke kann die WebApp ger&auml;te&uuml;bergreifend synchronisiert werden.</p>
+<p><a class="button" href="/app/">zur Weltenbuch WebApp</a></p>
+<h2>Funktionen der App</h2>
+<ul>
+<li>Alle verf&uuml;gbaren Weltenbuch Texte integriert</li>
+<li>Indexbasierte Suche</li>
+<li>Favoritenverwaltung mit Synchronisation</li>
+<li>[/weltenbuch/chargen/charakter/all[Charakterverwaltung] mit Synchronisation</li>
+<li>[/weltenbuch/karte/[Interaktive Karte der Doppelseite]</li>
+<li>Auch offline nutzbar</li>
+</ul>
+
+<hr/>
+<p><strong>Version: </strong>1.2<br/>
+<strong>Letzte Aktualisierung:</strong> 11.08.2016</p>
+<p><strong><a href="/webapp/changelog">Changelog</a></strong></p>

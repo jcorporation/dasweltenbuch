@@ -1,0 +1,6 @@
+*~
+*.tmp
+Gemfile.lock
+_site/
+.jekyll-cache/
+_tmp

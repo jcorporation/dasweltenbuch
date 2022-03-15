@@ -1,0 +1,18 @@
+<h1>Galerie</h1>
+<div class="floatboxes">
+<div class="bg box1 clickable galbox">
+<div class="galboximg"><img alt="Götter" class="noEnhance" src="/www/weltenbuch/gallery/goetter/tn2/leser.png" /></div>
+<a href="/galerie/goetter">G&ouml;tter</a></div>
+<div class="bg box1 clickable galbox">
+<div class="galboximg"><img alt="Illustrationen" class="noEnhance" src="/www/weltenbuch/gallery/illus/tn2/hexer.jpg" /></div>
+<a href="/galerie/illus">Illustrationen</a></div>
+<div class="bg box1 clickable galbox">
+<div class="galboximg"><img alt="Rassen" class="noEnhance" src="/www/weltenbuch/gallery/rassen/tn2/yeti2.jpg" /></div>
+<a href="/galerie/rassen">Rassen</a></div>
+<div class="bg box1 clickable galbox">
+<div class="galboximg"><img alt="Monster" class="noEnhance" src="/www/weltenbuch/gallery/monster/tn2/dingimdunkeln.jpg" /></div>
+<a href="/galerie/monster">Monster</a></div>
+<div class="bg box1 clickable galbox">
+<div class="galboximg"><img alt="leser.png" class="noEnhance" src="/www/weltenbuch/gallery/wappen/tn2/amazonasien.jpg" /></div>
+<a href="/galerie/wappen">Wappen</a></div>
+</div>

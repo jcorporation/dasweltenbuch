@@ -1,0 +1,42 @@
+<h1>Seeschlangen</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/seeschlange.jpg"/></p>
+<p>Ausgewachsene Seeschlangen besitzen die vielfache Gr&ouml;&szlig;e eines Kreuzfahrtschiffs. Oft besitzen sie einen gezackten Kamm auf ihrem Schlangenk&ouml;rper. Ihre gef&auml;hrlichsten Waffen sind: Ihr Maul mit spitzen Z&auml;hnen, die leicht einen Masten durchbei&szlig;en, und ihre enorme Kraft. Seeschlangen haben meist eine grau-blaue und fischartige Haut.</p>
+<p>Seeschlangen leben, wie der Name schon sagt, in gro&szlig;en Seen. Sie sind aber auch im Tropfenmeer zu finden und haben dort auch schon das ein oder andere Schiff in die Tiefe gezogen.</p>
+<h2>Seeschlange - klein</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>60</td></tr>
+<tr><th>Initiative</th><td>12</td></tr>
+<tr><th>Attacken</th><td>Biss: 8 (x3)</td></tr>
+<tr><th>Verteidigung</th><td>4</td></tr>
+<tr><th>MHSt</th><td>Standardheld</td></tr>
+</tbody>
+</table>
+<table   >
+<tbody>
+<tr></tr>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+<tr><td>2,12</td><td>Zahnfleisch</td><td>-4</td><td>3</td><td>25</td></tr>
+<tr><td>3-10</td><td>Rumpf</td><td>0</td><td>14</td><td>35</td></tr>
+<tr><td>11</td><td>Ungesch&uuml;tzte Stelle</td><td>-4</td><td>5</td><td>25</td></tr>
+</tbody>
+</table>
+<h2>Seeschlange - gro&szlig;</h2>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>120</td></tr>
+<tr><th>Initiative</th><td>14</td></tr>
+<tr><th>Attacken</th><td>Biss: 16 (x4)</td></tr>
+<tr><th>Verteidigung</th><td>8</td></tr>
+<tr><th>MHSt</th><td>Legend&auml;rer Held</td></tr>
+</tbody>
+</table>
+<table   >
+<tbody>
+<tr></tr>
+<tr><th>2w6</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+<tr><td>2,12</td><td>Zahnfleisch</td><td>-4</td><td>6</td><td>25</td></tr>
+<tr><td>3-10</td><td>Rumpf</td><td>0</td><td>24</td><td>50</td></tr>
+<tr><td>11</td><td>Ungesch&uuml;tzte Stelle</td><td>-4</td><td>9</td><td>30</td></tr>
+</tbody>
+</table>

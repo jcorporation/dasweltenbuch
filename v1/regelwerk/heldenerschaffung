@@ -1,0 +1,34 @@
+<h1>Heldenerschaffung</h1>
+<p>Diese Regeln beschreiben die Erschaffung eines hoffentlich bald legend&auml;ren Helden. Die Heldenerschaffung ist in sechs Schritte aufgeteilt und sollte nicht all zu lange dauern.</p>
+<p>Die Wahl der Rasse und des Klischees ist das Wichtigste bei der Heldenerschaffung. Die Rasse bestimmt die Basiswerte der Attribute und das Klischee die Profession des Charakters. Danach werden der Hintergrund, die Motivationen und die Flags des Helden festgelegt. Erst danach werden die Zahlenwerte des Helden bestimmt. Die Werte der Attribute k&ouml;nnen ver&auml;ndert und die Fertigkeiten gegen Ausgabe von Erfahrungspunkte eingetauscht werden. Zum Abschluss wird der Held noch mit Waffen und Ausr&uuml;stung eingedeckt.&nbsp;</p>
+<h2>1. Klischee w&auml;hlen</h2>
+<p>Das Klischee bestimmt die Rasse und die Profession des Helden. Durch das gew&auml;hlte Klischee erh&auml;lt der Held einen Klischeeausr&uuml;stungsgegenstand und eine Klischeefertigkeit.&nbsp;</p>
+<ul>
+<li><a href="/v1/regelwerk/klischees">Klischees</a></li>
+</ul>
+<h2>2. Hintergrund festlegen</h2>
+<p>Passend zu dem Klischee sollte der Held einen passenden Hintergrund besitzen. Im gleichen Schritt sollte auch das Aussehen, seine Einstellung und sein Name festgelegt werden.</p>
+<ul>
+<li><a href="/v1/regelwerk/hintergrund">Hintergrund</a></li>
+</ul>
+<h2>3. Flags festlegen</h2>
+<p>Die Flags des Helden, stellen die Motivationen, Hintergr&uuml;nde und Ziele des Helden, stichwortartig dar.</p>
+<ul>
+<li><a href="/v1/regelwerk/flags">Flags</a></li>
+</ul>
+<h2>4. Attribute bestimmen</h2>
+<p>Die Grundwerte der Attribute werden von der gew&auml;hlten Rasse bestimmt. Diese Grundwerte k&ouml;nnen in einem gewissen Rahmen (+/-2) modifiziert werden. Wobei die Summe der Attributswerte gleich bleiben muss. Aus den Attributen werden dann noch die Lebenspunkte, die Manapunkte und der Schadensbonus abgeleitet. Jeder Held startet mit einem Heldenpunkt und somit als M&ouml;chtegernheld.</p>
+<ul>
+<li><a href="/v1/regelwerk/attribute">Attribute</a></li>
+</ul>
+<h2>5. Fertigkeiten festlegen</h2>
+<p>Nachdem die Attribute festgelegt sind werden die Fertigkeiten ausgesucht und Punkte auf diese Verteilt, es stehen 80 Punkte zum Verteilen zur Verf&uuml;gung. Bei der Heldenerschaffung betr&auml;gt der maximale Wert einer Fertigkeit 5.</p>
+<ul>
+<li><a href="/v1/regelwerk/fertigkeitenliste">Fertigkeitenliste</a></li>
+<li><a href="/v1/regelwerk/fertigkeitenbeschreibung">Beschreibung der Fertigkeiten</a></li>
+</ul>
+<h2>6. Ausr&uuml;stung</h2>
+<p>Der Held bekommt bei der Erschaffung ein <a href="/v1/regelwerk/ausruestung/heldenpaket">Standard-Heldenpaket</a>, dieses kann gegen Aufpreis auch gegen ein besseres Paket getauscht werden, zus&auml;tzlich stehen dem Helden eine Goldm&uuml;nzen zur Verf&uuml;gung um sich auszur&uuml;sten.</p>
+<ul>
+<li><a href="/v1/regelwerk/startausruestung">Ausr&uuml;stung</a></li>
+</ul>

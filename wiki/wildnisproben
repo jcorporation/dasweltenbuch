@@ -1,0 +1,29 @@
+<h1>Wildnisproben</h1>
+<h2>Kr&auml;uter suchen</h2>
+<table>
+<thead>
+<tr><th>Kraut</th><th>Schwierigkeit</th><th>Einheiten</th></tr>
+</thead>
+<tbody>
+<tr><td>Zigeunergras</td><td>schwer</td><td>2W6</td></tr>
+<tr><td>Zukunftskraut</td><td>sehr schwer</td><td>2W6</td></tr>
+<tr><td>Jungferngras</td><td>fast unm&ouml;glich</td><td>1W6</td></tr>
+<tr><td>Heldenmut</td><td>unm&ouml;glich</td><td>1W6</td></tr>
+<tr><td>Drachenblut</td><td>g&ouml;ttlich</td><td>1</td></tr>
+</tbody>
+</table>
+<h2>Jagd</h2>
+<h3>Meckerziegen</h3>
+<p><strong>Anzahl Meckerziegen:</strong> 2W6</p>
+<p><strong>Jagdprobe:</strong> Fernkampf MW: 16</p>
+<p><strong>Verkauf:</strong> Meckerziegenfell: 5 KM,&nbsp; Fleisch: 4 KM</p>
+<h3>W&ouml;lfe</h3>
+<p>W&ouml;lfe treten immer in Rudeln auf.</p>
+<p><strong>Anzahl W&ouml;lfe:</strong> 2W6</p>
+<p><strong>Kampfwerte:</strong> LP:20, Initiative: 12, Kampfwert: 10 Schaden:&nbsp; x2+1<br/>
+<br/>
+<strong>Verkauf:</strong> Wolfsfell: 5 BM, Fleisch: 4 KM</p>
+<h3>B&auml;r</h3>
+<p><strong>Kampfwerte:</strong> LP: 80, Initiative: 10, Kampfwert: 14, Schaden x3+2</p>
+<p><strong>Verkauf:</strong> B&auml;renfell 5 SM,&nbsp; Fleisch: 4 KM<br/>
+&nbsp;</p>

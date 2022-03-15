@@ -1,0 +1,159 @@
+<h1>Klischees</h1>
+<p>Das Klischee bestimmt die Rasse und die Profession des Helden. Durch das gew&auml;hlte Klischee erh&auml;lt der Held einen Klischeeausr&uuml;stungsgegenstand und eine Klischeefertigkeit.</p>
+<h2>Klischeefertigkeit</h2>
+<p>Die Klischeefertigkeit kann aus der Klischeeliste entnommen werden. Diese Fertigkeit dient dazu, das Klischee zu f&ouml;rdern und wird von Anfang an mit einem Fertigkeitswert von vier beherrscht.</p>
+<h2>Klischeeausr&uuml;stung</h2>
+<p>Der Held bekommt bei seiner Erschaffung den zu seinem Klischee passenden Gegenstand aus der Klischeetabelle. Dieser Gegenstand ist grunds&auml;tzlich magisch und hat eine besondere Bedeutung f&uuml;r den Helden.</p>
+<h2>Heldenpunkte</h2>
+<p>Jeder Held startet mit einem Heldenpunkt und somit als M&ouml;chtegernheld. Was dieser Punkt zu bedeuten hat und wie er eingesetzt wird, wird im Abschnitt Heldenpunkte beschrieben.</p>
+<h1>Klischeeliste</h1>
+<h2>Menschen</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Barbarenschamane</td><td>Beschw&ouml;ren - D&auml;monen</td><td>Zukunftswasser</td></tr>
+<tr><td>Blutr&uuml;nstiger Barbar</td><td>Schwert</td><td>Promillestop</td></tr>
+<tr><td>Explosiver Alchemist</td><td>Alchemie</td><td>Chemieset</td></tr>
+<tr><td>Fanatischer Priester</td><td>Bekehren</td><td>Opferkasse</td></tr>
+<tr><td>Frivole Amazone</td><td>Schwert</td><td>Schutzw&auml;sche</td></tr>
+<tr><td>Hinterh&auml;ltiger Schurke</td><td>Falschspiel</td><td>Gl&uuml;cksw&uuml;rfel</td></tr>
+<tr><td>Hochtrabender Ritter</td><td>Auftreten</td><td>Ehrenstein</td></tr>
+<tr><td>Lebensfroher Gl&uuml;cksritter</td><td>Schwert</td><td>Kneipenf&uuml;hrer</td></tr>
+<tr><td>Paranoider Dieb</td><td>Heimlichkeit</td><td>T&uuml;r&Ouml;ffneDich</td></tr>
+<tr><td>Pechvogel der Nation</td><td>Schwert</td><td>Gl&uuml;cksbringer</td></tr>
+<tr><td>Pfuschender Magier</td><td>Zaubern -Illusion</td><td>Magiefibel</td></tr>
+<tr><td>Ruchloser S&ouml;ldner</td><td>Zechen</td><td>Endloswein</td></tr>
+<tr><td>Schlechter H&auml;ndler</td><td>Intrigen spinnen</td><td>Kein Wechselgeld</td></tr>
+<tr><td>Schwatzende Hexe</td><td>Hexerei - Besen fliegen</td><td>fliegender Besen</td></tr>
+<tr><td>&Uuml;bereifriger Paladin</td><td>Schwert</td><td>Geweihtes Schwert</td></tr>
+<tr><td>Unentschlossener Meuchler</td><td>Dolch</td><td>Meucheldolch</td></tr>
+<tr><td>Vergesslicher Barde</td><td>Unterhaltung</td><td>Sagenprompter</td></tr>
+<tr><td>Vollschlanke Walk&uuml;re</td><td>Bet&ouml;ren</td><td>Amors Duft</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu <a href="/welt/voelker/menschen/">Menschen</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_menschen">Klischees</a></li>
+</ul>
+<h2>Elfen</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Eleganter Klingent&auml;nzer</td><td>Schwert</td><td>Edles Langschwert</td></tr>
+<tr><td>Faszinierender Barde</td><td>Unterhaltung</td><td>Wohlkling-Harfe</td></tr>
+<tr><td>Hochn&auml;siger Magier</td><td>Zaubern - Elemente</td><td>Telefonspiegel</td></tr>
+<tr><td>Naturverbundener Waldl&auml;ufer</td><td>Spurenlesen</td><td>El-Cicadee Kompass</td></tr>
+<tr><td>Weiser Heiler</td><td>Heilen</td><td>Tragbare Kr&auml;utermike</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu <a href="/welt/voelker/gute/elfen/index">Elfen</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_elfen">Klischees</a></li>
+</ul>
+<h2>Feen</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Betrunkener Krieger</td><td>Bogen</td><td>Flachmann</td></tr>
+<tr><td>Fiepsender Barde</td><td>Unterhaltung</td><td>Zauberfl&ouml;te</td></tr>
+<tr><td>Fliegender H&auml;ndler</td><td>Verhandeln</td><td>Magischer Leiterwagen</td></tr>
+<tr><td>Nerviger Zauberer</td><td>Zaubern - Bewegung</td><td>Feenstaubbeutel</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/feen/index">Feen</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_feen">Klischees</a></li>
+</ul>
+<h2>Gnome</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Bodenst&auml;ndige Hexe</td><td>Hexerei - Tr&auml;nke</td><td>Aufblasbarer Topf</td></tr>
+<tr><td>Gem&uuml;tlicher H&auml;ndler</td><td>Verhandeln</td><td>Kein Wechselgeld</td></tr>
+<tr><td>Trickreicher Mechaniker</td><td>Handwerken</td><td>Zauberschraubenschl&uuml;ssel</td></tr>
+<tr><td>Verbissener K&auml;mpfer</td><td>Schwert</td><td>Schildamulett</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/gnome/index">Gnomen</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_gnome">Klischees</a></li>
+</ul>
+<h2>Halblinge</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Fr&ouml;hlicher Koch</td><td>Kochen</td><td>Klappk&uuml;che</td></tr>
+<tr><td>Lebensfrohe Hexe</td><td>Hexerei - Beeinflussung</td><td>Psychomedaille</td></tr>
+<tr><td>Neugieriger Abenteurer</td><td>Geselligkeit</td><td>Brotzeitbox</td></tr>
+<tr><td>Wandernder Musiker</td><td>Unterhaltung</td><td>Luftgitarre</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/halblinge/index">Halblingen</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_halblinge">Klischees</a></li>
+</ul>
+<h2>Kobolde</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Emsiger Gesch&auml;ftsmann</td><td>Verhandeln</td><td>Goldtopf</td></tr>
+<tr><td>Geheimnisvolle Wetterhexe</td><td>Hexerei - Natur</td><td>Froschglas</td></tr>
+<tr><td>Lustiger &Uuml;berlebensk&uuml;nstler</td><td>Gl&uuml;ck</td><td>Witzebuch</td></tr>
+<tr><td>Singender Seemann</td><td>Unterhaltung</td><td>Koboldquetsche</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/kobolde/index">Kobolden</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_kobolde">Klischees</a></li>
+</ul>
+<h2>Wichtel</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>B&uuml;rokratischer Beamter</td><td>Auftreten</td><td>Formularblock</td></tr>
+<tr><td>Flei&szlig;iger Bote</td><td>Athletik</td><td>Pack-Dich-Rucksack</td></tr>
+<tr><td>Flitzender Krieger</td><td>Schwert</td><td>Federr&uuml;stung</td></tr>
+<tr><td>Gewitzter H&auml;ndler</td><td>Verhandeln</td><td>P-Paste</td></tr>
+<tr><td>Praktischer Zauberer</td><td>Zaubern - Bewegung</td><td>Toller Zauberstab</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/wichtel/index">Wichteln</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_wichtel">Klischees</a></li>
+</ul>
+<h2>Yetis</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Agiler Schneel&auml;ufer</td><td>Tier- und Monsterkunde</td><td>&Uuml;berlebensmesser</td></tr>
+<tr><td>Brummeliger Schamane</td><td>Beschw&ouml;ren - Elementare</td><td>Feuerl&ouml;scher</td></tr>
+<tr><td>Freundlicher Grenzw&auml;chter</td><td>Schwert</td><td>Yetischwert</td></tr>
+<tr><td>Kuscheliger H&auml;ndler</td><td>Verhandeln</td><td>Mobiler Eiserzeuger</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu den <a href="/welt/voelker/gute/yetis/index">Yetis</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_yetis">Klischees</a></li>
+</ul>
+<h2>Zwerge</h2>
+<table>
+<tbody>
+<tr><th>Klischee</th><th>Klischeefertigkeit</th><th>Klischeeausr&uuml;stung</th></tr>
+<tr><td>Gl&auml;ubiger Priester</td><td>Bekehren</td><td>Weihrauch</td></tr>
+<tr><td>Jammernder H&auml;ndler</td><td>Verhandeln</td><td>Endlosbier</td></tr>
+<tr><td>Metzelnder Kampfzwerg</td><td>Axt</td><td>Wartungsfreies Kettenhemd</td></tr>
+<tr><td>McGyvernder Bastler</td><td>Basteln</td><td>Zwergisches Taschenmesser</td></tr>
+<tr><td>Schlechtgelaunter Schmied</td><td>Handwerken</td><td>Klappamboss</td></tr>
+<tr><td>Trotteliger Technikus</td><td>Handwerken</td><td>Zwergisches Taschenmesser</td></tr>
+<tr><td>Verwirrter Runenschmied</td><td>Zaubern - Runenmagie</td><td>Runenmei&szlig;el</td></tr>
+</tbody>
+</table>
+<ul>
+<li>mehr zu <a href="/welt/voelker/gute/zwerge/index">Zwerge</a></li>
+<li>mehr zu den <a href="/v1/regelwerk/klischees_zwerge">Klischees</a></li>
+</ul>
+
+<hr/>
+<ul>
+<li>Weitere <a href="/wiki/klischees">Klischees</a> im Wiki</li>
+</ul>

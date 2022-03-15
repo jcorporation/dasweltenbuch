@@ -1,0 +1,37 @@
+<h1>Hydras</h1>
+<p><img alt="" src="/www/weltenbuch/gallery/monster/tn2/hydra.jpg"/></p>
+<p>Hydras verf&uuml;gen &uuml;ber einen reptiloiden K&ouml;rper, der von bunten Schuppen bedeckt ist und auf dessem Schultern ein langer Hals mit neun drachenartige K&ouml;pfe sitzen. Sie werden etwa 5 m gro&szlig; und wirken durch ihre aggressiv gef&auml;rbten Schuppen und ihre scharfen Z&auml;hne &auml;u&szlig;erst bedrohlich. Zwar agieren ihre K&ouml;pfe unabh&auml;ngig voneinander, aber einer gibt den Ton an. Abgesehen von diesem Hauptkopf wachsen die anderen K&ouml;pfe innerhalb eines Kampfabschnitts nach, wenn sie abgeschlagen werden.</p>
+<p>Hydras leben vornehmlich in feuchtwarmen Sumpfgebieten oder in dunklen, feuchtwarmen H&ouml;hlen. Sie greifen jeden an, der in ihr Machtgebiet eindringt. Mit ihren neun K&ouml;pfen kann eine Hydra eine ganze Heldengruppe in Schach halten.</p>
+<table   >
+<tbody>
+<tr><th>Lebenspunkte</th><td>90</td></tr>
+<tr><th>Initiative</th><td>14</td></tr>
+<tr><th>Attacken</th><td>Biss: 16 (x3)</td></tr>
+<tr><th>Verteidigung</th><td>12</td></tr>
+<tr><th>MHSt</th><td>Legend&auml;rer Held</td></tr>
+<tr><th>Besonderheit</th><td>Alle bis auf den mittleren Kopf wachsen innerhalb eines Kampfabschnitts nach<br/>
+Jeder Kopf z&auml;hlt als einzelner Gegner</td></tr>
+</tbody>
+</table>
+<table   >
+<thead>
+<tr><th>W20</th><th>Trefferzone</th><th>Mali</th><th>RS</th><th>MS</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Linker Kopf 1</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>2</td><td>Linker Kopf 2</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>3</td><td>Linker Kopf 3</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>4</td><td>Linker Kopf 4</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>5</td><td>Mittlerer Kopf</td><td>-5</td><td>6</td><td>20</td></tr>
+<tr><td>6</td><td>Rechter Kopf 4</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>7</td><td>Rechter Kopf 3</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>8</td><td>Rechter Kopf 2</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>9</td><td>Rechter Kopf 1</td><td>-3</td><td>4</td><td>20</td></tr>
+<tr><td>10-15</td><td>Rumpf</td><td>-1</td><td>8</td><td>35</td></tr>
+<tr><td>16</td><td>L. Vorderbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>17</td><td>R. Vorderbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>18</td><td>L. Hinterbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>19</td><td>R. Hinterbein</td><td>-2</td><td>6</td><td>25</td></tr>
+<tr><td>20</td><td>Schwanz</td><td>-2</td><td>6</td><td>25</td></tr>
+</tbody>
+</table>

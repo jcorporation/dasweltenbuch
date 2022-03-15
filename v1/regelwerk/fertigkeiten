@@ -1,0 +1,80 @@
+<h1>Fertigkeiten</h1>
+<h2>Heldenerschaffung</h2>
+<p>Bei der Heldenerschaffung stehen 80 EP zum Lernen der Fertigkeiten zur Verf&uuml;gung.</p>
+<ul>
+<li><a href="/v1/regelwerk/fertigkeitenlernen">Lernen</a></li>
+<li><a href="/v1/regelwerk/fertigkeitenliste">Fertigkeitenliste</a></li>
+<li><a href="/v1/regelwerk/fertigkeitenbeschreibung">Beschreibung der Fertigkeiten</a></li>
+</ul>
+
+<hr/>
+<p>Sobald ein Held eine Aktion ausf&uuml;hren will, die wichtig f&uuml;r das Spielgeschehen ist, es nicht klar ist ob er sie schaff oder eine andere Aktion der des Helden im Weg steht, muss eine Probe ausgef&uuml;hrt werden.<br/>
+<br/>
+Wichtig f&uuml;r das Spielgeschehen sind alle Situationen die im Zusammenhang mit Flags des Abenteuers oder der Helden stehen. Wenn eine Probe gew&uuml;rfelt wird sollte es auch immer eine Herausforderung f&uuml;r den Helden darstellen.</p>
+<h1>Gelingt es oder gelingt es nicht?</h1>
+<h2>Ablauf</h2>
+<ul>
+<li>der Spieler sagt die Aktion seines Helden an und w&auml;hlt seine Fertigkeit</li>
+<li>der Spielleiter bestimmt den Mindestwurf und vergibt Boni bzw. Mali auf die Probe</li>
+<li>der Spieler kann die Aktion absagen, &auml;ndern oder Heldenpunkte ausgeben um sie zu vereinfachen oder zu erschweren</li>
+<li>der Spieler w&uuml;rfelt und bestimmt ob die Aktion gelungen ist</li>
+<li>der Spielleiter beschreibt die Auswirkung der Aktion</li>
+</ul>
+<h2>Aktion ansagen</h2>
+<p>Die Aktion des Helden ergibt sich in dem meisten F&auml;llen aus der Beschreibung des Spielers, was sein Held macht bzw. machen will. Sobald solch eine Beschreibung auf Widerstand, egal welcher Form, trifft wird eine Fertigkeitsprobe notwendig um den Ausgang der Aktion zu bestimmen. Wie weiter oben beschrieben m&uuml;ssen nicht auf alle Aktionen der Helden Fertigkeitsproben gemacht werden. Der Widerstand kann z.B. eine hohe Mauer oder eine Aktion eines NSCs sein.</p>
+<p>Rondarion will &uuml;ber eine hohe Mauer klettern. Da die Mauer wenig halt bietet, entscheidet der Spielleiter das dazu eine schwere Fertigkeitsprobe n&ouml;tig ist. Der Mindestwurf ist also 14. Rondarion ist nicht sehr geschickt (Geschick Wert von 6) und hat leider keine passende Fertigkeit. Also w&uuml;rfelt sein Spieler mit 2W6, er w&uuml;rfelt eine 5 und kommt somit auf ein Probenergebnis von 11. Er scheitert bei dem Versuch die Mauer zu &uuml;berklettern und landet schmerzhaft auf dem R&uuml;cken. Sein Begleiter Jonas ist Geschickter (Geschick Wert von 8) und hat die Fertigkeit Athletik auf 4, die Aktion gelingt automatisch (8+4+2=MW).</p>
+<h2>Mindestwurf</h2>
+<p>Der Mindestwurf (MW) wird vom Spielleiter festgelegt, bevor der Spieler die Probe w&uuml;rfelt. Der Spieler kann nach der Bekanntgabe des Mindestwurfes auch noch die Aktion zur&uuml;ckziehen oder Heldenpunkte einsetzen um den Mindestwurf zu ver&auml;ndern. F&uuml;r Aktionen die eigentlich die Probe erschweren, dem Helden aber keinen Vorteil oder Nachteil bringen, wird der Mindestwurf nicht erh&ouml;ht, da es ein rein gestalterisches Element ist und dieses Verhalten nicht benachteiligt werden soll.</p>
+<table>
+<thead>
+<tr><th>Schwierigkeit</th><th>MW</th></tr>
+</thead>
+<tbody>
+<tr><td>leicht</td><td>12</td></tr>
+<tr><td>schwer</td><td>14</td></tr>
+<tr><td>sehr schwer</td><td>16</td></tr>
+<tr><td>fast unm&ouml;glich</td><td>19</td></tr>
+<tr><td>unm&ouml;glich</td><td>22</td></tr>
+<tr><td>g&ouml;ttlich</td><td>25</td></tr>
+</tbody>
+</table>
+<ul>
+<li><a href="/v1/regelwerk/fertigkeiten_wahrscheinlichkeiten">Erfolgswahrscheinlichkeiten</a></li>
+</ul>
+<h2>Boni / Mali</h2>
+<p>Boni erleichtern eine Fertigkeitsprobe und ein Mali erschwert eine Probe. Boni und Mali werden immer mit dem Wurf verrechnet und nicht mit dem MW.</p>
+<h3>Solche Boni und Mali sind:</h3>
+<ul>
+<li>Malus durch Behinderung (BW) bei allen Proben, bis auf Angriff und Verteidigung</li>
+<li>Bonus/Malus eines Gegenstandes (Waffenbonus, etc. )</li>
+<li>Malus durch Trefferzone</li>
+<li>Bonus/Malus beim Einsatz von Heldenpunkte</li>
+<li>Bonus/Malus durch Magievoraussetzungen</li>
+</ul>
+<p>Boni und Mali werden nur durch die oben genannten Punkte verursacht. Der Spielleiter sollte bei allen anderen Gegebenheiten den Mindestwurf dementsprechend anpassen.</p>
+<h2>Fertigkeitsprobe</h2>
+<p>Die Fertigkeitsprobe wird immer gegen den Mindestwurf gew&uuml;rfelt, der vorher vom Spielleiter festgelegt wurde. Zur Summe der gew&uuml;rfelten 2W6 werden der Fertigkeitswert und das zugeh&ouml;rige Attribut addiert. Anschlie&szlig;end werden noch die eventuell vorhandenen Boni oder Mali mit diesem Ergebnis verrechnet und dann mit dem Mindestwurf verglichen. Ist das Ergebnis h&ouml;her als der Mindestwurf ist die Probe geschafft, liegt das Ergebnis unter dem Mindestwurf ist, die Probe nicht geschafft.</p>
+<ul>
+<li><strong>Probe:</strong> Attribut + Fertigkeitswert (- BW) + 2W6 &gt;= MW</li>
+</ul>
+<h2>Vergleichende Fertigkeitsprobe</h2>
+<p>Sobald einer Aktion eine andere Aktion im Wege steht, wird eine vergleichende Fertigkeitsprobe ausgef&uuml;hrt. Dies ist bei allen Aktionen der Fall, bei denen der anderen Partei einen Widerstandswurf zusteht, wie z.B. im Kampf oder bei einer Wahrnehmenprobe.<br/>
+<br/>
+Bei einer vergleichenden Fertigkeitsprobe wird kein MW definiert. Beide Parteien f&uuml;hren eine Probe aus und die Partei mit der besseren Probe gewinnt. Sind beide Proben gleich gut, dann ist eine Pattsituation entstanden. Die Regeln f&uuml;r Fehlschlag und sensationellen Erfolg werden bei einer vergleichenden Fertigkeitsprobe wie bei einer normalen Fertigkeitsprobe angewandt.</p>
+<ul>
+<li><strong>Probe:</strong> Attribut + Fertigkeitswert (- BW) + 2W6 <strong>&lt;&gt;</strong> Attribut + Fertigkeitswert (- BW) + 2W6</li>
+</ul>
+<h2>Fehlschlag und sensationeller Erfolg</h2>
+<p>Wenn der Spieler zwei Einsen w&uuml;rfelt, ist es ein Fehlschlag. Wenn der Spieler zwei Sechsen w&uuml;rfelt, ist es ein sensationeller Erfolg. Der Spielleiter kann je nach Situation eine passende Auswirkung definieren. Die Aktion gelingt oder misslingt eben dann besonders spektakul&auml;r.</p>
+<h2>Automatische Erfolge</h2>
+<p>Ist der Mindestwurf kleinergleich dem Basiswert plus zwei, gelingt die Probe automatisch und der Spieler muss nicht w&uuml;rfeln. F&uuml;r automatische Erfolge gibt es aber auch keine Heldenpunkte, da die Aufgabe f&uuml;r den Helden ja kein Problem darstellte.</p>
+<ul>
+<li><strong>Basiswert:</strong> Attribut + Fertigkeitswert + Boni - Mali</li>
+</ul>
+<h2>Auswirkungen</h2>
+<p>Die Auswirkungen der erfolgreichen oder fehlgeschlagenen Probe werden am Ende vom Spielleiter beschrieben. Au&szlig;er der Spieler hat Heldenpunkte eingesetzt um die Auswirkungen selber definierten zu k&ouml;nnen. Details dazu stehen im Heldenpunkte Abschnitt.</p>
+
+<hr/>
+<ul>
+<li><a href="/v1/regelwerk/guteswuerfeln">Regeln f&uuml;r gutes W&uuml;rfeln</a></li>
+</ul>
