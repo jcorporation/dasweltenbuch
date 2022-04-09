@@ -1,0 +1,5156 @@
+{
+  "abenteuer": {
+    "/Abenteuer/": 138,
+    "/Spielregeln/abenteuer/": 135,
+    "/Spielregeln/spielleiter/Vorbereiten": 81,
+    "/Spielregeln/spielleiter/Erstellen": 80,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 78,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 77,
+    "/Spielregeln/": 31,
+    "/Spielregeln/abenteuer/Gliederung": 29,
+    "/Spielregeln/Wasist": 7,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 5,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 5,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 4,
+    "/Abenteuer/Leseratten/Einstieg": 3,
+    "/Spielregeln/heldengruppe/Charakterwerte": 3,
+    "/Spielregeln/spielleiter/": 2,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 2,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Zerstoerung": 1,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1
+  },
+  "abenteuer erleben": {
+    "/Spielregeln/": 25
+  },
+  "abenteuer erstellen": {
+    "/Spielregeln/spielleiter/Erstellen": 125,
+    "/Spielregeln/": 1,
+    "/Spielregeln/spielleiter/": 1
+  },
+  "abenteuer unwichtige szenen": {
+    "/Spielregeln/abenteuer/Gliederung": 25
+  },
+  "abenteuer vorbereiten": {
+    "/Spielregeln/spielleiter/Vorbereiten": 125,
+    "/Spielregeln/": 2,
+    "/Spielregeln/Vordemspiel": 1
+  },
+  "abenteuerelemente": {
+    "/Spielregeln/spielleiter/klischees/": 76,
+    "/Spielregeln/spielleiter/Erstellen": 26,
+    "/Spielregeln/": 1
+  },
+  "abenteuers": {
+    "/Spielregeln/abenteuer/Gliederung": 77,
+    "/Spielregeln/spielleiter/Vorbereiten": 5,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 3,
+    "/Spielregeln/spielleiter/Erstellen": 3,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 3,
+    "/Spielregeln/": 2,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/abenteuer/": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 2,
+    "/Spielregeln/heldengruppe/Charakterwerte": 2,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 2,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 1,
+    "/Spielregeln/spielleiter/klischees/Reisen": 1,
+    "/Spielregeln/spielleiter/klischees/Slc": 1
+  },
+  "ablauf": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 75,
+    "/Spielregeln/": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1
+  },
+  "ablauf einer szene": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 125,
+    "/Spielregeln/": 1,
+    "/Spielregeln/abenteuer/": 1
+  },
+  "absaetze": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 25
+  },
+  "acucar": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 77,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Geographie/Zuckerfelsen": 1
+  },
+  "adeliger": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "adlerauge": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "adt": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 26
+  },
+  "alarmweg": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Alarmweg": 126,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 26,
+    "/Die_Doppelseite/Völker/menschen/hueter/Wachturm": 1
+  },
+  "alchemieakademie": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 26
+  },
+  "alles fuer den helden von heute": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 125,
+    "/Spielregeln/heldengruppe/ausruestung/": 1
+  },
+  "alte": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 26,
+    "/Abenteuer/": 1,
+    "/Abenteuer/Leseratten/Loesung": 1
+  },
+  "alte und geflickte kleidung": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 25
+  },
+  "amazon": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazon": 127,
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "amazonasien": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 126,
+    "/Die_Doppelseite/Geographie/Amazonendschungel": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1
+  },
+  "amazonen": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 132,
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 4,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "amazonendschungel": {
+    "/Die_Doppelseite/Geographie/Amazonendschungel": 125,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1
+  },
+  "amazonenstaemme": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 26,
+    "/Die_Doppelseite/Geographie/Amazonendschungel": 1
+  },
+  "amors duft": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "anderen": {
+    "/Die_Doppelseite/Geschichte": 28,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 5,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 3,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 3,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 3,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Die_Doppelseite/Sprachen": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 2,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 2,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 2,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie": 2,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 2,
+    "/Spielregeln/heldengruppe/Charaktere": 2,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Abenteuer/Leseratten/Nachforschungen": 1
+  },
+  "angriff der ratten": {
+    "/Abenteuer/Leseratten/Einstieg": 25
+  },
+  "antillas adlerauge": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "anwaerter": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1
+  },
+  "apokalyptische propheten": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 25
+  },
+  "aramak cherri": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "area": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Area51": 76,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 1
+  },
+  "area 51": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Area51": 126,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 1
+  },
+  "argonat": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 76
+  },
+  "arnil": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 26
+  },
+  "artefakte": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 75,
+    "/Die_Doppelseite/Übernatürliches/": 28,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1
+  },
+  "atlantea": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 126,
+    "/Die_Doppelseite/Geographie/Atlanteninsel": 1,
+    "/Die_Doppelseite/Geographie/Tropfenmeer": 1
+  },
+  "atlanteninsel": {
+    "/Die_Doppelseite/Geographie/Atlanteninsel": 126,
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 2,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "atlantika": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantika": 126,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 3,
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 3,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "auendorf": {
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 127,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "aufgabe der spieler ist es": {
+    "/Spielregeln/abenteuer/": 25
+  },
+  "aufgabe des spielleiters ist es": {
+    "/Spielregeln/abenteuer/": 25
+  },
+  "aufklappen": {
+    "/Die_Doppelseite/Geschichte": 27,
+    "/Die_Doppelseite/Zeitrechnung": 2
+  },
+  "aufklappens": {
+    "/Die_Doppelseite/Zeitrechnung": 26
+  },
+  "aufloesen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 26
+  },
+  "aufteilung der wuerfel": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "auftraggeber": {
+    "/Spielregeln/spielleiter/klischees/Slc": 28,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 2,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1
+  },
+  "ausgaenge der kanalisation": {
+    "/Abenteuer/Leseratten/Nachforschungen": 25
+  },
+  "ausgestossene": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25,
+    "/Die_Doppelseite/Völker/menschen/": 1,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 1
+  },
+  "ausgleichs": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 1
+  },
+  "ausruestung": {
+    "/Spielregeln/heldengruppe/ausruestung/": 128,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 52,
+    "/Spielregeln/": 2,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 2,
+    "/Spielregeln/heldengruppe/": 2,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 2,
+    "/Abenteuer/Leseratten/Kanalisation": 1
+  },
+  "ausruestung kaufen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "ausruestungsgegenstaende": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 75,
+    "/Spielregeln/konflikte/Konfliktszenen": 2,
+    "/Spielregeln/": 1
+  },
+  "ausruestungslisten": {
+    "/Spielregeln/heldengruppe/ausruestung/": 26,
+    "/Spielregeln/": 1
+  },
+  "automatische geschuetze": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25
+  },
+  "autorin": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 29,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 3,
+    "/Abenteuer/Leseratten/Stadtkarte": 2,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "bahnhof": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Eselshausen": 26,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 26,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 26,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 26,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelpostzentrale": 1
+  },
+  "barbar": {
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 28,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "barbaren": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 131,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 30,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "barbarenstaemme": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 25
+  },
+  "barbarische": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 78,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "barbarische union": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 128,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "barbarischen": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 4,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 3,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 2,
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1
+  },
+  "barden und schaustellergilde": {
+    "/Die_Doppelseite/Gilden": 27
+  },
+  "baroc": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 26,
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 1,
+    "/Spielregeln/heldengruppe/Charaktere": 1
+  },
+  "bauwerke": {
+    "/Die_Doppelseite/Siedlungen": 151,
+    "/Die_Doppelseite/Technologie": 26,
+    "/Die_Doppelseite/": 1
+  },
+  "bauwerke der boese rassen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "bauwerke der guten rassen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "bauwerke der menschen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "beben": {
+    "/Die_Doppelseite/Geschichte": 27,
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 1
+  },
+  "beispiel 1 zur profilwerteverteilung": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "beispiel 2 zur profilwerteverteilung": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "beispiel einer konfliktszene": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "beispiel einer szene": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel eines einfachen konflikts": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 25
+  },
+  "beispiel eines szenenstarts": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel zu fakt hinzufuegen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel zu heldenpunkt verdienen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel zu magie wirken": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel zu parteien und ziele": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "beispiel zu siegreiche partei ermitteln": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "beispiel zu zaehigkeit regenerieren": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "beispiel zum charakterhintergrund": {
+    "/Spielregeln/heldengruppe/Charaktere": 25
+  },
+  "beispiel zum stufenaufstieg": {
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 25
+  },
+  "beispiel zur konfliktszenenbeschreibung": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "beispielcharaktere": {
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 125,
+    "/Spielregeln/": 1,
+    "/Spielregeln/heldengruppe/": 1
+  },
+  "beispiele fuer zauber": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "bekannte feen": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 25
+  },
+  "bekannte halblinge": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25
+  },
+  "bel": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25
+  },
+  "belegwahn": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26
+  },
+  "beliebtesten reiseziele sind": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25
+  },
+  "belrett": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 52,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "belrett der fuerst der unterseite": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "bendil": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "benoetigt": {
+    "/Spielregeln/Spielmaterial": 75,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 1,
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 1
+  },
+  "bergdorf": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Kleinesbergdorf": 76,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "beruehmte kobolde": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 25
+  },
+  "berufenen": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "beschreibung der sammelstelle": {
+    "/Abenteuer/Leseratten/Kanalisation": 25
+  },
+  "beschwoerung": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25,
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 1,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1
+  },
+  "besen": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 27,
+    "/Spielregeln/spielleiter/daemonen/Putzteufel": 1
+  },
+  "besondere": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 75,
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 25,
+    "/Die_Doppelseite/Besonderheiten/": 2,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "besondere ausruestungsgegenstaende": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 125
+  },
+  "besondere waffen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 25
+  },
+  "besonderheiten": {
+    "/Die_Doppelseite/Besonderheiten/": 125,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geographie/": 1
+  },
+  "bestimmen": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 25,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 1
+  },
+  "bestseller": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 25
+  },
+  "bewohner des dungeons": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 26
+  },
+  "beziehungs und konfliktnetz": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 26
+  },
+  "bibliothek": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 28,
+    "/Abenteuer/Leseratten/Nachforschungen": 27,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 26,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "binok cuin": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 26
+  },
+  "bleistiftberg": {
+    "/Die_Doppelseite/Geographie/Bleistiftberg": 126,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Geographie/": 1
+  },
+  "bleistiftbergs": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Geographie/Falzschlucht": 1,
+    "/Die_Doppelseite/Geographie/Graphitanhoehen": 1
+  },
+  "bleistiftminen": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 127,
+    "/Die_Doppelseite/Völker/gute/zwerge/Kazhdum": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "bleistiftstamm": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26
+  },
+  "blindfische": {
+    "/Die_Doppelseite/Tierwelt": 26,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "blobsaft": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 28
+  },
+  "blume": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "boese": {
+    "/Die_Doppelseite/Völker/boese/": 76,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 76,
+    "/Die_Doppelseite/Geschichte": 31,
+    "/Die_Doppelseite/Siedlungen": 25,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 4,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Sprachen": 1,
+    "/Die_Doppelseite/Völker/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 1,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 1,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 1
+  },
+  "boese festung": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 76,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 1
+  },
+  "boese rassen": {
+    "/Die_Doppelseite/Völker/boese/": 125,
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "boesen": {
+    "/Die_Doppelseite/Geschichte": 32,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 29,
+    "/Die_Doppelseite/Siedlungen": 26,
+    "/Die_Doppelseite/Völker/boese/goblins/": 3,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Völker/": 2,
+    "/Die_Doppelseite/Völker/boese/orks/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Die_Doppelseite/Geographie/Torvon": 1,
+    "/Die_Doppelseite/Unterseite/": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1,
+    "/Die_Doppelseite/Völker/boese/oger/": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 1,
+    "/Die_Doppelseite/Völker/boese/trolle/": 1
+  },
+  "boesen kriegsherren": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 27,
+    "/Die_Doppelseite/Völker/menschen/": 1,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 1
+  },
+  "boeser auftraggeber": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "boni": {
+    "/Spielregeln/konflikte/Konfliktszenen": 29,
+    "/Spielregeln/heldengruppe/ausruestung/": 26
+  },
+  "breiter": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 26,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 1
+  },
+  "brennpunkt": {
+    "/Die_Doppelseite/Geographie/Brennpunkt": 126,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 26,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "brennpunkttempel": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 25
+  },
+  "breodan der kuehne": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "broeselbruecke": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Broeselreich": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Brotzk": 1
+  },
+  "broeselgebirge": {
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 126,
+    "/Die_Doppelseite/Geographie/Amazonendschungel": 1,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "broeselreich": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Broeselreich": 125,
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1
+  },
+  "broeselstamm": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Brotzk": 1
+  },
+  "brotzeitbox": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 26,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 1
+  },
+  "brotzk": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Brotzk": 126,
+    "/Die_Doppelseite/Völker/gute/zwerge/Broeselreich": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "brummbaeren": {
+    "/Die_Doppelseite/Tierwelt": 26
+  },
+  "buch": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 27,
+    "/Spielregeln/Wasist": 26,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "buechern": {
+    "/Abenteuer/Leseratten/Nachforschungen": 26,
+    "/Abenteuer/Leseratten/Loesung": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 1
+  },
+  "buecherwuermer": {
+    "/Spielregeln/spielleiter/monster/Buecherwuermer": 127,
+    "/Spielregeln/spielleiter/monster/": 1,
+    "/Spielregeln/spielleiter/monster/Eiswuermer": 1
+  },
+  "buende": {
+    "/Die_Doppelseite/Bünde": 77,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "buende und geheimgesellschaften": {
+    "/Die_Doppelseite/Bünde": 125,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "buergermeister": {
+    "/Spielregeln/spielleiter/klischees/Slc": 26,
+    "/Abenteuer/Leseratten/Slc": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "bund": {
+    "/Die_Doppelseite/Bünde": 32,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 26,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 1
+  },
+  "bund der drachenritter": {
+    "/Die_Doppelseite/Bünde": 25,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 1
+  },
+  "cachrel haan": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 26
+  },
+  "caras": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25
+  },
+  "charaktere": {
+    "/Spielregeln/heldengruppe/Charaktere": 79,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 76,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 31,
+    "/Spielregeln/Wasist": 30,
+    "/Spielregeln/konflikte/Konfliktszenen": 7,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 6,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 5,
+    "/Spielregeln/abenteuer/": 4,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 4,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 4,
+    "/Spielregeln/spielleiter/klischees/Reisen": 4,
+    "/Spielregeln/": 2,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 2,
+    "/Spielregeln/heldengruppe/Charakterwerte": 2,
+    "/Spielregeln/spielleiter/Vorbereiten": 2,
+    "/Spielregeln/spielleiter/klischees/Stadt": 2,
+    "/Spielregeln/Vordemspiel": 1,
+    "/Spielregeln/abenteuer/Gliederung": 1,
+    "/Spielregeln/heldengruppe/": 1,
+    "/Spielregeln/konflikte/": 1
+  },
+  "charakterhintergrund": {
+    "/Spielregeln/heldengruppe/Charaktere": 26,
+    "/Spielregeln/abenteuer/Gliederung": 1
+  },
+  "charakters": {
+    "/Spielregeln/konflikte/Konfliktszenen": 30,
+    "/Spielregeln/heldengruppe/Charaktere": 3,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Spielregeln/heldengruppe/Charakterwerte": 2,
+    "/Spielregeln/abenteuer/": 1
+  },
+  "charakterwerte": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 125,
+    "/Spielregeln/": 1,
+    "/Spielregeln/heldengruppe/": 1
+  },
+  "chemien": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 127,
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 1,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "chemiens": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 1
+  },
+  "cherri": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "choqunder": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25,
+    "/Die_Doppelseite/Persönlichkeiten": 1
+  },
+  "comas": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 26
+  },
+  "conal hawen": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "conardia": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 26,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "congloriad": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 26,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 1
+  },
+  "cowal emair": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "creban goldlocke": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "cuin": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 26
+  },
+  "culein darce": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "cullen nate": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "cyllie": {
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 77
+  },
+  "daemon": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 33,
+    "/Abenteuer/Leseratten/Zerstoerung": 29,
+    "/Abenteuer/Leseratten/Nachforschungen": 4,
+    "/Abenteuer/Leseratten/Kanalisation": 3,
+    "/Abenteuer/Leseratten/Loesung": 2,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "daemonen": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 163,
+    "/Spielregeln/spielleiter/daemonen/": 127,
+    "/Abenteuer/Leseratten/Nachforschungen": 6,
+    "/Die_Doppelseite/Unterseite/": 5,
+    "/Spielregeln/spielleiter/daemonen/Hoellenhunde": 2,
+    "/Spielregeln/spielleiter/daemonen/Satyre": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "daemonenseite": {
+    "/Die_Doppelseite/Unterseite/": 26,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Spielregeln/spielleiter/daemonen/Nervbolde": 1
+  },
+  "daemonenwerte": {
+    "/Spielregeln/spielleiter/daemonen/": 25
+  },
+  "dak": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 27
+  },
+  "darce": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "darcid": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 126,
+    "/Die_Doppelseite/Siedlungen": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 2,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 1
+  },
+  "darcol": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "darcor": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 126,
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 1,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "dariel van ragdal": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 25
+  },
+  "darkas": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 27
+  },
+  "darstellung": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 25
+  },
+  "das erscheinen der anderen guten rassen": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "das erscheinen der boesen rassen": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "das erscheinen der elfen und zwerge": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "das erscheinen der menschen": {
+    "/Die_Doppelseite/Geschichte": 26
+  },
+  "das grosse aufklappen": {
+    "/Die_Doppelseite/Geschichte": 25,
+    "/Die_Doppelseite/Zeitrechnung": 1
+  },
+  "das grosse beben": {
+    "/Die_Doppelseite/Geschichte": 26
+  },
+  "demurgon": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 128,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 103,
+    "/Die_Doppelseite/": 1
+  },
+  "der krieg der goetter": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "der untergang elardias": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "details": {
+    "/Abenteuer/Leseratten/Slc": 75,
+    "/Abenteuer/Leseratten/": 1,
+    "/Spielregeln/abenteuer/": 1
+  },
+  "details zu den spielleitercharakteren": {
+    "/Abenteuer/Leseratten/Slc": 125,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "die erste schlacht": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "die hueter": {
+    "/Die_Doppelseite/Völker/menschen/hueter/": 126,
+    "/Die_Doppelseite/Geschichte": 25,
+    "/Die_Doppelseite/": 1
+  },
+  "die letzte grosse schlacht zwischen gut und boese": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "die schlacht von kuzdu": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "die spaltung der elfen": {
+    "/Die_Doppelseite/Geschichte": 25
+  },
+  "dieb": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 26
+  },
+  "dieser": {
+    "/Die_Doppelseite/Gilden": 181,
+    "/Die_Doppelseite/Bünde": 6,
+    "/Abenteuer/Leseratten/Kanalisation": 4,
+    "/Die_Doppelseite/Geschichte": 4,
+    "/Die_Doppelseite/Völker/gute/elfen/": 4,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 4,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 4,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 3,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 3,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 3,
+    "/Die_Doppelseite/Tierwelt": 2,
+    "/Die_Doppelseite/Unterseite/": 2,
+    "/Die_Doppelseite/Unterseite/Dämonen": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/orks/": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Die_Doppelseite/Übernatürliches/": 2,
+    "/Spielregeln/konflikte/Konfliktszenen": 2,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Spielregeln/spielleiter/monster/Drachen": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "dieses buch": {
+    "/Spielregeln/Wasist": 26,
+    "/Die_Doppelseite/Bünde": 1,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 1
+  },
+  "ding": {
+    "/Spielregeln/spielleiter/monster/Dingimdunkeln": 77,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 1,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "ding im dunklen": {
+    "/Spielregeln/spielleiter/monster/Dingimdunkeln": 125
+  },
+  "distrikt demurgon": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 25
+  },
+  "distrikt herrenstein": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 25
+  },
+  "distrikt kartum": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 25
+  },
+  "distrikte": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 76,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 1
+  },
+  "distrikte von demurgon": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 75,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 1
+  },
+  "diverse": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 1,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Spielmaterial": 1
+  },
+  "diverses": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 25
+  },
+  "doppelseite": {
+    "/Die_Doppelseite/Geographie/": 28,
+    "/Die_Doppelseite/": 26,
+    "/Die_Doppelseite/Geschichte": 14,
+    "/Die_Doppelseite/Bünde": 9,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 9,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 8,
+    "/Die_Doppelseite/Völker/menschen/": 6,
+    "/Die_Doppelseite/Unterseite/Dämonen": 5,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 5,
+    "/Die_Doppelseite/Zeitrechnung": 5,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 5,
+    "/Die_Doppelseite/Technologie": 4,
+    "/Die_Doppelseite/Unterseite/": 4,
+    "/Die_Doppelseite/Gilden": 3,
+    "/Die_Doppelseite/Handelswege/": 3,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 3,
+    "/Die_Doppelseite/Völker/gute/elfen/": 3,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 3,
+    "/Die_Doppelseite/Übernatürliches/": 3,
+    "/Die_Doppelseite/Übernatürliches/Magie": 3,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 3,
+    "/Die_Doppelseite/Besonderheiten/": 2,
+    "/Die_Doppelseite/Sprachen": 2,
+    "/Die_Doppelseite/Tierwelt": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 2,
+    "/Die_Doppelseite/Völker/gute/feen/": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/": 2,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 2,
+    "/Die_Doppelseite/Völker/gute/yetis/": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 2,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 2,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/spielleiter/klischees/Slc": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "doppelseite des weltenbuchs": {
+    "/Die_Doppelseite/Geographie/": 26,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "doran": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 27,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Nonnebacken": 1
+  },
+  "dorenil": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 75
+  },
+  "dorfkneipe": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 26
+  },
+  "drachen": {
+    "/Spielregeln/spielleiter/monster/Drachen": 155,
+    "/Spielregeln/Wasist": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "drachenblut": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "drachenritter": {
+    "/Die_Doppelseite/Bünde": 25,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 1
+  },
+  "dregnaks": {
+    "/Die_Doppelseite/Völker/boese/orks/": 26
+  },
+  "drucker": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 1
+  },
+  "druckers": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Abenteuer/Leseratten/Stadtkarte": 1
+  },
+  "dschungelemanzen": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 26,
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 1
+  },
+  "duft": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "dungeon": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 4,
+    "/Spielregeln/konflikte/Einfachekonflikte": 1,
+    "/Spielregeln/spielleiter/": 1
+  },
+  "dungeons": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 155,
+    "/Spielregeln/spielleiter/klischees/Reisen": 25,
+    "/Spielregeln/spielleiter/monster/Dingimdunkeln": 1
+  },
+  "dunkelelfen": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 128,
+    "/Die_Doppelseite/Unterseite/Dämonen": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 5,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 4,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/spielleiter/monster/Dunkelwoelfe": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "dunkelelfisch": {
+    "/Die_Doppelseite/Sprachen": 27
+  },
+  "dunkeln": {
+    "/Spielregeln/spielleiter/monster/Dingimdunkeln": 2,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "dunkelwoelfe": {
+    "/Spielregeln/spielleiter/monster/Dunkelwoelfe": 128,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "dunklen": {
+    "/Spielregeln/spielleiter/monster/Dingimdunkeln": 75,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "durgas bendil": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "durhaupt": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "ebeca jahn": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 25
+  },
+  "ebenen": {
+    "/Die_Doppelseite/Unterseite/": 26,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "echna tarot": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "echsenmenschen": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 130,
+    "/Die_Doppelseite/Unterseite/Dämonen": 26,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "edain gnarf": {
+    "/Abenteuer/Leseratten/Slc": 26,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "edarisch": {
+    "/Die_Doppelseite/Sprachen": 28,
+    "/Abenteuer/Leseratten/Zerstoerung": 1
+  },
+  "edental": {
+    "/Die_Doppelseite/Geographie/Edental": 126,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "edlen": {
+    "/Die_Doppelseite/Völker/menschen/edle/": 79,
+    "/Die_Doppelseite/Persönlichkeiten": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 2,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "edrim dorenil": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 25
+  },
+  "eilis feran": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25
+  },
+  "einbruch ins zentrum": {
+    "/Abenteuer/Leseratten/Loesung": 25
+  },
+  "einfache": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 100,
+    "/Spielregeln/konflikte/": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "einfache konflikte": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 150,
+    "/Spielregeln/konflikte/": 2,
+    "/Spielregeln/": 1
+  },
+  "einfachen": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 26,
+    "/Die_Doppelseite/Völker/boese/oger/": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 1
+  },
+  "einflussreiche artefakte": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25
+  },
+  "eingaenge": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 26
+  },
+  "einhand": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "einsiedler": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "einstieg": {
+    "/Abenteuer/Leseratten/Einstieg": 75,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 27,
+    "/Spielregeln/abenteuer/Gliederung": 25,
+    "/Abenteuer/Leseratten/": 2,
+    "/Abenteuer/Leseratten/Kanalisation": 1
+  },
+  "eispalast": {
+    "/Die_Doppelseite/Völker/gute/yetis/Froststadt": 27
+  },
+  "eisstrasse": {
+    "/Die_Doppelseite/Handelswege/Eisstrasse": 125,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Völker/gute/yetis/Frosiahafen": 1
+  },
+  "eiswuermer": {
+    "/Spielregeln/spielleiter/monster/Eiswuermer": 127,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "eiswueste": {
+    "/Die_Doppelseite/Geographie/Eiswuestetippex": 76,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "eiswueste tippex": {
+    "/Die_Doppelseite/Geographie/Eiswuestetippex": 125,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "elardia": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 27,
+    "/Die_Doppelseite/Geschichte": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "elardias": {
+    "/Die_Doppelseite/Geschichte": 26
+  },
+  "elbarion": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elbarion": 126,
+    "/Die_Doppelseite/Völker/gute/elfen/": 4,
+    "/Die_Doppelseite/Geographie/Elfenwald": 1
+  },
+  "elcicadee": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 27,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/Elbarion": 1
+  },
+  "elemente": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 26,
+    "/Abenteuer/Leseratten/Daemon": 1,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1
+  },
+  "elfen": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 134,
+    "/Die_Doppelseite/Geschichte": 57,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 26,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 26,
+    "/Die_Doppelseite/Geographie/Elfenwald": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 2,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 2,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Sprachen": 1,
+    "/Die_Doppelseite/Technologie": 1,
+    "/Die_Doppelseite/Völker/boese/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 1,
+    "/Die_Doppelseite/Völker/boese/trolle/": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/Elbarion": 1,
+    "/Die_Doppelseite/Völker/gute/feen/": 1
+  },
+  "elfenbeinturm": {
+    "/Die_Doppelseite/Völker/menschen/edle/Elfenbeinturm": 126,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 1
+  },
+  "elfenfamilien": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 29
+  },
+  "elfengravitation": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 27
+  },
+  "elfenportale": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 26
+  },
+  "elfenstaedte": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 127,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "elfenwald": {
+    "/Die_Doppelseite/Geographie/Elfenwald": 126,
+    "/Die_Doppelseite/Völker/gute/feen/": 2,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "elfenwaldes": {
+    "/Die_Doppelseite/Geographie/Rillenebene": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/Elbarion": 1,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 1
+  },
+  "elfisch": {
+    "/Die_Doppelseite/Sprachen": 26,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 1
+  },
+  "elgor durhaupt": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "elinia argonat": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 25
+  },
+  "elor argonat": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 25
+  },
+  "elram gutsmann": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25
+  },
+  "elric einhand": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "elrinia": {
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 26,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "emair": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "emyn": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "ende": {
+    "/Abenteuer/Leseratten/Ende": 75,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 26,
+    "/Abenteuer/Leseratten/Kanalisation": 25,
+    "/Spielregeln/konflikte/Konfliktszenen": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "ende gut alles gut": {
+    "/Abenteuer/Leseratten/Ende": 125
+  },
+  "endlosbier": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 26
+  },
+  "eneti": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 26
+  },
+  "entdeckung": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25
+  },
+  "ereignisse": {
+    "/Spielregeln/spielleiter/Vorbereiten": 27,
+    "/Spielregeln/spielleiter/klischees/Stadt": 26,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/abenteuer/Gliederung": 2,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "ereignisse in einer stadt": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "erfahrungspunkte": {
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 28,
+    "/Spielregeln/heldengruppe/Charakterwerte": 25,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 1
+  },
+  "erfindungsreiche": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25
+  },
+  "eriador dorenil": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 25
+  },
+  "erleben": {
+    "/Spielregeln/": 25,
+    "/Spielregeln/Wasist": 3,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 1
+  },
+  "ermitteln": {
+    "/Spielregeln/konflikte/Konfliktszenen": 51
+  },
+  "ermittlungen": {
+    "/Abenteuer/Leseratten/Nachforschungen": 25
+  },
+  "erntedankfest": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 27,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 1
+  },
+  "eron sturmtrotzer": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 26
+  },
+  "erschaffe keinen fachidioten": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "erschaffen": {
+    "/Spielregeln/heldengruppe/Charaktere": 26,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/Wasist": 2,
+    "/Die_Doppelseite/Geographie/Leselampe": 1
+  },
+  "erschaffens": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 1
+  },
+  "erscheinen": {
+    "/Die_Doppelseite/Geschichte": 106,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1
+  },
+  "erscheinungsbild": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 25,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 25,
+    "/Die_Doppelseite/Völker/boese/goblins/": 25,
+    "/Die_Doppelseite/Völker/boese/oger/": 25,
+    "/Die_Doppelseite/Völker/boese/orks/": 25,
+    "/Die_Doppelseite/Völker/boese/trolle/": 25,
+    "/Die_Doppelseite/Völker/gute/elfen/": 25,
+    "/Die_Doppelseite/Völker/gute/feen/": 25,
+    "/Die_Doppelseite/Völker/gute/gnome/": 25,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 25,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25,
+    "/Die_Doppelseite/Völker/gute/yetis/": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 25,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 25,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 25,
+    "/Die_Doppelseite/Völker/menschen/edle/": 25,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 25,
+    "/Die_Doppelseite/Völker/menschen/hueter/": 25,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 25,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "erste": {
+    "/Die_Doppelseite/Geschichte": 27,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "erste gluehbirne": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 1
+  },
+  "erstellen": {
+    "/Spielregeln/spielleiter/Erstellen": 75,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 1,
+    "/Spielregeln/": 1
+  },
+  "erstes": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 75,
+    "/Die_Doppelseite/Geographie/Edental": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/": 1
+  },
+  "erstes kaiserreich": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 125,
+    "/Die_Doppelseite/Geographie/Edental": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/": 1
+  },
+  "eselshausen": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Eselshausen": 126,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/Area51": 1
+  },
+  "eselsohrgebirge": {
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 126,
+    "/Die_Doppelseite/Geographie/Graphitanhoehen": 1,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "eselsohrstamm": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26,
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 1,
+    "/Die_Doppelseite/Technologie": 1
+  },
+  "eselsohrstammes": {
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Handelswege/": 1
+  },
+  "ester hardin": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "eventuell": {
+    "/Abenteuer/Leseratten/Ende": 25,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 1
+  },
+  "ewigen": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 76,
+    "/Die_Doppelseite/Persönlichkeiten": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "ewigen zweiten": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 76,
+    "/Die_Doppelseite/Persönlichkeiten": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "experimentelle": {
+    "/Abenteuer/Leseratten/Nachforschungen": 26,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "explosives": {
+    "/Die_Doppelseite/Technologie": 25
+  },
+  "fabricius": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 51,
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Persönlichkeiten": 1
+  },
+  "fabricius fabrik": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 25
+  },
+  "fabrik": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26,
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Völker/gute/yetis/Froststadt": 1
+  },
+  "fachidioten": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 26
+  },
+  "faeraa": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 127,
+    "/Die_Doppelseite/Völker/gute/feen/": 2,
+    "/Die_Doppelseite/Geographie/Elfenwald": 1
+  },
+  "fahrt": {
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 75,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/Zwergenbahn": 1
+  },
+  "fakt": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 30
+  },
+  "fakten": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 54,
+    "/Spielregeln/heldengruppe/Charaktere": 1,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1
+  },
+  "fakten hinzufuegen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 26
+  },
+  "fall": {
+    "/Abenteuer/Leseratten/Ende": 25,
+    "/Abenteuer/Leseratten/Nachforschungen": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1
+  },
+  "fallen": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 28,
+    "/Spielregeln/heldengruppe/Charakterwerte": 3,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1
+  },
+  "fallgruben": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25
+  },
+  "falzschlucht": {
+    "/Die_Doppelseite/Geographie/Falzschlucht": 126,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/Geographie/Bleistiftberg": 1
+  },
+  "fayla": {
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 27,
+    "/Spielregeln/konflikte/Konfliktszenen": 6,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 5,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1
+  },
+  "feen": {
+    "/Die_Doppelseite/Völker/gute/feen/": 129,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 32,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 26,
+    "/Die_Doppelseite/Geographie/Elfenwald": 2,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "feenschnaps": {
+    "/Die_Doppelseite/Völker/gute/feen/": 25
+  },
+  "fehlerteufel": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 29,
+    "/Die_Doppelseite/Geschichte": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "fehlerteufelkult": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 25,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "feiertage": {
+    "/Die_Doppelseite/Zeitrechnung": 27
+  },
+  "feori": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "feran": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25
+  },
+  "fernkampfwaffen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 25
+  },
+  "festplatz": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazon": 27
+  },
+  "festung": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 76,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 4,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 4,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 3,
+    "/Die_Doppelseite/Völker/boese/trolle/": 2,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "feuerschwert": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26
+  },
+  "feuertempel": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1
+  },
+  "feyanor": {
+    "/Die_Doppelseite/Völker/gute/feen/Feyanor": 126,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "finale szene": {
+    "/Spielregeln/abenteuer/Gliederung": 25
+  },
+  "fliesstext": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 25
+  },
+  "frachtschiff": {
+    "/Die_Doppelseite/Handelswege/": 27,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 27,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 1
+  },
+  "frachtschiff kg": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 27,
+    "/Die_Doppelseite/Handelswege/": 26,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 1
+  },
+  "frachtschiffe": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25,
+    "/Die_Doppelseite/Handelswege/": 2
+  },
+  "fragen um parteien zu bestimmen": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 25
+  },
+  "freidorf": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 129,
+    "/Die_Doppelseite/Bünde": 1,
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 1
+  },
+  "freund": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 1
+  },
+  "froehlichen": {
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 77,
+    "/Die_Doppelseite/Gilden": 3,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "frosia": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 127,
+    "/Die_Doppelseite/Völker/gute/yetis/": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "frosiahafen": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosiahafen": 76,
+    "/Die_Doppelseite/Handelswege/Eisstrasse": 1,
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1
+  },
+  "frosiamission": {
+    "/Die_Doppelseite/Völker/menschen/edle/Frosiamission": 75,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 1
+  },
+  "froststadt": {
+    "/Die_Doppelseite/Völker/gute/yetis/Froststadt": 128,
+    "/Die_Doppelseite/Völker/gute/yetis/": 3,
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 3,
+    "/Die_Doppelseite/Handelswege/Eisstrasse": 1
+  },
+  "fruechte der zivilisation": {
+    "/Die_Doppelseite/": 25
+  },
+  "frydia": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 127,
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 3,
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1
+  },
+  "fuenf grossen elfenfamilien": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 25
+  },
+  "fuer": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 100,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 76,
+    "/Spielregeln/konflikte/Konfliktszenen": 36,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 33,
+    "/Abenteuer/Leseratten/Nachforschungen": 27,
+    "/Spielregeln/abenteuer/Gliederung": 25,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 25,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 7,
+    "/Die_Doppelseite/Gilden": 6,
+    "/Abenteuer/Leseratten/Kanalisation": 5,
+    "/Spielregeln/heldengruppe/Charaktere": 5,
+    "/Spielregeln/heldengruppe/Charakterwerte": 5,
+    "/Spielregeln/heldengruppe/ausruestung/": 5,
+    "/Abenteuer/Leseratten/Loesung": 4,
+    "/Die_Doppelseite/Völker/boese/orks/": 4,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 4,
+    "/Abenteuer/Leseratten/Zerstoerung": 3,
+    "/Die_Doppelseite/Bünde": 3,
+    "/Die_Doppelseite/Technologie": 3,
+    "/Die_Doppelseite/Völker/gute/gnome/": 3,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 3,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 3,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 3,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 3,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 3,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 3,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 3,
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 3,
+    "/Spielregeln/Wasist": 3,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 3,
+    "/Spielregeln/spielleiter/Erstellen": 3,
+    "/Spielregeln/spielleiter/Vorbereiten": 3,
+    "/Spielregeln/spielleiter/klischees/Slc": 3,
+    "/Abenteuer/Leseratten/Einstieg": 2,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 2,
+    "/Spielregeln/Spielmaterial": 2,
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 2,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 2,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "fuerchtelforst": {
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 126,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1,
+    "/Die_Doppelseite/Völker/menschen/wildlande/": 1
+  },
+  "fuerst": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 51
+  },
+  "fussbaeder": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 26
+  },
+  "galen heldus": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "galena": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 26
+  },
+  "galin der erfindungsreiche": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25
+  },
+  "gargoyls": {
+    "/Spielregeln/spielleiter/monster/Gargoyls": 127,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "garnon verwegen": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25
+  },
+  "gasthof": {
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 77,
+    "/Abenteuer/Leseratten/Einstieg": 26,
+    "/Die_Doppelseite/Gilden": 3,
+    "/Abenteuer/Leseratten/Stadtkarte": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "gasthof zum froehlichen helden": {
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 127,
+    "/Die_Doppelseite/Gilden": 3,
+    "/Abenteuer/Leseratten/Stadtkarte": 1
+  },
+  "geflickte": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 25
+  },
+  "gefolgsdaemon": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "gegebenheiten": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25,
+    "/Spielregeln/spielleiter/Erstellen": 1
+  },
+  "geheime pass": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 25
+  },
+  "geheimen labore": {
+    "/Abenteuer/Leseratten/Zerstoerung": 25
+  },
+  "geheimer bund": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25,
+    "/Die_Doppelseite/Bünde": 2
+  },
+  "geheimgesellschaften": {
+    "/Die_Doppelseite/Bünde": 77,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "geheimnisvoller typ": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "gehts": {
+    "/Die_Doppelseite/Völker/": 25
+  },
+  "gemurmel": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 26
+  },
+  "general": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 26,
+    "/Die_Doppelseite/Völker/boese/orks/": 4,
+    "/Die_Doppelseite/Persönlichkeiten": 1
+  },
+  "geographie": {
+    "/Die_Doppelseite/Geographie/": 125,
+    "/Die_Doppelseite/": 1,
+    "/Spielregeln/Wasist": 1
+  },
+  "geschehen": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25,
+    "/Die_Doppelseite/Völker/gute/": 1,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 1
+  },
+  "geschichte": {
+    "/Die_Doppelseite/Geschichte": 126,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 1
+  },
+  "geschuetze": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25
+  },
+  "gestalter": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 27,
+    "/Die_Doppelseite/Völker/gute/gnome/": 2,
+    "/Die_Doppelseite/Völker/gute/yetis/": 1
+  },
+  "gestalters": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 28,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Abenteuer/Leseratten/Stadtkarte": 1
+  },
+  "gifte": {
+    "/Spielregeln/": 1,
+    "/Spielregeln/heldengruppe/": 1
+  },
+  "gilde": {
+    "/Die_Doppelseite/Gilden": 181,
+    "/Die_Doppelseite/Bünde": 3,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Abenteuer/Leseratten/Loesung": 1
+  },
+  "gilden": {
+    "/Die_Doppelseite/Gilden": 77,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "gildor": {
+    "/Abenteuer/Leseratten/Slc": 25,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "gliederung des abenteuers": {
+    "/Spielregeln/abenteuer/Gliederung": 125,
+    "/Spielregeln/": 1,
+    "/Spielregeln/abenteuer/": 1
+  },
+  "glorantia": {
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 129,
+    "/Abenteuer/Leseratten/Ende": 1,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "glubschdings": {
+    "/Spielregeln/spielleiter/monster/Gruenesglubschdings": 77,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "gluecklichen": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "gluecksritter": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 29
+  },
+  "gluecksspielergilde": {
+    "/Die_Doppelseite/Gilden": 26
+  },
+  "glueckswuerfel": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "gluehbirne": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 28,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 26,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "gnarf": {
+    "/Abenteuer/Leseratten/Slc": 26,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "gnome": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 130,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 25,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 25,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "gnome halblinge": {
+    "/Spielregeln/heldengruppe/Charaktere_namen": 25
+  },
+  "goblinanhoehen": {
+    "/Die_Doppelseite/Völker/boese/goblins/Goblinanhoehen": 126,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 1
+  },
+  "goblins": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 158,
+    "/Die_Doppelseite/Technologie": 3,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 3,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/Goblinanhoehen": 2,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "goblinstaedte": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "goetter": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 127,
+    "/Die_Doppelseite/Übernatürliches/": 102,
+    "/Die_Doppelseite/Geschichte": 29,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 28,
+    "/Die_Doppelseite/": 26,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1
+  },
+  "goetter co": {
+    "/Die_Doppelseite/Übernatürliches/": 126,
+    "/Die_Doppelseite/": 25
+  },
+  "goettern": {
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "goettliche": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 75,
+    "/Die_Doppelseite/Übernatürliches/": 25
+  },
+  "goettliche artefakte": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 125,
+    "/Die_Doppelseite/Übernatürliches/": 25
+  },
+  "goettlicher radiergummi": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 25
+  },
+  "goldlocke": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "goldtafeln der goetter": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 25
+  },
+  "gotra der freund der dunkelelfen": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "graf belegwahn": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26
+  },
+  "graf testosteron": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26
+  },
+  "graphit": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 26,
+    "/Die_Doppelseite/Technologie": 1,
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 1
+  },
+  "graphitanhoehen": {
+    "/Die_Doppelseite/Geographie/Graphitanhoehen": 126,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "graphitgrafen": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 1
+  },
+  "graphitschwerter und kettenhemden": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 25
+  },
+  "grenzreich": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 127,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/hueter/": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "grenzreiches": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 1,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kaffeeplantagen": 1
+  },
+  "groshnaks": {
+    "/Die_Doppelseite/Völker/boese/orks/": 26
+  },
+  "grosse": {
+    "/Die_Doppelseite/Geschichte": 79,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 27,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 27,
+    "/Die_Doppelseite/Gilden": 3,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Spielregeln/spielleiter/klischees/Stadt": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "grosse bibliothek": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 26
+  },
+  "grosse trollfestung": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 26
+  },
+  "grossen": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 80,
+    "/Die_Doppelseite/Völker/gute/elfen/": 28,
+    "/Die_Doppelseite/Gilden": 5,
+    "/Die_Doppelseite/Bünde": 4,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Tierwelt": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Die_Doppelseite/Übernatürliches/": 2,
+    "/Abenteuer/Leseratten/Kanalisation": 1,
+    "/Abenteuer/Leseratten/Nachforschungen": 1,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geographie/Graphitanhoehen": 1,
+    "/Die_Doppelseite/Unterseite/": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 1
+  },
+  "grossen kirchen": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 78,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 1
+  },
+  "gruener blobsaft": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 25
+  },
+  "gruenes": {
+    "/Spielregeln/spielleiter/monster/Gruenesglubschdings": 75,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "gruenes glubschdings": {
+    "/Spielregeln/spielleiter/monster/Gruenesglubschdings": 125,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "gut": {
+    "/Abenteuer/Leseratten/Ende": 75,
+    "/Die_Doppelseite/Geschichte": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 7,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 3,
+    "/Die_Doppelseite/Völker/boese/orks/": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 2,
+    "/Spielregeln/spielleiter/klischees/Stadt": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1,
+    "/Abenteuer/Leseratten/Kanalisation": 1,
+    "/Abenteuer/Leseratten/Slc": 1,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Völker/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 1
+  },
+  "gute": {
+    "/Die_Doppelseite/Völker/gute/": 75,
+    "/Spielregeln/heldengruppe/Charaktere": 26,
+    "/Die_Doppelseite/Gilden": 4,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 3,
+    "/Abenteuer/Leseratten/Slc": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 2,
+    "/Abenteuer/Leseratten/Ende": 1
+  },
+  "gute klischees": {
+    "/Spielregeln/heldengruppe/Charaktere": 26
+  },
+  "gute rassen": {
+    "/Die_Doppelseite/Völker/gute/": 125
+  },
+  "guten": {
+    "/Die_Doppelseite/Siedlungen": 50,
+    "/Die_Doppelseite/Geschichte": 31,
+    "/Die_Doppelseite/Völker/": 2,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 2,
+    "/Die_Doppelseite/Übernatürliches/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Spielregeln/spielleiter/klischees/Stadt": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "gutsmann": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25
+  },
+  "haan": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 26
+  },
+  "haendler": {
+    "/Spielregeln/spielleiter/klischees/Slc": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 5,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 2,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "haendlers": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "hafen": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 26,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 4,
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 2,
+    "/Die_Doppelseite/Handelswege/": 1
+  },
+  "halblinge": {
+    "/Die_Doppelseite/Völker/gute/halblinge/": 132,
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 25,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 25,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "halblingen": {
+    "/Die_Doppelseite/Völker/gute/halblinge/": 2,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Sprachen": 1
+  },
+  "hammerschlag": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 1
+  },
+  "handel": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 27,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 26,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "handelsgilde": {
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 27,
+    "/Die_Doppelseite/Gilden": 26,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 1
+  },
+  "handelsstrasse": {
+    "/Die_Doppelseite/Handelswege/Nutzlosehandelsstrasse": 76,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 1
+  },
+  "handelsstrassen": {
+    "/Die_Doppelseite/Handelswege/": 26
+  },
+  "handelswege": {
+    "/Die_Doppelseite/Handelswege/": 125,
+    "/Die_Doppelseite/": 1
+  },
+  "handlanger": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 28,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 1
+  },
+  "handwerker": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 29,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/": 1
+  },
+  "hankas": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 26
+  },
+  "hardin": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "hauptcharaktere": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 29
+  },
+  "hauptmann": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 26,
+    "/Die_Doppelseite/Unterseite/Dämonen": 25,
+    "/Abenteuer/Leseratten/": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "hauptmann jargon": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 26
+  },
+  "hauptsitz der spl": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 26
+  },
+  "hauptstaedte": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 26,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 1
+  },
+  "hausdrachen": {
+    "/Spielregeln/spielleiter/monster/Drachen": 27
+  },
+  "hawen": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "heilkraeuter": {
+    "/Spielregeln/": 1,
+    "/Spielregeln/heldengruppe/": 1,
+    "/Spielregeln/spielleiter/klischees/Stadt": 1
+  },
+  "helden": {
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 77,
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 75,
+    "/Abenteuer/Leseratten/Zerstoerung": 10,
+    "/Abenteuer/Leseratten/Einstieg": 9,
+    "/Abenteuer/Leseratten/Kanalisation": 9,
+    "/Abenteuer/Leseratten/Nachforschungen": 9,
+    "/Spielregeln/spielleiter/klischees/Stadt": 6,
+    "/Abenteuer/Leseratten/Ende": 4,
+    "/Abenteuer/Leseratten/Slc": 4,
+    "/Die_Doppelseite/Gilden": 4,
+    "/Spielregeln/heldengruppe/Charaktere": 4,
+    "/Abenteuer/Leseratten/": 3,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/spielleiter/klischees/Slc": 2,
+    "/Abenteuer/": 1,
+    "/Abenteuer/Leseratten/Daemon": 1,
+    "/Abenteuer/Leseratten/Stadtkarte": 1,
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Völker/gute/feen/": 1
+  },
+  "heldenfriedhof": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 25,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Zeitrechnung": 1
+  },
+  "heldengedenktag": {
+    "/Die_Doppelseite/Zeitrechnung": 25,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "heldengilde": {
+    "/Die_Doppelseite/Gilden": 27
+  },
+  "heldengruppe": {
+    "/Spielregeln/heldengruppe/": 125,
+    "/Spielregeln/heldengruppe/Charaktere": 27,
+    "/Spielregeln/": 26,
+    "/Spielregeln/Wasist": 3,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "heldengruppe erschaffen": {
+    "/Spielregeln/heldengruppe/Charaktere": 25,
+    "/Spielregeln/Wasist": 1
+  },
+  "heldenmut": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "heldenpunkt": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 29,
+    "/Spielregeln/konflikte/Konfliktszenen": 3,
+    "/Spielregeln/heldengruppe/Charakterwerte": 2
+  },
+  "heldenpunkte": {
+    "/Spielregeln/abenteuer/Vordemabenteuer": 54,
+    "/Spielregeln/heldengruppe/Charakterwerte": 52,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 27,
+    "/Spielregeln/heldengruppe/Charaktere": 2,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 1
+  },
+  "heldenpunkte fuer den spielleiter": {
+    "/Spielregeln/abenteuer/Vordemabenteuer": 25
+  },
+  "heldenpunkte und zaehigkeiten": {
+    "/Spielregeln/abenteuer/Vordemabenteuer": 26
+  },
+  "heldenpunkte verdienen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25,
+    "/Spielregeln/heldengruppe/Charaktere": 1
+  },
+  "heldus": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "helfer": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 1
+  },
+  "herrenstein": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 27
+  },
+  "herrscher": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 28,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "heute": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 75,
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 1,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "hexe cyllie und ihre fahrt auf der kaffeestrasse": {
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 125
+  },
+  "hexe im moor": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "hexen": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 130,
+    "/Die_Doppelseite/Übernatürliches/Magie": 3,
+    "/Die_Doppelseite/": 1
+  },
+  "hexentreffen": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 25
+  },
+  "hier": {
+    "/Die_Doppelseite/Völker/": 25,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 4,
+    "/Abenteuer/Leseratten/Kanalisation": 3,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 3,
+    "/Die_Doppelseite/Übernatürliches/Magie": 3,
+    "/Abenteuer/Leseratten/Nachforschungen": 2,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 2,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelpostzentrale": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 2,
+    "/Die_Doppelseite/Übernatürliches/": 2,
+    "/Spielregeln/spielleiter/klischees/Reisen": 2,
+    "/Abenteuer/": 1
+  },
+  "hindernisse": {
+    "/Spielregeln/konflikte/Konfliktszenen": 31,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 1
+  },
+  "hintergrund": {
+    "/Spielregeln/heldengruppe/Charaktere": 54,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "hinzufuegen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 51
+  },
+  "hochkoenigshalle": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Brotzk": 25
+  },
+  "hoelle": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 28,
+    "/Die_Doppelseite/Unterseite/": 26,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "hoellenhunde": {
+    "/Spielregeln/spielleiter/daemonen/Hoellenhunde": 127,
+    "/Spielregeln/spielleiter/daemonen/": 1
+  },
+  "hornochsen": {
+    "/Die_Doppelseite/Tierwelt": 26
+  },
+  "hovan": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 26,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 1
+  },
+  "hueter": {
+    "/Die_Doppelseite/Völker/menschen/hueter/": 78,
+    "/Die_Doppelseite/Geschichte": 27,
+    "/Die_Doppelseite/Persönlichkeiten": 4,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "idealerweise": {
+    "/Abenteuer/Leseratten/Ende": 25
+  },
+  "idyllien": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 126,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 2,
+    "/Die_Doppelseite/Geographie/Kuppenseen": 1
+  },
+  "informationen": {
+    "/Abenteuer/Leseratten/Nachforschungen": 27,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 25,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "informationen in den buechern": {
+    "/Abenteuer/Leseratten/Nachforschungen": 25
+  },
+  "initialien": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 25
+  },
+  "innerhalb der mauern": {
+    "/Abenteuer/Leseratten/Loesung": 27,
+    "/Abenteuer/Leseratten/Zerstoerung": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 1
+  },
+  "inora dorenil": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 25
+  },
+  "itor wissan": {
+    "/Abenteuer/Leseratten/Slc": 26,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "jahn": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 52
+  },
+  "jahnfabrik": {
+    "/Die_Doppelseite/Völker/gute/yetis/Froststadt": 26
+  },
+  "jargon": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Boesefestung": 26
+  },
+  "jetzt": {
+    "/Die_Doppelseite/Geschichte": 25,
+    "/Die_Doppelseite/Unterseite/Dämonen": 2,
+    "/Spielregeln/spielleiter/klischees/Reisen": 2,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1
+  },
+  "kaffeefahrt": {
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1,
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 1
+  },
+  "kaffeefahrten": {
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 1
+  },
+  "kaffeefahrtengesellschaft": {
+    "/Die_Doppelseite/Völker/gute/halblinge/": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "kaffeemoor": {
+    "/Die_Doppelseite/Geographie/Kaffeemoor": 126,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kaffeeplantagen": 2,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "kaffeeplantagen": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Kaffeeplantagen": 126,
+    "/Die_Doppelseite/Geographie/Kaffeemoor": 1,
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1
+  },
+  "kaffeestrasse": {
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 126,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 76,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 3,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "kaiserfamilie argonat": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 25
+  },
+  "kaiserreich": {
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 76,
+    "/Die_Doppelseite/Geographie/Edental": 1,
+    "/Die_Doppelseite/Völker/gute/yetis/Frosiahafen": 1
+  },
+  "kaiserschloss": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 26
+  },
+  "kampf gegen die ratten": {
+    "/Abenteuer/Leseratten/Kanalisation": 25
+  },
+  "kampfkas": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 25
+  },
+  "kanalisation": {
+    "/Abenteuer/Leseratten/Kanalisation": 130,
+    "/Abenteuer/Leseratten/Nachforschungen": 28,
+    "/Abenteuer/Leseratten/Einstieg": 3,
+    "/Abenteuer/Leseratten/": 2,
+    "/Abenteuer/Leseratten/Ende": 1
+  },
+  "kann": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 27,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 13,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 10,
+    "/Spielregeln/konflikte/Konfliktszenen": 8,
+    "/Spielregeln/heldengruppe/Charakterwerte": 6,
+    "/Abenteuer/Leseratten/Nachforschungen": 5,
+    "/Abenteuer/Leseratten/Kanalisation": 4,
+    "/Abenteuer/Leseratten/Slc": 4,
+    "/Die_Doppelseite/Unterseite/Dämonen": 4,
+    "/Spielregeln/spielleiter/klischees/Reisen": 4,
+    "/Abenteuer/Leseratten/Daemon": 3,
+    "/Abenteuer/Leseratten/Zerstoerung": 3,
+    "/Die_Doppelseite/Sprachen": 3,
+    "/Die_Doppelseite/Völker/boese/trolle/": 3,
+    "/Spielregeln/heldengruppe/Charaktere": 3,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 3,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 3,
+    "/Spielregeln/spielleiter/Vorbereiten": 3,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 2,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/gute/feen/": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 2,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/heldengruppe/ausruestung/": 2,
+    "/Spielregeln/konflikte/Einfachekonflikte": 2,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 2,
+    "/Spielregeln/spielleiter/klischees/Slc": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "karak": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 127,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "karte": {
+    "/Die_Doppelseite/": 1,
+    "/Spielregeln/Spielmaterial": 1
+  },
+  "karten": {
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 26
+  },
+  "kartum": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 27
+  },
+  "kaufen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25,
+    "/Spielregeln/heldengruppe/ausruestung/": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 1
+  },
+  "kazhdum": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Kazhdum": 126,
+    "/Die_Doppelseite/Geographie/Bleistiftberg": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1
+  },
+  "kazhrader": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25
+  },
+  "kettenhemden": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 26
+  },
+  "killerkarnickel": {
+    "/Spielregeln/spielleiter/monster/Killerkarnickel": 128,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "kirche der autorin": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27
+  },
+  "kirche der gluehbirne": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27
+  },
+  "kirche der weisheit": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 25
+  },
+  "kirche des druckers": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27
+  },
+  "kirche des gestalters": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 28
+  },
+  "kirche des lektors": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27
+  },
+  "kirche des lesers": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 28
+  },
+  "kirchen": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 83,
+    "/Die_Doppelseite/Übernatürliches/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "kirnstein": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 127,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/Zwergenbahn": 1
+  },
+  "klappamboss": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "kleidung": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 26,
+    "/Abenteuer/Leseratten/Slc": 3,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1
+  },
+  "kleine dorfkneipe": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 25
+  },
+  "kleines": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Kleinesbergdorf": 75,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 1
+  },
+  "kleines bergdorf": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Kleinesbergdorf": 125,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "kleinigkeiten": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 26,
+    "/Spielregeln/heldengruppe/ausruestung/": 1,
+    "/Spielregeln/spielleiter/Vorbereiten": 1
+  },
+  "kleinkari": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 128,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "kleinkarierten": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 78,
+    "/Die_Doppelseite/Persönlichkeiten": 2,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "klimperzeugs": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 26
+  },
+  "klischeehafte": {
+    "/Spielregeln/spielleiter/klischees/": 76,
+    "/Die_Doppelseite/Völker/": 1,
+    "/Spielregeln/": 1
+  },
+  "klischeehafte abenteuerelemente": {
+    "/Spielregeln/spielleiter/klischees/": 126,
+    "/Spielregeln/": 1,
+    "/Spielregeln/spielleiter/": 1
+  },
+  "klischeeliste": {
+    "/Spielregeln/heldengruppe/Charaktere": 1
+  },
+  "klischees": {
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 126,
+    "/Spielregeln/heldengruppe/Charaktere": 51,
+    "/Spielregeln/spielleiter/Erstellen": 26,
+    "/Spielregeln/": 1
+  },
+  "kneipenbummler": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25
+  },
+  "kneipenfuehrer": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 26,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1
+  },
+  "kneipenschlaegerei": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Wasist": 1
+  },
+  "kobolde": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 130,
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 29,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 25,
+    "/Die_Doppelseite/Geographie/Atlanteninsel": 2,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "kobolden": {
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 1
+  },
+  "koboldquetsche": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "koboldsch": {
+    "/Die_Doppelseite/Sprachen": 26
+  },
+  "koenigspalast": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 27,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 26
+  },
+  "koenigspyramide": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 27
+  },
+  "koenigsschloss": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26
+  },
+  "koenigsthing": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 26
+  },
+  "koenigswahlen": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26,
+    "/Die_Doppelseite/Völker/menschen/": 1
+  },
+  "konflikte": {
+    "/Spielregeln/konflikte/": 129,
+    "/Spielregeln/konflikte/Einfachekonflikte": 100,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 52,
+    "/Spielregeln/": 3,
+    "/Spielregeln/Wasist": 3,
+    "/Spielregeln/abenteuer/Gliederung": 1
+  },
+  "konflikte aufloesen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "konfliktnetz": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 26
+  },
+  "konflikts": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 25,
+    "/Spielregeln/konflikte/Konfliktszenen": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1
+  },
+  "konfliktszene": {
+    "/Spielregeln/konflikte/Konfliktszenen": 28,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1,
+    "/Spielregeln/konflikte/Einfachekonflikte": 1
+  },
+  "konfliktszenen": {
+    "/Spielregeln/konflikte/Konfliktszenen": 150,
+    "/Spielregeln/konflikte/": 2,
+    "/Spielregeln/": 1
+  },
+  "konfliktszenenbeschreibung": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "konsequenz vermeiden": {
+    "/Spielregeln/konflikte/Konfliktszenen": 26
+  },
+  "konsequenzbeispiel": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "konsequenzen": {
+    "/Spielregeln/konflikte/Konfliktszenen": 27,
+    "/Spielregeln/heldengruppe/Charakterwerte": 26
+  },
+  "korrupter buergermeister": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "kraeuter": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 75,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1,
+    "/Spielregeln/heldengruppe/ausruestung/": 1
+  },
+  "kraeuter und traenke": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 125,
+    "/Spielregeln/heldengruppe/ausruestung/": 1
+  },
+  "kraeuterhaendler": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 26
+  },
+  "kraeutermike": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "krallenfelsen": {
+    "/Die_Doppelseite/Geographie/Krallenfelsen": 126,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "kraskia": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 126,
+    "/Die_Doppelseite/Geographie/Brennpunkt": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1
+  },
+  "kraskisch": {
+    "/Die_Doppelseite/Sprachen": 26
+  },
+  "krempe": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 26,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "kreuzfahrten": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 27
+  },
+  "kreuzfahrtschiffe": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25,
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 1
+  },
+  "kreuzstadt": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 130,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "krieg": {
+    "/Die_Doppelseite/Geschichte": 29,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 3,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "krieger": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 29,
+    "/Spielregeln/konflikte/Konfliktszenen": 25,
+    "/Spielregeln/heldengruppe/Charaktere": 2,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "kriegsherren": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 27,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "kriegsmaschinen": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 30,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 2,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "kriegsmaschinenagentur": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 26,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "kriegsmaschinenmanufakturen": {
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 26,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1
+  },
+  "krskan der daemon der echsenmenschen": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "krskanstatue": {
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 25
+  },
+  "kuehne": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "kulte": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 75,
+    "/Die_Doppelseite/Übernatürliches/": 27,
+    "/Die_Doppelseite/": 1
+  },
+  "kulten": {
+    "/Die_Doppelseite/Übernatürliches/": 1
+  },
+  "kuppenbaeder": {
+    "/Die_Doppelseite/Völker/gute/halblinge/": 25,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 2
+  },
+  "kuppenquell": {
+    "/Die_Doppelseite/Völker/gute/halblinge/": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "kuppenseen": {
+    "/Die_Doppelseite/Geographie/Kuppenseen": 126,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 2,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 2,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "kurviertel": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 26
+  },
+  "kuzdu": {
+    "/Die_Doppelseite/Geschichte": 27,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "kuzduwueste": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/": 126,
+    "/Die_Doppelseite/Geographie/Rechteseite": 2,
+    "/Die_Doppelseite/Geographie/Zuckerfelsen": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "labor": {
+    "/Abenteuer/Leseratten/Zerstoerung": 28,
+    "/Abenteuer/Leseratten/Loesung": 4
+  },
+  "labore": {
+    "/Abenteuer/Leseratten/Zerstoerung": 27
+  },
+  "lager an einem ungewoehnlichen ort": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25
+  },
+  "lange weite robe": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 26
+  },
+  "langfinger": {
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 1,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "lebloses": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25,
+    "/Spielregeln/konflikte/Konfliktszenen": 1
+  },
+  "legendaere": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 76,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "legendaere stadt": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 126,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 2,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 1
+  },
+  "legendaerer": {
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "legendaeres buch des lichts": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 25
+  },
+  "lektor": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 26,
+    "/Die_Doppelseite/Geschichte": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1
+  },
+  "lektors": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Abenteuer/Leseratten/Stadtkarte": 1
+  },
+  "lerwena": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 26
+  },
+  "leselampe": {
+    "/Die_Doppelseite/Geographie/Leselampe": 76,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "leser": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 27,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Völker/menschen/hueter/": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 1
+  },
+  "leseratten": {
+    "/Abenteuer/Leseratten/": 126,
+    "/Die_Doppelseite/Tierwelt": 26,
+    "/Abenteuer/": 25
+  },
+  "lesers": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 29,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 1
+  },
+  "lesertal": {
+    "/Die_Doppelseite/Geographie/Lesertal": 126,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/": 1
+  },
+  "lesezeichengebirge": {
+    "/Die_Doppelseite/Geographie/Lesezeichengebirge": 126,
+    "/Die_Doppelseite/Geschichte": 4,
+    "/Die_Doppelseite/Technologie": 3,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 1
+  },
+  "lesezeichengebirges": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Bünde": 1,
+    "/Die_Doppelseite/Geographie/Torvon": 1
+  },
+  "lethargische drachen": {
+    "/Spielregeln/spielleiter/monster/Drachen": 26
+  },
+  "letzte": {
+    "/Die_Doppelseite/Geschichte": 26,
+    "/Abenteuer/Leseratten/Kanalisation": 1,
+    "/Die_Doppelseite/Geographie/Torvon": 1
+  },
+  "lichtritter": {
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 26
+  },
+  "lichts": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 27,
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 1
+  },
+  "linke": {
+    "/Die_Doppelseite/Geographie/Linkeseite": 76,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "linke seite": {
+    "/Die_Doppelseite/Geographie/Linkeseite": 76,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geographie/": 1
+  },
+  "lite": {
+    "/Spielregeln/": 1
+  },
+  "loesung": {
+    "/Abenteuer/Leseratten/Loesung": 75,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Nachforschungen": 1
+  },
+  "lokalitaeten": {
+    "/Abenteuer/Leseratten/Stadtkarte": 25
+  },
+  "los": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25,
+    "/Abenteuer/Leseratten/Loesung": 1,
+    "/Abenteuer/Leseratten/Zerstoerung": 1
+  },
+  "luci": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25,
+    "/Die_Doppelseite/Persönlichkeiten": 1
+  },
+  "macht": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 27,
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Übernatürliches/Magie": 6,
+    "/Die_Doppelseite/Unterseite/Dämonen": 5,
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 3,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/konflikte/Konfliktszenen": 2,
+    "/Abenteuer/Leseratten/Slc": 1,
+    "/Abenteuer/Leseratten/Zerstoerung": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1,
+    "/Die_Doppelseite/Völker/boese/orks/": 1,
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "machtgebiete": {
+    "/Die_Doppelseite/Völker/": 76,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 75,
+    "/Die_Doppelseite/": 26,
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 1
+  },
+  "maechtige": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25,
+    "/Die_Doppelseite/Übernatürliches/": 25,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Abenteuer/Leseratten/Ende": 1
+  },
+  "maechtige und goettliche artefakte": {
+    "/Die_Doppelseite/Übernatürliches/": 25
+  },
+  "magie": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 126,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 51,
+    "/Abenteuer/Leseratten/Nachforschungen": 26,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "magie wirken": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 51,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "magiebegabung": {
+    "/Spielregeln/heldengruppe/Charaktere": 25,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1
+  },
+  "magiekategorien": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "magiergilde": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 28,
+    "/Die_Doppelseite/Gilden": 27,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 26,
+    "/Abenteuer/Leseratten/Nachforschungen": 6,
+    "/Abenteuer/Leseratten/Slc": 4,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Abenteuer/Leseratten/Loesung": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "magierviertel sicherheitszone": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 25
+  },
+  "magiewirkende": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 25
+  },
+  "magische labor": {
+    "/Abenteuer/Leseratten/Zerstoerung": 25,
+    "/Abenteuer/Leseratten/Loesung": 1
+  },
+  "magister thoas": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "magor": {
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "magus emyn": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "magus fabricius": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 25
+  },
+  "marktplatz": {
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 27,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 26,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1
+  },
+  "mauern": {
+    "/Abenteuer/Leseratten/Loesung": 52,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 2,
+    "/Abenteuer/Leseratten/Zerstoerung": 1
+  },
+  "mechanik": {
+    "/Die_Doppelseite/Technologie": 27,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1
+  },
+  "mechgilde": {
+    "/Die_Doppelseite/Gilden": 25
+  },
+  "meckerziegen": {
+    "/Die_Doppelseite/Tierwelt": 25
+  },
+  "menschen": {
+    "/Die_Doppelseite/Völker/menschen/": 126,
+    "/Die_Doppelseite/Siedlungen": 50,
+    "/Die_Doppelseite/Geschichte": 30,
+    "/Spielregeln/heldengruppe/Charakterwerte": 29,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 28,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 27,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 4,
+    "/Die_Doppelseite/Technologie": 3,
+    "/Die_Doppelseite/Unterseite/Dämonen": 3,
+    "/Die_Doppelseite/Völker/menschen/edle/": 3,
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 3,
+    "/Abenteuer/Leseratten/Einstieg": 2,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geographie/Moglidschungel": 1
+  },
+  "menschenreich": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 76,
+    "/Die_Doppelseite/Geographie/Rinnsal": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "menschenreiche": {
+    "/Die_Doppelseite/Bünde": 1,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1
+  },
+  "menschenvoelker": {
+    "/Die_Doppelseite/Geschichte": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "merena": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 26
+  },
+  "meuchlergilde": {
+    "/Die_Doppelseite/Gilden": 26,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "minen": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 5,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 1
+  },
+  "mirin scharfauge": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25
+  },
+  "mitglieder der barbaren": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "mitglieder der walkueren": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "mitgliedsbeitraege": {
+    "/Die_Doppelseite/Gilden": 25
+  },
+  "moegliche profilwerte": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "moglidschungel": {
+    "/Die_Doppelseite/Geographie/Moglidschungel": 125,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "moglidschungels": {
+    "/Die_Doppelseite/Geographie/Rinnsal": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 1
+  },
+  "momentane ratsmitglieder": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25
+  },
+  "monarchenfamilie": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 25
+  },
+  "monate": {
+    "/Die_Doppelseite/Zeitrechnung": 25
+  },
+  "monster": {
+    "/Spielregeln/spielleiter/monster/": 127,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 2,
+    "/Die_Doppelseite/Geographie/Seitenabgrund": 1
+  },
+  "monsterspinnen": {
+    "/Spielregeln/spielleiter/monster/Monsterspinnen": 127,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "monsterwerte": {
+    "/Spielregeln/spielleiter/monster/": 25
+  },
+  "moor": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25,
+    "/Die_Doppelseite/Geographie/Kaffeemoor": 1
+  },
+  "mukos": {
+    "/Die_Doppelseite/Tierwelt": 26
+  },
+  "mynes darcol": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "mystisches": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 25
+  },
+  "nachforschungen": {
+    "/Abenteuer/Leseratten/Nachforschungen": 128,
+    "/Abenteuer/Leseratten/Kanalisation": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "nahkampfwaffen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 25
+  },
+  "namen": {
+    "/Spielregeln/heldengruppe/Charaktere_namen": 83,
+    "/Die_Doppelseite/Tierwelt": 2,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1
+  },
+  "namen fuer charaktere": {
+    "/Spielregeln/heldengruppe/Charaktere_namen": 125
+  },
+  "narrgohl": {
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 126,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1
+  },
+  "nase": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2
+  },
+  "nate": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 50
+  },
+  "natur": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 4,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 1
+  },
+  "naturbund": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "nekromantenkaffee": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "neomeuchler": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "nervbolde": {
+    "/Spielregeln/spielleiter/daemonen/Nervbolde": 127,
+    "/Spielregeln/spielleiter/daemonen/": 1
+  },
+  "neuestrasse": {
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 126,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 1
+  },
+  "nira nate": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "nomaden": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 129,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "nomadenstaemme": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 27,
+    "/Die_Doppelseite/Handelswege/Zuckerstrasse": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 1
+  },
+  "nonnebacken": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Nonnebacken": 126,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "notation der boni": {
+    "/Spielregeln/heldengruppe/ausruestung/": 25
+  },
+  "nutzlose": {
+    "/Die_Doppelseite/Handelswege/Nutzlosehandelsstrasse": 76,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Handelswege/Zuckerstrasse": 1
+  },
+  "nutzlose handelsstrasse": {
+    "/Die_Doppelseite/Handelswege/Nutzlosehandelsstrasse": 126,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Handelswege/Zuckerstrasse": 1
+  },
+  "nutzlosen": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 1,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 1
+  },
+  "oberemanzenwahlen": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 25
+  },
+  "oberhaeupter": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 28,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 26,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 1
+  },
+  "oberonextrakt": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "oberonwald": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 26,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 1
+  },
+  "obik sames": {
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "oger": {
+    "/Die_Doppelseite/Völker/boese/oger/": 129,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 6,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "ogerkoenigreiche": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 27,
+    "/Die_Doppelseite/Völker/boese/": 1,
+    "/Die_Doppelseite/Völker/boese/oger/": 1
+  },
+  "ogersuempfe": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 128,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 1
+  },
+  "orden der lichtritter": {
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 25
+  },
+  "orden des lichts": {
+    "/Die_Doppelseite/Bünde": 25
+  },
+  "organisationen": {
+    "/Die_Doppelseite/Völker/": 25
+  },
+  "orkball": {
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 126,
+    "/Die_Doppelseite/Völker/boese/orks/": 2,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "orkballliga": {
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 26
+  },
+  "orkballstadion": {
+    "/Die_Doppelseite/Völker/boese/orks/Orkballstadion": 126,
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 27,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "orkkohorten": {
+    "/Die_Doppelseite/Völker/boese/orks/": 25,
+    "/Die_Doppelseite/Völker/boese/orks/Orksteppe": 1
+  },
+  "orks": {
+    "/Die_Doppelseite/Völker/boese/orks/": 130,
+    "/Spielregeln/konflikte/Konfliktszenen": 30,
+    "/Die_Doppelseite/Völker/boese/goblins/": 3,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 2,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "orksteppe": {
+    "/Die_Doppelseite/Völker/boese/orks/Orksteppe": 126,
+    "/Die_Doppelseite/Völker/boese/": 1,
+    "/Die_Doppelseite/Völker/boese/orks/": 1
+  },
+  "ort": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 26,
+    "/Die_Doppelseite/Bünde": 3,
+    "/Abenteuer/Leseratten/Loesung": 1
+  },
+  "packdichrucksack": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "palast des religioesen rates": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26
+  },
+  "papiertiger": {
+    "/Die_Doppelseite/Tierwelt": 26
+  },
+  "paranoider": {
+    "/Die_Doppelseite/Bünde": 27,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 1,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "parkfestung": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 26
+  },
+  "partei": {
+    "/Spielregeln/konflikte/Konfliktszenen": 58,
+    "/Spielregeln/konflikte/Einfachekonflikte": 3,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 3,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "parteien": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 178,
+    "/Spielregeln/konflikte/Konfliktszenen": 56,
+    "/Spielregeln/spielleiter/Erstellen": 2,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 2,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "parteien und ziele": {
+    "/Spielregeln/konflikte/Konfliktszenen": 50
+  },
+  "pass": {
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 26
+  },
+  "passende ausruestung": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "passive hindernisse": {
+    "/Spielregeln/konflikte/Konfliktszenen": 29
+  },
+  "pelen magor": {
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "perio tarel": {
+    "/Abenteuer/Leseratten/Slc": 25,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "persoenlichkeiten": {
+    "/Die_Doppelseite/Persönlichkeiten": 75,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "plot": {
+    "/Abenteuer/Leseratten/": 25,
+    "/Spielregeln/spielleiter/klischees/Reisen": 1,
+    "/Spielregeln/spielleiter/klischees/Slc": 1
+  },
+  "politik": {
+    "/Die_Doppelseite/Völker/": 25,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 1
+  },
+  "prankencanyons": {
+    "/Die_Doppelseite/Geographie/Prankencanyons": 126,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Geographie/Krallenfelsen": 1
+  },
+  "profile": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 28,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 2,
+    "/Spielregeln/Wasist": 1
+  },
+  "profilwerte": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25
+  },
+  "profilwerteverteilung": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 50
+  },
+  "propheten": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 26,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 1
+  },
+  "putzteufel": {
+    "/Spielregeln/spielleiter/daemonen/Putzteufel": 127,
+    "/Spielregeln/spielleiter/daemonen/": 1
+  },
+  "rabenturm": {
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 127,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 2,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "radegast": {
+    "/Abenteuer/Leseratten/Nachforschungen": 27,
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "radiergummi": {
+    "/Die_Doppelseite/Übernatürliches/Goetter": 27,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26,
+    "/Die_Doppelseite/Geschichte": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "raender": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 25
+  },
+  "raenge": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 26
+  },
+  "raeuberueberfall": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25
+  },
+  "ragdal": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 25
+  },
+  "rand": {
+    "/Die_Doppelseite/Geographie/Rand": 75,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/Geographie/Prankencanyons": 1
+  },
+  "randviertel": {
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 26
+  },
+  "rassen": {
+    "/Die_Doppelseite/Siedlungen": 100,
+    "/Die_Doppelseite/Völker/boese/": 76,
+    "/Die_Doppelseite/Völker/gute/": 76,
+    "/Die_Doppelseite/Geschichte": 62,
+    "/Spielregeln/heldengruppe/Charaktere": 27,
+    "/Die_Doppelseite/Sprachen": 3,
+    "/Die_Doppelseite/Völker/": 3,
+    "/Die_Doppelseite/Zeitrechnung": 3,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Die_Doppelseite/Technologie": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 1,
+    "/Die_Doppelseite/Völker/boese/oger/": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 1,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 1,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 1
+  },
+  "rat": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 30,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 27,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 26,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1
+  },
+  "rates": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 26,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 3,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 2,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 1
+  },
+  "ratsmitglieder": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 25,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 25
+  },
+  "ratspalast": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 26
+  },
+  "ratten": {
+    "/Abenteuer/Leseratten/Kanalisation": 35,
+    "/Abenteuer/Leseratten/Einstieg": 31,
+    "/Abenteuer/Leseratten/Daemon": 2,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Abenteuer/Leseratten/Nachforschungen": 2,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "rattendaemon": {
+    "/Abenteuer/Leseratten/Daemon": 130,
+    "/Abenteuer/Leseratten/Kanalisation": 4,
+    "/Abenteuer/Leseratten/": 2,
+    "/Abenteuer/Leseratten/Nachforschungen": 2,
+    "/Abenteuer/Leseratten/Zerstoerung": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "rattendaemons": {
+    "/Abenteuer/Leseratten/Daemon": 25,
+    "/Abenteuer/Leseratten/Kanalisation": 2,
+    "/Abenteuer/Leseratten/Zerstoerung": 1
+  },
+  "rebe": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25,
+    "/Die_Doppelseite/Technologie": 1
+  },
+  "rechte": {
+    "/Die_Doppelseite/Geographie/Rechteseite": 76,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "rechte seite": {
+    "/Die_Doppelseite/Geographie/Rechteseite": 76,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "rega radegast": {
+    "/Abenteuer/Leseratten/Nachforschungen": 27,
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "regas vermutung": {
+    "/Abenteuer/Leseratten/Loesung": 25
+  },
+  "regelmaessige warme fussbaeder": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 25
+  },
+  "regeln": {
+    "/Spielregeln/Wasist": 26,
+    "/Spielregeln/": 2,
+    "/Spielregeln/abenteuer/": 2,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "regelwerk": {
+    "/Spielregeln/": 1,
+    "/Spielregeln/Spielmaterial": 1,
+    "/Spielregeln/Wasist": 1
+  },
+  "regenerieren": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 52,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 2,
+    "/Die_Doppelseite/Technologie": 1
+  },
+  "regent": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 26
+  },
+  "reinen": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1
+  },
+  "reisebegleitung": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25,
+    "/Spielregeln/spielleiter/klischees/Slc": 1
+  },
+  "reisegeschwindigkeiten": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 26
+  },
+  "reisekosten": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 25
+  },
+  "reisen": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 129,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "reisender haendler": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "reiseziele": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25
+  },
+  "reittiere": {
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 25
+  },
+  "religioese rat": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 26
+  },
+  "religioesen": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1
+  },
+  "religion": {
+    "/Die_Doppelseite/Völker/boese/orks/": 26,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 26,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 26,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 26,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 26,
+    "/Die_Doppelseite/Völker/menschen/hueter/": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 25,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 25,
+    "/Die_Doppelseite/Völker/boese/goblins/": 25,
+    "/Die_Doppelseite/Völker/boese/oger/": 25,
+    "/Die_Doppelseite/Völker/boese/trolle/": 25,
+    "/Die_Doppelseite/Völker/gute/elfen/": 25,
+    "/Die_Doppelseite/Völker/gute/feen/": 25,
+    "/Die_Doppelseite/Völker/gute/gnome/": 25,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 25,
+    "/Die_Doppelseite/Völker/gute/yetis/": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 25,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 25,
+    "/Die_Doppelseite/Völker/menschen/edle/": 25,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 25,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 25,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "religionen sekten und kulte": {
+    "/Die_Doppelseite/Übernatürliches/": 25
+  },
+  "reori feori": {
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 26
+  },
+  "rhyllien": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 127,
+    "/Die_Doppelseite/Völker/gute/gnome/": 3,
+    "/Die_Doppelseite/Geographie/Rillenebene": 1
+  },
+  "rillenebene": {
+    "/Die_Doppelseite/Geographie/Rillenebene": 126,
+    "/Die_Doppelseite/Geographie/Elfenwald": 1,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "rinnsal": {
+    "/Die_Doppelseite/Geographie/Rinnsal": 126,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 2,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1
+  },
+  "rinnsalbruecke": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26,
+    "/Die_Doppelseite/Technologie": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "rissa": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 26
+  },
+  "ritter der blume": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "robe": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 27
+  },
+  "roc": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 78,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Geographie/Zuckerfelsen": 1
+  },
+  "roc da acucar": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 127,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 2,
+    "/Die_Doppelseite/Geographie/Zuckerfelsen": 1
+  },
+  "rois bel": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25
+  },
+  "ruestungen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 100,
+    "/Die_Doppelseite/Technologie": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 1
+  },
+  "runde 1": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "runen": {
+    "/Die_Doppelseite/Technologie": 28,
+    "/Die_Doppelseite/Völker/gute/yetis/": 1,
+    "/Die_Doppelseite/Völker/gute/zwerge/Eselshausen": 1
+  },
+  "sag ja": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "sagin": {
+    "/Die_Doppelseite/Völker/gute/elfen/": 26
+  },
+  "sames": {
+    "/Abenteuer/Leseratten/Slc": 27,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "sammelstelle": {
+    "/Abenteuer/Leseratten/Kanalisation": 55
+  },
+  "samukas": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 26
+  },
+  "saphir": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 26
+  },
+  "satyre": {
+    "/Spielregeln/spielleiter/daemonen/Satyre": 127,
+    "/Spielregeln/spielleiter/daemonen/": 1
+  },
+  "schamanen": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 129,
+    "/Abenteuer/Leseratten/Nachforschungen": 3,
+    "/Die_Doppelseite/Übernatürliches/Magie": 3,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Die_Doppelseite/Unterseite/": 2,
+    "/Die_Doppelseite/Unterseite/Dämonen": 2,
+    "/Die_Doppelseite/Völker/boese/oger/": 2,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "scharfauge": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 25
+  },
+  "schattenorden": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "schattenreich": {
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 128,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "schatzwaechter": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "schauplaetze": {
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 127,
+    "/Spielregeln/spielleiter/Vorbereiten": 27,
+    "/Spielregeln/spielleiter/Erstellen": 2,
+    "/Spielregeln/": 1
+  },
+  "schauplaetze und szenen": {
+    "/Spielregeln/spielleiter/Vorbereiten": 25
+  },
+  "schaustellergilde": {
+    "/Die_Doppelseite/Gilden": 27
+  },
+  "schicksalshammer": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 25
+  },
+  "schlacht": {
+    "/Die_Doppelseite/Geschichte": 80,
+    "/Die_Doppelseite/Unterseite/Dämonen": 2,
+    "/Die_Doppelseite/Geographie/Torvon": 1
+  },
+  "schlimmste fall": {
+    "/Abenteuer/Leseratten/Ende": 25
+  },
+  "schmiede": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 27,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Technologie": 1
+  },
+  "schubladen": {
+    "/Die_Doppelseite/Völker/": 25
+  },
+  "sebdan": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "sein": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 26,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 8,
+    "/Abenteuer/Leseratten/Slc": 6,
+    "/Abenteuer/Leseratten/Zerstoerung": 5,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 4,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 4,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 4,
+    "/Spielregeln/spielleiter/klischees/Slc": 4,
+    "/Die_Doppelseite/Unterseite/Dämonen": 3,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 3,
+    "/Spielregeln/konflikte/Konfliktszenen": 3,
+    "/Spielregeln/spielleiter/klischees/Reisen": 3,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Spielregeln/abenteuer/Gliederung": 2,
+    "/Spielregeln/heldengruppe/Charaktere": 2,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 2,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "seite": {
+    "/Die_Doppelseite/Geographie/Linkeseite": 76,
+    "/Die_Doppelseite/Geographie/Rechteseite": 76,
+    "/Die_Doppelseite/Geographie/": 3,
+    "/Die_Doppelseite/": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "seitenabgrund": {
+    "/Die_Doppelseite/Geographie/Seitenabgrund": 126,
+    "/Die_Doppelseite/Geschichte": 3,
+    "/Die_Doppelseite/Unterseite/": 2,
+    "/Die_Doppelseite/Geographie/": 1
+  },
+  "seitenabgrundtag": {
+    "/Die_Doppelseite/Zeitrechnung": 25
+  },
+  "sekten": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 75,
+    "/Die_Doppelseite/Übernatürliches/": 28,
+    "/Die_Doppelseite/": 1
+  },
+  "sekten und kulte": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 125,
+    "/Die_Doppelseite/Übernatürliches/": 27,
+    "/Die_Doppelseite/": 1
+  },
+  "selbsthilfegruppe paranoider langfinger": {
+    "/Die_Doppelseite/Bünde": 26,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 1
+  },
+  "seltsamer einsiedler": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "sicherheitszone": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 26
+  },
+  "sieben raenge der daemonen": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "siedlungen": {
+    "/Die_Doppelseite/Siedlungen": 151,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 27,
+    "/Die_Doppelseite/": 1
+  },
+  "siedlungen bauwerke": {
+    "/Die_Doppelseite/Siedlungen": 125,
+    "/Die_Doppelseite/": 1
+  },
+  "siedlungen der boesen rassen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "siedlungen der guten rassen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "siedlungen der menschen": {
+    "/Die_Doppelseite/Siedlungen": 25
+  },
+  "siegreiche": {
+    "/Spielregeln/konflikte/Konfliktszenen": 51,
+    "/Spielregeln/konflikte/Einfachekonflikte": 1
+  },
+  "siegreiche partei ermitteln": {
+    "/Spielregeln/konflikte/Konfliktszenen": 50
+  },
+  "sigrita": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "sind": {
+    "/Die_Doppelseite/Völker/gute/kobolde/": 28,
+    "/Die_Doppelseite/Bünde": 9,
+    "/Abenteuer/Leseratten/Zerstoerung": 8,
+    "/Abenteuer/Leseratten/Slc": 6,
+    "/Die_Doppelseite/Technologie": 6,
+    "/Die_Doppelseite/Völker/boese/goblins/": 6,
+    "/Die_Doppelseite/Völker/boese/trolle/": 6,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 6,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 6,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 6,
+    "/Spielregeln/spielleiter/monster/Drachen": 6,
+    "/Abenteuer/Leseratten/Kanalisation": 5,
+    "/Abenteuer/Leseratten/Nachforschungen": 5,
+    "/Die_Doppelseite/Gilden": 5,
+    "/Die_Doppelseite/Tierwelt": 5,
+    "/Die_Doppelseite/Unterseite/Dämonen": 5,
+    "/Die_Doppelseite/Völker/boese/orks/": 5,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 5,
+    "/Die_Doppelseite/Völker/gute/yetis/": 5,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 5,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 5,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 5,
+    "/Spielregeln/konflikte/Konfliktszenen": 5,
+    "/Abenteuer/Leseratten/Einstieg": 4,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 4,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 4,
+    "/Die_Doppelseite/Völker/gute/gnome/": 4,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 4,
+    "/Die_Doppelseite/Völker/menschen/": 4,
+    "/Die_Doppelseite/Völker/menschen/edle/": 4,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 4,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 4,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 4,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 4,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 4,
+    "/Spielregeln/Wasist": 4,
+    "/Spielregeln/heldengruppe/Charakterwerte": 4,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 4,
+    "/Die_Doppelseite/Völker/boese/": 3,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 3,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 3,
+    "/Die_Doppelseite/Völker/boese/oger/": 3,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 3,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 3,
+    "/Die_Doppelseite/Völker/gute/elfen/": 3,
+    "/Die_Doppelseite/Völker/gute/feen/": 3,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 3,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 3,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 3,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 3,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 3,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 3,
+    "/Die_Doppelseite/Übernatürliches/": 3,
+    "/Die_Doppelseite/Übernatürliches/Magie": 3,
+    "/Spielregeln/heldengruppe/Charaktere": 3,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 3,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 3,
+    "/Spielregeln/spielleiter/klischees/Reisen": 3,
+    "/Spielregeln/spielleiter/klischees/Stadt": 3,
+    "/Spielregeln/spielleiter/monster/Dunkelwoelfe": 3,
+    "/Die_Doppelseite/Geographie/": 2,
+    "/Die_Doppelseite/Handelswege/": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Brotzk": 2,
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 2,
+    "/Die_Doppelseite/Zeitrechnung": 2,
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 2,
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 2,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Spielregeln/spielleiter/Vorbereiten": 2,
+    "/Spielregeln/spielleiter/daemonen/Hoellenhunde": 2,
+    "/Spielregeln/spielleiter/daemonen/Putzteufel": 2,
+    "/Spielregeln/spielleiter/daemonen/Satyre": 2,
+    "/Spielregeln/spielleiter/monster/Eiswuermer": 2,
+    "/Spielregeln/spielleiter/monster/Killerkarnickel": 2,
+    "/Spielregeln/spielleiter/monster/Stachelbaeren": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "sitz des rates": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 26
+  },
+  "sklaverei": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 26
+  },
+  "soldat": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 27,
+    "/Abenteuer/Leseratten/Nachforschungen": 1
+  },
+  "spaltung": {
+    "/Die_Doppelseite/Geschichte": 26
+  },
+  "spiel": {
+    "/Spielregeln/Vordemspiel": 76,
+    "/Spielregeln/heldengruppe/Charaktere": 4,
+    "/Spielregeln/spielleiter/Vorbereiten": 3,
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Die_Doppelseite/Völker/boese/orks/": 1
+  },
+  "spielen": {
+    "/Spielregeln/Spielmaterial": 75,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "spieler": {
+    "/Spielregeln/konflikte/Konfliktszenen": 38,
+    "/Spielregeln/Wasist": 30,
+    "/Spielregeln/abenteuer/": 29,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 8,
+    "/Spielregeln/abenteuer/Gliederung": 3,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 3,
+    "/Spielregeln/heldengruppe/Charaktere": 3,
+    "/Spielregeln/heldengruppe/Charakterwerte": 3,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 3,
+    "/Spielregeln/Spielmaterial": 2,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 2,
+    "/Spielregeln/spielleiter/Vorbereiten": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Völker/boese/orks/Orkball": 1,
+    "/Spielregeln/": 1,
+    "/Spielregeln/Vordemspiel": 1,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 1,
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 1,
+    "/Spielregeln/spielleiter/Erstellen": 1
+  },
+  "spieler wuerfeln": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "spielleiter": {
+    "/Spielregeln/spielleiter/": 125,
+    "/Spielregeln/konflikte/Konfliktszenen": 35,
+    "/Spielregeln/Wasist": 29,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 28,
+    "/Spielregeln/": 26,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 11,
+    "/Spielregeln/abenteuer/": 2,
+    "/Spielregeln/konflikte/Einfachekonflikte": 2,
+    "/Spielregeln/Spielmaterial": 1
+  },
+  "spielleiter wuerfelt fuer die 3 orks krieger 3 zaehigkeit 2": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "spielleitercharaktere": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 127,
+    "/Spielregeln/spielleiter/klischees/Slc": 125,
+    "/Spielregeln/spielleiter/Vorbereiten": 29,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 26,
+    "/Abenteuer/Leseratten/": 25,
+    "/Spielregeln/konflikte/Konfliktszenen": 2,
+    "/Spielregeln/spielleiter/": 2,
+    "/Spielregeln/spielleiter/Erstellen": 2,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 2,
+    "/Spielregeln/": 1,
+    "/Spielregeln/abenteuer/": 1,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1,
+    "/Spielregeln/abenteuer/Gliederung": 1,
+    "/Spielregeln/spielleiter/klischees/": 1
+  },
+  "spielleitercharakteren": {
+    "/Abenteuer/Leseratten/Slc": 75,
+    "/Spielregeln/abenteuer/": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "spielleiterheldenpunkte": {
+    "/Spielregeln/abenteuer/Vordemabenteuer": 26
+  },
+  "spielleiters": {
+    "/Spielregeln/abenteuer/": 25,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 1
+  },
+  "spielregeln": {
+    "/Spielregeln/": 135,
+    "/Spielregeln/Wasist": 1
+  },
+  "spitzendorf": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 128,
+    "/Die_Doppelseite/Bünde": 1,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "spl": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 27,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "sprachen": {
+    "/Die_Doppelseite/Sprachen": 126,
+    "/Die_Doppelseite/Völker/": 26,
+    "/Die_Doppelseite/": 1
+  },
+  "stab des erschaffens": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26
+  },
+  "stachelbaeren": {
+    "/Spielregeln/spielleiter/monster/Stachelbaeren": 127,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "stadt": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 128,
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 78,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 78,
+    "/Abenteuer/Leseratten/Einstieg": 5,
+    "/Die_Doppelseite/Gilden": 5,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 5,
+    "/Die_Doppelseite/Völker/gute/elfen/Elfenstaedte": 4,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 4,
+    "/Spielregeln/spielleiter/klischees/Slc": 4,
+    "/Abenteuer/Leseratten/Ende": 3,
+    "/Abenteuer/Leseratten/Kanalisation": 3,
+    "/Abenteuer/Leseratten/Nachforschungen": 3,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 3,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 3,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 3,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 2,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Siedlungen": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/Narrgohl": 2,
+    "/Die_Doppelseite/Völker/gute/elfen/": 2,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 2,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Zwergenbahn": 2,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 2,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Spitzendorf": 2,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 2,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1
+  },
+  "stadtkarte": {
+    "/Abenteuer/Leseratten/Stadtkarte": 125,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "stadtmitte": {
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 26,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 1
+  },
+  "stadtwache": {
+    "/Abenteuer/Leseratten/Einstieg": 29,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 26,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Kreuzstadt": 26,
+    "/Spielregeln/spielleiter/klischees/Stadt": 5,
+    "/Abenteuer/Leseratten/Ende": 4,
+    "/Abenteuer/Leseratten/Nachforschungen": 4,
+    "/Abenteuer/Leseratten/Slc": 3,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 3,
+    "/Abenteuer/Leseratten/": 2,
+    "/Abenteuer/Leseratten/Loesung": 1,
+    "/Abenteuer/Leseratten/Stadtkarte": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 1,
+    "/Die_Doppelseite/Völker/menschen/hueter/Kirnstein": 1,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1
+  },
+  "stadtzentrum": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 26,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 1
+  },
+  "staedte": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 26,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25,
+    "/Die_Doppelseite/Völker/gute/feen/Faeraa": 25,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 25,
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25,
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 25,
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/Area51": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/Broeselreich": 25,
+    "/Die_Doppelseite/Völker/gute/zwerge/Kazhdum": 25,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 25,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 25,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25,
+    "/Die_Doppelseite/Völker/menschen/wildlande/": 25,
+    "/Die_Doppelseite/Handelswege/": 2,
+    "/Die_Doppelseite/Völker/boese/goblins/": 2,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/Goblinanhoehen": 1
+  },
+  "staemme": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 3,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 2,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 1
+  },
+  "staendiges mystisches gemurmel": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 25
+  },
+  "stamm": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 29,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 4,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 3,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 3,
+    "/Spielregeln/heldengruppe/Charaktere": 2,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "standardheldenpaket": {
+    "/Spielregeln/heldengruppe/ausruestung/": 26
+  },
+  "startgeld": {
+    "/Spielregeln/heldengruppe/ausruestung/": 26
+  },
+  "stationen der zwergenbahn": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Zwergenbahn": 25
+  },
+  "statisten": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 27,
+    "/Spielregeln/spielleiter/Erstellen_schauplaetze": 1
+  },
+  "statue": {
+    "/Abenteuer/Leseratten/Zerstoerung": 110,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Abenteuer/Leseratten/Ende": 2,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Karak": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "steigerung": {
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 25,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 1
+  },
+  "steigerungsmoeglichkeiten des rattendaemons": {
+    "/Abenteuer/Leseratten/Daemon": 25
+  },
+  "stein des ausgleichs": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26
+  },
+  "stift der macht": {
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 26
+  },
+  "stufenaufstieg": {
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 27,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1,
+    "/Spielregeln/konflikte/Konfliktszenen": 1
+  },
+  "sturmtrotzer": {
+    "/Die_Doppelseite/Völker/gute/kobolde/Atlantea": 26
+  },
+  "szene": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 139,
+    "/Spielregeln/abenteuer/Gliederung": 28,
+    "/Spielregeln/konflikte/Konfliktszenen": 6,
+    "/Spielregeln/": 1
+  },
+  "szenen": {
+    "/Spielregeln/abenteuer/Gliederung": 28,
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 27,
+    "/Spielregeln/spielleiter/Vorbereiten": 25,
+    "/Spielregeln/spielleiter/Erstellen": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 1
+  },
+  "szenenende": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "szenenstart": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 50
+  },
+  "tag des aufklappens": {
+    "/Die_Doppelseite/Zeitrechnung": 25
+  },
+  "talor hammerschlag": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26
+  },
+  "tarel": {
+    "/Abenteuer/Leseratten/Slc": 25,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "tarot": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "technologie": {
+    "/Die_Doppelseite/Technologie": 126,
+    "/Die_Doppelseite/": 1
+  },
+  "teilnehmer": {
+    "/Spielregeln/konflikte/": 25,
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 1,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 1
+  },
+  "tempel": {
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 28,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 6,
+    "/Abenteuer/Leseratten/Stadtkarte": 4,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1
+  },
+  "testosteron": {
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 26
+  },
+  "teufelseichhoernchen": {
+    "/Spielregeln/spielleiter/daemonen/Teufelseichhoernchen": 127,
+    "/Spielregeln/spielleiter/daemonen/": 1
+  },
+  "thoas": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25
+  },
+  "tierbaendigerinnen": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 27
+  },
+  "tiere": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 25,
+    "/Die_Doppelseite/Tierwelt": 2,
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 2,
+    "/Die_Doppelseite/Technologie": 1
+  },
+  "tierwelt": {
+    "/Die_Doppelseite/Tierwelt": 125,
+    "/Die_Doppelseite/": 1
+  },
+  "tintensee": {
+    "/Die_Doppelseite/Geographie/Tintensee": 126,
+    "/Die_Doppelseite/Völker/boese/schattenreich/": 2,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "tippex": {
+    "/Die_Doppelseite/Geographie/Eiswuestetippex": 75,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Tierwelt": 1
+  },
+  "tipps zum hintergrund": {
+    "/Spielregeln/heldengruppe/Charaktere": 25
+  },
+  "tod eines charakters": {
+    "/Spielregeln/konflikte/Konfliktszenen": 26
+  },
+  "tor": {
+    "/Die_Doppelseite/Geographie/Torvon": 76,
+    "/Abenteuer/Leseratten/Loesung": 25,
+    "/Die_Doppelseite/Geschichte": 4,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Abenteuer/Leseratten/Nachforschungen": 1
+  },
+  "tor und die mauern": {
+    "/Abenteuer/Leseratten/Loesung": 25
+  },
+  "tor von": {
+    "/Die_Doppelseite/Geographie/Torvon": 126,
+    "/Die_Doppelseite/Geschichte": 4,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "toran der barbar": {
+    "/Spielregeln/heldengruppe/Beispielcharaktere": 26
+  },
+  "toran der maechtige": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "traenke": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 75,
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 1,
+    "/Spielregeln/heldengruppe/ausruestung/": 1
+  },
+  "tragbare kraeutermike": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "treor gildor": {
+    "/Abenteuer/Leseratten/Slc": 25,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "trollberge": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollberge": 126,
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 1,
+    "/Die_Doppelseite/Völker/boese/": 1
+  },
+  "trollbergen": {
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1,
+    "/Die_Doppelseite/Völker/boese/trolle/": 1,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 1
+  },
+  "trolle": {
+    "/Die_Doppelseite/Völker/boese/trolle/": 130,
+    "/Die_Doppelseite/Völker/boese/goblins/": 3,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 3,
+    "/Die_Doppelseite/Völker/boese/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "trollfestung": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 27,
+    "/Die_Doppelseite/Völker/boese/trolle/": 1,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 1
+  },
+  "trollfestungen": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 127,
+    "/Die_Doppelseite/Völker/boese/trolle/": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollberge": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "trollherzoege": {
+    "/Die_Doppelseite/Völker/boese/trolle/": 26
+  },
+  "tropfenmeer": {
+    "/Die_Doppelseite/Geographie/Tropfenmeer": 126,
+    "/Die_Doppelseite/Geographie/Linkeseite": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "tropfenmeers": {
+    "/Die_Doppelseite/Geographie/Atlanteninsel": 1,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 1,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 1
+  },
+  "tueroeffnedich": {
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 25
+  },
+  "turgal van saphir": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 26
+  },
+  "turm": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25,
+    "/Die_Doppelseite/Völker/boese/schattenreich/Rabenturm": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 1
+  },
+  "turmfestung": {
+    "/Die_Doppelseite/Völker/boese/trolle/Trollfestungen": 26
+  },
+  "typ": {
+    "/Spielregeln/spielleiter/klischees/Slc": 28,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1,
+    "/Spielregeln/spielleiter/klischees/Reisen": 1
+  },
+  "typische": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 101,
+    "/Spielregeln/konflikte/Konfliktszenen": 26,
+    "/Spielregeln/spielleiter/klischees/Dungeons": 26,
+    "/Spielregeln/konflikte/Einfachekonflikte": 25,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 25,
+    "/Spielregeln/spielleiter/klischees/Slc": 3,
+    "/Spielregeln/heldengruppe/Charakterwerte": 2,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "typische einfache konflikte": {
+    "/Spielregeln/konflikte/Einfachekonflikte": 25
+  },
+  "typische fallen": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 26
+  },
+  "typische gegebenheiten": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "typische konfliktszenen": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "typische parteien": {
+    "/Spielregeln/spielleiter/Erstellen_parteien": 25
+  },
+  "typische stadt": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 75,
+    "/Spielregeln/spielleiter/": 1,
+    "/Spielregeln/spielleiter/klischees/": 1
+  },
+  "ueberfall eines haendlers": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "uebernatuerliches": {
+    "/Die_Doppelseite/": 1
+  },
+  "uebersicht": {
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 75,
+    "/Spielregeln/heldengruppe/Charaktere": 25,
+    "/Die_Doppelseite/": 1
+  },
+  "uebersicht der voelker und machtgebiete": {
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 125,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "umair und luci sebdan": {
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25
+  },
+  "und hier gehts zu den schubladen": {
+    "/Die_Doppelseite/Völker/": 25
+  },
+  "ungewoehnlichen": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25
+  },
+  "union": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 79,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Barbaren": 5,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "unistadt": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 127,
+    "/Abenteuer/Leseratten/Slc": 5,
+    "/Abenteuer/Leseratten/": 3,
+    "/Abenteuer/Leseratten/Einstieg": 3,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Abenteuer/": 1
+  },
+  "untergang": {
+    "/Die_Doppelseite/Geschichte": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 1,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 1
+  },
+  "untergangs": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 26
+  },
+  "unterseite": {
+    "/Die_Doppelseite/Unterseite/": 78,
+    "/Die_Doppelseite/Unterseite/Dämonen": 27,
+    "/Die_Doppelseite/Übernatürliches/Sekten": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "unwichtige": {
+    "/Spielregeln/abenteuer/Gliederung": 26,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 1
+  },
+  "unwichtiger": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 75,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "unwichtiger vorort": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 125,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "urgon der gefolgsdaemon von belrett": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  },
+  "urgonisch": {
+    "/Die_Doppelseite/Sprachen": 25,
+    "/Die_Doppelseite/Völker/boese/oger/": 1
+  },
+  "van": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 51,
+    "/Die_Doppelseite/Persönlichkeiten": 2
+  },
+  "vara": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "varianten": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 25
+  },
+  "verdienen": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 50,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Nomaden": 1,
+    "/Spielregeln/heldengruppe/Charaktere": 1
+  },
+  "verlauf": {
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 126,
+    "/Spielregeln/abenteuer/Gliederung": 26,
+    "/Spielregeln/spielleiter/Vorbereiten": 26,
+    "/Spielregeln/": 1
+  },
+  "verlorene konflikte": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 25
+  },
+  "verlorene stamm": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 26,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "verlorenen": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 2,
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 1
+  },
+  "vermeiden": {
+    "/Spielregeln/konflikte/Konfliktszenen": 26,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/": 1,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 1
+  },
+  "vermutung": {
+    "/Abenteuer/Leseratten/Loesung": 25,
+    "/Abenteuer/Leseratten/Kanalisation": 1,
+    "/Die_Doppelseite/Völker/menschen/kleinkarierten/Kleinkari": 1
+  },
+  "version": {
+    "/Spielregeln/": 2
+  },
+  "verwechslung": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "verwegen": {
+    "/Die_Doppelseite/Völker/gute/halblinge/Idyllien": 25
+  },
+  "verwoehnter adeliger": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "voelker": {
+    "/Die_Doppelseite/Völker/": 77,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 75,
+    "/Die_Doppelseite/": 26,
+    "/Die_Doppelseite/Sprachen": 1
+  },
+  "voelker und machtgebiete": {
+    "/Die_Doppelseite/Völker/": 126,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 75,
+    "/Die_Doppelseite/": 26
+  },
+  "voraussetzungen": {
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 26,
+    "/Spielregeln/spielleiter/Vorbereiten": 1
+  },
+  "vorbereiten": {
+    "/Spielregeln/spielleiter/Vorbereiten": 75,
+    "/Spielregeln/": 2,
+    "/Spielregeln/Vordemspiel": 1
+  },
+  "vorort": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 76,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 1
+  },
+  "vorteile dieser gilde": {
+    "/Die_Doppelseite/Gilden": 176
+  },
+  "wachturm": {
+    "/Die_Doppelseite/Völker/menschen/hueter/Wachturm": 126,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/menschen/hueter/Alarmweg": 1
+  },
+  "waehrung": {
+    "/Spielregeln/heldengruppe/ausruestung/": 25,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 1
+  },
+  "waehrungen": {
+    "/Die_Doppelseite/Währung": 125,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 1
+  },
+  "waende": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 26,
+    "/Abenteuer/Leseratten/Zerstoerung": 1
+  },
+  "waffen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 100,
+    "/Die_Doppelseite/Technologie": 27,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2,
+    "/Spielregeln/heldengruppe/ausruestung/": 2,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "waffen und ruestungen": {
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 125,
+    "/Die_Doppelseite/Technologie": 26,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 1
+  },
+  "wahre macht": {
+    "/Die_Doppelseite/Bünde": 25
+  },
+  "waldjaegerinnen": {
+    "/Die_Doppelseite/Völker/menschen/amazonen/": 26
+  },
+  "waldlaeufer": {
+    "/Spielregeln/heldengruppe/Charakterwerte": 29,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 1,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "walkueren": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Walkueren": 128,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 31,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/Völker/menschen/amazonen/Amazonasien": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "wallheim": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 127,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 2,
+    "/Die_Doppelseite/Siedlungen": 1
+  },
+  "wandernde": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25,
+    "/Die_Doppelseite/Völker/menschen/edle/Frosiamission": 1,
+    "/Die_Doppelseite/Übersicht_der_Rassen_und_Reiche": 1
+  },
+  "wandernde waende": {
+    "/Spielregeln/spielleiter/klischees/Dungeons": 25
+  },
+  "wandernden hauptstaedte": {
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 26
+  },
+  "wanderpriester": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "warme": {
+    "/Die_Doppelseite/Übernatürliches/Magie_schamanen": 26,
+    "/Die_Doppelseite/Völker/gute/halblinge/": 1,
+    "/Die_Doppelseite/Völker/menschen/edle/Frosiamission": 1
+  },
+  "warteschlangen": {
+    "/Spielregeln/spielleiter/monster/Warteschlangen": 127,
+    "/Spielregeln/spielleiter/monster/": 1
+  },
+  "warze auf der nase": {
+    "/Die_Doppelseite/Übernatürliches/Magie_hexen": 26,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 2
+  },
+  "was genau ist geschehen": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25,
+    "/Spielregeln/konflikte/Einfachekonflikte": 1
+  },
+  "was ist das weltenbuch": {
+    "/Spielregeln/Wasist": 125,
+    "/Spielregeln/": 1
+  },
+  "was kann in einer stadt alles los sein": {
+    "/Spielregeln/spielleiter/klischees/Stadt": 25
+  },
+  "was wird alles zum spielen benoetigt": {
+    "/Spielregeln/Spielmaterial": 125,
+    "/Spielregeln/": 1
+  },
+  "weinanbau": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25
+  },
+  "weinhandelskontor": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25,
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 1
+  },
+  "weinhandelskontor zur gluecklichen rebe": {
+    "/Die_Doppelseite/Völker/gute/gnome/": 25
+  },
+  "weisheit": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 26
+  },
+  "weite": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 27,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 1
+  },
+  "weitere lokalitaeten": {
+    "/Abenteuer/Leseratten/Stadtkarte": 25
+  },
+  "wellental": {
+    "/Die_Doppelseite/Geographie/Wellental": 126,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1,
+    "/Die_Doppelseite/Geographie/Rillenebene": 1
+  },
+  "weltbeschreibung": {
+    "/Die_Doppelseite/": 125
+  },
+  "weltenbastler": {
+    "/Die_Doppelseite/Bünde": 26
+  },
+  "weltenbuch": {
+    "/Spielregeln/Wasist": 79,
+    "/Die_Doppelseite/Geschichte": 3,
+    "/Die_Doppelseite/Übernatürliches/Goetter": 2,
+    "/Spielregeln/": 2,
+    "/Spielregeln/spielleiter/Erstellen": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "weltenbuchs": {
+    "/Die_Doppelseite/Geographie/": 26,
+    "/Die_Doppelseite/Geschichte": 3,
+    "/Die_Doppelseite/": 1
+  },
+  "weltenbuchstaben": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 30,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/Geographie/Lesertal": 1
+  },
+  "wendung": {
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 26
+  },
+  "wichtel": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 156,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 27,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 26,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "wichtelbank": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 28,
+    "/Die_Doppelseite/Besonderheiten/Zumfroehlichenhelden": 1,
+    "/Die_Doppelseite/Völker/gute/": 1
+  },
+  "wichtelhausen": {
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 127,
+    "/Die_Doppelseite/Siedlungen": 1,
+    "/Die_Doppelseite/Völker/gute/": 1
+  },
+  "wichteln": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 3,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelpostzentrale": 1,
+    "/Die_Doppelseite/Währung": 1
+  },
+  "wichtelpost": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 29,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelpostzentrale": 2,
+    "/Die_Doppelseite/Besonderheiten/": 1
+  },
+  "wichtelpostzentrale": {
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelpostzentrale": 127,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 3,
+    "/Die_Doppelseite/Völker/gute/wichtel/Wichtelhausen": 2,
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1
+  },
+  "wichtige": {
+    "/Die_Doppelseite/Persönlichkeiten": 75,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 27,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 27,
+    "/Die_Doppelseite/Völker/gute/wichtel/": 26,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25,
+    "/Die_Doppelseite/Völker/boese/goblins/": 25,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Völker/": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/Auendorf": 1,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 1,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 1,
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 1,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1,
+    "/Spielregeln/konflikte/": 1
+  },
+  "wichtige charaktere": {
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 27,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 1
+  },
+  "wichtige fakten": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 27,
+    "/Spielregeln/heldengruppe/Charakterwerte": 1
+  },
+  "wichtige goblins": {
+    "/Die_Doppelseite/Völker/boese/goblins/": 25
+  },
+  "wichtige persoenlichkeiten": {
+    "/Die_Doppelseite/Persönlichkeiten": 125,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcor": 25,
+    "/Die_Doppelseite/Völker/boese/echsenmenschen/Kraskia": 25,
+    "/Die_Doppelseite/Völker/menschen/hueter/Grenzreich": 25,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "wichtige wichtel": {
+    "/Die_Doppelseite/Völker/gute/wichtel/": 25
+  },
+  "wichtigste": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 76,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 2,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "wichtigste stadt": {
+    "/Die_Doppelseite/Völker/menschen/edle/Wichtigstestadt": 125,
+    "/Die_Doppelseite/Völker/menschen/edle/Ersteskaiserreich": 2,
+    "/Die_Doppelseite/Handelswege/Kaffeestrasse": 1
+  },
+  "wichtigsten": {
+    "/Die_Doppelseite/Gilden": 76,
+    "/Die_Doppelseite/": 2,
+    "/Die_Doppelseite/Bünde": 2,
+    "/Die_Doppelseite/Handelswege/": 2,
+    "/Die_Doppelseite/Völker/gute/kobolde/": 2,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 2,
+    "/Spielregeln/spielleiter/Vorbereiten": 2,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1
+  },
+  "wichtigsten gilden": {
+    "/Die_Doppelseite/Gilden": 75,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/": 1
+  },
+  "wiederauferstehung": {
+    "/Spielregeln/konflikte/Konfliktszenen": 25
+  },
+  "wildlande": {
+    "/Die_Doppelseite/Völker/menschen/wildlande/": 126,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Völker/menschen/": 1
+  },
+  "wildlanden": {
+    "/Die_Doppelseite/Geographie/Fuerchtelforst": 1,
+    "/Die_Doppelseite/Tierwelt": 1,
+    "/Die_Doppelseite/Völker/menschen/demurgon/Distrikte": 1
+  },
+  "wilma": {
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/": 25
+  },
+  "wirken": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 51,
+    "/Abenteuer/Leseratten/Daemon": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "wirtsfamilie": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unwichtigervorort": 25
+  },
+  "wissan": {
+    "/Abenteuer/Leseratten/Slc": 26,
+    "/Abenteuer/Leseratten/": 1
+  },
+  "wuerfel": {
+    "/Spielregeln/konflikte/Konfliktszenen": 64,
+    "/Spielregeln/heldengruppe/Charakterwerte": 4,
+    "/Spielregeln/Spielmaterial": 2,
+    "/Spielregeln/Wasist": 2,
+    "/Spielregeln/heldengruppe/ausruestung/Besonderes": 1
+  },
+  "wuerfeln": {
+    "/Spielregeln/konflikte/Konfliktszenen": 29
+  },
+  "wuerfelt": {
+    "/Spielregeln/konflikte/Konfliktszenen": 28,
+    "/Spielregeln/konflikte/Einfachekonflikte": 1
+  },
+  "yetieis": {
+    "/Die_Doppelseite/Völker/gute/yetis/": 26,
+    "/Die_Doppelseite/Völker/gute/halblinge/Frydia": 1
+  },
+  "yetis": {
+    "/Die_Doppelseite/Völker/gute/yetis/": 130,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 29,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 26,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 2,
+    "/Die_Doppelseite/Völker/gute/yetis/Froststadt": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "yetischwerter": {
+    "/Die_Doppelseite/Völker/gute/yetis/": 26,
+    "/Die_Doppelseite/Technologie": 1,
+    "/Spielregeln/heldengruppe/ausruestung/Waffen": 1
+  },
+  "yordig jahn": {
+    "/Die_Doppelseite/Völker/gute/yetis/Frosia": 25
+  },
+  "zaehigkeit": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 53,
+    "/Spielregeln/konflikte/Konfliktszenen": 31,
+    "/Spielregeln/heldengruppe/Charakterwerte": 28,
+    "/Spielregeln/spielleiter/Erstellen_spielleitercharaktere": 5,
+    "/Spielregeln/abenteuer/Vordemabenteuer": 2,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "zaehigkeit regenerieren": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 50
+  },
+  "zaehigkeiten": {
+    "/Spielregeln/abenteuer/Vordemabenteuer": 26
+  },
+  "zag": {
+    "/Die_Doppelseite/Völker/boese/oger/Ogersuempfe": 26
+  },
+  "zauber": {
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 26,
+    "/Abenteuer/Leseratten/Loesung": 2,
+    "/Abenteuer/Leseratten/Daemon": 1
+  },
+  "zauberer": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 129,
+    "/Spielregeln/spielleiter/klischees/Slc": 26,
+    "/Die_Doppelseite/Übernatürliches/Magie": 6,
+    "/Abenteuer/Leseratten/Nachforschungen": 2,
+    "/Die_Doppelseite/Gilden": 2,
+    "/Abenteuer/Leseratten/Slc": 1
+  },
+  "zauberer im turm": {
+    "/Spielregeln/spielleiter/klischees/Slc": 25
+  },
+  "zauberhut mit breiter krempe": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 26,
+    "/Die_Doppelseite/Gilden": 1
+  },
+  "zauberstab": {
+    "/Die_Doppelseite/Übernatürliches/Magie_zauberer": 27,
+    "/Abenteuer/Leseratten/Slc": 1,
+    "/Die_Doppelseite/Übernatürliches/Artefakte": 1
+  },
+  "zeitleiste": {
+    "/Spielregeln/spielleiter/Erstellen_verlauf": 26
+  },
+  "zeitrechnung": {
+    "/Die_Doppelseite/Zeitrechnung": 126,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Geschichte": 1
+  },
+  "zentrum": {
+    "/Abenteuer/Leseratten/Loesung": 29,
+    "/Abenteuer/Leseratten/Nachforschungen": 28,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "zentrum fuer experimentelle magie": {
+    "/Abenteuer/Leseratten/Nachforschungen": 25,
+    "/Abenteuer/Leseratten/Loesung": 3,
+    "/Abenteuer/Leseratten/Einstieg": 1
+  },
+  "zerstoerung": {
+    "/Abenteuer/Leseratten/Zerstoerung": 101,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Ende": 1
+  },
+  "zerstoerung der statue": {
+    "/Abenteuer/Leseratten/Zerstoerung": 126,
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Ende": 1
+  },
+  "zeugen des untergangs": {
+    "/Die_Doppelseite/Übernatürliches/Sekten": 26
+  },
+  "ziele": {
+    "/Spielregeln/konflikte/Konfliktszenen": 55,
+    "/Abenteuer/Leseratten/Daemon": 1,
+    "/Die_Doppelseite/Bünde": 1
+  },
+  "zigeunergras": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "zitate": {
+    "/Die_Doppelseite/Übernatürliches/Magie": 25
+  },
+  "zivilisation": {
+    "/Die_Doppelseite/": 25
+  },
+  "zoll": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 25,
+    "/Spielregeln/heldengruppe/ausruestung/Diverse": 2,
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 1
+  },
+  "zuckerabbau": {
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 27
+  },
+  "zuckerfelsen": {
+    "/Die_Doppelseite/Geographie/Zuckerfelsen": 126,
+    "/Die_Doppelseite/Völker/menschen/kuzduwueste/Rocdaacucar": 2,
+    "/Die_Doppelseite/Geographie/Rechteseite": 1
+  },
+  "zuckerstrasse": {
+    "/Die_Doppelseite/Handelswege/Zuckerstrasse": 126,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Völker/menschen/wildlande/": 1
+  },
+  "zuckertrank": {
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 26
+  },
+  "zuendholzbruecke": {
+    "/Die_Doppelseite/Geographie/Zuendholzbruecke": 126,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Chemien": 2,
+    "/Die_Doppelseite/Völker/menschen/wildlande/Freidorf": 2,
+    "/Die_Doppelseite/Geographie/": 1
+  },
+  "zufaellige entdeckung eines dungeons": {
+    "/Spielregeln/spielleiter/klischees/Reisen": 25
+  },
+  "zwei": {
+    "/Die_Doppelseite/Übernatürliches/Kirchen": 3,
+    "/Spielregeln/heldengruppe/Charakterwerte": 3,
+    "/Spielregeln/konflikte/Konfliktszenen": 3,
+    "/Spielregeln/spielleiter/Erstellen_parteien": 3,
+    "/Abenteuer/Leseratten/Kanalisation": 2,
+    "/Die_Doppelseite/Völker/boese/trolle/": 2,
+    "/Die_Doppelseite/Völker/gute/gnome/Rhyllien": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Unistadt": 2,
+    "/Spielregeln/abenteuer/Ablaufeinerszene": 2,
+    "/Spielregeln/abenteuer/Nachdemabenteuer": 2,
+    "/Abenteuer/Leseratten/Daemon": 1,
+    "/Abenteuer/Leseratten/Loesung": 1,
+    "/Abenteuer/Leseratten/Nachforschungen": 1,
+    "/Die_Doppelseite/Geographie/Linkeseite": 1,
+    "/Die_Doppelseite/Handelswege/": 1,
+    "/Die_Doppelseite/Handelswege/Neuestrasse": 1,
+    "/Die_Doppelseite/Tierwelt": 1,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/": 1,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1
+  },
+  "zweite": {
+    "/Abenteuer/Leseratten/": 1,
+    "/Abenteuer/Leseratten/Nachforschungen": 1,
+    "/Die_Doppelseite/Geographie/Rinnsal": 1
+  },
+  "zweiten": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/": 79,
+    "/Die_Doppelseite/Persönlichkeiten": 3,
+    "/Die_Doppelseite/Völker/menschen/": 2,
+    "/Die_Doppelseite/": 1
+  },
+  "zweites": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 75,
+    "/Die_Doppelseite/Geographie/Lesertal": 1,
+    "/Die_Doppelseite/Geographie/Moglidschungel": 1
+  },
+  "zweites menschenreich": {
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Zweitesmenschenreich": 125,
+    "/Die_Doppelseite/Geographie/Lesertal": 1,
+    "/Die_Doppelseite/Geographie/Moglidschungel": 1
+  },
+  "zwerge": {
+    "/Die_Doppelseite/Völker/gute/zwerge/": 132,
+    "/Die_Doppelseite/Geschichte": 30,
+    "/Spielregeln/heldengruppe/Charaktere_namen": 27,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 25,
+    "/Die_Doppelseite/Technologie": 5,
+    "/Die_Doppelseite/Geographie/Bleistiftberg": 2,
+    "/Die_Doppelseite/Geographie/Broeselgebirge": 2,
+    "/Die_Doppelseite/Geographie/Eselsohrgebirge": 2,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 2,
+    "/Die_Doppelseite/Völker/gute/": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Völker/menschen/edle/Glorantia": 2,
+    "/Die_Doppelseite/": 1,
+    "/Die_Doppelseite/Besonderheiten/": 1,
+    "/Die_Doppelseite/Gilden": 1,
+    "/Die_Doppelseite/Sprachen": 1,
+    "/Die_Doppelseite/Völker/boese/goblins/": 1,
+    "/Die_Doppelseite/Völker/boese/trolle/": 1,
+    "/Die_Doppelseite/Völker/gute/elfen/": 1,
+    "/Die_Doppelseite/Völker/gute/gnome/": 1
+  },
+  "zwergenbahn": {
+    "/Die_Doppelseite/Völker/gute/zwerge/Zwergenbahn": 151,
+    "/Die_Doppelseite/Handelswege/": 28,
+    "/Die_Doppelseite/Technologie": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/": 2,
+    "/Die_Doppelseite/Völker/gute/zwerge/Bleistiftminen": 2,
+    "/Die_Doppelseite/Völker/menschen/ewigezweiten/Legendaerestadt": 2,
+    "/Die_Doppelseite/Besonderheiten/Kaffeefahrten": 1
+  },
+  "zwergenminen": {
+    "/Die_Doppelseite/Siedlungen": 25,
+    "/Die_Doppelseite/Völker/boese/dunkelelfen/Darcid": 1,
+    "/Spielregeln/heldengruppe/Charaktere_klischees": 1
+  },
+  "zwergisch": {
+    "/Die_Doppelseite/Sprachen": 26
+  },
+  "zwiebelfische": {
+    "/Die_Doppelseite/Tierwelt": 25
+  },
+  "zwischen": {
+    "/Die_Doppelseite/Geschichte": 28,
+    "/Die_Doppelseite/Völker/boese/orks/": 2,
+    "/Die_Doppelseite/Völker/menschen/barbarischeunion/Wallheim": 2,
+    "/Die_Doppelseite/Völker/menschen/demurgon/": 2,
+    "/Spielregeln/heldengruppe/ausruestung/Kraeuter": 2,
+    "/Abenteuer/Leseratten/Nachforschungen": 1
+  },
+  "zwischenseite": {
+    "/Die_Doppelseite/Unterseite/": 26,
+    "/Die_Doppelseite/Unterseite/Dämonen": 1
+  },
+  "zwitro herrscher der hoelle": {
+    "/Die_Doppelseite/Unterseite/Dämonen": 25
+  }
+}

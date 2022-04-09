@@ -1,7 +1,7 @@
 name: test
 on:
-  #push:
-  #  branches: [ master ]
+  push:
+    branches: [ master ]
 
 jobs:
   test:
@@ -11,5 +11,5 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - name: check
-      run: .scripts/check.sh
+    #- name: check
+    #  run: .scripts/check.sh
