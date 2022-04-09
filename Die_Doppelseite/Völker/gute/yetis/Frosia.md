@@ -6,7 +6,7 @@ title: Frosia
 
 # Frosia
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/wappen/nrm/frosia.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/nrm/frosia.jpg" />
 Frosia ist das eisige Reich der Yetis, das die komplette Eiswüste Tippex umfasst. Das Familienunternehmen mit dem größten Eisumsatz stellt die zwei Oberhäupter der Yetigesellschaft, diese werden am Ende jedes Geschäftsjahres neu bestimmt. Frosia ist ein friedliebendes Reich, das vor allem an den Handel denkt. Dieses Reich schafft es aber auch recht schnell eine schlagkräftige Armee aus dem Eis zu heben, was verfeindete Völker, wie die Barbaren, schon des Öfteren miterlebt haben.
 
 ## Oberhäupter

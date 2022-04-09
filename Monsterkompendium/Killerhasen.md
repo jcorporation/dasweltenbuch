@@ -6,7 +6,7 @@ title: Killerhasen
 
 # Killerhasen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/killerhase.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/killerhase.jpg"/>
 
 <p>Die Killerhasen sind eine Mutation des normalen Feldhasen. Diese Mutation wurde vermutlich von einem übermütigen Magier hervorgerufen, der mit einer neuen Zauberkategorie, der Genmanipulation, experimentierte. Von weitem sehen die Killerhasen genauso wie ihre harmlosen Verwandten aus, schaut man aber genauer hin, erkennt man Reißzähne und scharfe Krallen, die sie wie Katzen einfahren können.<br/>
 Sie leben bevorzugt in kleinen Wäldchen in Erdlöchern, die an Fuchsbauten erinnern, nur dass diese Erdlöcher ein unterirdisches Labyrinth bilden. In solchen unterirdischen Bauten können bis zu 30 Killerhasen leben.</p>

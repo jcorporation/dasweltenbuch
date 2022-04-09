@@ -6,7 +6,7 @@ title: Giftzwerge
 
 # Giftzwerge
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/giftzwerg.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/giftzwerg.jpg" />
 
 Giftzwerge sind kleine, giftige Dämonen niederer Stufe. Sie fühlen sich aber zu etwas Besserem berufen, als nur die Drecksarbeit für die mächtigeren Dämonen zu erledigen. Sie ärgern sich besonders, wenn sie beschworen werden, und giften ihren Beschwörer aufs heftige an. Aus diesem Grund ist die Beschwörung von Giftzwergen eine beliebte Strafarbeit für Schamanenschüler, weil so ein Giftzwerg jedem den Tag vermiest.
 

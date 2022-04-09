@@ -6,7 +6,7 @@ title: Kleinkari
 
 # Kleinkari
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/wappen/nrm/kleinkari.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/nrm/kleinkari.jpg" />
 Kleinkari ist das Reich der Graphitgrafen am spitzen Ende des Bleistiftberges. Es hat schon seit Jahrhunderten keinen König mehr. Die Grafen bekriegen sich, seit der letzte König kinderlos verstorben ist. Der Krieg macht sich momentan aber nur durch kleinere Gemetzel und Überfälle bemerkbar, die einfach zu ehrlichen und engagierten Königswahlen dazugehören. Das Reich ist in einem etwas chaotischen Zustand. Deshalb ist Kleinkari größtenteils mit sich selber beschäftigt und kümmert sich kaum um die politischen Belange und Beziehungen mit anderen Reichen, außer ein Graf sieht darin einen Vorteil für sich.
 
 ## Graphitgrafen

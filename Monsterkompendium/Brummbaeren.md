@@ -6,7 +6,7 @@ title: Brummbären
 
 # Brummbären
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/brummbaer.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/brummbaer.jpg"/>
 
 Brummbären sind die größte Bärenrasse der Doppelseite. Aufgerichtet überragen sie auch den größten Barbaren deutlich und können sogar auf Yetis herabsehen (wenn auch nur ein bisschen). Mit einem Gewicht von 800 kg, ihrem dicken braunen Pelz, scharfen Klauen und spitzen Zähnen sind sie wahre Kampfmaschinen.
 

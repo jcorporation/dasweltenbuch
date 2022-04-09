@@ -6,7 +6,7 @@ title: Blutwespen
 
 # Blutwespen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/blutwespe.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/blutwespe.jpg"/>
 
 Blutwespen sind eine äußerst angriffslustige Wespenart. Sie sind etwas größer als normale Wespen und im Gegensatz zu diesen rot-schwarz gemustert, ansonsten unterscheiden sie sich äußerlich kaum von ihren Verwandten. Mit ihrem Stachel können sie zwar kein Gift injizieren, dafür aber Blut saugen. Da sie meist in sehr großer Zahl auftreten und beliebig oft zustechen können, stellen sie eine große Gefahr dar.
 

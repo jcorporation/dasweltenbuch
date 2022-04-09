@@ -6,7 +6,7 @@ title: Barbarische Union
 
 # Barbarische Union
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/wappen/nrm/barbarischeunion.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/nrm/barbarischeunion.jpg" />
 Die Barbarische Union ist das Reich der wilden Barbaren und der fülligen Walküren. Zur Zeit der letzten großen Schlacht gegen das Böse schlossen sich das Reich der Barbaren und das der Walküren zu einem großen Reich zusammen. Davor bestimmte schon eine enge Zusammenarbeit die Politik dieser beiden Reiche. In der Barbarischen Union herrscht ein raues, nordisches Klima, der Winter ist lang und hart. An den küstennahen Gebieten herrscht ein eisiger Wind und an der Grenze zu Frosia gibt es kaum Plusgrade und der Schnee schmilzt nur selten.
 
 Die Barbarische Union ist für ihre Ausfälle, und Streitereien mit den Nachbarreichen bekannt. Die Ausfälle werden meist von den mächtigen Barbaren angeführt und von den Walküren geplant. Die gelegentlichen Überfälle werden von den anderen Reichen akzeptiert, da sie auf das Wohlwollen der Barbarischen Union angewiesen sind. Denn nur am Kopf der Zündholzbrücke sind viele wichtige alchemistische Rohstoffe in ausreichenden Mengen vorhanden. Ohnehin greifen die Barbaren meist die Trolle an, da hier am meisten Rum zu holen ist. 

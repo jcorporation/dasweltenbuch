@@ -14,4 +14,3 @@ title: Was wird alles zum Spielen benötigt?
 - Zehn gleiche Würfel mit gerader Seitenzahl pro Spieler
 - Einen 6-, einen 10- und einen 20-seitigen Würfel für diverse Tabellen
 - Ein paar Schmierzettel
-

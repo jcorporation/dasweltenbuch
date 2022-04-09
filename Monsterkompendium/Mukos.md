@@ -6,7 +6,7 @@ title: Mukos
 
 # Mukos
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/muko.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/muko.jpg" />
 
 Mukos leben in der Eiswüste Tippex und ähneln einer Mischung aus Pferd und Lama. Sie besitzen ein dichtes, zottiges Fell von meist weißer oder brauner Farbe, und werden zwischen zwei und drei Metern hoch.
 

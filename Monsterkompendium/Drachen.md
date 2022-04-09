@@ -6,7 +6,7 @@ title: Drachen
 
 # Drachen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/drache.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/drache.jpg" />
 
 Drachen sind riesige, fliegende Echsen mit gigantischen Flügeln. Ihr Körper ist von widerstandsfähigen Schuppen umhüllt, ihre Gliedmaßen enden in scharfen Krallen. Einige Drachen verfügen zudem über Hörner oder einen Feueratem.
 
@@ -43,7 +43,7 @@ Schwanzschlag: 14 (x2)</td></tr>
 </table>
 ## Hausdrachen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/hausdrache.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/hausdrache.jpg" />
 
 <p>Hausdrachen sind eine kleine Drachenart, sie werden ohne Schwanz in etwa so groß wie Terrier. Hausdrachen können, wie ihre großen Verwandten, fliegen und auch Feuer spucken, sind aber lange nicht so intelligent. Sie besitzen widerstandsfähige Schuppen in den schillernsten Farben.<br/>
  <br/>
@@ -76,7 +76,7 @@ Schwanzschlag: 10 (x2)</td></tr>
 </table>
 ## Der lethargische Drache
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/lethargischerdrache.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/lethargischerdrache.jpg" />
 
 Diese spezielle Drachenart ist, wie ihr Name schon ahnen lässt, äußerst gelangweilt und antriebslos. Wie die lethargischen Drachen überleben konnten, ist sehr rätselhaft, Gerüchten zufolge sind sie einfach zu faul zum Sterben. Im Gegensatz zu normalen Drachen haben die lethargischen Drachen auch keine Lust, Schätze zu sammeln oder Jungfrauen als Köder zu entführen. Sie warten antriebslos in ihren Höhlen auf den nächstbesten Wanderer und begnügen sich damit, ihnen etwas Angst zu machen, damit mal wieder ein Ritter vorbeigeschickt wird.
 

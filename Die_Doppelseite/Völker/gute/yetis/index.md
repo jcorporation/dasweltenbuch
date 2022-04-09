@@ -6,7 +6,7 @@ title: Yetis
 
 # Yetis
 
-<img alt="" height="500" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/rassen/nrm/yeti2.jpg" width="374" />
+<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/nrm/yeti2.jpg" width="374" />
 Die Yetis leben in der Eiswüste Tippex, in ihrem eigenen Reich Frosia, das von ewigem Eis, Kälte und Schneestürmen geprägt ist. Eben eine angenehme Gegend für Yetis. Ihnen ist die eisige Kälte der Eiswüste wesentlich lieber als normale Temperaturen. Sie haben einen florierenden Eishandel aufgezogen, der alle Teile der Doppelseite umfasst, ihre Spezialität ist Zitroneneis. Die meisten Yetis sind in ihrer Hauptstadt Froststadt anzutreffen. Yetis leben in einer gleichberechtigten familiären Gesellschaft. Die Familienmitglieder arbeiten so gut wie immer im gleichen Familienunternehmen und wohnen alle unter einem Dach. Yetis werden bis zu 150 Jahre alt und behalten die ganze Zeit ihr weißes Fell, so dass man einem Yeti das Alter kaum ansieht. Yetis ernähren sich hauptsächlich von Fleisch und Fisch.
 
 ### Erscheinungsbild

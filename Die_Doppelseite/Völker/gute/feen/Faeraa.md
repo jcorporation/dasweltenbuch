@@ -6,7 +6,7 @@ title: Färaa
 
 # Färaa
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/wappen/nrm/faeraa.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/nrm/faeraa.jpg" />
 Färaa ist das Reich der Feen im rechten Ausläufer des Elfenwaldes. Die Feen haben ein gutes Verhältnis zu ihren Nachbarn, den Elfen, Gnomen und Halblingen. Innerhalb dieses Reiches gibt es viele kleinere Siedlungen der Feen. Es gibt kein gewähltes Oberhaupt, weder innerhalb der Familie noch über die komplette Rasse hinweg. Politik ist ein Fremdwort für die Feen.
 
 Im Gegensatz zum restlichen Elfenwald ist Färaa, dank der Feen, nicht ganz so idyllisch und ruhig. Sie sind immer munter und aktiv und schwirren im Wald herum. Aus diesem Grund meiden die meisten Wanderer diesen Teil des Elfenwalds.

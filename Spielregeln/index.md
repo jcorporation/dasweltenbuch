@@ -8,65 +8,55 @@ title: Spielregeln
 
 Dieses Kapitel beschreibt die Regeln des Weltenbuchs. Im ersten Teil geht es um die Heldengruppe, darin wird beschrieben, wie die Spieler in wenigen Minuten ihre Charaktere erschaffen können. Auch die Ausrüstungslisten befinden sich hier. Im zweiten Teil geht es um den Ablauf eines Abenteuers und wie Konflikte aufgelöst werden können, egal ob es sich um einen Handel, eine Kneipenschlägerei oder ein Kampf gegen einen Drachen handelt. Abschließend wird noch erklärt, wie der Spielleiter Abenteuer vorbereiten und eigene Abenteuer schreiben kann.
 
-- [Was ist das Weltenbuch?]({{ site.baseurl }}/Regelwerkv2/Wasist)
-- [Was wird alles zum Spielen benötigt?]({{ site.baseurl }}/Regelwerkv2/Spielmaterial)
-- [Vor dem Spiel]({{ site.baseurl }}/Regelwerkv2/Vordemspiel)
+- [Was ist das Weltenbuch?]({{ site.baseurl }}/Spielregeln/Was_ist)
+- [Was wird alles zum Spielen benötigt?]({{ site.baseurl }}/Spielregeln/Spielmaterial)
+- [Vor dem Spiel]({{ site.baseurl }}/Spielregeln/Vor_dem_Spiel)
 
-<div class="col">
+{% capture include_col1 %}
 ## Heldengruppe
 
-<li>[Die Charaktere]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Charaktere)
-- [Klischees]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Charaktere_klischees)
-- [Namen]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Charaktere_namen)
+- [Die Charaktere]({{ site.baseurl }}/Spielregeln/Heldengruppe/Charaktere)
+  - [Klischees]({{ site.baseurl }}/Spielregeln/Heldengruppe/Charakterklischees)
+  - [Namen]({{ site.baseurl }}/Spielregeln/Heldengruppe/Charakternamen)
+- [Charakterwerte]({{ site.baseurl }}/Spielregeln/Heldengruppe/Charakterwerte)
+- [Ausrüstung]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/)
+  - [Waffen und Rüstungen]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Waffen)
+  - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Diverse)
+  - [Besondere Ausrüstung]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Besonderes)
+  - [Heilkräuter und Gifte]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kraeuter)
+- [Beispielcharaktere]({{ site.baseurl }}/Spielregeln/Heldengruppe/Beispielcharaktere)
+{% endcapture %}
 
-</li>
-- [Charakterwerte]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Charakterwerte)
-<li>[Ausrüstung]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Ausruestung)
-- [Waffen und Rüstungen]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Ausruestung/Waffen)
-- [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Ausruestung/Diverse)
-- [Besondere Ausrüstung]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Ausruestung/Besonderes)
-- [Heilkräuter und Gifte]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Ausruestung/Kraeuter)
-
-</li>
-- [Beispielcharaktere]({{ site.baseurl }}/Regelwerkv2/Heldengruppe/Beispielcharaktere)
-
-</div>
-<div class="col">
+{% capture include_col2 %}
 ## Abenteuer erleben
 
-<li>[Abenteuer]({{ site.baseurl }}/Regelwerkv2/Abenteuer)
-- [Vor dem Abenteuer]({{ site.baseurl }}/Regelwerkv2/Abenteuer/Vordemabenteuer)
-- [Gliederung des Abenteuers]({{ site.baseurl }}/Regelwerkv2/Abenteuer/Gliederung)
-- [Ablauf einer Szene]({{ site.baseurl }}/Regelwerkv2/Abenteuer/Ablaufeinerszene)
-- [Nach dem Abenteuer]({{ site.baseurl }}/Regelwerkv2/Abenteuer/Nachdemabenteuer)
+- [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer)
+  - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vordemabenteuer)
+  - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
+  - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablaufeinerszene)
+  - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nachdemabenteuer)
 
-</li>
-<li>[Konflikte]({{ site.baseurl }}/Regelwerkv2/Konflikte)
-- [Konfliktszenen]({{ site.baseurl }}/Regelwerkv2/Konflikte/Konfliktszenen)
-- [Einfache Konflikte]({{ site.baseurl }}/Regelwerkv2/Konflikte/Einfachekonflikte)
+- [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte)
+  - [Konfliktszenen]({{ site.baseurl }}/Spielregeln/Konflikte/Konfliktszenen)
+  - [Einfache Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/Einfachekonflikte)
+{% endcapture %}
 
-</li>
-
-</div>
-<div class="col">
+{% capture include_col3 %}
 ## Spielleiter
 
-- [Abenteuer vorbereiten]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Vorbereiten)
-<li>[Abenteuer erstellen]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen)
-- [Verlauf]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_verlauf)
-- [Schauplätze]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_schauplaetze)
-- [Parteien]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_parteien)
-- [Spielleitercharaktere]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_spielleitercharaktere)
+- [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Vorbereiten)
+- [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen)
+  - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_verlauf)
+  - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_schauplaetze)
+  - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_parteien)
+  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_spielleitercharaktere)
+- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/)
+- [Monster]({{ site.baseurl }}/Spielregeln/Spielleiter/Monster)
+- [Dämonen]({{ site.baseurl }}/Spielregeln/Spielleiter/Daemonen)
+{% endcapture %}
 
-</li>
-- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/)
-- [Monster]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Monster)
-- [Dämonen]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Daemonen)
-
-</div>
+{% include columns3.md col1=include_col1 col2=include_col2 col3=include_col3 %}
 
 ***
-Dies ist die zweite und aktuelle Version der Weltenbuch Regeln, diese basieren auf [Lite]({{ site.baseurl }}//Lite).
 
-- [Regelwerk der 1. Version]({{ site.baseurl }}/V1)
-
+Die Spielregeln basieren auf [Lite](https://lite.jcgames.de/).

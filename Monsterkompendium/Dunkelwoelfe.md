@@ -6,7 +6,7 @@ title: Dunkelwölfe
 
 # Dunkelwölfe
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/dunkelwolf.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/dunkelwolf.jpg"/>
 
 Dunkelwölfe sind eine besonders große, gefährliche und böse Wolfsart, die ihrem Namen nicht nur ihrem grau-schwarzen Fell verdanken, sondern auch der Tatsache, dass sie von den Dunkelelfen gezüchtet wurden. Ausgewachsene Exemplare erreichen teilweise die Größe eines Ponys, ohne dadurch aber an Geschick einzubüßen. Ihre Zähne und Klauen sind scharf und spitz. Dunkelwölfe können nachts zwar bestens sehen, verlassen sich aber dennoch vorrangig auf ihren Geruch und sind dadurch geborene Jäger, die sich sowohl im Wald als auch in Dungeons sehr gut zurechtfinden.
 

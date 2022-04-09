@@ -6,7 +6,7 @@ title: Eiswürmer
 
 # Eiswürmer
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/eiswurm.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/eiswurm.jpg"/>
 
 Die Eiswürmer sind eine Unterart der Bücherwürmer, aber wesentlich kleiner &ndash; sie werden lediglich bis zu 200 m lang und 14 m dick. Sie sind blind und verfügen noch nicht einmal über Ansätze für Augen, aber dafür sind ihre anderen Sinne wesentlich schärfer. Ihr Hautfarbe ist ihrer Umgebung angepasst grau- bis grellweiß.
 

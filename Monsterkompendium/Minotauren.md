@@ -6,7 +6,7 @@ title: Minotauren
 
 # Minotauren
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/minotaure.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/minotaure.jpg"/>
 
 Minotauren besitzen einen Menschenkörper, Stierbeine und einen Stierkopf mit gefährlichen Hörnern. Sie haben meist nur rudimentäre Fellkleidung an und gehen aufrecht. Ihr Fell ist meist braunschwarz, wie auch ihre Haut.
 

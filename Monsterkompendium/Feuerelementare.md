@@ -6,7 +6,7 @@ title: Feuerelementare
 
 # Feuerelementare
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/feuerelementar.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/feuerelementar.jpg" />
 
 Feuerelementare bestehen aus purem Feuer und ähneln laufenden Flammen. Als Wesen aus Flammen sind Feuerelementare gegen die meisten Waffen immun, aber alles, was ein Feuer löscht, kann auch ihnen gefährlich werden. Sie bringen alles zum Brennen, was sie berühren und besonders mächtige Feuerelementare schmelzen auch Schwerter.
 

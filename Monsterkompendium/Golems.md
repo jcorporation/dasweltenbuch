@@ -6,7 +6,7 @@ title: Golems
 
 # Golems
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/golem.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/golem.jpg" />
 
 Golems sind eine künstliche Lebensform, geschaffen von Zauberern oder Schamanen, die zu faul waren, körperliche Tätigkeiten auszuführen. Sie erschufen aus Lehm, Stein und einer Priese Runenmagie Golems. Golems besitzen die unterschiedlichsten Ausmaße und Farben.
 

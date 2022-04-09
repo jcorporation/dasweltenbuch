@@ -6,7 +6,7 @@ title: Eisvögel
 
 # Eisvögel
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/eisvogel.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/eisvogel.jpg" />
 
 Eisvögel bestehen ganz und gar aus Eis, weshalb man sie in Tippex, ihrer natürlichen Umgebung, nur sehr schwer entdecken kann. Anstatt von Körperwärme strahlen sie Körperkälte ab, so dass es in ihrer Umgebung immer eisig kalt ist. Solange sie dort bleiben, stört das allerdings (außer ein paar Yetis vielleicht) niemanden weiter. Wenn sie sie aber verlassen, folgt ihnen die Kälte und verursacht lange, harte Winter und Missernten in den südlicheren Regionen.
 

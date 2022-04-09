@@ -6,7 +6,7 @@ title: Stubenfliegen
 
 # Stubenfliegen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/stubenfliege.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/stubenfliege.jpg"/>
 
 Stubenfliegen sind etwas kleiner als Drachen und können auch kein Feuer spucken. Ihr dicker Panzer macht sie nahezu unverwundbar. Sie sehen exakt so aus wie viel zu groß geratene Stubenfliegen.
 

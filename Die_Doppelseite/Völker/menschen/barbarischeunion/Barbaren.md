@@ -6,7 +6,7 @@ title: Barbaren
 
 # Barbaren
 
-<img alt="" height="500" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/rassen/nrm/barbar.jpg" width="193" />
+<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/nrm/barbar.jpg" width="193" />
 Die Barbaren sind ein raues und barbarisches Volk. Die meiste Zeit widmen sie sich dem Kampf und der Verstärkung ihrer Wälle. Die Politik überlassen sie lieber den Walküren, im Gegenzug übernehmen sie dafür die Überfälle auf die anderen Reiche. Sie leben in kleineren Siedlungen im westlichen Teil der Barbarischen Union.
 
 ### Erscheinungsbild

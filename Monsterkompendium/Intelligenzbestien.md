@@ -6,7 +6,7 @@ title: Intelligenzbestien
 
 # Intelligenzbestien
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/intelligenzbestie.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/intelligenzbestie.jpg" />
 
 Die Intelligenzbestie ist ein kleiner, recht flacher Fellknäuel, der seine Fellfarbe der Umgebung anpassen kann. Intelligenzbestien leben vornehmlich auf Bäumen oder in hoch gewachsenen Gebüschen. Sie besitzen auf der Unterseite einen Rüssel und kleine Saugnäpfe.
 

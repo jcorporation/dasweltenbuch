@@ -6,7 +6,7 @@ title: Silberfische
 
 # Silberfische
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/silberfisch.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/silberfisch.jpg"/>
 
 Silberfische sind große, flinke und lichtscheue Insekten. Sie können die Länge von Pferden erreichen, sind aber maximal einen Meter hoch. Sie besitzen metallisch glänzende Schuppen, fadenförmige Fühler und sechs Beine.
 

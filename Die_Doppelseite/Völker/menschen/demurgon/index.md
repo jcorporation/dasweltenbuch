@@ -6,7 +6,7 @@ title: De-Murgon
 
 # De-Murgon
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/wappen/nrm/demurgon.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/nrm/demurgon.jpg" />
 De-Murgon ist das Reich des bösen Überkriegsherrn De-Murgon XII., der es von der Bösen Festung aus regiert. Es liegt zwischen Dar-Cor und dem Grenzreich am linken Rand des Lesezeichengebirges. In diesem Reich tummeln sich viele Antihelden und sonstigen Personen, die anderswo nicht länger willkommen sind. De-Murgon unterhält sehr gute Beziehungen zu Kreuzstadt, Freidorf und den Nomaden der Kuzduwüste. Es wird auch behauptet, dass dieses Reich sogar Beziehungen zu den bösen Völkern der Doppelseite pflegt, dies konnte aber bis jetzt noch nicht nachgewiesen werden.
 
 De-Murgon ist intern sehr zerstritten und unbeständig. Einzig die Außenpolitik des Reiches ist gleichbleibend aggressiv, und der aktuelle Überkriegsherr ist immer bestrebt, sein Reich zu erweitern. Dadurch sind die angrenzenden Reiche zwar nicht wirklich in Gefahr, aber es verbessert ihre Meinung von De-Murgon auch nicht gerade. Es gibt so gut wie keine diplomatischen Beziehungen zwischen De-Murgon und den anderen Reichen. Es ist allerdings schon vorgekommen, dass das Grenzreich, mit Hilfe der anderen Menschenreiche, einen Kriegsherr gestürzt hat, wenn seine Ambitionen zu gefährlich und offensichtlich waren. Es sind zudem Gerüchte im Umlauf, wonach sich einer der bösen Kriegsherren mit einer bösen Rasse verbündet habe.

@@ -6,7 +6,7 @@ title: Stachelbären
 
 # Stachelbären
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/stachelbaer.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/stachelbaer.jpg"/>
 
 Stachelbären sind eine kleine, untersetzte Bärenrasse. Im Gegensatz zu anderen Bären sind sie nicht mit Pelz bedeckt, sondern mit igelähnlichen Stacheln. Ihre Haut ist braun und ihre Stacheln braun-grau. Sie können ihre, normalerweise angelegten Stacheln, aufstellen, wodurch sie wesentlich größer und gefährlicher wirken.
 

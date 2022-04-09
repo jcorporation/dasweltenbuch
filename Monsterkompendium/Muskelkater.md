@@ -6,7 +6,7 @@ title: Muskelkater
 
 # Muskelkater
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/muskelkater.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/muskelkater.jpg"/>
 
 Muskelkater sind in etwa so groß wie ein Panther, bedingt durch ihre Muskeln allerdings etwas schwerfälliger und weniger agil. Die schwarz-dunkelviolett gestreiften Katzen sind überaus muskulös und jagen, anders als Panther oder Tiger, im Rudel.
 

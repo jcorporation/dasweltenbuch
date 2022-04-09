@@ -6,7 +6,7 @@ title: Weiße Wichtel
 
 # Weiße Wichtel
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/weisserwichtel.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/weisserwichtel.jpg" />
 
 Die Weißen Wichtel sind gefürchtete Untote, die von Kultisten Radiergummis aus den Leichnamen von Wichteln erschaffen werden. Sie sind vollkommen weiß, an ihnen ist auch nicht das kleinste bisschen Farbe oder Schmutz zu entdecken. Zudem bleichen sie auch alles um sich herum aus, bis es aus dem Weltenbuch verschwunden ist und nur die reine, weiße Seite übrigbleibt. (Ausnahme: Andere Wichtel, die in diesem Fall ebenfalls zu Weißen Wichteln werden) Einige skrupellose Wäschereimagier nutzen die Weißen Wichtel deshalb, um Wäsche weißer als weiß zu waschen. Zudem können sie auch alles in ihrer Umgebung weichspülen, so dass es keinen Widerstand mehr leistet.
 

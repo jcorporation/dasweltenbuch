@@ -6,7 +6,7 @@ title: Leseratten
 
 # Leseratten
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/leseratte.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/leseratte.jpg" />
 
 In den großen Städten lebt eine irrwitzige Anzahl von Leseratten. Wie sich diese in der Evolution durchsetzen konnte, ist bis heute ein großes Rätsel. Durch das Lesen im schummrigen Licht werden ihre Augen mit zunehmendem Alter immer schlechter, bis sie schließlich erblinden. Sie rennen regelmäßig gegen Mauern und haben deswegen auch eine etwas plattere Vorderseite als normale Ratten.
 

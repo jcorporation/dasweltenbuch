@@ -7,7 +7,7 @@ title: Wichtel
 # Wichtel
 
 <br/>
-<img alt="" height="500" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/rassen/nrm/wichtel.jpg" width="337" />
+<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/nrm/wichtel.jpg" width="337" />
 Die Wichtel sind die eifrigsten Arbeiter auf der Doppelseite. Bekannt sind die Wichtel durch ihre Erfindung, die die ganze Welt prägt: die Wichtelpost. Wichtel sind überall gern gesehen und genießen eine einzigartige Unabhängigkeit. Kein ehrenwerter Bürger würde jemals einen Wichtel angreifen, es haben sogar schon edle Ritter ihr Leben gelassen, um einen Wichtel vor bösen Monstern zu beschützen. Die Wichtel besitzen keine in sich abgeschlossenen Gemeinschaften, vielmehr gehören alle Wichtel einer großen Gesellschaft an. Jeder Wichtel ist bei jedem anderen Wichtel willkommen. Sie halten grundsätzlich zusammen. Die Wichtel besitzen kein eigenes Reich, vielmehr leben sie verstreut auf der ganzen Doppelseite in den kleinen und großen Städten der Menschen. Trotz ihrer geringen Größe finden sie sich in den Städten gut zurecht und haben eine gute Beziehung zu allen anderen Rassen, da sie als sehr fleißig gelten. Meist leben sie in einem eigenen Stadtviertel, in dem die Größe der Häuser ihrer Körpergröße angepasst ist. Diese Stadtviertel sind häufig die saubersten, sogar eine Walküre hätte daran nichts mehr auszusetzen. In den Städten arbeitet der Großteil der Wichtel bei der Wichtelpost oder bei der Wichtelbank. Sie sind aber auch bei Hofe als Diener sehr beliebt. Ein Wichtel hatte noch nie ein Problem, eine gutbezahlte Arbeitsstelle zu finden. Die Wichtel werden bis zu 40 Jahre alt.
 
 ### Erscheinungsbild

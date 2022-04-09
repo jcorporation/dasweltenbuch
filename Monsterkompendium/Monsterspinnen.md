@@ -6,7 +6,7 @@ title: Monsterspinnen
 
 # Monsterspinnen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/monsterspinne.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/monsterspinne.jpg" />
 
 Monsterspinnen sind, wie der Namen schon andeutet, monströse Spinnen. Ihr Körper allein ist so umfangreich wie der eines Pferdes, doch aufgrund ihrer langen Beine sind sie wesentlich höher &ndash; Pferd nebst Reiter können bequem unter ihnen hindurchtraben. Farblich unterscheiden sie sich stark, es gibt fast jede bekannte Spinnenart in Monstergröße.
 

@@ -6,7 +6,7 @@ title: Riesenbasilisken
 
 # Riesenbasilisken
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/riesenbasilisk.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/riesenbasilisk.jpg"/>
 
 Der Riesenbasilisk ist eine menschengroße Echsenart, die mit Schwanz 5-6 Meter lang ist. Er besitzt einen farbenfrohen Kamm, der sich auf dem Rücken und dem Schwanz entlang zieht, ansonsten ist seine schuppige Haut in dunklen Tönen gehalten. Es gibt auch Riesenbasilisken, die wie Chamäleons, ihre Hautfarbe der Umgebung anpassen können.
 

@@ -6,7 +6,7 @@ title: Wasserelementare
 
 # Wasserelementare
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/wasserelementar.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/wasserelementar.jpg"/>
 
 Wasserelementare sind Elementare aus purem Wasser. Sie treten vor allem in der Nähe von großen Gewässern und reißenden Flüssen auf, sind aber nicht natürlichen Ursprungs. Wasserelementare hassen das Feuer und versuchen jedes noch so kleine Feuer zu löschen. Sie besitzen meist einen humanoiden Körper, der umso größer ist, je mächtiger der Wasserelementar ist.
 

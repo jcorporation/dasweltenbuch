@@ -6,7 +6,7 @@ title: Die (ewigen) Zweiten
 
 # Die (ewigen) Zweiten
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/rassen/nrm/menschen-zweiter.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/rassen/nrm/menschen-zweiter.jpg" />
 Die (ewigen) Zweiten leben im Zweiten Menschenreich. Die letzten Jahrhunderte wurden von der Konkurrenz zu den Edlen geprägt. Es gibt zwar keinen offenen Streit zwischen beiden Ländern, die besten Freunde sind sie aber auch nicht.
 
 Die Zweiten haben mit der Unistadt und der Legendären Stadt zwei der wichtigsten Städte der Doppelseite erbaut. Bei ihnen zählt ein Adelstitel nicht viel, für den eigenen Status sind einzig Vermögen und Einfluss entscheidend. So können auch kleine Händler Großes schaffen und in höchste Gesellschaftskreise aufsteigen.

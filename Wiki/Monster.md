@@ -16,7 +16,7 @@ Sie leben in kleinen Sippen, **sogenannten Zyklopädien**, zusammen und haben ke
 
 ## Killerwal
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/misc2/tn2/killerwal.png" />
+<img alt="" src="{{ site.baseurl }}/assets/images/misc2/tn2/killerwal.png" />
 
 Der Killerwal lebt im Tintensee und ist äußerst blutrünstig und gemein. Er zieht immer eine weiße Spur hinter sich her (Tintenkiller).
 

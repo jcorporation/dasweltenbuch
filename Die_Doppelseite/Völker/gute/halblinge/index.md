@@ -6,7 +6,7 @@ title: Halblinge
 
 # Halblinge
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/rassen/nrm/halbling.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/rassen/nrm/halbling.jpg" />
 Die Halblinge leben in kleinen Dörfern im Wellental. Das bekannteste Dorf, das außerhalb auch schon mal als Stadt bezeichnet wird, heißt Frydia. In ihren Dörfern feiern die Halblinge mehrmals im Jahr Dorffeste. Ziel dieser Feste ist eigentlich nur die gute Laune, Geselligkeit und viel gutes Essen. Allgemein legen die Halblinge gesteigerten Wert auf gutes und ausreichendes Essen und dies auch gerne mehr als dreimal am Tag, ein zweites Frühstück gehört zu ihrem Alltag. Die meisten Halblinge arbeiten als Bauern und schätzen die Gemütlichkeit ihres Zuhauses.
 
 Halblinge können sich fast lautlos bewegen und gut verstecken, was sie immer für kleine Späße ausnutzen. Die Halblinge sind ein friedliches Volk und innerhalb ihrer Grenzen hat es noch keinen Krieg gegeben. Sie besitzen zudem einen starken Willen, der oft als Sturheit und Hartnäckigkeit hervortritt. Halblinge werden in etwa so alt wie Menschen.

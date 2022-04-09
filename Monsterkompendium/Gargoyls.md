@@ -6,7 +6,7 @@ title: Gargoyls
 
 # Gargoyls
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/gargoyle.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/gargoyle.jpg"/>
 
 Gargoyls &ndash; im Volksmund auch Wasserspeier genannt &ndash;, sind architektonische Elemente. Sie verzieren normalerweise die Vorsprünge und Dachränder großer Bauten und sollen böse Geister abschrecken. Aus diesem Grund ähneln sie oft dämonischen Gestalten oder bestehen aus einer wilden Mischung aller möglicher Lebewesen und sehen allgemein ziemlich furchteinflößend aus. Unter den vielen Gargoyls, welche die Bauten des Weltenbuchs schmücken, gibt es auch diverse magisch belebte Gargoyls, welche von Magiern als dauerhafte Wächter erschaffen wurden.
 

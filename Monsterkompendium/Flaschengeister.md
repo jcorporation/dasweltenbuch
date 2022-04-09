@@ -6,7 +6,7 @@ title: Flaschengeister
 
 # Flaschengeister
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/flaschengeist.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/flaschengeist.jpg"/>
 
 Flaschengeister leben, wie ihr Namen schon andeutet in Flaschen. Dies heißt allerdings nicht, dass sie dort besonders gerne wohnen, meist wurden sie nämlich von ranghöheren Geistern oder Schamanen zur Strafe in eine Flasche gebannt. Ihr größtes Ziel ist es, aus der Flasche zu entkommen, an die sie gebunden sind. Je nach Flasche reicht es aus, wenn ein Sterblicher an der Flasche rubbelt oder deren Verschluss öffnet. Die Zerstörung der Flasche führt dagegen zur Vernichtung des Flaschengeists. Der Flaschengeist ist, je nach Bann, lebenslang oder für drei Wünsche an seinen Befreier gebunden und muss ihm dienen.
 

@@ -6,7 +6,7 @@ title: Ding im Dunklen
 
 # Ding im Dunklen
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/gallery/monster/tn2/dingimdunkeln.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/dingimdunkeln.jpg"/>
 
 In den dunkelsten und unheimlichsten Winkeln eines Dungeons findet man es: Das Ding im Dunkeln. Es scheint dabei nicht nur die Dunkelheit zu lieben, sondern jegliches Licht förmlich zu verschlingen, denn selbst mit den besten Laternen lassen sich die es umhüllenden Schatten nicht durchdringen. Das einzige (und oftmals auch das letzte) was Helden von ihm sehen, sind seine schleimigen Tentakel, die aus dem Nichts hervorschießen, um sie zu umschlingen und ins ewige Dunkel zu ziehen, aus dem es keine Wiederkehr gibt&hellip;
 
