@@ -10,10 +10,10 @@ Nachdem jeder Spieler einen Charakter erschaffen und der Spielleiter ein Abenteu
 
 Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es zu lösen gilt, oder sie erhalten einen Auftrag, den sie erfüllen sollen. Das Abenteuer selbst kennt dabei nur der Spielleiter, die Spieler erfahren durch die Handlungen ihrer Charaktere innerhalb des Abenteuers immer mehr Details und müssen versuchen es erfolgreich zu bestehen.
 
-- [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vordemabenteuer)
+- [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vor_dem_Abenteuer)
 - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
-- [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablaufeinerszene)
-- [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nachdemabenteuer)
+- [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
+- [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 
 <div class="hinweis">
 ## Aufgabe der Spieler ist es &hellip;
@@ -35,4 +35,3 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - das Abenteuer voranzutreiben und den Spielern aus Sackgassen zu helfen, wenn sie sich verzettelt haben.
 
 </div>
-

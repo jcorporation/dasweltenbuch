@@ -35,4 +35,3 @@ Die böse Sprache der Orks, Trolle, Goblins und Oger. Sie klingt sehr düster un
 ## Zwergisch
 
 So hart wie die Zwerge sind, so klingt auch ihre Sprache. Es gibt kaum jemanden aus einer anderen Rasse, der Zwergisch versteht, geschweige denn akzentfrei sprechen kann.
-

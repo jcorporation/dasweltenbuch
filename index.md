@@ -6,7 +6,7 @@ title: Ein einfaches und erzählerisches Rollenspiel
 
 # Das Weltenbuch
 
-Das Weltenbuch ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und klischeehaftes [Fantasy-Rollenspiel]({{ site.baseurl }}/Spielregeln/Was_ist), das auf einer Buchdoppelseite angesiedelt ist. Die Spieler stellen wagemutige Helden dar, sie streiten für das Gute und erleben spannende Abenteuer auf der gesamten [Doppelseite]({{site.baseurl}}/Die_Doppelseite/). Die Welt wird von allseits bekannten Fantasyrassen bevölkert, allen voran natürlich Elfen und Zwerge. Geologische Formationen wie das Lesezeichengebirge und das Tropfenmeer prägen das etwas andere Weltbild.
+Das Weltenbuch ist ein [freies]({{ site.baseurl }}/Freies_Rollenspiel) und klischeehaftes [Fantasy-Rollenspiel]({{ site.baseurl }}/Spielregeln/Was_ist), das auf einer Buchdoppelseite angesiedelt ist. Die Spieler stellen wagemutige Helden dar, sie streiten für das Gute und erleben spannende Abenteuer auf der gesamten [Doppelseite]({{ site.baseurl }}/Die_Doppelseite/). Die Welt wird von allseits bekannten Fantasyrassen bevölkert, allen voran natürlich Elfen und Zwerge. Geologische Formationen wie das Lesezeichengebirge und das Tropfenmeer prägen das etwas andere Weltbild.
 
 Spiele einen strahlenden Helden, der die Unschuldigen beschützt, sich für die Gerechtigkeit einsetzt und der bösen Seite der Doppelseite entgegentritt. Kämpfe in düsteren Katakomben gegen eine Übermacht von Orks, finde mächtige Artefakte vor dem Bösen und bewahre die Doppelseite vor ihrem Untergang.
 

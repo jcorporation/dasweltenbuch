@@ -10,11 +10,11 @@ Natürlich haben sich auch auf der Doppelseite wichtige Handelsrouten etabliert,
 
 ## Handelsstraßen
 
-- [Eisstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Eisstrasse)
-- [Kaffeestraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Kaffeestrasse)
-- [Neuestraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Neuestrasse)
-- [Nutzlose Handelsstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Nutzlosehandelsstrasse)
-- [Zuckerstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Zuckerstrasse)
+- [Eisstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Eisstraße)
+- [Kaffeestraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Kaffeestraße)
+- [Neuestraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Neuestraße)
+- [Nutzlose Handelsstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Nutzlose_Handelsstraße)
+- [Zuckerstraße]({{ site.baseurl }}/Die_Doppelseite/Handelswege/Zuckerstraße)
 
 ## Frachtschiff KG
 

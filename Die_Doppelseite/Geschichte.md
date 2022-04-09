@@ -90,4 +90,3 @@ Urgon, der zweithöchste Dämon der Doppelseite, erschuf den Rabenturm als ein S
 ### 8149 &ndash; Jetzt
 
 Momentan herrscht ein unsicherer Friede auf der Doppelseite, aber das Böse hinter dem Lesezeichengebirge regt sich seit einigen Jahrzehnten wieder. Noch ist kein dämonischer Herrscher aus dem Seitenabgrund gestiegen, aber wer weiß, was die nächsten Jahre bringen werden?
-

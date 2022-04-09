@@ -24,8 +24,8 @@ Da sich die Menschen immer in irgendwelche Gruppen aufteilen müssen, um sich vo
 <tr><td>Meuchlergilde</td><td>Kreuzstadt</td><td>35 BM</td></tr>
 </tbody>
 </table>
-## Barden- und Schaustellergilde
 
+## Barden- und Schaustellergilde
 
 <div class="hinweis">
 ## Die Vorteile dieser Gilde:
@@ -81,10 +81,9 @@ Die Handelsgilde arbeitet exklusiv mit der Heldengilde zusammen, um für die Hä
 
 Die Gilde für alle Helden und jene, die einer werden wollen. Sie ist in jeder großen Stadt beheimatet und besitzt mit dem Heldenfriedhof in der Nähe der Wichtigsten Stadt ein großes Denkmal für alle ehemaligen Helden der Doppelseite. Hier hat die Heldengilde auch ihren Hauptsitz. Sie organisiert auch die großen Feierlichkeiten am Heldengedenktag. Diese Gilde hat keinen Mangel an Bewerbern, aber nicht jeder Möchtegernheld wird in diese Gilde aufgenommen. Für die Mitgliedschaft in der Gilde der Helden müssen folgende wichtige Kriterien erfüllt werden.
 
-<ol>
-- Pünktliche Zahlung des Mitgliedsbeitrages
-- Vorweisen einer ruhmreichen Heldentat
-</ol>
+1. Pünktliche Zahlung des Mitgliedsbeitrages
+2. Vorweisen einer ruhmreichen Heldentat
+
 ## Magiergilde
 
 
@@ -124,4 +123,3 @@ Die Gilde der talentierten und weniger talentierten Handwerker, die noch Großes
 </div>
 
 Die geheime Gilde der Meuchler. Jeder hat schon einmal von dieser Gilde gehört, aber nur die Wenigsten kennen tatsächlich eines ihrer Mitglieder. Auftraggeber kommen nicht zur Gilde, sondern die Gilde zu ihnen. Die Meuchlergilde steht für den humanen Tod. Sie legt Wert auf gute und stilvolle Ausführung ihrer Aufträge. Der Schutz der Anonymität des Auftraggebers steht an oberster Stelle. Die Meuchlergilde sieht Freiberufler nicht gerne und geht gegen diese dementsprechend entschlossen vor.
-

@@ -27,4 +27,3 @@ Die Schmiedetechnik für Waffen und Rüstungen ist auf der gesamten Doppelseite 
 ## Explosives
 
 Manche besonders verrückten Zwerge, Alchemisten und Zauberer arbeiten daran, Explosivwaffen herzustellen, also Waffen, die darauf beruhen, das manche alchemistischen Mischungen einfach explodieren. Bisher ist es ihnen aber noch nicht gelungen, die Rezeptur soweit zu verfeinern, dass sie nur dann explodiert, wenn es erwünscht ist. Momentan sind die experimentellen Gerätschaften auch noch so groß und schwer, dass gar nicht daran zu denken ist, sie transportabel zu machen. Kein vernünftiger Mensch geht auch nur in die Nähe der experimentellen Waffen. Einzig die Goblins hinter dem Lesezeichengebirge haben einen Durchbruch geschafft und können in ihre gefürchteten Kriegsmaschinen Feuerspucker einbauen, die ihre Gegner in gleißendes Feuer hüllen und alles verbrennen, was in ihrer Reichweite liegt.
-

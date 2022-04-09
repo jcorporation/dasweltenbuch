@@ -42,13 +42,13 @@ Zur Auswahl stehen die folgenden Rassen:
 Für Menschen stehen folgende Völker zur Auswahl:
 
 - [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/)
-- [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarischeunion/Barbaren)
-- [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Edle/)
-- [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Ewigezweiten/)
-- [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Hueter/)
-- [Die Kleinkarierten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kleinkarierten/)
-- [Nomaden]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwueste/Nomaden)
-- [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarischeunion/Walkueren)
+- [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren)
+- [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/)
+- [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/)
+- [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/)
+- [Die Kleinkarierten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/)
+- [Nomaden]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste/Nomaden)
+- [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren)
 
 </div>
 </div>

@@ -23,13 +23,13 @@ Auf der Doppelseite des Weltenbuchs leben zahlreiche bekannte, typische und klis
 ## Organisationen
 
 - [Die wichtigsten Gilden]({{ site.baseurl }}/Die_Doppelseite/Gilden)
-- [Bünde und Geheimgesellschaften]({{ site.baseurl }}/Die_Doppelseite/Buende)
+- [Bünde und Geheimgesellschaften]({{ site.baseurl }}/Die_Doppelseite/Bünde)
 
 ## Politik
 
-- [Wichtige Persönlichkeiten]({{ site.baseurl }}/Die_Doppelseite/Persoenlichkeiten)
+- [Wichtige Persönlichkeiten]({{ site.baseurl }}/Die_Doppelseite/Persönlichkeiten)
 
 
 ***
-- [Übersicht der Völker und Machtgebiete]({{ site.baseurl }}/Die_Doppelseite/Uebersicht-rassen-reiche)
+- [Übersicht der Völker und Machtgebiete]({{ site.baseurl }}/Die_Doppelseite/Übersicht_der_Rassen_und_Machtgebiete)
 

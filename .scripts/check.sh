@@ -1,7 +1,5 @@
 #!/bin/bash
 
-exit 0
-
 rc=0
 
 check_permalink() {

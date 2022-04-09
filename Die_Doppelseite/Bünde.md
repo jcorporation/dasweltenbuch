@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Buende
+permalink: /Die_Doppelseite/Bünde
 title: Bünde und Geheimgesellschaften
 ---
 
@@ -14,19 +14,20 @@ In den Bünden und absolut geheimen Geheimgesellschaften der Doppelseite sind vo
 </thead>
 <tbody>
 <tr><td>Bund der Drachenritter</td><td>[Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)</td><td>Geheim</td></tr>
-<tr><td>Die Berufenen</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Hueter/Kirnstein)</td><td>Geheim</td></tr>
-<tr><td>Naturbund</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Edle/Wichtigstestadt)</td><td>Offiziell</td></tr>
+<tr><td>Die Berufenen</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Kirnstein)</td><td>Geheim</td></tr>
+<tr><td>Naturbund</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigstestadt)</td><td>Offiziell</td></tr>
 <tr><td>Neomeuchler</td><td>[Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)</td><td>Geheim</td></tr>
-<tr><td>Orden der Lichtritter</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
-<tr><td>Orden des Lichts</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Edle/Wichtigstestadt)</td><td>Offiziell</td></tr>
-<tr><td>Ritter der Blume</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
-<tr><td>Schattenorden</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Hueter/Kirnstein)</td><td>Verboten</td></tr>
+<tr><td>Orden der Lichtritter</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
+<tr><td>Orden des Lichts</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigstestadt)</td><td>Offiziell</td></tr>
+<tr><td>Ritter der Blume</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
+<tr><td>Schattenorden</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Kirnstein)</td><td>Verboten</td></tr>
 <tr><td>Schatzwächter</td><td>[Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)</td><td>Geheim</td></tr>
 <tr><td>Selbsthilfegruppe paranoider Langfinger</td><td>[Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)</td><td>Geheim</td></tr>
 <tr><td>Wahre Macht</td><td>[Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)</td><td>Verboten</td></tr>
 <tr><td>Weltenbastler</td><td>[Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)</td><td>Geheim</td></tr>
 </tbody>
 </table>
+
 ## Bund der Drachenritter
 
 Ein geheimer Bund, der es sich auf die Fahne geschrieben hat, die Drachen zu schützen. Sie wollen mit Hilfe ihrer Drachen (momentan besitzen sie noch keinen) die Doppelseite erobern und unterwerfen. Unter ihren Mitgliedern sind viele mächtige Magier und Ritter. Dieser Bund ist auf der ganzen Doppelseite aktiv, am stärksten sind die Aktivisten aber entlang des Lesezeichengebirges vertreten, dem einzigen Teil der Doppelseite, in dem noch Drachen leben. Trotz ihrer Verluste, die sie durch die Drachen erleiden, sind ihre Mitglieder sehr engagiert und davon überzeugt, dass sie ihr Ziel in naher Zukunft erreichen werden.

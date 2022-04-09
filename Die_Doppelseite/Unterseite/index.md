@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Unterseite
+permalink: /Die_Doppelseite/Unterseite/
 title: Die Unterseite
 ---
 
@@ -24,7 +24,6 @@ Die mittlere Ebene wird gemeinhin als Hölle bezeichnet. Diese Ebene ist durch d
 
 Auf der Dämonenseite leben die mächtigsten der Dämonen in einer unbeschreiblich grässlichen und unwirklichen Welt. Diese Ebene wurde noch nie von einem anderen Wesen als einem Dämon betreten. Ab und an haben aber Menschen, besonders Schamanen, schreckliche Visionen von dieser Ebene, die sie fast wahnsinnig werden lassen. Diese Ebene wird vom Dämonenfürsten beherrscht. Das Erscheinungsbild dieser Ebene ist einem steten Wandel unterworfen, der nicht nur durch die Kämpfe der Dämonen hervorgerufen wird, sondern vielmehr vom bösen Instinkt der Ebene selbst.
 
-
 ***
-- zu den [Dämonen]({{ site.baseurl }}/Die_Doppelseite/Unterseite_daemonen)
 
+- zu den [Dämonen]({{ site.baseurl }}/Die_Doppelseite/Unterseite/Dämonen)

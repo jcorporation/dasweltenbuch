@@ -23,36 +23,35 @@ Dieses Kapitel beschreibt die Regeln des Weltenbuchs. Im ersten Teil geht es um 
   - [Waffen und Rüstungen]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Waffen)
   - [Diverse Ausrüstungsgegenstände]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Diverse)
   - [Besondere Ausrüstung]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Besonderes)
-  - [Heilkräuter und Gifte]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kraeuter)
+  - [Heilkräuter und Gifte]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kräuter)
 - [Beispielcharaktere]({{ site.baseurl }}/Spielregeln/Heldengruppe/Beispielcharaktere)
 {% endcapture %}
 
 {% capture include_col2 %}
 ## Abenteuer erleben
 
-- [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer)
-  - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vordemabenteuer)
+- [Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/)
+  - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vor_dem_Abenteuer)
   - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
-  - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablaufeinerszene)
-  - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nachdemabenteuer)
-
-- [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte)
+  - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
+  - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
+- [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/)
   - [Konfliktszenen]({{ site.baseurl }}/Spielregeln/Konflikte/Konfliktszenen)
-  - [Einfache Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/Einfachekonflikte)
+  - [Einfache Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/Einfache_Konflikte)
 {% endcapture %}
 
 {% capture include_col3 %}
 ## Spielleiter
 
-- [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Vorbereiten)
-- [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen)
-  - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_verlauf)
-  - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_schauplaetze)
-  - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_parteien)
-  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Erstellen_spielleitercharaktere)
+- [Abenteuer vorbereiten]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_vorbereiten)
+- [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/)
+  - [Verlauf]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Verlauf)
+  - [Schauplätze]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Schauplätze)
+  - [Parteien]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Parteien)
+  - [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Abenteuer_erstellen/Spielleitercharaktere)
 - [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/)
-- [Monster]({{ site.baseurl }}/Spielregeln/Spielleiter/Monster)
-- [Dämonen]({{ site.baseurl }}/Spielregeln/Spielleiter/Daemonen)
+- [Monster]({{ site.baseurl }}/Spielregeln/Spielleiter/Monster/)
+- [Dämonen]({{ site.baseurl }}/Spielregeln/Spielleiter/Dämonen/)
 {% endcapture %}
 
 {% include columns3.md col1=include_col1 col2=include_col2 col3=include_col3 %}

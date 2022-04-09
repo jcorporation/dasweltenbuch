@@ -39,4 +39,3 @@ Die Papiertiger leben im Moglidschungel. Sie besitzen ein dichtes schwarz gestre
 ## Zwiebelfische
 
 Auf den ersten Blick sieht ein Zwiebelfisch nämlich wie eine Zwiebel aus, dieser Ähnlichkeit verdankt er seinen Namen. Er schmeckt nichtsdestotrotz sehr lecker und ist eine beliebte Mahlzeit. Der Zwiebelfisch ist in allen Gewässern weit verbreitet und vermehrt sich fast schneller, als man ihn fischen kann. In manchen Gewässern ist er schon fast zu einer Plage geworden.
-

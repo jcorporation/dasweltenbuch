@@ -29,6 +29,7 @@ Die Zeit auf der Doppelseite wird seit dem großen Aufklappen gezählt und auch 
 <tr><td>8</td><td>Winter</td><td>Monat des Fehlerteufels</td></tr>
 </tbody>
 </table>
+
 ## Feiertage
 
 Die in diesem Abschnitt beschriebenen Feiertage werden auf der ganzen Doppelseite gefeiert. Natürlich besitzen die einzelnen Rassen, Völker und Reiche auch noch weitere individuelle Feiertage.
@@ -50,4 +51,3 @@ Der Tag, an dem die rechte obere Ecke der Doppelseite brach, und damit der Seite
 **Datum:** Am zweiten Ruhetag im Jahr
 
 An diesem Feiertag wird allen ruhmreichen Helden gedacht, die für das Wohl der Doppelseite ihr Leben hingegeben haben. Die zentrale Feier findet auf dem Heldenfriedhof der Wichtigsten Stadt statt. Die zentrale Zeremonie wird vom Vorsitzenden des Religiösen Rates geleitet, bei der alle wichtigen geistlichen und weltlichen Führer anwesend sind.
-
