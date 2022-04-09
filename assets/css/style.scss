@@ -105,14 +105,16 @@ main ul {
 }
 
 .page-link:hover,
-.btn-brown {
+.btn-brown,
+.btn-brown:hover {
   color: white;
   background-color: #63462e;
   border-color: #63462e;
 }
 
 .btn-brown.active {
-  background-color: #63462e;
+  background-color: #f4e3d7;
+  color: #63462e;
 }
 
 @font-face {
