@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Leseratten/Index
+permalink: /Abenteuer/Leseratten/
 title: Leseratten
 ---
 

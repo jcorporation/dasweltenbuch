@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Daemonen/Index
+permalink: /Spielregeln/Spielleiter/Daemonen/
 title: Dämonen
 ---
 

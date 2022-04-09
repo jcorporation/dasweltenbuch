@@ -9,10 +9,10 @@
     <link rel="alternate" type="application/rss+xml"  href="{{ site.baseurl }}/feed.xml" title="{{ site.title }}">
   </head>
   <body>
-    <header class="navbar navbar-expand-sm navbar-dark bg-sterne">
+    <header class="navbar navbar-expand-sm navbar-dark bg-leder">
       <nav class="container-xxl flex-column flex-wrap flex-md-nowrap pt-3">
         <a class="navbar-brand p-0 mb-4" href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="SpacePirates" width="398" height="93">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Das Weltenbuch" width="255" height="100">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
           <span class="navbar-toggler-icon"></span>
@@ -21,7 +21,7 @@
           <div class="navbar-nav flex-grow-1">
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Aktuelles/">Aktuelles</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielregeln/">Spielregeln</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Weltraum/">Weltraum</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Die_Doppelseite/">Die Doppelseite</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Abenteuer/">Abenteuer</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Publikationen/">Publikationen</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
@@ -29,13 +29,13 @@
         </div>
       </nav>
     </header>
-    <header class="navbar navbar-expand-md py-2 mb-2 bg-yellow">
+    <header class="navbar navbar-expand-md py-2 mb-2 bg-white">
       <div class="container-xxl flex-nowrap">
         <nav class="breadcrumb flex-wrap mb-0 justify-content-start">
           {% include breadcrumbs.md %}
         </nav>
         <div class="btn-group dropdown">
-          <button id="btnSearch" data-bs-toggle="dropdown" class="btn btn-sm btn-yellow border-0 mi">search</button>
+          <button id="btnSearch" data-bs-toggle="dropdown" class="btn btn-sm border-0 mi">search</button>
           <div class="dropdown-menu dropdown-menu-end p-2 bg-yellow" id="dropdownSearch">
             <input type="text" class="form-control mb-2" placeholder="Suche" id="inputSearch"/>
             <div class="list-group" id="searchResult"></div>

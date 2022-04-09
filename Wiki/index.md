@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Index
+permalink: /Wiki/
 title: Das Weltenbuch Wiki
 ---
 

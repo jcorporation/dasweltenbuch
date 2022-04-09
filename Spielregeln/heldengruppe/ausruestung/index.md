@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Heldengruppe/Ausruestung/Index
+permalink: /Spielregeln/Heldengruppe/Ausruestung/
 title: Ausrüstung
 ---
 

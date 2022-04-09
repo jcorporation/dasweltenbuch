@@ -6,8 +6,8 @@ title: Organisationen
 
 # Organisationen
 
-- [Bünde und Geheimgesellschaften]({{ site.baseurl }}/Welt/Buende)
-- [Die wichtigsten Gilden]({{ site.baseurl }}/Welt/Gilden)
+- [Bünde und Geheimgesellschaften]({{ site.baseurl }}/Die_Doppelseite/Buende)
+- [Die wichtigsten Gilden]({{ site.baseurl }}/Die_Doppelseite/Gilden)
 
 
 ***

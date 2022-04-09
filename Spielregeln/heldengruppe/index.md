@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Heldengruppe/Index
+permalink: /Spielregeln/Heldengruppe/
 title: Heldengruppe
 ---
 

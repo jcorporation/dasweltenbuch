@@ -6,7 +6,7 @@ title: Siedlungen und Bauwerke
 
 # Siedlungen und Bauwerke
 
-- Vorhandene [Siedlungen und Bauwerke]({{ site.baseurl }}/Welt/Siedlungen)
+- Vorhandene [Siedlungen und Bauwerke]({{ site.baseurl }}/Die_Doppelseite/Siedlungen)
 
 
 ***

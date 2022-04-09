@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Monster/Index
+permalink: /Spielregeln/Spielleiter/Monster/
 title: Monster
 ---
 

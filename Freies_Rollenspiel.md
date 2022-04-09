@@ -6,7 +6,7 @@ title: Freies Rollenspiel
 
 # Freies Rollenspiel
 
-SpacePirates ist ein freies Rollenspiel; das heißt, dass es vom Autor selber vertrieben wird, ohne Unterstützung durch einen Verlag. Das PDF kann kostenlos [heruntergeladen]({{ site.baseurl }}/Publikationen/), benutzt und weitergegeben werden ([Lizenz]({{ site.baseurl }}/Kontakt)). Die gedruckte Version wird direkt vom Autor [vertrieben]({{ site.baseurl }}/Publikationen/).
+Das Weltenbuch ist ein freies Rollenspiel; das heißt, dass es vom Autor selber vertrieben wird, ohne Unterstützung durch einen Verlag. Das PDF kann kostenlos [heruntergeladen]({{ site.baseurl }}/Publikationen/), benutzt und weitergegeben werden ([Lizenz]({{ site.baseurl }}/Kontakt)). Die gedruckte Version wird direkt vom Autor [vertrieben]({{ site.baseurl }}/Publikationen/).
 
 ## Danksagungen
 
@@ -14,11 +14,14 @@ Wie jedes freies Rollenspiel, so wäre auch dieses so nicht ohne Hilfe und Feedb
 
 ### Insbesondere bei:
 
-- [Belchion](http://belchion.rsp-blogs.de/) &ndash; Onno Tasler
+- [Onno Tasler](http://belchion.rsp-blogs.de/)
+- [Jörn P. Meier](http://www.ionflux.de)
+- [Markus Still](http://www.flyinggames.de)
+- [Andreas Rexfort](http://www.strangeminds.de)
 
 ## Freies Rollenspiel mit freier Software
 
-SpacePirates wird ausschließlich mit Opensource Software erstellt.
+Das Weltenbuch wird ausschließlich mit Opensource Software erstellt.
 
 - [LibreOffice](http://www.libreoffice.org)
 - [Inkscape](http://www.inkscape.org)

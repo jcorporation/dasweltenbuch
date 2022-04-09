@@ -28,27 +28,27 @@ Die Charaktere müssen nicht unbedingt menschlich sein, denn selbstverständlich
 <div class="col">
 Zur Auswahl stehen die folgenden Rassen:
 
-- [Elfen]({{ site.baseurl }}/Welt/Voelker/Gute/Elfen/Index)
-- [Feen]({{ site.baseurl }}/Welt/Voelker/Gute/Feen/Index)
-- [Gnome]({{ site.baseurl }}/Welt/Voelker/Gute/Gnome/Index)
-- [Halblinge]({{ site.baseurl }}/Welt/Voelker/Gute/Halblinge/Index)
-- [Kobolde]({{ site.baseurl }}/Welt/Voelker/Gute/Kobolde/Index)
-- [Wichtel]({{ site.baseurl }}/Welt/Voelker/Gute/Wichtel/Index)
-- [Yetis]({{ site.baseurl }}/Welt/Voelker/Gute/Yetis/Index)
-- [Zwerge]({{ site.baseurl }}/Welt/Voelker/Gute/Zwerge/Index)
+- [Elfen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Elfen/)
+- [Feen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Feen/)
+- [Gnome]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/)
+- [Halblinge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/)
+- [Kobolde]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/)
+- [Wichtel]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/)
+- [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/)
+- [Zwerge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/)
 
 </div>
 <div class="col">
 Für Menschen stehen folgende Völker zur Auswahl:
 
-- [Amazonen]({{ site.baseurl }}/Welt/Voelker/Menschen/Amazonen/Index)
-- [Barbaren]({{ site.baseurl }}/Welt/Voelker/Menschen/Barbarischeunion/Barbaren)
-- [Die Edlen]({{ site.baseurl }}/Welt/Voelker/Menschen/Edle/Index)
-- [Die (ewigen) Zweiten]({{ site.baseurl }}/Welt/Voelker/Menschen/Ewigezweiten/Index)
-- [Die Hüter]({{ site.baseurl }}/Welt/Voelker/Menschen/Hueter/Index)
-- [Die Kleinkarierten]({{ site.baseurl }}/Welt/Voelker/Menschen/Kleinkarierten/Index)
-- [Nomaden]({{ site.baseurl }}/Welt/Voelker/Menschen/Kuzduwueste/Nomaden)
-- [Walküren]({{ site.baseurl }}/Welt/Voelker/Menschen/Barbarischeunion/Walkueren)
+- [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/)
+- [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarischeunion/Barbaren)
+- [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Edle/)
+- [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Ewigezweiten/)
+- [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Hueter/)
+- [Die Kleinkarierten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kleinkarierten/)
+- [Nomaden]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwueste/Nomaden)
+- [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarischeunion/Walkueren)
 
 </div>
 </div>

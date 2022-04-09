@@ -22,7 +22,7 @@ Wie das weitere Vorgehen ist, hängt stark von deiner Arbeitsweise ab. Für ein 
 - [Schauplätze]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_schauplaetze)
 - [Parteien]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_parteien)
 - [Spielleitercharaktere]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_spielleitercharaktere)
-- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Index)
+- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/)
 
 <div class="hinweis">
 ## Klischees

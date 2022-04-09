@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Index
+permalink: /Spielregeln/Abenteuer/
 title: Abenteuer
 ---
 

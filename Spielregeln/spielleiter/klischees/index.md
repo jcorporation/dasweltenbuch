@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Klischees/Index
+permalink: /Spielregeln/Spielleiter/Klischees/
 title: Klischeehafte Abenteuerelemente
 ---
 

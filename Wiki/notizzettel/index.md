@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Wiki/Notizzettel/Index
+permalink: /Wiki/Notizzettel/
 title: Notizzettel
 ---
 

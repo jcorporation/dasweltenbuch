@@ -4,23 +4,23 @@
 {% include_relative bootstrap.min.css %}
 
 body {
-  background-color: #ececec;
+  background-color: #f4e3d7;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
 a {
-  color: #555;
+  color: #63462e;
 }
 
 a:hover {
-  color: #555;
+  color: #63462e;
   text-decoration: none;
 }
 
 a.text-light:hover {
-  color: #ffcc00;
+  color: #f4e3d7;
 }
 
 div.card,
@@ -42,13 +42,17 @@ p {
   width: 100%;
 }
 
-.bg-sterne {
-  background-color: black;
-  background-image: url("{{ site.baseurl }}/assets/images/sterne.jpg");
+.bg-leder {
+  background-color: #63462e;
+  background-image: url("{{ site.baseurl }}/assets/images/leder.png");
 }
 
-.bg-yellow {
-  background-color: #fc0;
+.bg-brown {
+  background-color: #63462e;
+}
+
+.bg-dark-brown {
+  background-color: #4b2f1a;
 }
 
 table {
@@ -61,17 +65,17 @@ caption {
 
 caption,
 th {
-  background-color: #fc0;
-  color: black;
+  background-color: #63462e;
+  color: white;
   padding: 0.3rem 0.5rem;
-  border: 1px solid #ececec;
+  border: 1px solid #f4e3d7;
   font-weight: normal;
 }
 
 td {
   background-color: white;
   padding: 0.3rem 0.5rem;
-  border: 1px solid #ececec;
+  border: 1px solid #f4e3d7;
 }
 
 td > ul:last-child,
@@ -80,7 +84,8 @@ td > p:last-child {
 }
 
 tr.selected td {
-  background-color: #fc0 !important;
+  background-color: #63462e !important;
+  color: white !important;
 }
 
 .card-body p:last-child {
@@ -100,14 +105,14 @@ main ul {
 }
 
 .page-link:hover,
-.btn-yellow {
-  color: #212529;
-  background-color: #ffcc00;
-  border-color: #dfb300;
+.btn-brown {
+  color: white;
+  background-color: #63462e;
+  border-color: #63462e;
 }
 
-.btn-yellow.active {
-  background-color: #dfb300;
+.btn-brown.active {
+  background-color: #63462e;
 }
 
 @font-face {
@@ -133,14 +138,8 @@ main ul {
   font-feature-settings: 'liga';
 }
 
-.bg-sternenkarte {
-  background-image: url("/assets/images/sternenkarte-quadrat.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.bg-startunes {
-  background-image: url("/assets/images/bg-startunes.png");
+.bg-doppelseite {
+  background-image: url("/assets/images/startseite0.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -202,7 +201,7 @@ a#totop:hover {
 }
 
 #searchResult > a {
-  background-color: #fc0;
+  background-color: #f4e3d7;
 }
 
 .tbl-collapsed {

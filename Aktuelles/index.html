@@ -9,7 +9,7 @@ title: Aktuelles
 {% for post in paginator.posts %}
   <div class="col">
     <div class="card h-100 clickable">
-      <div class="card-header bg-yellow"><a class="link-dark text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="card-header bg-brown"><a class="link-light text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
       <div class="card-body">{{ post.excerpt }}</div>
       <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
     </div>

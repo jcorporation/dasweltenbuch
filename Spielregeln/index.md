@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Index
+permalink: /Spielregeln/
 title: Spielregeln
 ---
 
@@ -59,7 +59,7 @@ Dieses Kapitel beschreibt die Regeln des Weltenbuchs. Im ersten Teil geht es um 
 - [Spielleitercharaktere]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_spielleitercharaktere)
 
 </li>
-- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Index)
+- [Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/)
 - [Monster]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Monster)
 - [Dämonen]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Daemonen)
 

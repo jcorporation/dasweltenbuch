@@ -6,7 +6,7 @@ title: Kontakt
 
 # Kontakt
 
-Indem du dich zu SpacePirates äußerst, trägst du zur Entwicklung bei. Durch dein Feedback zeigst du Interesse an diesem Rollenspiel und motivierst mich, an diesem Projekt weiter zu arbeiten. Außerdem kannst du dadurch mitbestimmen, wie sich SpacePirates weiterentwickelt.
+Indem du dich zum Weltenbuch äußerst, trägst du zur Entwicklung bei. Durch dein Feedback zeigst du Interesse an diesem Rollenspiel und motivierst mich, an diesem Projekt weiter zu arbeiten. Außerdem kannst du dadurch mitbestimmen, wie sich das Weltenbuch weiterentwickelt.
 
 Zur Kontaktaufnahme stehen dir folgende Möglichkeiten zur Verfügung:
 
@@ -36,7 +36,7 @@ Alle Inhalte dieser Webpräsenz stehen unter der Creative Commons Lizenz [Namens
 
 #### Zu den folgenden Bedingungen:
 
-- Du musst mich (Jürgen Mang) als Urheber nennen und einen Link auf [https://spacepirates.jcgames.de/](https://spacepirates.jcgames.de/) oder einer passenden Unterseite einbinden.
+- Du musst mich (Jürgen Mang) als Urheber nennen und einen Link auf [https://dasweltenbuch.jcgames.de/](https://dasweltenbuch.jcgames.de/) oder einer passenden Unterseite einbinden.
 - Abwandlungen des Werkes müssen unter der gleichen Lizenz veröffentlicht werden.
 
 #### Ausnahmen bilden:

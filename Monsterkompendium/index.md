@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Monsterkompendium/Index
+permalink: /Monsterkompendium/
 title: Monsterkompendium
 ---
 

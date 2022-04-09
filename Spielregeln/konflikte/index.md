@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Konflikte/Index
+permalink: /Spielregeln/Konflikte/
 title: Konflikte
 ---
 

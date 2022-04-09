@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Index
+permalink: /Spielregeln/Spielleiter/
 title: Spielleiter
 ---
 
@@ -14,7 +14,7 @@ title: Spielleiter
 - [Spielleitercharaktere]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Erstellen_spielleitercharaktere)
 
 </li>
-<li>[Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Index)
+<li>[Klischeehafte Abenteuerelemente]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/)
 - [Spielleitercharaktere]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Slc)
 - [Dungeon]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Dungeons)
 - [Die typische Stadt]({{ site.baseurl }}/Regelwerkv2/Spielleiter/Klischees/Stadt)
