@@ -75,13 +75,13 @@ $permalink =~ s|/./|/|g;
 $permalink =~ s|/index$|/|g;
 
 open my $out, ">".$outfile or die;
-print $out qq|---
-layout: page
-permalink: $permalink
-title: $title
----
-
-|;
+#print $out qq|---
+#layout: page
+#permalink: $permalink
+#title: $title
+#---
+#
+#|;
 
 while (<$in>) {
     chomp;

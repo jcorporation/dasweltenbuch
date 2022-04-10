@@ -5,5 +5,6 @@ tag: weltenbuch
 permalink: /Aktuelles/2005-03-11-NeueKartederDoppelseite
 ---
 
-<p>Seit heute ist eine neue Karte der Doppelseite online.</p>
+Seit heute ist eine neue Karte der Doppelseite online.
+
 

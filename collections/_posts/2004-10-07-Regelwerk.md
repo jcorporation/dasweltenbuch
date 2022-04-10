@@ -5,5 +5,6 @@ tag: weltenbuch
 permalink: /Aktuelles/2004-10-07-Regelwerk
 ---
 
-<p>Das Regelwerk nimmt langsam aber sicher Gestalt an, es wird sich um ein einfaches System ohne Attribute aber mit Spezialfertigkeiten handeln. An der Stelle von Charakterklassen gibt es Klischees, die eine schnelle Charaktererschaffung erm&ouml;glichen.</p>
+Das Regelwerk nimmt langsam aber sicher Gestalt an, es wird sich um ein einfaches System ohne Attribute aber mit Spezialfertigkeiten handeln. An der Stelle von Charakterklassen gibt es Klischees, die eine schnelle Charaktererschaffung ermöglichen.
+
 

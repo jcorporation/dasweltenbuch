@@ -5,5 +5,6 @@ tag: weltenbuch
 permalink: /Aktuelles/2005-07-03-Regelwerk
 ---
 
-<p>Das Regelwerk ist jetzt in Version 0.6.1 online. Die Klischeebeschreibungen wurden erweitert und kleinere Fehler behoben.</p>
+Das Regelwerk ist jetzt in Version 0.6.1 online. Die Klischeebeschreibungen wurden erweitert und kleinere Fehler behoben.
+
 

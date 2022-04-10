@@ -5,7 +5,6 @@ tag: weltenbuch
 permalink: /Aktuelles/2006-12-28-DasWeltenbuch074
 ---
 
+Das Weltenbuch ist nun in der Version 0.7.4 online. Das komplette Regelwerk und der Spielleiterteil wurde überarbeitet. Es wurden viele kleinere Fehler, Typos und Unklarheiten beseitigt. Zudem wurden die Klischees überarbeitet und die Fertigkeitenliste aufgeräumt. Der Abschnitt über den Heldenhintergrund und Flags wurde komplett neu geschrieben.
 
-<p>Das Weltenbuch ist nun in der Version 0.7.4 online. Das komplette Regelwerk und der Spielleiterteil wurde &uuml;berarbeitet. Es wurden viele kleinere Fehler, Typos und Unklarheiten beseitigt. Zudem wurden die Klischees &uuml;berarbeitet und die Fertigkeitenliste aufger&auml;umt. Der Abschnitt &uuml;ber den Heldenhintergrund und Flags wurde komplett neu geschrieben.<br />
-<br />
-Wie immer sind die neuen PDFs &uuml;ber die [/downloads.html[Downloadseite] und &uuml;ber den [/pdfcast.rss[PDFCast] verf&uuml;gbar.</p>
+Wie immer sind die neuen PDFs über die [Downloadseite]({{ site.baseurl }}/Publikationen/) verfügbar.

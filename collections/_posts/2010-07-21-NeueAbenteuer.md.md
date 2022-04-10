@@ -5,5 +5,6 @@ tag: weltenbuch
 permalink: /Aktuelles/2010-07-21-NeueAbenteuer
 ---
 
-<p>Im <a href="/v1/abenteuer/">Abenteuerbereich</a> sind jetzt alle verf&uuml;gbaren Abenteuer gelistet, unter anderem auch die beiden Abenteuer f&uuml;r das Zunftblatt und die Anduin und ein weiteres Abenteuer des Weltenbuch-Lektors. Viel Spa&szlig; damit!</p>
+Im Abenteuerbereich sind jetzt alle verfügbaren Abenteuer gelistet, unter anderem auch die beiden Abenteuer für das Zunftblatt und die Anduin und ein weiteres Abenteuer des Weltenbuch-Lektors. Viel Spaß damit!
+
 

@@ -32,17 +32,18 @@ do
     [[ "$F" =~ ^./_includes.* ]] && continue
     [[ "$F" =~ ^./_site.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
-    [[ "$F" =~ ^./collections/.* ]] && continue
 
     # check links
     if ! .scripts/check-links.pl "$F"
     then
     	rc=1
     fi
-    # check permalink
-    check_permalink "$F"
     # check title
     check_title "$F"
+
+    # check permalink
+    [[ "$F" =~ ^./collections/.* ]] && continue
+    check_permalink "$F"
 done < <(find ./ -name \*.md)
 
 exit $rc
