@@ -10,6 +10,4 @@ Die Böse Festung steht westlich des Tor Vons, am Rand des Lesezeichengebirges. 
 
 ## Hauptmann Jargon
 
-<p>Das Militär wird von Hauptmann Jargon befehligt, er ist ein enger Vertrauter De-Murgons XII. und diesem treu ergeben. Vom Aussehen her gleicht er einer Mischung aus Elf und Barbar, niemand weiß, wo er herkommt oder welcher Rasse er angehört. Wie bei allem Mysteriösen und Geheimnisvollem ranken sich unglaubliche Geschichten um seine Herkunft und seine Vergangenheit. Jargon ist ein strenger, aber auch gerechter, Hauptmann und hat normalerweise alles fest im Griff.<br/>
-<br/>
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/abenteuer/diemagischendolche/boesefestung-karte-web.png" /></p>
+Das Militär wird von Hauptmann Jargon befehligt, er ist ein enger Vertrauter De-Murgons XII. und diesem treu ergeben. Vom Aussehen her gleicht er einer Mischung aus Elf und Barbar, niemand weiß, wo er herkommt oder welcher Rasse er angehört. Wie bei allem Mysteriösen und Geheimnisvollem ranken sich unglaubliche Geschichten um seine Herkunft und seine Vergangenheit. Jargon ist ein strenger, aber auch gerechter, Hauptmann und hat normalerweise alles fest im Griff.

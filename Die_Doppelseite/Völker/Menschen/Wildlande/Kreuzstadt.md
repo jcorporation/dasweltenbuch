@@ -39,4 +39,3 @@ Der Handel in Kreuzstadt blüht trotz der Gefahren, die damit für den einzelnen
 ## Hauptsitz der SPL
 
 Wegen der Kreuzstädter Toleranz ist hier der Hauptsitz der SPL (Selbsthilfegruppe paranoider Langfinger) beheimatet. Er befindet sich natürlich in einem der etwas zwielichtigeren Viertel der Stadt. Der Hauptsitz darf nur von Mitgliedern der SPL betreten werden. Die Fenster im Erdgeschoss sind vergittert und die solide Eingangstür ist immer fest verriegelt. Das Gebäude besteht aus zwei Etagen und hat natürlich auch einen streng geheimen Fluchtgang, der unterirdisch aus der Stadt hinausführt. Das Gebäude wirkt von außen trist, auch innen ist es nicht viel munterer. Dafür gibt es unzählige Hinweise auf Flucht- und Rettungswege, auch die Notausgänge sind hervorragend ausgeschildert.
-

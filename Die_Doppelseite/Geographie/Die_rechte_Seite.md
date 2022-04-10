@@ -14,11 +14,10 @@ Die rechte Seite ist die niedrigere Hälfte der Doppelseite. Sie wird von der [K
 - [Graphitanhöhen]({{ site.baseurl }}/Die_Doppelseite/Geographie/Graphitanhöhen)
 - [Kaffeemoor]({{ site.baseurl }}/Die_Doppelseite/Geographie/Kaffeemoor)
 - [Kuppenseen]({{ site.baseurl }}/Die_Doppelseite/Geographie/Kuppenseen)
-- [Kuzduwüste]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste)
+- [Kuzduwüste]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste/)
 - [Lesezeichengebirge]({{ site.baseurl }}/Die_Doppelseite/Geographie/Lesezeichengebirge)
 - [Rillenebene]({{ site.baseurl }}/Die_Doppelseite/Geographie/Rillenebene)
 - [Tintensee]({{ site.baseurl }}/Die_Doppelseite/Geographie/Tintensee)
 - [Tor Von]({{ site.baseurl }}/Die_Doppelseite/Geographie/Tor_Von)
 - [Wellental]({{ site.baseurl }}/Die_Doppelseite/Geographie/Wellental)
 - [Zuckerfelsen]({{ site.baseurl }}/Die_Doppelseite/Geographie/Zuckerfelsen)
-

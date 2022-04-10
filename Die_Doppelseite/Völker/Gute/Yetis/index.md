@@ -7,6 +7,7 @@ title: Yetis
 # Yetis
 
 <img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/yeti2.jpg" width="374" />
+
 Die Yetis leben in der Eiswüste Tippex, in ihrem eigenen Reich Frosia, das von ewigem Eis, Kälte und Schneestürmen geprägt ist. Eben eine angenehme Gegend für Yetis. Ihnen ist die eisige Kälte der Eiswüste wesentlich lieber als normale Temperaturen. Sie haben einen florierenden Eishandel aufgezogen, der alle Teile der Doppelseite umfasst, ihre Spezialität ist Zitroneneis. Die meisten Yetis sind in ihrer Hauptstadt Froststadt anzutreffen. Yetis leben in einer gleichberechtigten familiären Gesellschaft. Die Familienmitglieder arbeiten so gut wie immer im gleichen Familienunternehmen und wohnen alle unter einem Dach. Yetis werden bis zu 150 Jahre alt und behalten die ganze Zeit ihr weißes Fell, so dass man einem Yeti das Alter kaum ansieht. Yetis ernähren sich hauptsächlich von Fleisch und Fisch.
 
 ### Erscheinungsbild
@@ -25,7 +26,6 @@ Das Yetieis ist der begehrteste Nachtisch der Doppelseite, es ist nicht nur bei 
 
 Einige Yetis haben sich vor Jahrhunderten von der Eisproduktion abgewandt und begannen Schwerter zu schmieden. Die Herstellungsprozedur dieser besonderen Schwerter ist geheim und nur den Yetischmieden bekannt. Sie wird nur von Yetischmied zu Yetischmied weitergegeben. Diese Schwerter besitzen das Aussehen von Eis, sind aber so robust wie normale Schwerter und wesentlich leichter als diese. Sie fühlen sich immer kalt an, selbst wenn sie im Feuer liegen. Die Yetischwerter sind sehr wertvoll und selten, da die Schmiede der Yetis nur sehr wenige dieser Schwerter herstellen, was wohl mit der aufwendigen und langwierigen Herstellung zu tun hat.
 
-
 ***
-- [Frosia]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/Frosia)
 
+- [Frosia]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/Frosia)

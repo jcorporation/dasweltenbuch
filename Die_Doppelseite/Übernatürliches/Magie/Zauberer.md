@@ -21,4 +21,3 @@ Ein weiteres unabkömmliches Utensil für jeden Zauberer ist der Zauberstab. Er 
 ### Lange weite Robe
 
 Die weite Robe ist einfach nur praktisch. Sie ist gemütlich und angenehm zu tragen und besitzt viele Taschen für die vielen kleinen Utensilien des Zauberers. Jeder gute Zauberer trägt eine Robe. Entgegen hartnäckiger Gerüchte ist es nicht wahr, dass jeder Zauberer nur eine Robe besäße. Sie besitzen natürlich verschiedene Roben, die sie meist im Fünferpack kaufen.
-

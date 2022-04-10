@@ -7,6 +7,7 @@ title: Rhyllien
 # Rhyllien
 
 <img alt="" src="{{ site.baseurl }}/assets/images/wappen/rhyllien.jpg" />
+
 Rhyllien ist das Reich der Gnome in der Rillenebene. Das Reich wird von zwei Oberhäuptern regiert, die gleichberechtigt handeln können. Diese Oberhäupter werden alle acht Jahre auf dem großen Erntedankfest gewählt. Die Kaffeestraße ist die einzige große Straße die durch Rhyllien führt. An dieser Straße befinden sich die Handelsniederlassungen des Weinhandelskontors. Hier können Reisende und Händler den Wein der Gnome zu einem günstigen Preis erwerben.
 
 ## Die wandernden Hauptstädte
@@ -26,4 +27,3 @@ Das Oberhaupt der zweiten Hauptstadt, Dariel, ist durch und durch ein Händler. 
 ## Städte
 
 - [Auendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/Auendorf)
-

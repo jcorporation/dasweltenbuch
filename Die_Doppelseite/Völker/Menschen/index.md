@@ -25,11 +25,11 @@ Das böse Reich De-Murgon ist die Heimat aller bösen Kriegsherren und solcher, 
 Die Wildlande sind das freie Land der Doppelseite, über das kein König herrscht. Hier leben viele Gesetzlose und Ausgestoßene. Mit Freidorf und Kreuzstadt sind dort zwei bedeutende freie Städte entstanden.
 
 - [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/)
-- [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren)
+- [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren)
 - [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/)
 - [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/)
 - [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/)
 - [Kleinkarierten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/)
 - [Nomaden]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste/Nomaden)
-- [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walküren)
+- [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren)
 

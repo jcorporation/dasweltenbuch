@@ -15,4 +15,3 @@ Jetzt hat sie sich doch noch breitschlagen lassen, an der Kaffeefahrt teilzunehm
 - Besichtigung der Wichtelpostzentrale
 
 Die Wagen rollen langsam auf dem Kopfsteinpflaster der Kaffeestraße dem Südtor entgegen, dem größten Abenteuer von Hexe Cyllie. Wenn die Zeitplanung stimmt, wird sie die Türme ihrer Heimatstadt erst in einem Vierteljahr wiedersehen &hellip;
-

@@ -6,7 +6,7 @@ title: Die linke Seite
 
 # Die linke Seite
 
-Die linke Seite liegt drei- bis vierhundert Meter höher als die rechte Seite. Daher ist es hier kälter und auch regnerischer als auf der rechten Seite. Sie wird von riesigen Ebenen, grünen Tälern und dem [Tropfenmeer]({{ site.baseurl }}/Die_Doppelseite/Geographie/Tropfenmeer) dominiert. Hier sind auch die zwei mächtigsten [Menschenreiche]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen) angesiedelt.
+Die linke Seite liegt drei- bis vierhundert Meter höher als die rechte Seite. Daher ist es hier kälter und auch regnerischer als auf der rechten Seite. Sie wird von riesigen Ebenen, grünen Tälern und dem [Tropfenmeer]({{ site.baseurl }}/Die_Doppelseite/Geographie/Tropfenmeer) dominiert. Hier sind auch die zwei mächtigsten [Menschenreiche]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/) angesiedelt.
 
 - [Amazonendschungel]({{ site.baseurl }}/Die_Doppelseite/Geographie/Amazonendschungel)
 - [Atlanteninsel]({{ site.baseurl }}/Die_Doppelseite/Geographie/Atlanteninsel)

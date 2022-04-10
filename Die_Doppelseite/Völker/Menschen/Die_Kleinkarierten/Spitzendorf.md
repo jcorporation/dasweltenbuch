@@ -15,4 +15,3 @@ Der Bahnhof von Spitzendorf wird zu gleichen Teilen von Zwergen und Menschen ver
 ## Orden der Lichtritter
 
 In Spitzendorf ist der Hauptsitz des Ordens der Lichtritter. Das Hauptgebäude befindet sich inmitten der Stadt, direkt am Marktplatz, und überragt die umliegenden Gebäude um einiges. Neben seiner Größe fällt es auch durch das übergroße Symbol der Göttin Glühbirne auf, das auf dem Dach angebracht ist. Das ganze Gebäude ist gelb gestrichen und reich verziert. Vor dem Eingang des Ordenshauses steht immer mindestens eine imposante Wache.
-

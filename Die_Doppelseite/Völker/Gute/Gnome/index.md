@@ -7,6 +7,7 @@ title: Gnome
 # Gnome
 
 <img alt="" src="{{ site.baseurl }}/assets/images/rassen/gnom.jpg" />
+
 Gnome leben in Gemeinschaften von bis zu 50 Mitgliedern, mehrere dieser Sippen bilden gemeinsam ein typisches Gnomendorf. Diese Dörfer findet man auf der ganze Rillenebene verteilt, Städte meiden Gnome hingegen. Sie lieben die Natur, besonders ihre Heimat Rhyllien in der Rillenebene. Die Gnome sind fleißige Bauern und geschickte Handwerker, besonders berühmt sind sie für ihre Kenntnisse im Anbau und der Verarbeitung von Wein. Zwar werden sie in etwa so alt wie Menschen, sind im Gegensatz zu jenen aber wahrlich nicht weltoffen. Deshalb findet man auch keines ihrer Dörfer in der Nähe der einzigen Handelsroute Rhylliens.
 
 ### Erscheinungsbild
@@ -33,7 +34,6 @@ Diese Handelsgesellschaft ist in jeder größeren Stadt der Doppelseite vertrete
 
 Dieses ist wohl der bekannteste Wein aus dem vielfältigen gnomischen Angebot. Er ist günstig, aber dennoch schmackhaft und süffig, weder zu süß noch zu herb, kurz gesagt: ideal für jeden, der mal ein gutes Glas Wein trinken möchte.
 
-
 ***
-- [Rhyllien]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/Rhyllien)
 
+- [Rhyllien]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/Rhyllien)

@@ -39,4 +39,3 @@ Dieser Stamm ist für seine blitzartigen Überfälle auf andere Nomaden bekannt.
 ### Samukas
 
 Die Samukas lassen sich oft als Söldner anheuern, bewahren aber trotzdem ihr Ehrgefühl. Sie sind zwar etwas teurer als andere Söldner, verhalten sich dafür gegenüber ihrem Auftraggeber aber auch loyaler. Dieser Stamm ist überall anzutreffen, wo es zu größeren bewaffneten Konflikten kommen könnte.
-

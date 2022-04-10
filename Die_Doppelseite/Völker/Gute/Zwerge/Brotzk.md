@@ -11,4 +11,3 @@ Brotzk ist die Mine der Bröselzwerge, eine der Endhaltestellen der Zwergenbahn 
 ## Hochkönigshalle
 
 Die bekannteste, größte und schönste Halle der Zwerge. Sie bietet Platz für Tausende von Zwergen. Die kunstvoll verzierte Kuppeldecke wird von beeindruckenden Säulen gestützt, die mit kunstvoll geschliffenen Diamanten verziert sind. In dieser Halle werden die Wahlen zum neuen Hochkönig und auch die Krönungszeremonie selber abgehalten. Wenn gerade keine Wahlen stattfinden, werden in dieser Halle aber auch große Feste abgehalten. Die Halle ist zudem ein beliebtes Ausflugsziel vieler Menschen.
-

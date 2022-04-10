@@ -15,4 +15,3 @@ Der Königspalast gleicht einer Festung in der Festung. Die meisten der sechs To
 ## Der Bahnhof
 
 Der Bahnhof befindet sich direkt neben dem Marktplatz. Im Bahnhof selber gibt es, wie an den Stadttoren, ein Wachhaus, in dem ein Dutzend Wachen postiert sind und die Anreisenden stichprobenartig kontrollieren. Neben dem normalen Personenbahnhof existiert auch ein Güterbahnhof, in dem vor allem Waren für und aus den Menschenreichen der linken Seite verladen werden. Von Kirnstein aus wird z.B. der Kaffee aus dem Kaffeemoor mit Hilfe der Zwergenbahn auf die linke Seite transportiert.
-

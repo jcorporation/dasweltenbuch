@@ -39,7 +39,6 @@ Die Frachtschiff Kobold-Gesellschaft ist ein Zusammenschluss sämtlicher Koboldr
 
 Die Frachtschiff KG besitzt Schiffe in allen Größen, Formen und Farben und natürlich für alle Einsatzzwecke. So verfügt sie z.B. über spezielle Schiffe für die Fahrt auf dem Rinnsal und die Überquerung des Tropfenmeers, die sich beträchtlich voneinander unterscheiden. Lediglich eins ist allen ihren Schiffen gemeinsam: Das Zeichen Lektors ist in alle Mäste der Schiffe eingebrannt. 
 
-
 ***
-- [Atlantea]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/Atlantea)
 
+- [Atlantea]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/Atlantea)

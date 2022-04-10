@@ -13,7 +13,6 @@ Die Wildlande gehen im Süden in die Kuzduwüste über, im Westen werden sie von
 - [Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)
 - [Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)
 
-
 ***
 
 - [Fürchtelforst]({{ site.baseurl }}/Die_Doppelseite/Geographie/Fürchtelforst)

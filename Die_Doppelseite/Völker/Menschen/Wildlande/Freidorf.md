@@ -23,4 +23,3 @@ Die Bibliothek von Freidorf ist zwar wesentlich kleiner als die der Unistadt, da
 ## Handel
 
 Die beiden freien Städte Freidorf und Kreuzstadt besitzen hervorragende Handelsbeziehungen und es gibt viele Händler, die auf der Nutzlosen Handelsstraße zwischen diesen beiden Städten pendeln. Der Marktplatz von Freidorf befindet sich direkt am Ende der Zündholzbrücke. Durch den Marktplatz verläuft auch die Nutzlose Handelsstraße, die sich hier gabelt und zum einen über die Zündholzbrücke und zum anderen zum Rand der Doppelseite führt. Durch die Nähe von Freidorf zu Chemien sind hier viele der alchemistischen Grundstoffe, die in den Minen von Chemien gewonnen werden, wesentlich günstiger als in anderen Teilen der Doppelseite, auch wenn der unlizenzierte Handel damit eigentlich verboten ist.
-

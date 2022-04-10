@@ -19,6 +19,3 @@ In den tiefen Minen des Bleistiftbergs bauen die Zwerge Graphit ab, das leichtes
 ## Graphitschwerter und -kettenhemden
 
 Die Graphitschwerter sind die besten Schwerter auf der ganzen Doppelseite und dank des Graphits fast unzerbrechlich, extrem scharf und dennoch leicht. Die Kettenhemden aus dem gleichen Material werden in sorgfältiger Handarbeit von den besten Schmieden der Bleistiftzwerge hergestellt. Diese Kettenhemden sind sehr wertvoll und selten, da es kaum noch Schmiede gibt, die dieses Metall so fein verarbeiten können.
-
-##  
-

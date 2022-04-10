@@ -7,6 +7,7 @@ title: Halblinge
 # Halblinge
 
 <img alt="" src="{{ site.baseurl }}/assets/images/rassen/halbling.jpg" />
+
 Die Halblinge leben in kleinen Dörfern im Wellental. Das bekannteste Dorf, das außerhalb auch schon mal als Stadt bezeichnet wird, heißt Frydia. In ihren Dörfern feiern die Halblinge mehrmals im Jahr Dorffeste. Ziel dieser Feste ist eigentlich nur die gute Laune, Geselligkeit und viel gutes Essen. Allgemein legen die Halblinge gesteigerten Wert auf gutes und ausreichendes Essen und dies auch gerne mehr als dreimal am Tag, ein zweites Frühstück gehört zu ihrem Alltag. Die meisten Halblinge arbeiten als Bauern und schätzen die Gemütlichkeit ihres Zuhauses.
 
 Halblinge können sich fast lautlos bewegen und gut verstecken, was sie immer für kleine Späße ausnutzen. Die Halblinge sind ein friedliches Volk und innerhalb ihrer Grenzen hat es noch keinen Krieg gegeben. Sie besitzen zudem einen starken Willen, der oft als Sturheit und Hartnäckigkeit hervortritt. Halblinge werden in etwa so alt wie Menschen.
@@ -31,7 +32,6 @@ Die Halblinge besitzen entlang der Kuppenseen unzählige Badehäuser und Erlebni
 
 Kuppenquell ist das patentierte Heil- und Mineralwasser der Halblinge. Es wird durch eine geheime Technik direkt aus den Quellen der Kuppenseen gewonnen. Das Geheimnis der Herstellung wird von den Halblingen streng behütet und wird nur von Halbling zu Halbling weitergegeben. Kuppenquell ist vor allem bei den Adelshäusern der Menschen beliebt, es wird aber auch viel von den Halblingen getrunken. Manche schreiben diesem Mineralwasser eine heilende und inspirierende Wirkung zu, eigentlich ist es aber bloß sauberer und mineralstoffreicher als normales Wasser. Einige tüchtige Braumeister der Halblinge stellen Kuppenquell auch in verschiedenen Geschmacksrichtungen, wie Orange oder Zitrone, her.
 
-
 ***
-- [Idyllien]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/Idyllien)
 
+- [Idyllien]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/Idyllien)

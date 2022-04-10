@@ -7,6 +7,7 @@ title: Echsenmenschen
 # Echsenmenschen
 
 <img alt="" src="{{ site.baseurl }}/assets/images/rassen/echsenmenschen.jpg" />
+
 Die Echsenmenschen leben inmitten der Kuzduwüste und sind äußerst kriegerisch. Glücklicherweise bleiben sie normalerweise innerhalb der Grenzen Kraskias, wie sie ihr Reich nennen. Echsenmenschen sind Kaltblüter, deshalb leben sie auch in der heißesten Gegend der Doppelseite. Da es nachts auch in der Wüste kalt wird, bewegen sie sich normalerweise nur tagsüber unter freiem Himmel. Nur wenn es sich nicht vermeiden lässt, wandern sie auch nachts durch die Wüste. In diesem Fall sind sie aber dick eingepackt und wesentlich vorsichtiger als tagsüber, da sie sich in der Kälte wesentlich schlechter verteidigen können. In Kältestarre fallen sie aber nur bei sehr niedrigen Temperaturen, die auf der Doppelseite nur in der Eiswüste Tippex vorkommen. Ansonsten sind Echsenmenschen äußerst zäh und können tagelang ohne Nahrung und Wasser auskommen; sie werden bis zu 120 Jahre alt.
 
 Die Echsenmenschen leben fast isoliert, sie besitzen kaum Kontakte zu anderen Rassen, nicht mal zu den anderen bösen Rassen der Doppelseite. Sie folgen auch dem Ruf des bösen Herrschers des Schattenreiches nur, wenn Krskan ihn unterstützt.
@@ -23,7 +24,6 @@ Die Echsenmenschen beten Fehlerteufel an, der ebenso hitzig wie ihre Umgebung is
 
 Der Brennpunkt ist der heiligste Ort der Echsenmenschen, hier führen sie ihre monatlichen Zeremonien durch. In seinem Zentrum ist es derart heiß, dass selbst der Wüstensand zu schmelzen anfängt. Von allen Einwohnern der Doppelseite können lediglich die Echsenmenschen diese Hitze ertragen.
 
-
 ***
-- [Kraskia]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Echsenmenschen/Kraskia)
 
+- [Kraskia]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Echsenmenschen/Kraskia)

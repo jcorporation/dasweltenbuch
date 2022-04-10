@@ -38,7 +38,6 @@ Der Stamm Doran ist der angesehenste und mächtigste Barbarenstamm. Er bewohnt d
 
 Der Stamm der Hovan lebt direkt am Rand der Doppelseite, nördlich von Nonnebacken. Er ist einer der kleineren Stämme, hat sich aber trotzdem einen Platz im Rat der Barbarischen Union sichern können. Sie leben, wie der Stamm der Doran, von der Jagd und vom Ackerbau. Die Mitglieder der Hovan gelten als, für Barbarenverhältnisse, besonders intelligent und wissbegierig. So unternimmt dieser Stamm des Öfteren Expeditionen zur Falzschlucht. Besonders wagemutige Barbaren stiegen schon am Rand hinab, wurden aber niemals wieder gesehen.
 
-
 ***
-- [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/)
 
+- [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/)

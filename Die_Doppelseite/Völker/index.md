@@ -10,12 +10,12 @@ Auf der Doppelseite des Weltenbuchs leben zahlreiche bekannte, typische und klis
 
 ## Und hier gehts zu den Schubladen
 
-- [Die guten Rassen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute)
-- die vielfältigen [Menschenvölker]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen)
-- [Die bösen Rassen]({{ site.baseurl }}/Die_Doppelseite/Völker/Boese)
-
+- [Die guten Rassen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/)
+- die vielfältigen [Menschenvölker]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/)
+- [Die bösen Rassen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/)
 
 ***
+
 ## Sprachen
 
 - zu den [Sprachen]({{ site.baseurl }}/Die_Doppelseite/Sprachen)
@@ -29,7 +29,6 @@ Auf der Doppelseite des Weltenbuchs leben zahlreiche bekannte, typische und klis
 
 - [Wichtige Persönlichkeiten]({{ site.baseurl }}/Die_Doppelseite/Persönlichkeiten)
 
-
 ***
-- [Übersicht der Völker und Machtgebiete]({{ site.baseurl }}/Die_Doppelseite/Übersicht_der_Rassen_und_Machtgebiete)
 
+- [Übersicht der Völker und Machtgebiete]({{ site.baseurl }}/Die_Doppelseite/Übersicht_der_Völker_und_Machtgebiete)

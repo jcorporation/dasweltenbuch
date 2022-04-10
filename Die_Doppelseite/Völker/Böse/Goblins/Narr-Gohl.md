@@ -15,4 +15,3 @@ Der Königspalast ist komplett ebenerdig und aus schönen schwarzem Marmor erbau
 ## Kriegsmaschinenmanufakturen
 
 Die Kriegsmaschinenmanufakturen breiten sich über ein ganzes Stadtviertel aus, hier werden die Kriegsmaschinen erdacht und gebaut. Die Hallen selbst dienen nur als Lager und zur Herstellung von Einzelteilen, die Endmontage erfolgt unter freiem Himmel. Dabei benutzen die Goblins abenteuerlich anmutende Gerüste und Lastkräne, welche mit Flaschenzügen auch die schwersten Lasten anheben. Getestet werden die fertigen Maschinen dann auf einem speziellen Testgelände außerhalb der Mauern.
-

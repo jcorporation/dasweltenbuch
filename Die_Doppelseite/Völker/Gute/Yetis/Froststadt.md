@@ -15,4 +15,3 @@ Der Eispalast ist, wie Froststadt, ganz aus Eis erbaut. Er besitzt viele hohe T�
 ## Jahnfabrik
 
 Die Jahnfabrik ist die größte Eisfabrik in Froststadt, die vom gleichnamigen Familienunternehmen geführt wird. Diese Fabrik befindet sich direkt an der westlichen Mauer von Froststadt und ist fast schon ein eigenes kleines Stadtviertel. Da jedes Familienunternehmen ein eigenes Hausrezept für sein Eis hat, werden alle Ein- und Ausgänge von Wächtern kontrolliert und Fremden ist der Zugang zur Fabrik untersagt. Falls sich aber Gäste einfinden, gibt es eine kleine Führung, die nur die eigentlich langweiligen Teile der Fabrik zeigt.
-

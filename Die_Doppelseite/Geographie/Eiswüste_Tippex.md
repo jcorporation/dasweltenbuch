@@ -10,4 +10,3 @@ Diese riesige, öde Eiswüste liegt in der nordwestlichen Ecke der Doppelseite. 
 
 - Machtgebiet: [Frosia]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/Frosia)
 - Bewohner: [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/)
-

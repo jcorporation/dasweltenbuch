@@ -16,4 +16,3 @@ Die Elfen und die Zwerge sind die ältesten Rassen auf der Doppelseite. Während
 - [Wichtel]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/)
 - [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/)
 - [Zwerge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/)
-

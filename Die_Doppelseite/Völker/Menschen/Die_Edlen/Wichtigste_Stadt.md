@@ -23,4 +23,3 @@ Die legendäre letzte Ruhestätte aller großen Menschenhelden der Doppelseite. 
 ## Der Hafen
 
 Der Hafen befindet sich ein paar Kilometer außerhalb der Stadt, direkt am Rinnsal. Er ist einer der größten Häfen der Menschen, nur die Häfen der Kobolde auf der Atlanteninsel sind größer. Im größten Teil des Hafens werden die Güterschiffe be- und entladen, aber es gibt auch einen eigenen Bereich für die Passagier- und die mächtigen Kreuzfahrtschiffe.
-

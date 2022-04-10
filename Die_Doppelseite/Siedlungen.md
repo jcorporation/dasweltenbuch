@@ -22,7 +22,7 @@ Hier sind alle wichtigen Siedlungen und Bauwerke der Doppelseite aufgeführt.
 ### Siedlungen
 
 - [Amazon]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/Amazon)
-- [Chemien]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Chemien)
+- [Chemien]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Chemien)
 - [Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)
 - [Glorantia]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Glorantia)
 - [Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Kirnstein)
@@ -30,11 +30,11 @@ Hier sind alle wichtigen Siedlungen und Bauwerke der Doppelseite aufgeführt.
 - [Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)
 - [Legendärer Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Legendäre_Stadt)
 - [Unwichtiger Vorort]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Unwichtiger_Vorort)
-- [Nonnebacken]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Nonnebacken)
+- [Nonnebacken]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Nonnebacken)
 - [Roc da Acucar]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste/Roc_da_Acucar)
 - [Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Spitzendorf)
 - [Unistadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Unistadt)
-- [Wallheim]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Wallheim)
+- [Wallheim]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Wallheim)
 - [Wichtigsten Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigste_Stadt)
 {% endcapture %}
 

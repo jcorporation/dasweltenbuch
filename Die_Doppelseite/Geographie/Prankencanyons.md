@@ -8,6 +8,5 @@ title: Prankencanyons
 
 Die Prankencanyons erstrecken sich über ein fast kreisrundes Gebiet am nördlichen Rand der linken Seite. Dieses karge und steinige Gebiet wird von riesigen, tiefen Schluchten durchzogen, deren Boden größtenteils versteinert ist.
 
-- Machtgebiet: [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/)
-- Bewohner: [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren)
-
+- Machtgebiet: [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/)
+- Bewohner: [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren)

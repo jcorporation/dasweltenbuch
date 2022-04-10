@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Legendäere_Stadt
+permalink: /Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Legendäre_Stadt
 title: Legendäre Stadt
 ---
 
@@ -24,7 +24,6 @@ Das Königsschloss befindet sich inmitten der Stadt auf einer kleinen Insel des 
 
 Der Palast des religiösen Rates ist in der besten Gegend angesiedelt, ganz in der Nähe des Königsschlosses. Er ist in sieben Bereiche unterteilt. Jeweils einer der Bereiche gehört jeweils einer der sechs großen Kirchen. Der siebte Bereich ist für die Wahl des Vorsitzenden des religiösen Rates vorbehalten und steht deshalb die meiste Zeit leer.
 
-
 ***
-- [Der unwichtige Vorort]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Unwichtigervorort)
 
+- [Der unwichtige Vorort]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/Unwichtiger_Vorort)

@@ -12,7 +12,7 @@ Der Abschnitt &bdquo;Götter &amp; Co.&ldquo; umfasst all die religiösen Aspekt
 
 Die Götter der Doppelseite greifen mittlerweile nur noch sehr selten in die Geschehnisse der Doppelseite ein, obwohl die Priester sie immer häufiger um ihr Eingreifen bitten. Nur wenn die böse Seite zu mächtig wird, greifen die guten Götter regulierend ein, meist aber nicht durch direktes Handeln oder große Wunder, sondern eher durch die Beeinflussung der richtigen Menschen oder durch das Senden von Visionen. Die bösen Götter erwählen regelmäßig einen Dämonen als Führer der bösen Rassen.
 
-- zu den [Göttern]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Goetter)
+- zu den [Göttern]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Götter)
 
 ## Mächtige und göttliche Artefakte
 
@@ -26,4 +26,3 @@ Neben den großen Religionen, die einer der sechs guten Gottheiten dienen und in
 
 - zu den großen [Kirchen]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Kirchen)
 - zu den [Sekten und Kulten]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Sekten)
-

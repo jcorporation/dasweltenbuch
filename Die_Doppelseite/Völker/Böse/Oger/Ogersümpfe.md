@@ -33,4 +33,3 @@ ZAG! ist im Vergleich mit DAK! ein kleines Ogerkönigreich, besitzt aber eine en
 Das Königreich ADT! ist ein Zusammenschluss aus mehreren kleinen Ogerrotten, um sich gegen die größeren Ogerrotten zu behaupten. Dieses Königreich liegt an der Grenze zu Rhyllien. Praktisch, um ab und an in das Reich der Gnome einzufallen und sich ein paar Snacks zu holen. ADT! wird von den anderen Ogerkönigreichen, wegen seiner geringen Macht und Größe, kaum beachtet und die Oger dieses Reiches sind kaum angesehen.
 
 **Ogerkönigin:** Fr-Daj
-

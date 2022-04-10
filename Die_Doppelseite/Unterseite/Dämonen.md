@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Unterseite_daemonen
+permalink: /Die_Doppelseite/Unterseite/Dämonen
 title: Dämonen
 ---
 

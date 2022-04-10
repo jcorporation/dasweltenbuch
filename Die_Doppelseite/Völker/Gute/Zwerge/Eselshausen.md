@@ -11,4 +11,3 @@ Eselshausen ist der Hauptbahnhof und das Zentrum des Zwergenreichs Area 51. In d
 ## Der Bahnhof
 
 Der Bahnhof befindet sich am Rande des Eselsohrgebirges, neben ihm befindet sich ein &bdquo;Alles-was-man-braucht&ldquo;-Laden, in dem Reisende die vielen neuen Erfindungen der Zwerge erwerben können. Der Bahnhof und die angrenzenden Gebäude befinden sich unter einer soliden Dachkonstruktion, die eine Höhe von etwa 10 Metern besitzt und die Gebäude vor schlechtem Wetter und auch vor herabregnenden Einzelteilen schützt, wie sie oft nach einem dumpfen Knall vom Himmel regnen.
-

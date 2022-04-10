@@ -27,4 +27,3 @@ Die Frachtschiff Kobold-Gesellschaft hat quasi ein Monopol auf den Transport von
 Die Zwergenbahn stellt eine äußerst schnelle, aber auch enorm teure Möglichkeit dar, Handelswaren zu transportieren. Die Zwergenbahn wird von den Zwergen des Eselsohrstammes betrieben. Sie verbindet die größten und wichtigsten Städte der Doppelseite mit einem zweigleisigen Schienensystem.
 
 - mehr zur [Zwergenbahn]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Zwergenbahn)
-

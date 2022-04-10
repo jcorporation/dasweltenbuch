@@ -19,4 +19,3 @@ In der Mitte des Versammlungsplatzes befindet sich eine zehn Meter hohe Statue v
 ## Brennpunkttempel
 
 Wie der Name schon vermuten lässt, liegt dieser Tempel ganz in der Nähe des Brennpunkts. Die Vorderseite des Bauwerkes ist offen und erlaubt so freie Sicht auf den Brennpunkt, die restlichen Mauern sind massiv. Den Eingang zum Tempel säumen kolossale Säulen, die zudem ein Vordach stützen; auch im Inneren des Tempels stehen reich verzierte Säulen. Im Inneren des Tempels, genau gegenüber dem Eingang, befindet sich der Hochaltar, hier hält der oberste Schamane die Messen. Der Brennpunkt ist zudem der einzige bekannte Ort, an dem Krskan beschworen werden kann.
-

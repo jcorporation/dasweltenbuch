@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Völker/Menschen/Babarische_Union/Wallheim
+permalink: /Die_Doppelseite/Völker/Menschen/Barbarische_Union/Wallheim
 title: Wallheim
 ---
 
@@ -11,4 +11,3 @@ Wallheim ist die Hauptstadt der Barbarischen Union und liegt im ehemaligen Gebie
 ## Der Sitz des Rates
 
 In Wallheim sitzt der ständige, zehnköpfige Rat der Barbarischen Union. Er ist direkt neben dem Marktplatz ansässig, der sich inmitten von Wallheim befindet. Der Sitz des Rates besteht aus einem weitläufigen Gelände auf dem drei große Häuser stehen. Eines der Häuser ist ein typisches Langhaus der Barbaren, in dem die Räte der Barbaren mit einem Teil ihrer Vertrauten leben. Das andere Wohnhaus ist im Besitz des Walkürenrates. Zwischen diesen beiden Gebäuden befindet sich das eigentliche Ratsgebäude, in dem die Politik der Barbarischen Union gemacht wird.
-

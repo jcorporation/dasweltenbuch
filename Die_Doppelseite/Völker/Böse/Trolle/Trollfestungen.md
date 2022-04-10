@@ -25,4 +25,3 @@ Die Parkfestung liegt in einem etwas ebenerem Teil des Bröselgebirges. Wie die 
 Die Turmfestung steht auf einer Felsspitze inmitten einer tiefen Schlucht. Der Zugang zu dieser Festung ist nur über eine Zugbrücke möglich, die den zehn Meter breiten Spalt überspannt. Die Zugbrücke ist aber die meiste Zeit hochgezogen und es werden drei bis vier Trolle benötigt, um die Brücke zu bewegen. Durch den begrenzten Platz in dieser Festung wächst diese von Jahr zu Jahr immer mehr in die Höhe und sieht dadurch wie ein überdimensionaler schwarzer Turm aus. Trotz der Unplanmäßigkeit dieses gigantischen Turms scheint er sehr solide zu stehen, was wieder beweist, dass die Trolle gar keine schlechten Architekten sein können. Trollherzog Rampu herrscht über die Turmfestung, er gilt als einer der besten Trollarchitekten überhaupt.
 
 **Trollherzog:** Herzog Rampu
-

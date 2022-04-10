@@ -7,6 +7,7 @@ title: Zwerge
 # Zwerge
 
 <img alt="" src="{{ site.baseurl }}/assets/images/rassen/zwerge.jpg" />
+
 Die Zwerge unterteilen sich in vier Stämme, die in den vier unterschiedlichen Gebirgen der Doppelseite leben. Jeder dieser Stämme ist unabhängig und besitzt einen Zwergenkönig. Einer dieser Könige wird zum lebenslangen Hochkönig der Zwerge gewählt, diese Wahlen finden immer im Bröselgebirge statt. Es ist Tradition, dass jeder Stamm abwechselnd den Hochkönig stellt. Zwerge hassen Pferde und sind so gut wie immer zu Fuß unterwegs. Lasten transportieren sie entweder auf Ponys oder auf ihren wagemutigen Erfindungen. Natürlich sind die Zwerge für ihre Trinkfestigkeit bekannt und brauen das beste Bier der Doppelseite. Bier ist das Nationalgetränk der Zwerge, es ist nicht unüblich, schon beim Frühstück eines zu trinken, bevor es in die Minen geht. Die Waffe ihrer Wahl ist die Axt, entweder eine große Zweihandaxt oder oft auch zwei kleinere Streitäxte. Zwerge werden bis zu 300 Jahre alt und sind nach 50 Jahren erwachsen. Die Zwerge mögen keine Magie, sie sind viel zu bodenständig dafür. Sie bevorzugen ehrliche Kämpfe und die harte Arbeit in den Minen oder in der Schmiede, sie sind einfach praktisch orientiert und Magie erscheint ihnen viel zu rätselhaft.
 
 ### Erscheinungsbild
@@ -27,7 +28,7 @@ Der Eselsohrstamm lebt in Minen unterhalb des Eselsohrgebirges, sie sind die gro
 
 Der König des Eselsohrstammes war, bevor er König wurde, ein bekannter Tüftler und Erfinder. Er ist noch ein sehr junger, engagierter und impulsiver König, der von seinem Volk sehr geschätzt wird.
 
-- [Area 51]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Area51)
+- [Area 51]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Area_51)
 - [Zwergenbahn]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Zwergenbahn)
 
 ### Der Bleistiftstamm
@@ -48,7 +49,7 @@ Der Bröselstamm lebt in den Minen unterhalb des Bröselgebirges. Dieser Stamm i
 
 Der König des Bröselstammes hat einen untrüglichen Blick und kann jede auch noch so kleine Unreinheit und jeden Fehlschliff eines Diamanten erkennen. Er ist in der Rangfolge der nächste Anwärter auf den Hochkönigstitel.
 
-- [Bröselreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Broeselreich)
+- [Bröselreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/Bröselreich)
 
 ### Der Verlorene Stamm
 

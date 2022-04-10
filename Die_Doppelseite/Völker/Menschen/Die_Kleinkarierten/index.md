@@ -16,7 +16,6 @@ Das Volk der Kleinkarierten ist eine bunte Mischung aus allen Menschenvölkern. 
 
 Die meisten Kleinkarierten verehren den höchsten Gott Leser. Das niedrigere Volk betet die unterschiedlichsten Götter an. Sie sind regelmäßig einmal in der Woche im Tempel und feiern dort eine gemeinsame Messe, die vom höchsten Priester der Stadt geleitet wird.
 
-
 ***
-- [Kleinkari]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Kleinkari)
 
+- [Kleinkari]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Kleinkari)

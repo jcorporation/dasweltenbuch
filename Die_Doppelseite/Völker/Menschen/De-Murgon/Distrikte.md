@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Völker/Menschen/Demurgon/Distrikte
+permalink: /Die_Doppelseite/Völker/Menschen/De-Murgon/Distrikte
 title: Die Distrikte von De-Murgon
 ---
 
@@ -13,7 +13,7 @@ Die drei mächtigsten Kriegsherren haben De-Murgon untereinander aufgeteilt. Die
 Dieser Distrikt ist das Zentrum De-Murgons, sein Kriegsherr residiert in der Bösen Festung, die sich in den Ausläufern des Lesezeichengebirges befindet. Schon seit Jahrhunderten ist dies der größte und mächtigste Distrikt De-Murgons, weshalb sein Name auch zum Namen des ganzen Reiches wurde. Die Familie De-Murgon regiert jetzt schon in der zwölften Generation das Reich der bösen Kriegsherren, ihr Wappen zeigt drei Schwerter auf schwarzem Grund mit weißem Band. Zwar erstreckt sich der Distrikt bis in die Kuzduwüste hinein, seine Bewohner siedeln aber größtenteils in der Nähe des Lesezeichengebirges.
 
 - **Kriegsherr:** De-Murgon der Zwölfte
-- **Hauptfestung:** [Die Böse Festung]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Demurgon/Boesefestung)
+- **Hauptfestung:** [Die Böse Festung]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/De-Murgon/Böse_Festung)
 
 ## Der Distrikt Herrenstein
 
@@ -28,4 +28,3 @@ Kartum liegt im Süden De-Murgons, seine Grenzen sind mit großen &bdquo;Betrete
 
 - **Kriegsherr:** Kargen
 - **Hauptfestung:** Kartum
-

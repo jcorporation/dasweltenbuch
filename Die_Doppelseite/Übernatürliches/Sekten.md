@@ -18,6 +18,7 @@ title: Sekten und Kulte
 <tr><td>Zeugen des Untergangs</td><td>Kirnstein</td><td>akzeptiert</td></tr>
 </tbody>
 </table>
+
 ## Apokalyptische Propheten
 
 Sie sind ein recht harmloser Kult, viele bezeichnen sie einfach als Spinner. Sie glauben nun schon seit ein paar Jahrzehnten, dass das Ende der Doppelseite naht, und scheuen auch keine Mühen, dies der Menschheit (und natürlich auch allen anderen Rassen) mitzuteilen. Ihre Behauptungen begründen sie auf zahlreichen Visionen, die sie entweder in alten Büchern entdeckt oder selber mittels berauschenden Kräutern erlebt haben. Vor jedem Jahreswechsel bunkern sie Vorräte und vor ein paar Jahren haben sie sogar ein Komitee gegründet, das die Planung eines riesigen unterirdischen Bunkers beaufsichtigt. In diesem Bunker sollen die Mitglieder der Propheten überleben, falls es wirklich zum Zuklappen des Weltenbuches kommen sollte.
@@ -40,7 +41,6 @@ Die Zeugen des Untergangs sind eine Sekte, die hauptsächlich im Grenzreich verb
 
 Nach ihrer Meinung geht der Untergang vom Schattenreich aus. In den nächsten Jahren oder Jahrzehnten wird die größte jemals dagewesene Armee des Bösen, unterstützt von den Dämonen der Unterseite, aus dem Tor Von brechen und die restliche Doppelseite vernichten. Sie verkünden, dass nur die gläubigsten Menschen (also die Mitglieder ihrer Sekte) diese gewaltige Schlacht zwischen Gut und Böse überleben werden. Der Lektor ist für sie der höchste Gott unter den Göttern.
 
-
 ***
-- die großen [Kirchen]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Kirchen)
 
+- die großen [Kirchen]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Kirchen)

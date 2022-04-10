@@ -10,4 +10,3 @@ Die Trollberge befinden sich im nördlichen Teil des Bröselgebirges. Das Gelän
 
 - [Trolle]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/)
 - [Trollfestungen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/Trollfestungen)
-

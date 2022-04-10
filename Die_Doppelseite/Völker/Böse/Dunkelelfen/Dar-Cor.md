@@ -7,6 +7,7 @@ title: Dar-Cor
 # Dar-Cor
 
 <img alt="" src="{{ site.baseurl }}/assets/images/wappen/darcor.jpg" />
+
 Das Dunkelelfenreich Dar-Cor existiert seit 5487, dem Jahr, in dem das Böse den Vierten Zwergenstamm vernichtete. Die Hauptstadt, besser gesagt die einzige Stadt, dieses Reiches liegt innerhalb der Verlorenen Minen und wird Dar-Cid (die dunkle Stadt) genannt. Die Dunkelelfen werden von ihrem Hochkönigspärchen regiert, den ehemaligen Anführern der verstoßenen Elfen. Die Dunkelelfen leben in einer strengen Monarchie und bringen dem Monarchenpärchen gottgleiche Verehrung entgegen. Sie gehorchen ihren Herrschern absolut, jeder Widerspruch gilt als Verrat und wird mit dem Tod bestraft. Dar-Cor gleicht einer menschenleeren Wüste, hier gibt es weder Städte noch Dörfer. Jeder, der seine fünf Sinne beisammen hat, macht einen weiten Bogen um dieses Reich. Zwar leben die meisten Dunkelelfen innerhalb Dar-Cids, aber auf die Begegnung mit ihnen ist wahrlich niemand scharf.
 
 ## Wichtige Persönlichkeiten

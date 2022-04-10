@@ -22,4 +22,3 @@ Die Zwergenbahn ist ein, immer noch funktionstüchtiges, Relikt aus den vergange
 - Roc da Acucar
 
 Die eigentliche Endhaltestelle befand sich in den Verlorenen Minen. Die Gleise und die Endhaltestelle wurden aber noch von den flüchtenden Zwergen in der Schlacht von Kuzdu zerstört.
-

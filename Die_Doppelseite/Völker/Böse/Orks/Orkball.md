@@ -15,4 +15,3 @@ Die Orkballliga wurde vor einigen hundert Jahren gegründet und sorgt für die U
 ### Orkballstadion
 
 Mehr zum [Orkballstadion]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Orks/Orkballstadion).
-

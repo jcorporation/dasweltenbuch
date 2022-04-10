@@ -23,4 +23,3 @@ Die Hochkönigshalle ist die zweitgrößte Halle Dar-Cids, lediglich die Halle d
 ## Oberonwald
 
 Der Oberonwald wächst in einer riesigen Halle, die mit Sicherheit mehrere Hektar Fläche umfasst und etwa fünfzig Meter hoch ist. Als heiliger Ort ist es nur ausgewählten Priestern gestattet, ihn zu betreten. Der Wald ist keines natürlichen Ursprungs, die Dunkelelfen zogen ihn aus Ablegern des legendären Baumes von El-Cicadee. Er ist wohl der einzige Wald der Doppelseite, der ohne Licht gedeiht, allerdings hat der Lichtmangel seine Spuren hinterlassen: Die Bäume sind ausnahmslos schwarz und grau. Je älter ein Baum, desto dunkler ist er auch. Das Holz aus dem Oberonwald verfügt über magische Eigenschaften, deshalb werden aus ihm Artefakte für hochrangige Dunkelelfen geschnitzt.
-

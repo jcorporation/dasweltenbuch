@@ -21,4 +21,3 @@ Das macht einen Schamanen noch geheimnisvoller. Es muss ja nicht immer sinnvolle
 ### Regelmäßige, warme Fußbäder
 
 Durch Fußbäder kann der Kontakt zur mystischen Seite der Doppelseite wesentlich besser hergestellt werden. Das warme Wasser dient sozusagen als Medium. Manche Rituale setzen sogar zwingend Fußbäder voraus, um überhaupt durchgeführt zu werden. Bei Fußbädern ist darauf zu achten, dass sie nicht zu warm und nicht zu kalt sind, eine Temperatur von 38 Grad ist ideal.
-

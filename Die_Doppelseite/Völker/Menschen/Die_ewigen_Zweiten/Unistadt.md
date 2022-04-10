@@ -22,18 +22,16 @@ Die Bibliothek ist ein großes, fensterloses Gebäude, das sich über drei Stock
 
 Das Gebäude der Magiergilde liegt der Bibliothek gegenüber und ist jener an Größe ebenbürtig. Allerdings erinnert dieses Bauwerk eher an einen Palast denn an einen Tempel. Links und rechts des gewaltigen Eingangstors stehen die mächtigen Statuen zweier Drachen, die jeden Fremden mit mahnenden Blicken zu durchbohren scheinen. Im Sockel des linken Drachen gähnt ein zwei Zoll langer Schlitz, über ihm ist in geschwungenen Lettern das Wort &bdquo;Post&ldquo; eingemeißelt. An gleicher Stelle ist im Sockel des rechten Drachen ein etwa handtellergroßer, blauer Kristall eingelassen, in den das Wort &bdquo;Klingel&ldquo; eingraviert ist. Magiebegabte hören einen lauten Gong, wenn sie den Kristall berühren, andere Lebewesen hören hingegen nichts.
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/abenteuer/leseratten/unistadt-karte-web.png" />
+<img alt="" src="{{ site.baseurl }}/assets/images/abenteuer/leseratten/unistadt-karte-web.png" />
 
-<ol>
-- Tempel der Autorin
-- Rathaus
-- Tempel des Gestalters
-- Bibliothek
-- Tempel des Druckers
-- Feuerwehr
-- Stadtwache
-- Tempel des Lektors
-- Magiergilde
-- Statue der Autorin
-- Zwergenbahnbahnhof
-</ol>
+1. Tempel der Autorin
+2. Rathaus
+3. Tempel des Gestalters
+4. Bibliothek
+5. Tempel des Druckers
+6. Feuerwehr
+7. Stadtwache
+8. Tempel des Lektors
+9. Magiergilde
+10. Statue der Autorin
+11. Zwergenbahnbahnhof

@@ -7,6 +7,7 @@ title: Atlantea
 # Atlantea
 
 <img alt="" src="{{ site.baseurl }}/assets/images/wappen/atlantea.jpg" />
+
 Atlantea ist das Reich der Kobolde inmitten des Tropfenmeeres. Auf der größten Insel, der Atlanteninsel, liegen ihr größter Hafen und die Hauptstadt Atlantika. Atlantea besitzt die größte Flotte des Weltenbuchs und verfügt zudem über die schnellsten und größten Schiffe aller seefahrenden Reiche. Aus diesem Grund ist es die größte Seemacht der Doppelseite. Es ist zudem eine bedeutende Handelsmacht und unterhält Handelsbeziehungen zu allen Ländern, die ans Tropfenmeer oder das Rinnsal grenzen.
 
 Die Kobolde werden von einem König regiert, der auf Lebenszeit im Amt bleibt. Nach dem Tod des alten Königs treffen sich alle Koboldkapitäne auf der Atlanteninsel, wo sie aus ihren Reihen einen neuen König wählen. Bei dieser Wahl hat jeder Kapitän eine Stimme, die er verdeckt abgibt.
@@ -24,4 +25,3 @@ Eron Sturmtrotzer ist der beste Kapitän, mit der wagemutigsten Mannschaft und d
 ## Städte
 
 - [Atlantika]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/Atlantika)
-

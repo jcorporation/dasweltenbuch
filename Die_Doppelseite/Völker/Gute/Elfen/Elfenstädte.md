@@ -12,8 +12,8 @@ Einst bewohnten die Elfen große Teile der Doppelseite, lange bevor die Menschen
 
 In jeder der fünf mächtigen Elfenstädte steht inmitten der Stadt ein Elfenportal. Mit diesen Portalen ist es möglich, in wenigen Sekunden zwischen den einzelnen Portalen hin und her zu springen. Die Elfenportale wurden aber verschlossen, als die mächtige Elfenstadt El-Ardia unter dem Lesezeichengebirge begraben wurde, da nicht sicher ist, ob dieses Elfenportal von der bösen Seite des Weltenbuchs genutzt werden kann.
 
-
 ***
+
 ## El-Ardia
 
 Die Elfenstadt El-Ardia befindet sich seit Jahrhunderten unter dem Lesezeichengebirge. Alte Sagen behaupten, der böse Gott Radiergummi persönlich habe dieses Gebirge auf die Elfenstadt gestürzt.
@@ -33,4 +33,3 @@ Con-Ardia versank vor Jahrhunderten im Tropfenmeer. Es werden immer wieder Mutma
 ## Con-Gloriad
 
 Con-Gloriad ist eine legendäre, aber bereits untergegangene, Elfenstadt inmitten des Amazonendschungels. Obwohl die Amazonen schon einige Expeditionen unternommen haben, um diese legendäre Elfenstadt zu finden, ist es ihnen bisher nicht gelungen.
-

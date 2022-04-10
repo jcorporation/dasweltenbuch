@@ -9,18 +9,18 @@ title: Wichtige Persönlichkeiten
 | Name | Stand | Rasse / Volk | RIP |
 | ---- | ----- | ------------ | --- |
 | Alia Löwenherz | Oberhaupt der Tierbändigerinnen | [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/) |   |
-| Antillas Adlerauge | Mitglied der Doran | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren) |   |
+| Antillas Adlerauge | Mitglied der Doran | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren) |   |
 | Aramak Cherri | Bannerträger und enger Vertrauter des Königs | [Goblins]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/) |   |
 | Arnei Waldoran | Oberhaupt der Elfen | [Elfen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Elfen/) |   |
 | Binok | König der Kobolde | [Kobolde]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/) |   |
-| Breodan der Kühne | Stammesoberhaupt der Baroc | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren) |   |
+| Breodan der Kühne | Stammesoberhaupt der Baroc | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren) |   |
 | Cach-Rel Haan | Tourismusbeauftragter von Frosia | [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/) |   |
 | Caras | König der Echsenmenschen | [Echsenmenschen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Echsenmenschen/) |   |
 | Choqun | der General der Echsenmenschenarmee | [Echsenmenschen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Echsenmenschen/) |   |
 | Circe Nachtschatten | Oberhaupt der Waldjägerinnen | [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/) |   |
 | Conal Hawen | General der Grenzreicharmee | [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/) |   |
 | Cowal Emair | angesehener Goblinkönig | [Goblins]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/) |   |
-| Creban Goldlocke | Stammesoberhaupt der Hovan | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren) |   |
+| Creban Goldlocke | Stammesoberhaupt der Hovan | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren) |   |
 | Cuina | Frau des Koboldkönigs | [Kobolde]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Kobolde/) |   |
 | Culein Darce | Goblinmeister der Kriegsmaschinen | [Goblins]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/) |   |
 | Cullen Nate | König des Grenzreichs | [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/) |   |
@@ -30,11 +30,11 @@ title: Wichtige Persönlichkeiten
 | Elinia Argonat | Kaiserin des Ersten Kaiserreichs | [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/) |   |
 | Elor Argonat | Kaiser des Ersten Kaiserreichs | [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/) |   |
 | Elram | Bürgermeister von Frydia | [Halblinge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/) |   |
-| Elric Einhand | Stammesoberhaupt der Comas | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren) |   |
+| Elric Einhand | Stammesoberhaupt der Comas | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren) |   |
 | Eriador Dorenil | Monarch des Zweiten Menschenreichs | [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/) |   |
 | Fr-Daj | Ogerkönig der ADT! | [Oger]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Oger/) |   |
 | Dariel van Ragdal | Oberhaupt der zweiten Gnomhauptstadt | [Gnome]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/) |   |
-| Galena | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren) |   |
+| Galena | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren) |   |
 | Galen Heldus | bekannter Abenteurer | [Feen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Feen/) |   |
 | Galin der Erfindungsreiche | Zwergenkönig des Eselsohrstammes | [Zwerge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/) |   |
 | Garnon Verwegen | bekanntester Halblingsabenteurer | [Halblinge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/) | x |
@@ -55,16 +55,16 @@ title: Wichtige Persönlichkeiten
 | Olokwa | Oberherzog der Trolle | [Trolle]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/) |   |
 | Rampu | Trollherzog | [Trolle]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/) |   |
 | Reori Feori | faktisches Oberhaupt der Feen | [Feen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Feen/) |   |
-| Rissa | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren) |   |
+| Rissa | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren) |   |
 | Rois Bel | Direktor der Wichtelbank | [Wichtel]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/) |   |
-| Sigrita | inoffizielles Oberhaupt der Barbarischen Union | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren) |   |
+| Sigrita | inoffizielles Oberhaupt der Barbarischen Union | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren) |   |
 | Skab Gut | General der Dreg-Naks | [Orks]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Orks/) |   |
 | Skar Zog | General der Grosh-Naks | [Orks]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Orks/) |   |
 | Talor Hammerschlag | Zwergenkönig des Bleistiftstammes | [Zwerge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/) |   |
-| Toran der Mächtige | Stammesoberhaupt der Doran | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren) |   |
+| Toran der Mächtige | Stammesoberhaupt der Doran | [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren) |   |
 | Turgal van Saphir | Oberhaupt der ersten Gnomhauptstadt | [Gnome]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/) |   |
 | Umair Sebdan | Monarch der Dunkelelfen | [Dunkelelfen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Dunkelelfen/) |   |
 | Uzgor | Trollherzog | [Trolle]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/) |   |
-| Vara | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren) |   |
-| Wilma | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walkueren) |   |
+| Vara | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren) |   |
+| Wilma | Ratsmitglied der Walküren | [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren) |   |
 | Yordig Jahn | Oberhaupt der Yetis | [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/) |   |

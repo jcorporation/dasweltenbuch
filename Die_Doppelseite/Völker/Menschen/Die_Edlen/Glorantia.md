@@ -31,4 +31,3 @@ Selbst die Randviertel sind noch beeindruckend, wenn auch nicht mit dem Stadtzen
 ## Bahnhof
 
 Der Bahnhof der Zwergenbahn liegt im Westen Glorantias, außerhalb der Stadtmauern. Auch dieser Bahnhof wird von der Tempelwache kontrolliert und jeder Passagier, der aussteigt, um Glorantia zu besuchen, wird kontrolliert.
-

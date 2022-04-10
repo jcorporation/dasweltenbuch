@@ -7,6 +7,7 @@ title: Goblins
 # Goblins
 
 <img alt="" src="{{ site.baseurl }}/assets/images/rassen/goblin.jpg" />
+
 Die Goblins leben in der Nähe des Gebirges und südlich des Tintensees. Sie sind die kleinen Verwandten der Orks und meist in großen Gruppen unterwegs. Als kleinste und schwächste Rasse stehen sie in der Hierarchie des Bösen sehr weit unten, lediglich ihr handwerkliches Geschick bewahrt sie vor einem weiteren Absturz. Als &bdquo;Zwerge des Bösen&ldquo; beliefern sie Orks und Trolle mit Kriegsmaschinen, und das zu erstaunlich niedrigen Preisen. Goblins sind gemein, hinterhältig und aggressiv; solange sie sich aber beobachtet fühlen oder in der Minderheit sind, versuchen sie, einen netten und ungefährlichen Eindruck zu vermitteln &ndash; was ihnen dank ihres niedlichen Aussehens auch meist gelingt. Angeführt werden sie vom Goblinkönig, den immer ein paar Wappenträger begleiten. Aus Erfahrung haben sie gelernt, dass es schmerzhaft endet, wenn man größeren Rassen widerspricht. Aus diesem Grund verkaufen sie ihre Kriegsmaschinen auch spottbillig. Sie sind aber nicht dumm und erzielen, trotz ihrer exorbitanten Rabatte, immer noch einen Gewinn aus ihren Verkäufen. Die Goblins sind, zusammen mit den Dunkelelfen, die intelligenteste böse Rasse der Doppelseite. Sie können bis zu fünfzig Jahre alt werden, wenn sie nicht gerade von ihren Verbündeten erschlagen oder als Opfer für Radiergummi ausgewählt werden.
 
 ### Erscheinungsbild
@@ -43,8 +44,7 @@ Die Fertigung von Kriegsmaschinen ist die Hauptaufgabe der Goblins, wenn sie nic
 
 Die Kriegsmaschinenagentur ist ein Zusammenschluss der größten Kriegsmaschinenbauer der Goblins. Diese Agentur baut selber keine Kriegsmaschinen, sondern ist lediglich für den Vertrieb zuständig. Sie vermittelt zwischen den Einkäufern, die nicht nur aus dem Schattenreich kommen, und den Kriegsmaschinenmanufakturen. Die Kriegsmaschinenagentur dient auch als Treuhandservice und erledigt die komplette Kaufabwicklung. Auf Wunsch können sowohl Käufer als auch Verkäufer völlig anonym bleiben. Die Kriegsmaschinenagentur bietet zahlungskräftigen Kunden optional auch Garantierverlängerungen und Vor-Ort-Service. Sie lässt sich diese Zusatzleistungen allerdings teuer bezahlen.
 
-
 ***
-- [Goblinanhöhen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/Goblinanhoehen)
-- [Narr-Gohl]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/Narrgohl)
 
+- [Goblinanhöhen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/Goblinanhöhen)
+- [Narr-Gohl]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/Narr-Gohl)

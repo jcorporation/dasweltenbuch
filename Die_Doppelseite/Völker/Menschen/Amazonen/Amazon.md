@@ -11,4 +11,3 @@ Amazon ist die Hauptstadt des Amazonenreiches [Amazonasien]({{ site.baseurl }}/D
 ## Festplatz
 
 Der Festplatz von Amazon befindet sich inmitten des neutralen Viertels. Auf diesem Platz finden alle wichtigen Feste, Wettkämpfe und Entscheidungsfindungen statt. Der imposanteste Wettkampf ist sicherlich die Oberemanzenwahl, die alle 10 Jahre hier stattfindet. In der Zwischenzeit finden hier aber auch kleinere Feiern zu Ehren der Göttin Glühbirne statt.
-

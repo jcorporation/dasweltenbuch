@@ -15,4 +15,3 @@ Der Marktplatz befindet sich im Zentrum von Auendorf und ist der Dreh- und Angel
 ## Handelsgilde
 
 Natürlich hat auch die Handelsgilde eine Niederlassung, um die Kontakte mit dem Weinhandelskontor der Gnome zu pflegen und den Handel mit Wein und Artefakten aus Färaa zu beaufsichtigen.
-

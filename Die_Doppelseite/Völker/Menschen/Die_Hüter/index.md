@@ -16,7 +16,6 @@ Die Hüter sind meist braungebrannt und stattlich, etwas größer als der Durchs
 
 Die meisten Menschen dieses Volkes beten den Leser an. Ihre Religion ist von Angst und Ungewissheit geprägt, der Grund hierfür dürfte die Nähe des Lesezeichengebirges sein. Hüter besuchen die Tempel regelmäßig, in ihrem Volk genießen Priester hohes Ansehen. Sie glauben &ndash; und ihre Priester und Legenden bekräftigen dies &ndash;, der Leser persönlich habe sie unter den Treusten seiner Anhänger auserwählt. Sie tun alles, um diesen Anspruch gerecht zu werden.
 
-
 ***
-- [Grenzreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Grenzreich)
 
+- [Grenzreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Grenzreich)

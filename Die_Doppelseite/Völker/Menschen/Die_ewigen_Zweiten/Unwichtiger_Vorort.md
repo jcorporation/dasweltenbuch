@@ -22,4 +22,3 @@ Sie liegt inmitten des Unwichtigen Vororts, direkt an der Kaffeestraße. Sie bes
 ## Die Schmiede
 
 Die Schmiede liegt etwas abseits von der Kaffeestraße. Hier werden weder Kunstwerke noch Waffen hergestellt. Der Schmied ist in der Lage Pferde zu beschlagen, Ackergerät zu reparieren oder auch mal ein Rad von einem Wagen zu reparieren.
-

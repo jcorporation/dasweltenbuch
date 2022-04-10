@@ -11,10 +11,10 @@ Die folgenden Seiten beschreiben die aufgeklappte Doppelseite des Weltenbuchs un
 {% capture include_col1 %}
 ## Die Doppelseite
 
-- [Karte]({{ site.baseurl }}/Karte)
+- [Karte]({{ site.baseurl }}/Die_Doppelseite/Karte/)
 - [Geographie]({{ site.baseurl }}/Die_Doppelseite/Geographie/)
-  - [Die linke Seite]({{ site.baseurl }}/Die_Doppelseite/Geographie/Linkeseite)
-  - [Die rechte Seite]({{ site.baseurl }}/Die_Doppelseite/Geographie/Rechteseite)
+  - [Die linke Seite]({{ site.baseurl }}/Die_Doppelseite/Geographie/Die_linke_Seite)
+  - [Die rechte Seite]({{ site.baseurl }}/Die_Doppelseite/Geographie/Die_rechte_Seite)
 - [Tierwelt]({{ site.baseurl }}/Die_Doppelseite/Tierwelt)
 
 ## Früchte der Zivilisation
@@ -28,11 +28,11 @@ Die folgenden Seiten beschreiben die aufgeklappte Doppelseite des Weltenbuchs un
 - [Bünde und Geheimgesellschaften]({{ site.baseurl }}/Die_Doppelseite/Bünde)
 - [Siedlungen &amp; Bauwerke]({{ site.baseurl }}/Die_Doppelseite/Siedlungen)
 - [Die wichtigsten Handelswege]({{ site.baseurl }}/Die_Doppelseite/Handelswege/)
-- [Besonderheiten]({{ site.baseurl }}/Die_Doppelseite/Besonderheiten)
+- [Besonderheiten]({{ site.baseurl }}/Die_Doppelseite/Besonderheiten/)
 
 ## Götter &amp; Co.
 
-- [Übernatürliches]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches)
+- [Übernatürliches]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/)
 - [Götter]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Götter)
 - [Die großen Kirchen]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Kirchen)
 - [Sekten und Kulte]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Sekten)
@@ -41,14 +41,14 @@ Die folgenden Seiten beschreiben die aufgeklappte Doppelseite des Weltenbuchs un
   - [Schamanen]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Magie/Schamanen)
   - [Zauberer]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Magie/Zauberer)
 - [Die Unterseite]({{ site.baseurl }}/Die_Doppelseite/Unterseite/)
-  - [Dämonen]({{ site.baseurl }}/Die_Doppelseite/Unterseite/Daemonen)
+  - [Dämonen]({{ site.baseurl }}/Die_Doppelseite/Unterseite/Dämonen)
 {% endcapture %}
 
 {% capture include_col2 %}
 ## Völker und Machtgebiete
 
 - [Übersicht der Völker und Machtgebiete]({{ site.baseurl }}/Die_Doppelseite/Übersicht_der_Völker_und_Machtgebiete)
-- [Gute]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute)
+- [Gute]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/)
   - [Elfen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Elfen/)
   - [Feen]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Feen/)
   - [Gnome]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Gnome/)
@@ -57,13 +57,13 @@ Die folgenden Seiten beschreiben die aufgeklappte Doppelseite des Weltenbuchs un
   - [Wichtel]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/)
   - [Yetis]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Yetis/)
   - [Zwerge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Zwerge/)
-- [Menschen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen)
+- [Menschen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/)
   - [Amazonen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/)
-  - [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/)
-    - [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren)
-    - [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Babarische_Union/Walküren)
+  - [Barbarische Union]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/)
+    - [Barbaren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren)
+    - [Walküren]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Barbarische_Union/Walküren)
   - [Die Edlen]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/)
-  - [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten)
+  - [Die (ewigen) Zweiten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/)
   - [Die Hüter]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/)
   - [Kleinkarierten]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/)
   - [Kuzduwüste]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Kuzduwüste/)

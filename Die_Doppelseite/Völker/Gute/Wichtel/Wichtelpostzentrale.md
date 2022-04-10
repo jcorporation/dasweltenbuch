@@ -10,7 +10,6 @@ Die Wichtelpostzentrale befindet sich am stumpfen Ende des Bleistiftbergs auf de
 
 Die Wichtelpostzentrale besteht aus einem großen Vorraum mit vielen Postschaltern, an denen Briefe und Pakete aufgegeben und abgeholt werden können. Hier muss auch die unzustellbare Post abgeholt werden, was aber selten vorkommt. Hinter diesem Vorraum befindet sich die Logistikabteilung der Wichtelpost, hier wird die Post nach Gebiet und Dringlichkeit rund um die Uhr sortiert. Sobald ein Wichtelpostrucksack voll ist, wird die Post dann von den Wichtelträgern ausgetragen. Die Logistikabteilung gleicht für Außenstehende einen Ameisenhügel, gut organisiert, aber auf den ersten Blick ein großes Chaos.
 
-
 ***
-- zu den [Wichteln]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/)
 
+- zu den [Wichteln]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Wichtel/)

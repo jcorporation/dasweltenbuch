@@ -37,4 +37,3 @@ Der Stein des Ausgleichs wurde von Lektor persönlich geschaffen. Dieses Artefak
 ## Stift der Macht
 
 Der Stift der Macht ist ein magischer Stift, der auf allen möglichen Materialien schreibt. Die Schrift verblasst auch nach Jahrhunderten nicht. Mit diesem Stift soll das Legendäre Buch des Lichts geschrieben worden sein. Die Autorin wird als Herstellerin dieses mächtigen Artefakts vermutet. Leider ist dieser Stift bei der Vernichtung von El-Ardia unwiederbringlich verloren gegangen.
-

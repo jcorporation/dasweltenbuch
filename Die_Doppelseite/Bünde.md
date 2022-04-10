@@ -15,10 +15,10 @@ In den Bünden und absolut geheimen Geheimgesellschaften der Doppelseite sind vo
 <tbody>
 <tr><td>Bund der Drachenritter</td><td>[Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)</td><td>Geheim</td></tr>
 <tr><td>Die Berufenen</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Kirnstein)</td><td>Geheim</td></tr>
-<tr><td>Naturbund</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigstestadt)</td><td>Offiziell</td></tr>
+<tr><td>Naturbund</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigste_Stadt)</td><td>Offiziell</td></tr>
 <tr><td>Neomeuchler</td><td>[Kreuzstadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Kreuzstadt)</td><td>Geheim</td></tr>
 <tr><td>Orden der Lichtritter</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
-<tr><td>Orden des Lichts</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigstestadt)</td><td>Offiziell</td></tr>
+<tr><td>Orden des Lichts</td><td>[Wichtigste Stadt]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Edlen/Wichtigste_Stadt)</td><td>Offiziell</td></tr>
 <tr><td>Ritter der Blume</td><td>[Spitzendorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Kleinkarierten/Spitzendorf)</td><td>Offiziell</td></tr>
 <tr><td>Schattenorden</td><td>[Kirnstein]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Die_Hüter/Kirnstein)</td><td>Verboten</td></tr>
 <tr><td>Schatzwächter</td><td>[Freidorf]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Wildlande/Freidorf)</td><td>Geheim</td></tr>

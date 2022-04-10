@@ -21,6 +21,7 @@ Auf dem Weltenbuch gibt es sechs große, teilweise rivalisierende Kirchen der Me
 <tr><td>Kirche des Druckers</td><td>Kirnstein</td></tr>
 </tbody>
 </table>
+
 ## Kirche des Lesers
 
 Die Kirche des höchsten Gottes, sie ist die Staatsreligion des Ersten Kaiserreiches und des Zweiten Menschenreiches. Der höchste Priester dieser Kirche lebt in der Wichtigsten Stadt in einer prächtigen Tempelanlage. Er ist es auch, der seit Menschengedenken die Kaiser des Ersten Kaiserreiches krönt. Die Kirche ist besonders stark in den zwei größten Menschenreichen vertreten und gilt als die hochnäsigste Kirche der Doppelseite.
@@ -64,11 +65,11 @@ Der Vorsitzende dieses Rates wird auf Lebenszeit von der Wahlgemeinschaft gewäh
 
 
 ***
+
 # Die Goldtafeln der Götter
 
 Jede Kirche besitzt eine einzige, originale Goldtafel, auf der das Symbol ihres Gottes verewigt ist. Diese Tafeln wurden von den Göttern gesegnet und sind somit die heiligsten Objekte jeder Kirche. Die Goldtafeln werden, schwer bewacht, im Machtzentrum der jeweiligen Kirchen aufbewahrt und sind niemals unbeaufsichtigt. Nur die höchsten Geistlichen besitzen ein Zugangsrecht zu den Räumlichkeiten der Goldenen Tafel. Normalsterbliche bekommen diese heiligen Artefakte nicht zu Gesicht. Neben ihrem ideellen Wert besitzen die Goldtafeln auch einen sehr großen rein materiellen Wert, da sie aus purem Gold gefertigt sind. 
 
-
 ***
-- [Sekten und Kulte]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Sekten)
 
+- [Sekten und Kulte]({{ site.baseurl }}/Die_Doppelseite/Übernatürliches/Sekten)

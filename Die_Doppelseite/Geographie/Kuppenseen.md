@@ -10,4 +10,3 @@ Die Kuppenseen werden von unterirdischen warmen Quellen gespeist und besitzen da
 
 - Machtgebiet: [Idyllien]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/Idyllien)
 - Bewohner: [Halblinge]({{ site.baseurl }}/Die_Doppelseite/Völker/Gute/Halblinge/)
-

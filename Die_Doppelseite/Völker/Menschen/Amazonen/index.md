@@ -7,6 +7,7 @@ title: Amazonen
 # Amazonen
 
 <img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/amazone.jpg" width="292" />
+
 Die Amazonen sind die Oberemanzen der Doppelseite und werden generell als Männerhasser hingestellt. Männer sind, in der Gesellschaft der Amazonen, den Frauen untergeordnet. Wie von den Frauen in anderen Reichen, wird dies hier von den Männern klaglos akzeptiert und als Tatsache betrachtet. Dafür müssen sie nicht in den Krieg ziehen oder auf die gefährliche Jagd in den Dschungel gehen. In der Stadt ist es sowieso wesentlich sicherer, und die Frauen der Amazonen haben einen eisernen Willen und mehr als einmal eindrucksvoll bewiesen, dass sie über genügend Geschick für die Jagd und den Kampf verfügen. Auch ihr Verhandlungsgeschick lässt sich mit ihrer Schönheit messen.
 
 ### Erscheinungsbild
@@ -42,7 +43,6 @@ Der Stamm der Waldjägerinnen hat, im Gegensatz zu den anderen Amazonenstämmen,
 - **Wohngebiet:** mittlerer Teil des Dschungels
 - **Oberhaupt:** Circe Nachtschatten
 
-
 ***
-- [Amazonasien]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/Amazonasien)
 
+- [Amazonasien]({{ site.baseurl }}/Die_Doppelseite/Völker/Menschen/Amazonen/Amazonasien)

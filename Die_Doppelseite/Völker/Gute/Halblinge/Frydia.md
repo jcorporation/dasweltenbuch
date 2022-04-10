@@ -15,4 +15,3 @@ Das Kurviertel befindet sich, wie bei anderen Städten der Hafen, direkt an den 
 ## Marktplatz
 
 Der Marktplatz von Frydia dient nicht nur dem Warenumschlag, sondern ist auch der Endpunkt der Kaffeestraße. Neben Waren aus aller Welt treffen daher auch die Kurgäste der Kuppenbäder an diesem Ort ein. Besonders Kaffee und das Yetieis sind gefragte Güter.
-

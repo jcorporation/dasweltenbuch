@@ -23,4 +23,3 @@ Ein altes Sprichwort sagt, die Kleidung einer Hexe sei meist älter als sie selb
 ## Hexentreffen
 
 Die Hexen eines Gebiets treffen sich regelmäßig zu Kaffeekränzchen, um sich über den neuesten Klatsch und Tratsch zu unterhalten und natürlich auch, um Geheimrezepte auszutauschen.
-
