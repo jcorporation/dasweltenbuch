@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /Die_Doppelseite/Völker/Menschen/Babarische_Union/Barbaren
+permalink: /Die_Doppelseite/Völker/Menschen/Barbarische_Union/Barbaren
 title: Barbaren
 ---
 
 # Barbaren
 
 <img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/barbar.jpg" width="193" />
+
 Die Barbaren sind ein raues und barbarisches Volk. Die meiste Zeit widmen sie sich dem Kampf und der Verstärkung ihrer Wälle. Die Politik überlassen sie lieber den Walküren, im Gegenzug übernehmen sie dafür die Überfälle auf die anderen Reiche. Sie leben in kleineren Siedlungen im westlichen Teil der Barbarischen Union.
 
 ### Erscheinungsbild

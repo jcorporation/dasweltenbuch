@@ -38,8 +38,7 @@ Sollten die Helden nicht sofort auf Rattenjagd gehen wollen (nach ihrem anstreng
 
 Sollten die Helden erfolgreich versuchen ihn auszunüchtern, sollte etwa ein Blutrünstiger Barbar Rega dazu zwingen, mit Promillestop Bekanntschaft zu schließen, wird der sich erstmal lautstark über all den Alkohol beschweren, den er nun umsonst (aber nicht kostenlos) getrunken hat. Danach wird er sich scheinbar auf sein Zimmer zurückziehen. Zur Rattenplage wird er schweigen, schließlich kennt er die Helden (noch) nicht.
 
-
 ***
+
 - **Zurück:** [Stadtkarte]({{ site.baseurl }}/Abenteuer/Leseratten/Stadtkarte)
 - **Weiter:** [Kanalisation]({{ site.baseurl }}/Abenteuer/Leseratten/Kanalisation)
-

@@ -6,10 +6,7 @@ title: Reisen
 
 # Reisen
 
-
-<div class="beispiel">
-## Reisegeschwindigkeiten
-
+{% capture include_body %}
 Hier die durchschnittlichen Reisegeschwindigkeiten für die verschiedenen Reisearten. Meistens werden Reisen aber etwas länger dauern, da Reisen selten ereignislos verlaufen.
 
 <table>
@@ -23,7 +20,8 @@ Hier die durchschnittlichen Reisegeschwindigkeiten für die verschiedenen Reisea
 <tr><td>Zwergenbahn</td><td>400</td></tr>
 </tbody>
 </table>
-</div>
+{% endcapture %}
+{% include beispiel.md body=include_body title="Reisegeschwindigkeiten" %}
 
 Längere Reisen sind bei einem Abenteuer oft ein typisches Element und auf Reisen kann viel passieren, passiert nichts, kann man eine Reise auch einfach überspringen. Ereignisse auf Reisen können entweder direkt zum Plot des Abenteuers gehören oder auch nur eine Auflockerung oder sogar ein kleines Nebenabenteuer sein. Hier folgen ein paar Ideen, was auf Reisen alles geschehen kann.
 
@@ -42,4 +40,3 @@ Vielleicht reisen die Charaktere nicht alleine, sie könnten sich einer Reisegru
 ## Zufällige Entdeckung eines Dungeons
 
 Die Charaktere reisen durch eine unwirtliche Gegend, das Wetter wird immer schlechter und sie können sich gerade noch in eine kleine Höhle zurückziehen, bevor der heftige Schneesturm ausbricht. Angekommen in der Höhle werden sie diese aus reiner Neugier und Langeweile erkunden. Die kleine natürliche Höhle stellt sich dann als Eingang zu einem großen Höhlensystem heraus, ob jetzt nun natürlichen Ursprungs oder von Menschenhand geschaffen ist eigentlich egal. Ein verschlossenes Tor vor dem eigentlichen Höhlensystem kann die Wartezeit der Helden in eine interessante und kniffligen Episode verwandeln.
-

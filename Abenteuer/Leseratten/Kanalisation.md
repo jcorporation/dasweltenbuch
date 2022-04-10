@@ -16,19 +16,18 @@ Aufmerksame Helden (Schwere Probe auf Aufmerksamkeit) können in den Augen viele
 
 Viele Ratten scheinen aus dem nordöstlichen Teil der Kanalisation zu kommen oder dort hin zu streben. Tatsächlich haust dort, in einer etwas abgelegenen Sammelstelle, der von Rega versehentlich beschworene Rattendämon. Die Helden können bei ihrem Weg durch die Kanalisation Spuren des Rattendämons finden.
 
-<p><br/>
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/abenteuer/leseratten/kanalisation.png" /></p>
-<ol>
-- Rattendämon
-- 20 Angriffslustige Ratten
-- sehr starke Strömung, schwere Athletik-Probe, sonst schluckt man Wasser -&gt; 2W6 Schaden
-- Stadtmauer und Gitter im Wasser, ohne spezielle Ausrüstung ist das Gitter nicht zu überwinden
-- Kanalisationseingänge, genau dieser führt in das Zentrum für experimentelle Magie
-- Sammelstelle, 2m tiefes Abwasser
-- Verstopfter Gang, voller Unrat und Exkrementen
-- Fußabdruck einer überdimensionale großen Ratte, zeigt Richtung 1
-- neuere Beschädigungen des Tunnelsystems an Ecken und an der Decke, zerquetschte Ratten
-</ol>
+<img alt="" src="{{ site.baseurl }}/assets/images/abenteuer/leseratten/kanalisation.png" /></p>
+
+1. Rattendämon
+2. 20 Angriffslustige Ratten
+3. sehr starke Strömung, schwere Athletik-Probe, sonst schluckt man Wasser -&gt; 2W6 Schaden
+4. Stadtmauer und Gitter im Wasser, ohne spezielle Ausrüstung ist das Gitter nicht zu überwinden
+5. Kanalisationseingänge, genau dieser führt in das Zentrum für experimentelle Magie
+6. Sammelstelle, 2m tiefes Abwasser
+7. Verstopfter Gang, voller Unrat und Exkrementen
+8. Fußabdruck einer überdimensionale großen Ratte, zeigt Richtung 1
+9. neuere Beschädigungen des Tunnelsystems an Ecken und an der Decke, zerquetschte Ratten
+
 ## Die Sammelstelle
 
 Wenn die Helden die Kanalisation lange genug durchsuchen, stoßen sie auf den Rattendämon. Der einfachste Weg ist, einfach die Tunnel zu nehmen, in denen die meisten Ratten sind. In der Nähe der Sammelstelle ist der Boden vor lauter Ratten kaum noch zu erkennen und es wird äußerst schwierig, voranzukommen. Die Ratten werden beständig aggressiver und fiepsen immer lauter und bedrohlicher. Wenn die Helden die Sammelstelle erreichen, erwartet der Rattendämon sie bereits kampfbereit, da er von den Ratten gewarnt wurde. Da er noch nicht körperlich kämpfen kann, verwendet der Dämon die umherhuschenden Ratten als lebendige Wurfgeschosse. Allerdings kämpfen auch die Ratten, die gerade nicht durch die Gegend fliegen, gegen die Helden.
@@ -50,12 +49,12 @@ Wahrscheinlich werden die Helden irgendwann von Ratten angegriffen. Dies geschie
 <tr><th>Zähigkeit</th><td>1</td></tr>
 </tbody>
 </table>
+
 ## Das Ende?
 
 Sollten die Helden den Dämon im Kampf besiegen, werden sie (vermutlich) Obik Sames benachrichtigen. Dieser kann berichten, dass es für ein paar Minuten so ausgesehen habe, als würden die Ratten sich zurückziehen, doch dies sei nur von kurzer Dauer gewesen. Wenn nicht die Helden die Vermutung äußern, dass dies nicht das letzte war, was man vom Dämon gesehen habe, tut er es und bittet sie, weitere Nachforschungen anzustellen.
 
-
 ***
+
 - **Zurück:** [Der Einstieg]({{ site.baseurl }}/Abenteuer/Leseratten/Einstieg)
 - **Weiter:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Leseratten/Nachforschungen)
-

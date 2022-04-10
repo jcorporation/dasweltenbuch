@@ -6,7 +6,7 @@ title: Unglücksraben
 
 # Unglücksraben
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/ungluecksrabe.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/ungluecksrabe.jpg"/>
 
 Unglücksraben besitzen, wie ihre Verwandten, ein schwarzes Gefieder und einen gebogen, grauschwarzen Schnabel. Ihre Krallen sind extrem scharf und gefährlich. Unglücksraben krächzen oft und gerne in einem nervtötendem Ton.
 

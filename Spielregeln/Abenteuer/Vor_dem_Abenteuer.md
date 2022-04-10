@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Vordemabenteuer
+permalink: /Spielregeln/Abenteuer/Vor_dem_Abenteuer
 title: Vor dem Abenteuer
 ---
 
@@ -24,9 +24,7 @@ Wenn das Abenteuer deutlich länger als 4&ndash;5 Stunden dauert, ist es ratsam,
 
 Der Spielleiter erhält ebenfalls Heldenpunkte, und zwar pro Abenteuer &bdquo;Anzahl Spieler&ldquo; + &bdquo;durchschnittliche Stufe der Charaktere&ldquo;.
 
-<div class="hinweis">
-## Spielleiter-Heldenpunkte
-
+{% capture include_body %}
 Die Spielleiter-Heldenpunkte dienen dazu, um in spannenden Momenten noch mehr Dramatik in das Geschehen zu bringen, etwa wichtigen Gegenspielern der Charaktere kurzzeitig höheres Können zu verleihen oder Hindernisse schwieriger zu gestalten. Aber Vorsicht, durch den Einsatz der Heldenpunkte sollten die Charakterleistungen nicht geschmälert werden!
-
-</div>
+{% endcapture %}
+{% include hinweis.md body=include_body title="Spielleiter-Heldenpunkte" %}

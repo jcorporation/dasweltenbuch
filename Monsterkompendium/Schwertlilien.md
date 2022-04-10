@@ -6,7 +6,7 @@ title: Schwertlilien
 
 # Schwertlilien
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/schwertlilie.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/schwertlilie.jpg"/>
 
 Schwertlilien sind eine aggressive Blumenart. Sie sind auf den ersten Blick nicht von normalen Lilien zu unterscheiden, wenn sie ruhig stehen und die warme Morgensonne genießen. Sie besitzen blaue, lila oder gelbe Blüten und sind schön anzusehen.
 

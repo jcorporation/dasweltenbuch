@@ -23,26 +23,23 @@ Das Standardheldenpaket bringen alles mit damit der Charakter ein paar Tage in d
 
 ## Startgeld
 
-
-<div class="hinweis">
-## Währung
-
-<p>1 GM (Goldmünze)<br/>
+{% capture include_body %}
+1 GM (Goldmünze)<br/>
 = 10 SM (Silbermünzen)<br/>
 = 100 BM (Bronzemünzen)<br/>
-= 1000 KM (Kupfermünzen)</p>
-</div>
-<div class="hinweis">
-## Notation der Boni
+= 1000 KM (Kupfermünzen)
+{% endcapture %}
+{% include hinweis.md body=include_body title="Währung" %}
 
+{% capture include_body %}
 Die Boni werden direkt hinter dem Gegenstand notiert.
 
-<p>**P** steht dabei für den Profilbonus.<br/>
-**Z** für den Zähigkeitsbonus.</p>
-</div>
+**P** steht dabei für den Profilbonus.<br/>
+**Z** für den Zähigkeitsbonus.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Notation der Boni" %}
 
 Jeder Charakter startet mit 2 Goldmünzen, von denen er sich Ausrüstung und Waffen kaufen kann. Es müssen nur Dinge bezahlt werden, die einen Bonus geben oder Grundlage für eine Tätigkeit sind; alles andere ist kostenlos, also sucht keine Kleinigkeiten in den Ausrüstungslisten.
-
 
 - **Startgeld:** 2 GM
 
@@ -51,5 +48,4 @@ Jeder Charakter startet mit 2 Goldmünzen, von denen er sich Ausrüstung und Waf
 - [Waffen und Rüstungen]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Waffen)
 - [Alles für den Helden von heute]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Diverse)
 - [Besondere Ausrüstung]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Besonderes)
-- [Kräuter und Tränke]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kraeuter)
-
+- [Kräuter und Tränke]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kräuter)

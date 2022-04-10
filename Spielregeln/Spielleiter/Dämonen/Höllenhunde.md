@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Dämonen/Hoellenhunde
+permalink: /Spielregeln/Spielleiter/Dämonen/Höllenhunde
 title: Höllenhunde
 ---
 

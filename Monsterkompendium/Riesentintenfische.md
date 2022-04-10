@@ -6,7 +6,7 @@ title: Riesentintenfische
 
 # Riesentintenfische
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/riesentintenfisch.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/riesentintenfisch.jpg"/>
 
 Der Riesentintenfisch hat mehrere Meter lange Tentakel mit riesigen Saugnäpfen. Seine schwarze Haut ist mit einem sehr schleimigen und ätzenden Gift bedeckt. Die meiste Zeit ist er in den Untiefen des Tintensees unterwegs. Er betrachtet diesen als seine Heimat und falls doch einmal ein paar Orks dem Ufer zu nahe kommen, bricht er aus dem Wasser hervor und zerrt die Unglücklichen in das unheilbringende schwarze Wasser des Tintensees.
 

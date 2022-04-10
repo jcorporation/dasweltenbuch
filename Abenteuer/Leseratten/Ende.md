@@ -20,7 +20,6 @@ Sollten die Helden hingegen gegenüber der Stadtwache nicht ganz ehrlich sein, k
 
 Der Dämon ist mit der Statue davongekommen und hat sie an der tiefsten Stelle der Kanalisation versenkt, während seine Ratten die Bibliothek auffressen. Es wird die Stadt nun heimsuchen, bis wahrhaftig mächtige Helden hinabsteigen und die Statue vernichten. Bis dahin wird die Stadtwache zunehmend überarbeitet und korrupt. Solange das Problem nicht gelöst ist, wird sie die Helden innerhalb der Stadtmauern eher behindern als fördern.
 
-
 ***
-- **Zurück:** [Die Zerstörung der Statue]({{ site.baseurl }}/Abenteuer/Leseratten/Zerstoerung)
 
+- **Zurück:** [Die Zerstörung der Statue]({{ site.baseurl }}/Abenteuer/Leseratten/Zerstörung_der_Statue)

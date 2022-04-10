@@ -6,7 +6,7 @@ title: Harpyien
 
 # Harpyien
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/harpie.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/harpie.jpg" />
 
 Harpyien sind große, schöne Vögel mit Frauenköpfen. Sie besitzen ein buntes Gefieder, scharfe Krallen und eine fast ebenso scharfe Zunge. Sie fliegen so schnell wie der Wind und stechen durch ihr buntes Erscheinungsbild überall hervor. Harpyien sind intelligent und sprechen Edarisch.
 

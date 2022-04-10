@@ -6,7 +6,7 @@ title: Seeschlangen
 
 # Seeschlangen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/seeschlange.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/seeschlange.jpg"/>
 
 Ausgewachsene Seeschlangen besitzen die vielfache Größe eines Kreuzfahrtschiffs. Oft besitzen sie einen gezackten Kamm auf ihrem Schlangenkörper. Ihre gefährlichsten Waffen sind: Ihr Maul mit spitzen Zähnen, die leicht einen Masten durchbeißen, und ihre enorme Kraft. Seeschlangen haben meist eine grau-blaue und fischartige Haut.
 

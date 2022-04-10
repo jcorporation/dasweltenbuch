@@ -15,23 +15,20 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
 - [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 
-<div class="hinweis">
-## Aufgabe der Spieler ist es &hellip;
-
+{% capture include_body %}
 - ihren Charakter zu spielen, also ihn aktiv handeln zu lassen und mit den anderen Charakteren und Spielleitercharakteren zu interagieren.
 - den Hintergrund des Charakters und seine Merkmale in das Abenteuer einzubringen.
 - zu versuchen das Abenteuer voranzubringen, anstatt nur auf das Geschehen im Abenteuer zu reagieren.
 - die Regeln des Spiels zu kennen und seine Erzählrechte zu nutzen, um das Abenteuer mitzugestalten.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Aufgabe der Spieler ist es ..." %}
 
-</div>
-<div class="hinweis">
-## Aufgabe des Spielleiters ist es &hellip;
-
+{% capture include_body %}
 - das Abenteuer gut vorzubereiten und auf die Charaktere zuzuschneiden.
 - das Abenteuer anziehend und spannend für die Spieler zu gestalten.
 - die Spielleitercharaktere selbständig und intelligent, im Rahmen ihrer Möglichkeiten, agieren und auf die Handlungen der Charaktere reagieren zu lassen.
 - die Umgebung zu beschreiben und die Ideen der Spieler aufzugreifen.
 - die Regeln des Spiels zu kennen und auch umzusetzen und dabei als Schiedsrichter zu agieren, falls etwas unklar ist.
 - das Abenteuer voranzutreiben und den Spielern aus Sackgassen zu helfen, wenn sie sich verzettelt haben.
-
-</div>
+{% endcapture %}
+{% include hinweis.md body=include_body title="Aufgabe des Spielleiters ist es ..." %}

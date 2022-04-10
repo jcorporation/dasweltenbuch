@@ -6,7 +6,7 @@ title: Grünes Glubschdings
 
 # Grünes Glubschdings
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/glubschdings.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/gruenes_glubschdings.jpg"/>
 
 Das Grüne Glubschdings besteht eigentlich nur aus grellgrünem, sehr elastischem Schleim, der die Angewohnheit hat, im dunklen zu leuchten und genauso giftig ist, wie es aussieht. In der Mitte des kegelförmigen Schleimbatzens liegt ein Mund, über dem zwei verschleimte Augen sitzen. Das Grüne Glubschdings kann seinen Schleim als Waffe einsetzen und ihn treffsicher verschießen. Sobald es in die Nähe seines verschossenen Schleims kommt, fließt dieser wieder zurück in seinen Körper.
 
@@ -34,6 +34,7 @@ Schleimwurf: 10 (x1), bis zu 10 Meter</td></tr>
 <tr><td>3-11</td><td>Rumpf</td><td>-1</td><td>3</td><td>20</td></tr>
 </tbody>
 </table>
+
 ## Großes Grünes Glubschdings
 
 <table  >

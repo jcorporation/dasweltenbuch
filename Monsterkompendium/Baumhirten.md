@@ -6,7 +6,7 @@ title: Baumhirten
 
 # Baumhirten
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/baumhirte.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/baumhirte.jpg"/>
 
 Baumhirten sehen auf den ersten, zweiten und dritten Blick wie ganz normale Bäume aus. Anders als normale Bäume können sie allerdings auf ihren Wurzeln durch den Wald laufen und ihre Äste und Zweige wie Arme und Finger benutzen. Außerdem sprechen Baumhirten Edarisch, schon so mancher Reisende war arg überrascht, wenn ihn plötzlich ein Baum ansprach. Aufgrund ihrer gemächlichen Art sind Gespräche mit Baumhirten allerdings stets etwas langwierig, aber wozu sollten sie sich auch beeilen &ndash; wenn sie nicht gerade gefällt werden, können sie schließlich sehr, sehr alt werden.
 

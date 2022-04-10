@@ -20,6 +20,7 @@ title: Alles für den Helden von heute
 <tr><td>Schreibzeug</td><td>10 BM</td></tr>
 </tbody>
 </table>
+
 ## Reittiere
 
 <table>
@@ -32,6 +33,7 @@ title: Alles für den Helden von heute
 <tr><td>Pferd</td><td>100 BM</td></tr>
 </tbody>
 </table>
+
 ## Für Magiewirkende
 
 <table>
@@ -46,6 +48,7 @@ title: Alles für den Helden von heute
 <tr><td>Zauberhut</td><td>P+1</td><td>60 BM</td></tr>
 </tbody>
 </table>
+
 ## Reisekosten
 
 <table>
@@ -58,4 +61,3 @@ title: Alles für den Helden von heute
 <tr><td>Zoll Zündholzbrücke pro Kopf</td><td>6 BM</td></tr>
 </tbody>
 </table>
-

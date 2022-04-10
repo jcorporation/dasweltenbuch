@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Leseratten/Zerstoerung
+permalink: /Abenteuer/Leseratten/Zerstörung_der_Statue
 title: Zerstörung der Statue
 ---
 
@@ -10,19 +10,18 @@ Sobald sie hinein gelangt sind, sollte es nicht allzu schwierig sein, das richti
 
 Tief in der Nacht ist innerhalb der Mauern kaum noch was los und Bäume, Büsche, Häuser und Schuppen geben oft genügend Deckung. Falls die Helden zuerst in Regas Labor oder Zimmer nachschauen, können sie dort keine Rattenstatue finden. Also wird sie wohl im Magischen Labor zu finden sein.
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/abenteuer/leseratten/labor.png" />
+<img alt="" src="{{ site.baseurl }}/assets/images/abenteuer/leseratten/labor.png" />
 
-<ol>
-- Eingangstür
-- Treppe nach oben
-- Geheimtür unter einem Teppich
-- Halbrunde, zweistufiger Absatz
-- Regale mit vielen Utensilien, Tränken etc
-- Tisch mit wichtigen Unterlagen
-- verschlossene Truhe
-- magischer Teppich und Erscheinungsort des Rattendämons
-- Tisch mit der Rattenstatue
-</ol>
+1. Eingangstür
+2. Treppe nach oben
+3. Geheimtür unter einem Teppich
+4. Halbrunde, zweistufiger Absatz
+5. Regale mit vielen Utensilien, Tränken etc
+6. Tisch mit wichtigen Unterlagen
+7. verschlossene Truhe
+8. magischer Teppich und Erscheinungsort des Rattendämons
+9. Tisch mit der Rattenstatue
+
 ## Das Magische Labor
 
 Fenster und die Tür sind immer fest verschlossen (sehr schwere Probe auf Schlösser öffnen). Im Inneren des Gebäudes gibt es in jedem Stockwerk einen langen Flur, von ihm geht es links und rechts in die einzelnen Laboratorien. Dort kann man viele komische Gerätschaften, Flüssigkeiten, Pulver, usw. finden; natürlich gibt es auch Schreibtische und vollgestopfte Bücherregale.
@@ -61,8 +60,7 @@ Mit dem Tod des Dämons explodiert die Statue (oder was noch von ihr übrig ist)
 - Jeder im Umkreis von 1 m um die Statue nimmt 1W6 Schadenspunkte.
 - Jeder im Umkreis zwischen 1 und 2 m um die Statue nimmt 1W4 Schadenspunkte.
 
-
 ***
-- **Zurück:** [Eine Lösung]({{ site.baseurl }}/Abenteuer/Leseratten/Loesung)
-- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Leseratten/Ende)
 
+- **Zurück:** [Eine Lösung]({{ site.baseurl }}/Abenteuer/Leseratten/Lösung)
+- **Weiter:** [Ende]({{ site.baseurl }}/Abenteuer/Leseratten/Ende)

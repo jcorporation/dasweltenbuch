@@ -6,10 +6,10 @@ title: Abenteuerideen
 
 # Abenteuerideen
 
-- vorhandene [Abenteuer]({{ site.baseurl }}/V1/Abenteuer)
-
+- vorhandene [Abenteuer]({{ site.baseurl }}/Abenteuer/)
 
 ***
+
 ## Das Lektorenschisma
 
 In der Kirche des Lektors kriselt es, seitdem gleich zwei neue Wörterbücher gefunden wurden. Zum einen gibt es die Anhänger Neduds, die größte und älteste Gruppe und bisher unangefochtene Vertreter der Kirche. Doch nun legte Girhaw in einigen Bereiche eine neue Interpretation der alten Regeln vor. Zwar gab es schon immer Diskussionen um die richtige Schreibweise bestimmter Wörter, doch bislang war die Meinung des Hohepriesters in solchen Fällen maßgeblich. Seit einiger Zeit werfen die Schismatiker ihm aber vor, die Regeln Lektors teilweise falsch zu interpretieren. Und wäre das nicht genug, so hat sich zudem noch eine dritte Gruppe gefunden, die Nesnekamer, die behaupten, die ursprünglichen Regeln Lektors gefunden zu haben.
@@ -18,9 +18,10 @@ Wer steckt hinter diesem Streit in der Kirche Lektors? Hat der Fehlerteufel sein
 
 ## El-Ardias&#39; Rückkehr
 
-<p>Die Elfenstadt El-Ardias, begraben unter dem Lesezeichengebirge und lange Zeit vergessen, ist noch lange nicht tot. Wir befinden uns gedanklich auf dem unnatürlich flachen Lesezeichengebirge. Einzelne mutige Bergsteiger, die Jahr für Jahr das Lesezeichengebirge besteigen, berichten von einem plötzlich entstandenen Erdhaufen, einige Jahre später wird von einem Hügel erzählt, an dessen Spitze der lange für ausgestorben geglaubte Baum wächst, der mehr als einmal eine entscheidende Rolle in Kriegen spielte.<br/>
-<br/>
-Was für verlorenes Wissen kann aus der Kraft des Baumes geschöpft werden, dass er so wichtig war für diese Kriege? Ist die Macht des Baumes wirklich Segen? oder in Wirklichkeit ein ewiger Fluch der Elfen? Wer wird sich diese unbekannte Macht zuerst aneignen? Die Elfen, die Dunkelelfen, oder ein ganz andere Volk? Und welche Gefahren erwarten die Doppelseite, falls El-Ardias wiederentdeckt wird?</p>
+Die Elfenstadt El-Ardias, begraben unter dem Lesezeichengebirge und lange Zeit vergessen, ist noch lange nicht tot. Wir befinden uns gedanklich auf dem unnatürlich flachen Lesezeichengebirge. Einzelne mutige Bergsteiger, die Jahr für Jahr das Lesezeichengebirge besteigen, berichten von einem plötzlich entstandenen Erdhaufen, einige Jahre später wird von einem Hügel erzählt, an dessen Spitze der lange für ausgestorben geglaubte Baum wächst, der mehr als einmal eine entscheidende Rolle in Kriegen spielte.
+
+Was für verlorenes Wissen kann aus der Kraft des Baumes geschöpft werden, dass er so wichtig war für diese Kriege? Ist die Macht des Baumes wirklich Segen? oder in Wirklichkeit ein ewiger Fluch der Elfen? Wer wird sich diese unbekannte Macht zuerst aneignen? Die Elfen, die Dunkelelfen, oder ein ganz andere Volk? Und welche Gefahren erwarten die Doppelseite, falls El-Ardias wiederentdeckt wird?
+
 ## Das Orktor
 
 Die Helden überbringen als letzten Wunsch eines Mönchs eine Botschaft zu einem abgelegenen Kloster in den Wildlanden. Dort stellen sie fest, dass das Kloster vor kurzem vollkommen zerstört wurde und sich in den Ruinen Orks herumtreiben. Auch die umgebenden Dörfer wurden von Orks geplündert und die Bewohner getötet oder verschleppt.
@@ -44,4 +45,3 @@ Der Wahn der Farben ist in Kleinkari so weit gegangen, dass die Anhänger bzw W�
 Eine alte Legende berichtet, dass die Echsen bei ihrer Erschaffung Halb Mensch-Halb Echse Warmblüter waren und sehr liebevolle Wesen. Doch dem Fehlerteufel gefiel dies nicht und er entnahm ihnen die Herzenswärme und sperrte sie unter der Erde ein. Daraufhin wurde die fruchtbare Erde kahl und verwandelte sich in die uns heute bekannte Kuzduwüste. Nun kam zu den Bleistiftzwergen ein geheimnisvoller Besucher und berichtete ihnen von dieser Herzenswärme, die noch immer unter der Erde eingeschlossen ist. Sie ist im Verlauf der Zeit zu einem Sonnenbad zusammengeschmolzen. Einem Metall, das golden glitzert und jedem den es berührt, die Friedenssehnsucht eingibt. Wenn die Zwerge sich geschickt anstellen, könnten sie daraus die seltenen Waffen Sonnenstich und Sonnenbrand machen, welche jedem Gegner den Kampfeswillen rauben....und die Echsen wieder in Warmblüter verwandeln. 
 
 Doch der Weg zum Sonnenbad ist schwer und führt durch ein verzaubertes Labyrinth....
-

@@ -6,7 +6,7 @@ title: Beispiel für die Monstererschaffungsregeln
 
 # Beispiel für die Monstererschaffungsregeln
 
-Als Beispiel für die Monstererschaffungsregeln soll die [Schwertlilie]({{ site.baseurl }}/V1/Spielleiter/Monsterkompendium/Schwertlilien) dienen.
+Als Beispiel für die Monstererschaffungsregeln soll die [Schwertlilie]({{ site.baseurl }}/Monsterkompendium/Schwertlilien) dienen.
 
 ## 1. Beschreibung des Monsters
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Heldengruppe/Charaktere_klischees
+permalink: /Spielregeln/Heldengruppe/Charakterklischees
 title: Klischees
 ---
 
@@ -31,6 +31,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Vollschlanke Walküre</td><td>Eine Kämpferin der Walküren, die sich immer nach schnuckeligen Männern umsieht. Sie ist stolz auf ihre weiblichen Rundungen und stellt diese auch zur Schau, aber wehe es lästert mal jemand zu laut über sie.</td></tr>
 </tbody>
 </table>
+
 ## Elfen
 
 <table>
@@ -45,6 +46,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Weiser Heiler</td><td>Einer der besten Heiler auf der Doppelseite, er kennt alle heilenden Kräuter und Essenzen. Durch seine jahrhundertelange Erfahrung hat er schon fast jede mögliche Krankheit gesehen und behandelt.</td></tr>
 </tbody>
 </table>
+
 ## Feen
 
 <table>
@@ -59,6 +61,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Nerviger Zauberer</td><td>Er schwirrt gern durch die Gegend, am liebsten um Köpfe herum. Es scheint sein Hobby zu sein, andere zu nerven. Aber wehe er packt seinen Feenstaub aus, dann kann es, durch seine magische Begabung, gefährlich werden.</td></tr>
 </tbody>
 </table>
+
 ## Gnome
 
 <table>
@@ -73,6 +76,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Wandernder Naturbursche</td><td>Er fühlt sich in der Natur sehr wohl und findet sich in der Wildnis bestens zurecht. Er ist Dank seiner Größe ein Meister in der Tarnung und auch in der Kräuterkunde sehr bewandert.</td></tr>
 </tbody>
 </table>
+
 ## Halblinge
 
 <table>
@@ -87,6 +91,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Wandernder Musiker</td><td>Ein typischer Halbling, der gern Feste feiert. Er wandert er gerne auf der Doppelseite und zieht von Fest zu Fest. Er kennt viele lustige und unterhaltsame Lieder und traurige Balladen, die er gerne seinem Publikum vorträgt. </td></tr>
 </tbody>
 </table>
+
 ## Kobolde
 
 <table>
@@ -101,6 +106,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Singender Seemann</td><td>Wenn es darum geht, ein Boot zu lenken oder sich anhand der Leselampe und der Gestirne zu orientieren, ist er der richtige Mann. Er lässt keine Gelegenheit aus, ein Lied auf seiner Quetsche zu spielen und alte Seemannslieder zu singen.</td></tr>
 </tbody>
 </table>
+
 ## Wichtel
 
 <table>
@@ -116,6 +122,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Strammer Wichtelwächter</td><td>Er ist ein pflichtbewusster Wächter, der seinen Posten nie verlässt. So wie er immer überkorrekt gekleidet ist verhält er sich auch, jede Vorschrift und jeden Befehl folgt er auf das Genauste.</td></tr>
 </tbody>
 </table>
+
 ## Yetis
 
 <table>
@@ -130,6 +137,7 @@ Hier eine Liste von Klischees, aufgeteilt nach Rassen.
 <tr><td>Starker Baumeister</td><td>Ein Architekt der Yetis, der aber nicht nur vor dem Reißbrett steht, sondern auch zupacken kann. Er ist ein Gelehrter der sich für alle möglichen Bauwerke begeistern kann.</td></tr>
 </tbody>
 </table>
+
 ## Zwerge
 
 <table>

@@ -6,7 +6,7 @@ title: Bücherwürmer
 
 # Bücherwürmer
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/buecherwurm.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/buecherwurm.jpg" />
 
 Bücherwürmer sind riesige sandfarbene Würmer, mit einer äußerst dicken und zähen Haut. Sie können bis zu 3 km lang werden und dabei einen Durchmesser von 250 m erreichen. Besonders eindrucksvoll ist allerdings ihr Maul, in dem in mehreren Lagen hintereinander spitze Zähne angeordnet sind, mit dem sie ihre Nahrungsmittel (so ziemlich alles) problemlos schmirgeln können.
 

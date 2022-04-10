@@ -6,7 +6,7 @@ title: Käferbären
 
 # Käferbären
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/kaeferbaer.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/kaeferbaer.jpg"/>
 
 Käferbären sind Mischwesen aus Käfer und Bär, die aus unerklärlichen Gründen gerne Goblins vor sich hertreiben. Ihr Rumpf ist der eines Käfers mit einem Bärenkopf und Bärentatzen, wobei der käferhafte Chitinpanzer die gleiche Farbe wie das Bärenfell hat. Käferbären besitzen eine Rückenhöhe von einem Meter und haben scharfe Krallen und ein mächtiges Gebiss.
 

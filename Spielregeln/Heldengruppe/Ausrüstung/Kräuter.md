@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Heldengruppe/Ausrüstung/Kraeuter
+permalink: /Spielregeln/Heldengruppe/Ausrüstung/Kräuter
 title: Kräuter und Tränke
 ---
 
@@ -19,25 +19,26 @@ title: Kräuter und Tränke
 <tr><td>Zuckertrank</td><td>2 SM</td></tr>
 </tbody>
 </table>
+
 ## Drachenblut
 
 Das Blut eines mächtigen Drachen des Lesezeichengebirges. Es hat eine sehr stark heilende und vitalisierende Wirkung. Das Drachenblut darf nicht gerinnen, deshalb wird es in einem geheimen Ritual speziell aufbereitet. Danach hat der Trank eine hellrote Farbe und ist fast so flüssig wie Wasser.
 
-**Wirkung: **Regeneriert die Zähigkeit eines Profils vollständig
+**Wirkung:** Regeneriert die Zähigkeit eines Profils vollständig
 
 ## Grüner Blobsaft
 
 Wer es übers Herz bringt diese ach so süßen, kleinen Blobs zu verarbeiten, kann aus ihnen einen Trank mit aufputschender Wirkung gewinnen. Das schwierigste an der Gewinnung ist das Einfangen von grünen Blobs, diese werden dann so lange in einem geschlossenem Gefäß in die Kälte gestellt, bis sie nicht mehr springen und porös werden. Mit dem Hammer werden sie dann in kleine Stücke zerteilt und über dem Feuer gekocht, bis eine zähflüssige Masse entsteht. Diese wird mit Wasser verdünnt und mit Gewürzen und Zucker abgeschmeckt.
 
-**Wirkung: **Der Trank bewirkt eine kurzzeitige Steigerung der Sprungkraft, bringt aber auch eine Erhöhung der Stimme mit sich.
+**Wirkung:** Der Trank bewirkt eine kurzzeitige Steigerung der Sprungkraft, bringt aber auch eine Erhöhung der Stimme mit sich.
 
 ### Varianten
 
-**Roter Blobsaft: **Hergestellt aus roten Blob.
+**Roter Blobsaft:** Hergestellt aus roten Blob.
 
 Frauen bekommen eine unerträglich hohe Stimme. Männer wirken &sbquo;soooo (unwiderstehlich) süüüß&lsquo; auf Frauen.
 
-**Blauer Blobsaft: **Hergestellt aus blauen Blobs.
+**Blauer Blobsaft:** Hergestellt aus blauen Blobs.
 
 Männer klingen wie im Stimmbruch. Frauen sind für kurze Zeit zu unglaublichen Verrenkungen im Stande, als wären ihre Knochen aus Gummi.
 
@@ -45,7 +46,7 @@ Männer klingen wie im Stimmbruch. Frauen sind für kurze Zeit zu unglaublichen 
 
 Heldenmut ist ein lebenspendender Trank, der aus der gleichnamigen Pflanze hergestellt wird. Komischerweise findet sich diese Pflanze nur auf dem Heldenfriedhof in der Wichtigsten Stadt und sonst so gut wie nirgends. Meist wächst sie zwischen Brennesseln und hat auch etwa dasselbe Aussehen.
 
-**Wirkung: **Regeneriert 3 Punkte der Zähigkeit des Krieger Profils
+**Wirkung:** Regeneriert 3 Punkte der Zähigkeit des Krieger Profils
 
 ## Nekromantenkaffee
 
@@ -69,5 +70,4 @@ Das Zigeunergras wächst meistens in schattigen Südhanglagen zwischen kleinen H
 
 Zuckertrank wird aus den Blättern und dem Stiel des Zuckergebüschs hergestellt, das nur im Gebiet der Zuckerfelsen wächst. Es ist eine kleinwüchsige und widerstandsfähige Pflanze. Aus den Blättern und dem Stiel wird der Saft heraus gepresst. Heraus kommt eine grüne sehr zähe Flüssigkeit. Diese Flüssigkeit wird anschließend noch mit Wasser verdünnt und in kleinen Mengen verkauft. Der Zuckertrank hat eine aufputschende Wirkung und macht den Konsumenten eine kurze Zeit körperlich und geistig sehr leistungsfähig.
 
-**Wirkung: **+2 für 10 Minuten auf alle Proben
-
+**Wirkung:** +2 für 10 Minuten auf alle Proben

@@ -24,6 +24,7 @@ title: Waffen und Rüstungen
 <tr><td>Zweihandaxt</td><td>P+1</td><td>80 BM</td></tr>
 </tbody>
 </table>
+
 ## Fernkampfwaffen
 
 <table>
@@ -38,6 +39,7 @@ title: Waffen und Rüstungen
 <tr><td>Wurfaxt</td><td>P+1</td><td>85 BM</td></tr>
 </tbody>
 </table>
+
 ## Rüstungen
 
 <table>
@@ -52,6 +54,7 @@ title: Waffen und Rüstungen
 </table>
 
 ***
+
 ## Besondere Waffen
 
 <table>
@@ -64,10 +67,9 @@ title: Waffen und Rüstungen
 <tr><td>Yetischwert</td><td>P+2</td><td>400 BM</td></tr>
 </tbody>
 </table>
+
 **Elfenbögen** werden aus dem Holz eines Baumes gefertigt, der nur im Elfenwald wächst.
 
 **Graphit** ist das härteste und leichteste Metall. Nur die Bleistiftzwerge können es schmieden.
 
 **Yetischwerter** sind aus einem Metall gefertigt, das die Optik von glasklarem Eis besitzt und auch genauso kalt ist.
-
-

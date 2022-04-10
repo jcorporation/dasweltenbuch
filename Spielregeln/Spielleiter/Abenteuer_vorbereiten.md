@@ -27,4 +27,3 @@ Wenn im Abenteuer große Ereignisse vorkommen, notiere dir, wann sie eintreten u
 ## Verlauf
 
 Verlasse dich nie darauf, dass das Abenteuer so abläuft wie geplant. Die Spielercharaktere werden nicht immer den roten Faden des Abenteuers folgen. Sie werden sehr wahrscheinlich einen anderen Weg gehen, als es sich der Abenteuerautor ausgedacht hat und genau das ist eines der interessanten Elemente eines Rollenspiels. Versuche daher nicht die Spielercharaktere mit der Brechstange auf Kurs zu halten, sondern improvisiere und vertraue darauf, dass die Spieler das Abenteuer lösen wollen.
-

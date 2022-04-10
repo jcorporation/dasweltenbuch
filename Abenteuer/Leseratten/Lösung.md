@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Leseratten/Loesung
+permalink: /Abenteuer/Leseratten/Lösung
 title: Eine Lösung
 ---
 
@@ -16,27 +16,28 @@ Rega kann den Helden einen kleinen Plan zeichnen und auch die Gebäude beschreib
 
 ## Einbruch ins Zentrum
 
-<p>Da die Magiergilde alles abstreitet, nicht mit sich reden lässt und auch die Stadtwache keinen Einfluss auf sie hat, bleibt den Helden wohl nur, ins ZFEM (Zentrum für experimentelle Magie) einzubrechen.<br/>
-Das Zentrum für experimentelle Magie liegt im nordöstlichen Teil der Unistadt. Von außen erkennt man nur eine drei bis vier Meter hohe Mauer, über die nur ein paar Dächer und Türme ragen.</p>
+Da die Magiergilde alles abstreitet, nicht mit sich reden lässt und auch die Stadtwache keinen Einfluss auf sie hat, bleibt den Helden wohl nur, ins ZFEM (Zentrum für experimentelle Magie) einzubrechen.
+
+Das Zentrum für experimentelle Magie liegt im nordöstlichen Teil der Unistadt. Von außen erkennt man nur eine drei bis vier Meter hohe Mauer, über die nur ein paar Dächer und Türme ragen.
+
 ### Das Tor und die Mauern
 
 Das Haupttor ist nur tagsüber besetzt und lässt sich nur mit einem magischen Amulett öffnen; Rega besitzt leider keins mehr. Die Helden müssen sich also etwas einfallen lassen, um auf das Gelände zu kommen. Sie könnten nachts über die Mauer klettern; die ist aber mit einem Zauber geschützt, der Kletterer wieder abrutschen lässt (unmögliche Kletternprobe) &ndash; mit einer Leiter ginge es hingegen leicht, da die Magier dummerweise vergessen zu haben, die Mauer auch gegen solche Hilfsmittel zu schützen. Andere Möglichkeiten wären, einen Magier zu bestechen oder ein Amulett zu stehlen.
 
 ### Innerhalb der Mauern
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/weltenbuch/abenteuer/leseratten/zfem-karte-web.png" />
+<img alt="" src="{{ site.baseurl }}/assets/images/abenteuer/leseratten/zfem-karte-web.png" />
 
-<ol>
-- Magisches Labor
-- Magierunterkünfte
-- Schulgebäude
-- Div. Schuppen und Lagerräume
-- Verwaltungsgebäude
-- Bibliothek
-- Speisesaal
-- Großer Versammlungsplatz
-- verschiedene Magiertürme
-</ol>
+1. Magisches Labor
+2. Magierunterkünfte
+3. Schulgebäude
+4. Div. Schuppen und Lagerräume
+5. Verwaltungsgebäude
+6. Bibliothek
+7. Speisesaal
+8. Großer Versammlungsplatz
+9. verschiedene Magiertürme
+
 Innerhalb der Mauern ist ein weitläufiger Park angelegt, der das komplette Zentrum umfasst. Innerhalb des Parks sind viele einzelne Gebäude und Türme verstreut. Genau in der Mitte befindet sich der gepflasterte Versammlungsplatz, zu dem fast alle gepflasterten Wege führen. Genau an diesem Platz befinden sich auch die Bibliothek, das Verwaltungsgebäude und der Speisesaal.
 
 - Bibliothek mit magischen Büchern und Lehrbüchern (wesentlich kleiner als die normale Bibliothek)
@@ -48,8 +49,7 @@ Innerhalb der Mauern ist ein weitläufiger Park angelegt, der das komplette Zent
 
 Rega wohnte in einem der Lehrlingsgebäude in der Nähe des Haupttores. Tief in der Nacht ist innerhalb der Mauern kaum noch was los, zudem gewähren Bäume, Büsche, Häuser und Schuppen genügend Deckung, um sich vor dem Nachtwächter zu verstecken. Wie Rega schon vermutete, ist die Rattenstatue weder in seinem Labor noch in seinem Zimmer zu finden. Als einziger Ort bleibt damit das Magische Labor übrig.
 
-
 ***
-- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Leseratten/Nachforschungen)
-- **Weiter:** [Zerstörung der Statue]({{ site.baseurl }}/Abenteuer/Leseratten/Zerstoerung)
 
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Abenteuer/Leseratten/Nachforschungen)
+- **Weiter:** [Zerstörung der Statue]({{ site.baseurl }}/Abenteuer/Leseratten/Zerstörung_der_Statue)

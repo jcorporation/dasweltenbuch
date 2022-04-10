@@ -6,7 +6,6 @@ title: Killerkarnickel
 
 # Killerkarnickel
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/killerhase.jpg" />
 Die Killerkarnickel sind eine Mutation des normalen Feldhasen. Diese Mutation wurde vermutlich von einem übermütigen Magier hervorgerufen, der mit einer neuen Zauberkategorie, der Genmanipulation, experimentierte. Von weitem sehen die Killerkarnickel genauso wie ihre harmlosen Verwandten aus, schaut man aber genauer hin, erkennt man Reißzähne und scharfe Krallen, die sie wie Katzen einfahren können.
 
 Sie leben bevorzugt in kleinen Wäldchen in Erdlöchern, die an Fuchsbauten erinnern, nur dass diese Erdlöcher ein unterirdisches Labyrinth bilden. In solchen unterirdischen Bauten können bis zu 30 Killerkarnickel leben.
@@ -21,3 +20,5 @@ Im Gegensatz zum normalen Hasen sind Killerkarnickel sehr aggressiv, fast tollw�
 <tr><td>Monsterstufe</td><td>1</td><td>1</td></tr>
 </thead>
 </table>
+
+<img alt="Killerkarnickel" src="{{ site.baseurl }}/assets/images/monster/killerkarnickel.jpg" />

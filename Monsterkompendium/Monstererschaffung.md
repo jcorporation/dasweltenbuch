@@ -8,7 +8,7 @@ title: Monstererschaffungsregeln
 
 Alle Monster im Monsterkompendium wurden mit diesen Monstererschaffungsregeln kreiert. Man kann sie sowohl benutzen, um eigene Monster zu erschaffen, als auch, um bestehende Monster zu verändern, z.B. um ihre Stärke an die Heldengruppe anzupassen. Grundlage ist dabei der Monsterwert: Je höher, desto gefährlicher das Monster. Diesen baut man sich aus mehreren Werten in einer Art Kaufsystem zusammen.
 
-- [Beispiel einer Monstererschaffung]({{ site.baseurl }}/V1/Spielleiter/Monsterkompendium/Monstererschaffung_beispiel)
+- [Beispiel einer Monstererschaffung]({{ site.baseurl }}/Monsterkompendium/Monstererschaffung_beispiel)
 
 ## 1. Beschreibung des Monsters
 

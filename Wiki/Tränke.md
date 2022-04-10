@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /Wiki/Traenke
+permalink: /Wiki/Tränke
 title: Tränke und Kräuter
 ---
 
 # Tränke und Kräuter
 
-- Vorhandene [Kräuter, Tränke und Gifte]({{ site.baseurl }}/V1/Regelwerk/Ausrüstung/Kraeuter)
+- Vorhandene [Kräuter, Tränke und Gifte]({{ site.baseurl }}/Spielregeln/Heldengruppe/Ausrüstung/Kräuter)
 
 ## Der magische O-Saft
 
@@ -43,6 +43,3 @@ Eine sehr seltene Pflanze, die nur auf wenigen Wiesen im zweiten Menschenreich z
 ## Gewöhnlicher Wasserschlauch
 
 Ebenfalls eine Pflanze die in keinem Garten fehlen sollte, da sie das Gießen und Sprengen ungemein erleichtert, solange man sie in der der Nähe eines Brunnens oder Sees anpflanzt.
-
-
-

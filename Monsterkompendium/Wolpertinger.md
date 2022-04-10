@@ -6,7 +6,7 @@ title: Wolpertinger
 
 # Wolpertinger
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/wolpertinger.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/wolpertinger.jpg"/>
 
 Der Wolpertinger ist ein Mischwesen. Er besitzt den Körper eines Hasen, auf seinem Kopf wächst ein Hirschgeweih, er besitzt die scharfen Reißzähne eines Wolfs, die Flügel einer Ente und den Schwanz eines Eichhörnchens. Sein dichtes Fell ist braun und er besitzt auch nur die Größe eines normalen Hasen. Dank ihrer Flügel können Wolpertinger auch kurze Strecken fliegen.
 

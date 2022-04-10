@@ -6,7 +6,7 @@ title: Chimären
 
 # Chimären
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/chimaere.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/chimaere.jpg" />
 
 Chimären sind keine natürlichen Wesen, sondern meist die Schöpfungen verrückter Zauberer (die sich oft hinterher nicht mehr daran erinnern können oder wollen, was sie da eigentlich erschaffen haben). Des Öfteren mutieren auch gewöhnliche Tiere zu Chimären, weil sie mit magischen Abfällen in Kontakt gekommen sind oder sie sogar gefressen haben.
 

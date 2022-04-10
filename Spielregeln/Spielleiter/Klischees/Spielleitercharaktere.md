@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Klischees/Slc
+permalink: /Spielregeln/Spielleiter/Klischees/Spielleitercharaktere
 title: Spielleitercharaktere
 ---
 
@@ -43,4 +43,3 @@ Er ist ein introvertierter Typ und bereist die Doppelseite alleine und nur mit w
 ## Zauberer im Turm
 
 Zauberer bewohnen natürlich einen Magierturm. Der typische Zauberer ist alt und stützt sich auf seinen alten Zauberstab. Bei ihm wohnt oft auch ein Jüngling, der zum Zauberer ausgebildet werden will, aber vor allem Hausarbeiten und ähnliches für den Zauberer erledigen muss. Zauberer leben meist recht einsam, da sie doch etwas verschroben und eigenwillig sind.
-

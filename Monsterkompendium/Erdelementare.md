@@ -6,7 +6,7 @@ title: Erdelementare
 
 # Erdelementare
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/erdelementar.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/erdelementar.jpg"/>
 
 Erdelementare bestehen aus der Erde und dem Gestein der Doppelseite und haben eine ungeschlachtete humanoide Gestalt, ähnlich der von Trollen. Ihre Macht kann man an ihren Augen erkennen: Besonders mächtige Erdelementare besitzen Augen aus lupenreinen Diamanten. Ihre Körper ist extrem schwer und ihre steinerne Haut eine nahezu undurchdringliche natürliche Rüstung. Erdelementare haben eine natürliche Abneigung gegen Zwerge.
 

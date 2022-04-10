@@ -6,7 +6,7 @@ title: Blobs
 
 # Blobs
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/blob.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/blob.jpg"/>
 
 Blobs sind kleine schleimige Glubschdinger und vermutlich mit dem Großen Grünen Glubschdings verwandt. Ihre Größe schwankt stark, die kleinsten sind kaum größer als Tischtennisbälle, während die größten fast so groß wie Fußbälle werden. Es gibt sie in allen schrillen und grellen Farben und Farbkombinationen.
 

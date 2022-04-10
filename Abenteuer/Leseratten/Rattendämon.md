@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/Leseratten/Daemon
+permalink: /Abenteuer/Leseratten/Rattendämon
 title: Rattendämon
 ---
 
@@ -19,6 +19,7 @@ Durch die Opfer der Ratten wird der Dämon immer mächtiger, jedenfalls wenn die
 Elemente: 2</td></tr>
 </tbody>
 </table>
+
 ## Steigerungsmöglichkeiten des Rattendämons
 
 Bei folgenden Ereignissen erhält der Rattendämon +1 auf Krieger und seine Zähigkeit.
@@ -29,7 +30,6 @@ Bei folgenden Ereignissen erhält der Rattendämon +1 auf Krieger und seine Zäh
 
 Wenn der Rattendämon +5 erreicht hat, ist er voll manifestiert. Stärker wird er nicht mehr, aber die Schutzsiegel stellen dann für ihn kein Hindernis mehr da und er kann seinen Plan vollenden.
 
-
 ***
-- **Weiter:** [Stadtkarte]({{ site.baseurl }}/Abenteuer/Leseratten/Stadtkarte)
 
+- **Weiter:** [Stadtkarte]({{ site.baseurl }}/Abenteuer/Leseratten/Stadtkarte)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer/Nachdemabenteuer
+permalink: /Spielregeln/Abenteuer/Nach_dem_Abenteuer
 title: Nach dem Abenteuer
 ---
 
@@ -8,12 +8,11 @@ title: Nach dem Abenteuer
 
 Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung an. Das wird durch Erfahrungspunkte (EP) symbolisiert. Pro bestandenem Abenteuer erhält jeder teilnehmende Charakter 2 EP.
 
-<div class="hinweis">
-## Erfahrungspunkte
-
+{% capture include_body %}
 Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele EP.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Erfahrungspunkte" %}
 
-</div>
 ## Steigerung
 
 Hat der Charakter genug Erfahrungspunkte angesammelt, steigt er eine Stufe auf. Durch den Stufenaufstieg erhält der Spieler die Möglichkeit, die Werte seines Charakters zu steigern. Er darf zwei Punkte auf die Heldenpunkte und die vier Profile verteilen.
@@ -39,13 +38,12 @@ Zusätzlich darf beim Stufenaufstieg eine beliebige Konsequenz gestrichen werden
 <tr><td>1</td><td>Möchtegernheld</td><td>0</td></tr>
 </tbody>
 </table>
-<div class="beispiel">
-## Beispiel zum Stufenaufstieg
 
+{% capture include_body %}
 Toran hat das erste Abenteuer bestanden und erhält 2 EP, dadurch steigt er eine Stufe auf.
 
 Silvia vergibt jeweils einen Punkt auf Krieger und Waldläufer. Somit hat er jetzt Krieger auf 6 und Waldläufer auf 4.
 
 Durch den Aufstieg darf sie auch eine Konsequenz von Toran streichen und streicht &bdquo;humpelt dauerhaft&ldquo;.
-
-</div>
+{% endcapture %}
+{% include beispiel.md body=include_body title="Beispiel zum Stufenaufstieg" %}

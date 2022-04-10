@@ -24,9 +24,8 @@ Willkommen im Weltenbuch Wiki. Hier sind Inhalte zu finden, die es nicht in das 
 
 - [Rassen]({{ site.baseurl }}/Wiki/Rassen)
 - [Klischees]({{ site.baseurl }}/Wiki/Klischees)
-- [Ausrüstung]({{ site.baseurl }}/Wiki/Ausruestung)
+- [Ausrüstung]({{ site.baseurl }}/Wiki/Ausrüstung)
 - [Tränke und Kräuter]({{ site.baseurl }}/Wiki/Tränke)
-- [Zauber]({{ site.baseurl }}/Wiki/Zauber)
 
 ## Spielleiterhilfen
 

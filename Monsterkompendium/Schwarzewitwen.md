@@ -6,7 +6,7 @@ title: Schwarze Witwen
 
 # Schwarze Witwen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/schwarzewitwe.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/schwarzewitwe.jpg"/>
 
 <p>Schwarze Witwen sind Frauen, die auf tragische Weise ihre Gatten verloren haben, meist durch Kriege oder übereifrige Heldenlehrlinge. Wegen ihrer großen Trauer sind sie ausschließlich schwarz gekleidet. Ein unnatürlicher Schleier des Kummers hat sich über ihr Gesicht gelegt, sodass dieses nur noch schemenhaft zuerkennen ist. Nach außen hin mögen diese Frauen harmlos wirken, aber sie verbergen unter ihren Trauergewändern ihr wahres Ich. Sie sind durch und durch Böse und suchen Opfer, denen sie nur Schlechtes wollen.<br/>
 <br/>

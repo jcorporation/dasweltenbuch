@@ -30,6 +30,13 @@ p {
   max-width: 50rem;
 }
 
+.card {
+  border: 1px solid #63462e;
+}
+
+.card-header {
+  border-bottom: 1px solid #63462e;
+}
 .card-svg {
   max-width: none !important;
 }
@@ -45,6 +52,10 @@ p {
 .bg-leder {
   background-color: #63462e;
   background-image: url("{{ site.baseurl }}/assets/images/leder.png");
+}
+
+.bg-pergament {
+  background-color: #f4e3d7;
 }
 
 .bg-brown {

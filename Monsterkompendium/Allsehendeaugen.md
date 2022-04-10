@@ -6,7 +6,7 @@ title: Allsehende Augen
 
 # Allsehende Augen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/allsehendesauge.jpg" />
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/allsehendesauge.jpg" />
 
 Das gefürchtete Allsehende Auge, auch bekannt als Immerseher oder der Stetsblickende, ist eine schwebende Kugel mit 12 stumpfen Stielen auf der Oberseite. Die Kugel selbst ähnelt stark einem Auge. Der Legende nach sollen die 12 Stiele weitere Augen beherbergen, jedoch konnte noch nie ein Überlebender davon berichten, ob dies tatsächlich der Fall ist. Weiter heißt es, dieses Monster sei ein Helfer Lektors und werde am Tag der Großen Fehlersuche alle seine Augen öffnen, um Fehler auszumerzen.
 

@@ -1,15 +1,17 @@
 ---
 layout: page
-permalink: /Monsterkompendium/Killerhasen
-title: Killerhasen
+permalink: /Monsterkompendium/Killerkarnickel
+title: Killerkarnickel
 ---
 
 # Killerhasen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/killerhase.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/killerkarnickel.jpg"/>
 
-<p>Die Killerhasen sind eine Mutation des normalen Feldhasen. Diese Mutation wurde vermutlich von einem übermütigen Magier hervorgerufen, der mit einer neuen Zauberkategorie, der Genmanipulation, experimentierte. Von weitem sehen die Killerhasen genauso wie ihre harmlosen Verwandten aus, schaut man aber genauer hin, erkennt man Reißzähne und scharfe Krallen, die sie wie Katzen einfahren können.<br/>
-Sie leben bevorzugt in kleinen Wäldchen in Erdlöchern, die an Fuchsbauten erinnern, nur dass diese Erdlöcher ein unterirdisches Labyrinth bilden. In solchen unterirdischen Bauten können bis zu 30 Killerhasen leben.</p>
+Die Killerhasen sind eine Mutation des normalen Feldhasen. Diese Mutation wurde vermutlich von einem übermütigen Magier hervorgerufen, der mit einer neuen Zauberkategorie, der Genmanipulation, experimentierte. Von weitem sehen die Killerhasen genauso wie ihre harmlosen Verwandten aus, schaut man aber genauer hin, erkennt man Reißzähne und scharfe Krallen, die sie wie Katzen einfahren können.
+
+Sie leben bevorzugt in kleinen Wäldchen in Erdlöchern, die an Fuchsbauten erinnern, nur dass diese Erdlöcher ein unterirdisches Labyrinth bilden. In solchen unterirdischen Bauten können bis zu 30 Killerhasen leben.
+
 Im Gegensatz zum normalen Hasen sind Killerhasen sehr aggressiv, fast tollwütig und Fleischfresser. Sie greifen jeden an, der sich ihrem Bau unvorsichtigerweise nähert, und verfolgen die Eindringlinge auch. Sobald sie einmal Blut gerochen hat, bekommt man sie kaum mehr von seinen Beinen los.
 
 <table  >

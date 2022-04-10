@@ -8,7 +8,7 @@ title: Klischeehafte Abenteuerelemente
 
 Hier werden klischeehafte Abenteuerelemente vorgestellt, die typisch für jede Fantasywelt und insbesondere für das Weltenbuch sind. Sie können direkt in bestehende oder eigene Abenteuer eingebaut werden oder einfach auch nur als Inspiration dienen.
 
-- [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Slc)
+- [Spielleitercharaktere]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Spielleitercharaktere)
 - [Dungeon]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Dungeons)
-- [Die typische Stadt]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Stadt)
+- [Die typische Stadt]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Die_typische_Stadt)
 - [Reisen]({{ site.baseurl }}/Spielregeln/Spielleiter/Klischees/Reisen)

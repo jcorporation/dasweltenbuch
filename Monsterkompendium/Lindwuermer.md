@@ -6,7 +6,7 @@ title: Lindwürmer
 
 # Lindwürmer
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/lindwurm.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/lindwurm.jpg"/>
 
 Lindwürmer sind eine Drachenunterart. Sie besitzen zurückgebildete Flügel, die in Krallen auslaufen. Wie Würmer kriechen sie auf dem Boden, können sich aber doppelt mannshoch aufrichten und blitzschnell mit ihren scharfen Zähnen zuschlagen. Dabei ähneln sie einer großen Schlange. Lindwürmer können bis zu 50 Meter lang werden und einen Körperdurchmesser von 5 Meter erreichen.
 

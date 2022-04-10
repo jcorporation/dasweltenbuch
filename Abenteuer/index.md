@@ -12,9 +12,4 @@ Hier gibt es vorgefertigte Abenteuer und Abenteuerideen
 
 Ein Kurzabenteuer in der Unistadt in dem die Helden eine Leserattenplage bekämpfen müssen, die von einem unfähigen Magier heraufbeschworen wurde.
 
-- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Leseratten)
-
-
-***
-- [Alte Abenteuer]({{ site.baseurl }}/V1/Abenteuer)
-
+- [zum Abenteuer]({{ site.baseurl }}/Abenteuer/Leseratten/)

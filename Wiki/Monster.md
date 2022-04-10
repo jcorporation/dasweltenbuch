@@ -6,17 +6,15 @@ title: Monster
 
 # Monster
 
-- Bereits vorhandene [Monster]({{ site.baseurl }}/V1/Spielleiter/Monsterkompendium)
-
+- Bereits vorhandene [Monster]({{ site.baseurl }}/Monsterkompendium/)
 
 ***
+
 ## Ergänzungsvorschlag Zyklopen
 
 Sie leben in kleinen Sippen, **sogenannten Zyklopädien**, zusammen und haben keinen Entdeckerdrang.
 
 ## Killerwal
-
-<img alt="" src="{{ site.baseurl }}/assets/images/misc2/tn2/killerwal.png" />
 
 Der Killerwal lebt im Tintensee und ist äußerst blutrünstig und gemein. Er zieht immer eine weiße Spur hinter sich her (Tintenkiller).
 
@@ -54,7 +52,7 @@ Als Sinnesorgan ist nur ein langes, stabförmiges Gebilde am dicken Ende erkennb
 <tr><td>5</td><td>Schwanz</td><td>-4</td><td>0</td><td>10</td></tr>
 </tbody>
 </table>
+
 ## Schwiegerdrache
 
 Schwiegerdrachen sind selbst bei anderen Drachenarten unbeliebt. Die Zwerge in den Bleistiftmienen haben die Theorie aufgestellt, dass es interessanterweise nur weibliche Schwiegerdrachen gibt, aber es existieren in der Tat auch männliche, die aber meist zu Hause im Hort sitzen und, sollte die Dame des Hauses mal zur Abwechslung da sein, sich dann stundenlanges Gemecker anhören dürfen. Sonst bewachen Schwiegerdrachen aber mit Vorliebe, einsame, heiratsfähige Prinzessinnen - viele Könige der Doppelseite schätzen die grimmigen Echsen als Anstandsdamen für ihre Töchter: Jeder Recke, der die Prinzessin zur Gemahlin nehmen will, wird erstmal vom Schwiegerdrachen auf eine ganze Reihe schwieriger, aufzehrender Quest geschickt, um zu beweisen, dass er der Prinzessin würdig ist. Gelingen ihm diese, kommt es meist trotzdem zum Kampf gegen den Schwiegerdrachen. Unterliegt der Schwiegerdrache, zieht er sich beleidigt zurück und ruft nicht mehr an... es sei denn der Recke verlässt sein holdes Weib, um auf Abenteuerreise zu gehen. Dann wird der Schwiegerdrache alles daran setzen, die ihm anvertraute Prinzessin davon zu überzeugen, dass es der größte Fehler ihres Lebens war, diesen Mann zu heiraten - oft geht, wenn der Held nach Hause kommt die ganze Questenreihe wieder von vorne los. Man hat auch schon von Fällen gehört, in denen Schwiegerdrachen Prinzen bewacht haben - die potenzielle Ehefrau kann sich schon einmal auf ermüdende Questen einstellen, die viel mit Bügeln, Kochen und Hausputz zu tun haben.
-

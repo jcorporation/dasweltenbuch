@@ -6,7 +6,7 @@ title: Polypenpflanzen
 
 # Polypenpflanzen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/polypenpflanze.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/polypenpflanze.jpg"/>
 
 Polypenpflanzen sind halb Pflanze, halb Tier. Sie sehen aus wie Schlangen, die aus der Erde wachsen und mit Pflanzenteilen dekoriert sind. Ihre Köpfe ähneln den Blüten fleischfressender Pflanzen: Von außen wunderschön, aber innen wartet ein Schlund mit spitzen Zähnen. Von ihrem oft lieblichen Geruch sollte man sich nicht täuschen lassen, denn in der Regel gilt: Je lieblicher sie riechen, desto giftiger sind sie. Sie vermehren sich wie jede Pflanze über Pollen.
 

@@ -6,7 +6,6 @@ title: Beispielcharaktere
 
 # Beispielcharaktere
 
-<div class="col2">
 ## Toran der Barbar
 
 Toran kommt aus dem Stamm der Baroc und ist mit seinem Langschiff in einen Sturm geraten. Als er wieder zu sich kam, lag er am Strand eines Urwaldes, wo er dann von den Dschungelemanzen aufgenommen wurde. Nach langen Jahren bei den Amazonen, halb als Sklave, halb als Freier, machte er sich eines Nachts davon, um Ruhm, ein Langschiff und Schätze zu erringen und wieder von seinem Stamm aufgenommen zu werden.
@@ -29,8 +28,7 @@ Pferd (1.000 KM)<br/>
 Bargeld: 0 KM</td></tr>
 </tbody>
 </table>
-</div>
-<div class="col2">
+
 ## Fayla
 
 Fayla ist eine junge, lebensfrohe Fee. Sie hat ihre Ausbildung zur Zauberin erst kürzlich abgeschlossen und will nun die Doppelseite erkunden, der Elfenwald ist ihr einfach zu klein geworden. Ihr großes Ziel ist es, die beste Feenzauberin zu werden, um von der Magierakademie in der Unistadt aufgenommen zu werden. Auf ihrer Reise wurde sie von Räubern überfallen und Toran hat sie gerettet. Seitdem weicht sie nicht mehr von seiner Seite.
@@ -54,4 +52,3 @@ Zauberstab: P+1 (600 KM)<br/>
 Bargeld: 600 KM</td></tr>
 </tbody>
 </table>
-</div>

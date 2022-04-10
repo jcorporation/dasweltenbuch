@@ -6,7 +6,7 @@ title: Hydras
 
 # Hydras
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/hydra.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/hydra.jpg"/>
 
 Hydras verfügen über einen reptiloiden Körper, der von bunten Schuppen bedeckt ist und auf dessem Schultern ein langer Hals mit neun drachenartige Köpfe sitzen. Sie werden etwa 5 m groß und wirken durch ihre aggressiv gefärbten Schuppen und ihre scharfen Zähne äußerst bedrohlich. Zwar agieren ihre Köpfe unabhängig voneinander, aber einer gibt den Ton an. Abgesehen von diesem Hauptkopf wachsen die anderen Köpfe innerhalb eines Kampfabschnitts nach, wenn sie abgeschlagen werden.
 

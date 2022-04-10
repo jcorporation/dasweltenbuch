@@ -23,6 +23,7 @@ title: Besondere Ausrüstungsgegenstände
 <tr><td>TürÖffneDich</td><td>100 BM</td></tr>
 </tbody>
 </table>
+
 ## Amors Duft
 
 Ein besonders betörendes Parfüm der Walküren, manche behaupten auch, dass es besonders aufdringlich riecht. Es ist in einer herzförmigen Phiole abgefüllt und gibt einen Bonus von 1 auf Betören.
@@ -62,4 +63,3 @@ Ein Beutel mit acht gebräuchlichen Kräutern. Innerhalb des Beutels erneuern si
 ## TürÖffneDich
 
 Ein Dietrichset, das einen Bonus von 1 auf Schlösser öffnen gibt und dazu noch höchst professionell aussieht. Ein Muss für jeden Profieinbrecher.
-

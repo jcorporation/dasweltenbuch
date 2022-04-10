@@ -8,12 +8,11 @@ title: Spielleitercharaktere
 
 Spielleitercharaktere lassen sich in vier Kategorien aufteilen: Hauptcharaktere, wichtige Charaktere, Handlanger und Statisten. Nur die ersten drei besitzen Werte. Hauptcharaktere müssen am genauesten definiert sein, Statisten kaum.
 
-<div class="hinweis">
-## Darstellung
-
+{% capture include_body %}
 Um Spielleitercharaktere glaubhaft darstellen zu können und um sie unterscheidbar zu machen, ist es sinnvoll, ihnen typische Klischees und auffällige Merkmale zuzuweisen.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Darstellung" %}
 
-</div>
 ## Hauptcharaktere
 
 Hauptcharaktere sind die Auftraggeber, der Anführer einer gegnerischen Partei oder auch die Zielperson eines Auftrags. Hauptcharaktere verfügen über vier Profile, Ausrüstung besitzen sie nach Bedarf. Sie sollten während des Abenteuers intelligent handeln und auf die Aktionen der Charaktere reagieren. Sie sollten auch agieren, falls die Charaktere zu passiv sind, wieso sollten sie auch auf die Charaktere warten?
@@ -36,4 +35,3 @@ Sollen die Handlanger etwas anspruchsvoller sein, können Zähigkeit und Profilw
 ## Statisten
 
 Statisten füllen die Kneipen, Städte und Dörfer der Doppelseite. Sie haben keine relevante Bedeutung im Setting und besitzen daher auch keine Werte, aber vermissen würde man sie trotzdem. Nur leere Kneipen und Städte würden die Charaktere wohl etwas komisch finden. Statisten können einfach spontan improvisiert werden, natürlich auch von Spielern.
-

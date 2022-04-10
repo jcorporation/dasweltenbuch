@@ -37,4 +37,3 @@ Ein Dungeon darf nicht nur Fallen enthalten, sondern sollte auch bewohnt sein, e
 ### Geheimer Bund
 
 Für einen geheimen Bund ist ein verborgener weitläufiger Dungeon, der sich zudem noch in Stadtnähe befindet, ein idealer Wohnsitz. Hier können sie ihre geheimen Pläne schmieden und ihre verbotenen Rituale ausführen, ohne Angst zu haben, entdeckt zu werden.
-

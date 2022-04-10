@@ -1,38 +1,32 @@
 ---
 layout: page
-permalink: /Spielregeln/Spielleiter/Klischees/Stadt
+permalink: /Spielregeln/Spielleiter/Klischees/Die_typische_Stadt
 title: Die typische Stadt
 ---
 
 # Die typische Stadt
 
-
-<div class="beispiel">
-## Typische Gegebenheiten
-
+{% capture include_body %}
 - Gasthof zum fröhlichen Helden
 - Herrscherschloss
 - der große Markt
 - eine überforderte Stadtwache
 - Tempel der 6 guten Götter
 - mächtige Gildenhäuser
+{% endcapture %}
+{% include beispiel.md body=include_body title="Typische Gegebenheiten" %}
 
-</div>
-<div class="beispiel">
-## Was kann in einer Stadt alles los sein?
-
+{% capture include_body %}
 - aufdringliche Bettler oder Prostituierte
 - Straßenhändler mit oder auch ohne Stände
 - Schlägereien, Pöbeleien und Streitereien
 - öffentlicher Prozess oder Hinrichtung
 - Herold der etwas Bedeutendes verkündet
 - Sekten oder Kulte, die den Weltuntergang prophezeien
-
-</div>
+{% endcapture %}
+{% include beispiel.md body=include_body title="Was kann in einer Stadt alles los sein?" %}
 
 Das auffälligste Merkmal einer typischen Fantasystadt der Menschen ist sicherlich die Stadtmauer. Oft sind schon entlang der Straßen zu den Toren irgendwelche Stände von Händlern aufgebaut, die sich keinen Platz auf dem zentralen Markt leisten können und auch nicht in der Händlergilde sind. Innerhalb der Mauern zwängen sich die aus Stein und Holz erbauten Häuser dicht aneinander und erzeugen so viele kleine Gassen. Es gibt meist nur wenige wirklich große und saubere Straßen. Inmitten der Stadt oder am Hafen ist der große Markt, auf dem alle möglichen und unmöglichen Waren verkauft werden. Natürlich finden sich auch viele Handwerksbetriebe und mehr oder weniger gute Kneipen und Unterkünfte. Der Herrscher der Stadt lebt inmitten des guten Viertels in seinem Schloss, das gut bewacht wird. Die Stadtwache versucht, das Verbrechen innerhalb der Stadt in Grenzen zu halten, ist aber meist nicht in der Lage die Verbrechen aufzuklären und oft auf die Hilfe von Helden angewiesen.
-
-
 
 ## Ereignisse in einer Stadt
 
@@ -57,4 +51,3 @@ Als die Helden gerade an einem etwas abseits gelegenen Stand etwas kaufen oder m
 ### Verwechslung
 
 Einer der Helden wird mit einem stadtbekannten Dieb verwechselt. Sie können mit etwas Glück auch schon selber darauf aufmerksam werden, wenn sie die Plakate mit dem Untertitel &bdquo;Gesucht&ldquo; bemerken. Wenn nicht, werden sie von der aufmerksamen Stadtwache entdeckt und der Held wird prompt festgenommen. Es kann auch passieren, dass seine Begleiter vorsorglich ebenfalls festgenommen werden, es könnten ja Komplizen sein.
-

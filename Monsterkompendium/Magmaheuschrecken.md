@@ -6,7 +6,7 @@ title: Magmaheuschrecken
 
 # Magmaheuschrecken
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/magmaschrecke.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/magmaschrecke.jpg"/>
 
 Magmaheuschrecken sind eine kleine, rote und extrem hitzeresistente Heuschreckenart, die mit Vorliebe in brodelnden Vulkanen lebt. Daneben findet man Magmaheuschrecken auch im Brennpunkt und in der Hölle, wo es ebenfalls kochend heiß ist, denn ohne die enorme Hitze erstarren die Magamaheuschrecken schnell zu Stein.
 

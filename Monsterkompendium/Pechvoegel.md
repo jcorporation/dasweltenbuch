@@ -6,7 +6,7 @@ title: Pechvögel
 
 # Pechvögel
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/pechvogel.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/pechvogel.jpg"/>
 
 Der Pechvogel ist ein etwa adlergroßer Vogel, der auf den ersten Blick wie eine übergroße schwarze Ente wirkt. Sein Gefieder ist dabei von einer klebrigen, schwarzen Masse umgeben, die er beständig absondert. Die Masse ist dermaßen klebrig, dass sie selbst erwachsene Menschen bewegungsunfähig machen kann, lediglich äußerst kräftige Wesen (wie z.B. Yetis) haben eine Chance, sich zu befreien. Das Pech sammelt sich an den Flügeln an, der Pechvogel fliegt über sein Opfer und schlägt dann kräftig mit den Flügeln, um es auf sein Opfer zu schleudern. Da der Pechvogel eigentlich ein reiner Aasfresser ist, wäre das kein besonders großes Problem &ndash; wenn, ja wenn nicht starke Raubtiere dem Pechvogel folgen würden, um sich über die bewegungsunfähigen Opfer herzumachen.
 

@@ -6,7 +6,7 @@ title: Papiertiger
 
 # Papiertiger
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/papiertiger.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/papiertiger.jpg"/>
 
 Die Papiertiger sind eine kleine Katzenart, die vor allem im Moglidschungel wohnt. Sie besitzen ein dichtes schwarz gestreiftes Fell auf braun-goldenem Grund und werden bis zu einem Meter lang. Sie bewegen sich elegant durch den Dschungel und sind im Unterholz kaum zu erkennen.
 

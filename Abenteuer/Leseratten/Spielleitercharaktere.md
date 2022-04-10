@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /Abenteuer/Leseratten/Slc
-title: Details zu den Spielleitercharakteren
+permalink: /Abenteuer/Leseratten/Spielleitercharaktere
+title: Spielleitercharakteren
 ---
 
-# Details zu den Spielleitercharakteren
+# Spielleitercharakteren
 
 ## Edain Gnarf
 
@@ -61,4 +61,3 @@ Rega Radegast ist ein durchaus begabter Zauberer. Er ist momentan noch Lehrling 
 Der Stadtbaumeister sitzt und läuft geduckt. Seine Haare und sein Bart sind zwar grau, aber dennoch gepflegt; er trägt einfache Kleidung. Treor ist schon recht alt und geht wohl demnächst in den wohlverdienten Ruhestand.
 
 Treor ist den Helden gegenüber neutral eingestellt. Wenn sie ihn darum bitten, wird er ihnen helfen, soweit er dazu befugt ist und es nicht zu aufwändig ist. Er wird ihnen seine Hilfe aber nicht von sich aus anbieten.
-

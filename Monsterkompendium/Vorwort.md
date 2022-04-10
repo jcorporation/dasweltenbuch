@@ -14,7 +14,7 @@ Gleichzeitig möchte ich hier noch einmal darauf hinweisen, dass Rezensionen die
 
 Ich hoffe, dass dieses Werk so lehrreich ist, wie seine Erschaffung den Erstellern war, und hoffe auf eine Belebung der allgemeinen Forschungstätigkeit im Weltenbuch, auf dem immer noch zu viele Frage ungeklärt sind.
 
-<p>Hochachtungsvoll,<br/>
- </p>
-<p>Thea Willhelmina von Brehmsleben<br/>
-Institut für rechtliche Monsterkunde an der Fakultät für Jura der Universität Kleinkari</p>
+Hochachtungsvoll,
+
+Thea Willhelmina von Brehmsleben<br/>
+Institut für rechtliche Monsterkunde an der Fakultät für Jura der Universität Kleinkari

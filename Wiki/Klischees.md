@@ -6,7 +6,7 @@ title: Klischees
 
 # Klischees
 
-- Vorhandene [Klischees]({{ site.baseurl }}/V1/Regelwerk/Klischees)
+- Vorhandene [Klischees]({{ site.baseurl }}/Spielregeln/Heldengruppe/Charakterklischees)
 
 
 ***

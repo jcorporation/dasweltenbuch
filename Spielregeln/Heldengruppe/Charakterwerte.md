@@ -8,7 +8,7 @@ title: Charakterwerte
 
 ## Profile
 
-Die Fähigkeiten des Charakters werden durch die vier Profile Glücksritter, Krieger, Handwerker und Waldläufer definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte)).
+Die Fähigkeiten des Charakters werden durch die vier Profile Glücksritter, Krieger, Handwerker und Waldläufer definiert. Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten dieses Bereichs. Der Profilwert bestimmt die Anzahl an Würfel, die bei einem Konflikt geworfen werden (siehe [Konflikte]({{ site.baseurl }}/Spielregeln/Konflikte/)).
 
 Bei der Charaktererschaffung dürfen 12 Würfel auf die Profile verteilt werden. Jedem Profil muss mindestens ein Würfel zugeordnet werden, kein Profil darf um mehr als zwei Würfel vom nächsthöheren oder nächstniedrigeren Profil abweichen. Die maximal mögliche Spezialisierung bei der Charaktererschaffung ist daher 1, 2, 4, 5.
 
@@ -32,10 +32,8 @@ Andere Rassen als Menschen erhalten nach der Verteilung noch einen zusätzlichen
 <tr><td>Zwerge</td><td>Handwerker</td></tr>
 </tbody>
 </table>
-<div class="hinweis">
-## Mögliche Profilwerte
 
-<div class="col">
+{% capture include_col1 %}
 **Normal**
 
 - 1, 2, 4, 5
@@ -43,18 +41,18 @@ Andere Rassen als Menschen erhalten nach der Verteilung noch einen zusätzlichen
 - 2, 2, 3, 5
 - 2, 2, 4, 4
 - 3, 3, 3, 3
+{% endcapture %}
 
-</div>
-<div class="col">
+{% capture include_col2 %}
 **Magiebegabt**
 
 - 1, 2, 4, 4
 - 1, 3, 3, 4
 - 2, 2, 3, 4
 - 2, 3, 3, 3
+{% endcapture %}
+{% include hinweis_cols.md col1=include_col1 col2=include_col2 title="Mögliche Profilwerte" %}
 
-</div>
-</div>
 ### Glücksritter
 
 Unter Glücksritter sind Fertigkeiten wie Verhandeln, Menschenführung, Glücksspiel oder auch Musizieren angesiedelt. Glücksritter sind sozial kompetente Charaktere und fühlen sich in der Stadt und in Kneipen wohl, wissen sich aber auch an Hofe zu benehmen.
@@ -71,24 +69,21 @@ Unter Handwerker fallen alle handwerklichen Fertigkeiten, wie schmieden oder Fal
 
 Unter Waldläufer fallen alle Fertigkeiten, die benötigt werden, um in der Wildnis zu überleben. Kenntnisse in der Jagd und über die Natur fallen genauso darunter wie auch Reiten, Feuer entzünden oder eine geeignete Furt finden.
 
-<div class="hinweis">
-## Erschaffe keinen Fachidioten!
-
+{% capture include_body %}
 Erschaffe einen Charakter, der alleine überleben kann! Keinen Fachidioten, der in einem Abenteuer nur in ein oder zwei Szenen etwas beiträgt. Denn du als Spieler musst mit deinem Charakter das Abenteuer voranbringen können und willst sicherlich nicht nur zugucken.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Erschaffe keinen Fachidioten!" %}
 
-</div>
-<div class="beispiel">
-## Beispiel 1 zur Profilwerteverteilung
-
+{% capture include_body %}
 Silvia hat sich für einen blutrünstigen Barbaren entschieden, er ist einer der Kämpfer der Gruppe. Sie verteilt daher ihre 12 Punkte wie folgt: Glücksritter 3, Krieger 5, Handwerker 1, Waldläufer 3. Da sie als Rasse Mensch gewählt hat, steigt keines der Profile Torans an. Dafür erhält Toran einen sechsten Heldenpunkt.
+{% endcapture %}
+{% include beispiel.md body=include_body title="Beispiel 1 zur Profilwerteverteilung" %}
 
-</div>
-<div class="beispiel">
-## Beispiel 2 zur Profilwerteverteilung
-
+{% capture include_body %}
 Manu hat sich für eine nervige Feenzauberin (Fayla) entschieden. Sie verteilt daher ihre 12 Punkte wie folgt: Glücksritter 4, Krieger 2, Handwerker 2, Waldläufer 3. Für den 12. Punkt lernt sie die Magiekategorie Illusion. Da sie als Rasse Fee gewählt hat, steigt Faylas Waldläufer Profil von 3 auf 4 Punkte an.
+{% endcapture %}
+{% include beispiel.md body=include_body title="Beispiel 2 zur Profilwerteverteilung" %}
 
-</div>
 ## Magiekategorien
 
 Beim Weltenbuch wird das Wirken von Magie nur durch den gesunden Menschenverstand beschränkt. Welchen Einfluss ein Zauberspruch hat, wird bei einem einfachen Konflikt durch die Schwierigkeit festgelegt. Bei einer Konfliktszene ergibt sich der Einfluss allein durch die Beschreibung aller Beteiligten. Das aber ein Anfängercharakter nicht gerade einen Berg versetzten kann, sollte jedem klar sein.
@@ -127,7 +122,7 @@ Konsequenzen sind Nachteile des Charakters, die ausgespielt werden müssen, aber
 
 ## Erfahrungspunkte
 
-Jeder Charakter beginnt als Möchtegernheld mit 0 Erfahrungspunkten (EP). EP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu EP findest du im Abschnitt &bdquo;[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nachdemabenteuer)&ldquo;.
+Jeder Charakter beginnt als Möchtegernheld mit 0 Erfahrungspunkten (EP). EP sammelt man, indem man Abenteuer durchlebt. Sie dienen dazu, den Charakter mit der Zeit besser werden zu lassen. Mehr Informationen zu EP findest du im Abschnitt &bdquo;[Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)&ldquo;.
 
 ## Heldenpunkte
 
@@ -139,13 +134,10 @@ Heldenpunkt sind Ressourcen, die der Spieler jederzeit ausgeben kann. Mit Helden
 
 Bei der Charaktererschaffung erhält jeder Charakter fünf Heldenpunkte, Menschen bekommen noch einen Bonuswürfel obendrauf. Diese werden zu Beginn jedes Abenteuers vollständig aufgefrischt. Während des Abenteuers vergibt der Spielleiter für gelungene Charakterszenen frische Heldenpunkte.
 
-<div class="hinweis">
-## Heldenpunkte
-
+{% capture include_body %}
 Da Heldenpunkte ständig ausgegeben und wieder aufgefrischt werden, zählt man sie am besten mit irgendwelchen Spielsteinen oder Countern.
+{% endcapture %}
+{% include hinweis.md body=include_body title="Heldenpunkte" %}
 
-</div>
 - **Start-Heldenpunkte:** 5
 - **für Menschen:** 6
-
-

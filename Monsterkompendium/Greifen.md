@@ -6,7 +6,7 @@ title: Greifen
 
 # Greifen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/greif.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/greif.jpg"/>
 
 Der Greif ist ein Mischwesen aus Adler und Löwe. Größe, Rumpf, Hinterbeine und Schweif entsprechen denen eines Löwen, Kopf, Vorderbeine und Flügel denen eines Adlers. Dank ihrer Flügel können Greifen mühelos fliegen, aufgrund ihrer Größe und ihrer Wildheit gehören sie zu den gefährlichsten Fliegern des Weltenbuchs.
 

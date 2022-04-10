@@ -6,7 +6,7 @@ title: Riesenameisen
 
 # Riesenameisen
 
-<img alt="" src="{{ site.baseurl }}/assets/images/monster/tn2/riesenameise.jpg"/>
+<img alt="" src="{{ site.baseurl }}/assets/images/monster/riesenameise.jpg"/>
 
 Riesenameisen sind monströse, allesfressende Ameisen. Ihre Körper besteht aus 3 Segmenten (Kopf, Brustsegment und Hinterleib). Sie werden bis zu 3 m lang und sind braun-schwarz gefärbt.
 

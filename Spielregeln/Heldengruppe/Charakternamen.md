@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Heldengruppe/Charaktere_namen
+permalink: /Spielregeln/Heldengruppe/Charakternamen
 title: Namen für Charaktere
 ---
 
@@ -18,6 +18,7 @@ Die Namen von Elfen und Feen klingen sehr elegant und fließend.
 <tr><th>Weibliche Namen</th><td>Ari, Caia, Dana, Direa, Efrania, Elinia, Faila, Leya, Ilara, Ilya, Yasha</td></tr>
 </tbody>
 </table>
+
 ## Gnome, Halblinge
 
 Die Namen von Gnomen und Halblingen sind sehr ähnlich und klingen meist bodenständig. 
@@ -28,6 +29,7 @@ Die Namen von Gnomen und Halblingen sind sehr ähnlich und klingen meist bodenst
 <tr><th>Weibliche Namen</th><td>Amber, Cillin, Pethi, Sera, Tamara, Varia, Waha</td></tr>
 </tbody>
 </table>
+
 ## Kobolde
 
 Die Namen der Kobolde sind eine Mischung aus Elfisch und dem harten nördlichen Dialekt der Barbaren. 
@@ -38,6 +40,7 @@ Die Namen der Kobolde sind eine Mischung aus Elfisch und dem harten nördlichen 
 <tr><th>Weibliche Namen</th><td>Darina, Fola, Nebi, Vela</td></tr>
 </tbody>
 </table>
+
 ## Menschen
 
 Menschen besitzen die vielseitigsten Namen auf der Doppelseite, da sie auch die vielseitigste Rasse sind. Barbaren geben sich z.B. wie die Zwerge gern einen Beinamen.
@@ -48,6 +51,7 @@ Menschen besitzen die vielseitigsten Namen auf der Doppelseite, da sie auch die 
 <tr><th>Weibliche Namen</th><td>Kaja, Levka, Liada, Newa, Tessa, Valerie, Walpurga</td></tr>
 </tbody>
 </table>
+
 ## Wichtel
 
 Die Namen der Wichtel sind fast so facettenreich wie die der Menschen und sind je nach Wohnort unterschiedlichst und an die dort gebräuchlichen Namen angepasst.
@@ -58,6 +62,7 @@ Die Namen der Wichtel sind fast so facettenreich wie die der Menschen und sind j
 <tr><th>Weibliche Namen</th><td>Dejah, Doreen, Evin, Fiona</td></tr>
 </tbody>
 </table>
+
 ## Yetis
 
 Die Namen der Yetis haben oft einen niederländischen Klang und sind kurz und knackig.
@@ -68,6 +73,7 @@ Die Namen der Yetis haben oft einen niederländischen Klang und sind kurz und kn
 <tr><th>Weibliche Namen</th><td>Alida, Antje, Britt, Demi, Lotte, Svantje</td></tr>
 </tbody>
 </table>
+
 ## Zwerge
 
 Die Namen der Zwerge setzen sich meist aus einem normalen Namen und einem beschreibenden Beinamen zusammen. Der Beiname eines Zwerges wird meist durch ein typisches Merkmal oder eine typische Verhaltensweise bestimmt. Dieser Beiname wird erst im späteren Leben des Zwerges vergeben, so dass junge Zwerge meist noch keinen Beinamen besitzen.
