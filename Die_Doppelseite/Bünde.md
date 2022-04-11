@@ -75,4 +75,3 @@ Diese Geheimgesellschaft ist die mächtigste auf der ganzen Doppelseite &ndash; 
 ## Weltenbastler
 
 Die Weltenbastler sind ein fast geheimer Bund, der in Freidorf beheimatet ist. Die Mitglieder stammen aus allen möglichen Gesellschaftsschichten. Die große Befürchtung der Weltenbastler ist, dass die Doppelseite irgendwann zugeschlagen oder von den Heerscharen des Bösen überrannt wird. Deswegen ist es ihr großes Ziel, ein neues Weltenbuch zu finden, um dann, wenn die Zeit gekommen ist, das Weltenbuch auf einem großen Schiff zu verlassen und all den Dummen, die nicht daran geglaubt haben, zuzuwinken. Deshalb sind sie auch dabei, an einem sehr abgelegenen und hoch geheimen Ort eine Arche zu bauen, die es ermöglicht, zu einem anderen Weltenbuch zu reisen.
-
