@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Die_Hüter/Grenzreich
 title: Grenzreich
 ---
 
 # Grenzreich
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/grenzreich.jpg" />
 
 An den nördlichen Grenzen des Grenzreiches liegen das Schattenreich, De-Murgon und die Kuzduwüste. Südlich wird es vom Rillengebirge und Elbarion begrenzt. Im Osten grenzt es an die Ogersümpfe mit seinen Ogerkönigreichen. Offiziell beherrscht König Cullen das Grenzreich, aber er ist mittlerweile zu alt und klapprig, um die Regierungsgeschäfte persönlich wahrzunehmen. Da er auch keine Kinder hat, überlässt er diese Aufgaben seiner noch jungen Frau und seinem Stellvertreter. Um seinem Auftrag gerecht zu werden, das Tor Von zu bewachen, entsendet das Grenzreich des Öfteren Expeditionen ins Schattenreich.
 

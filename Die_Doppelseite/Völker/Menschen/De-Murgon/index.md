@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/De-Murgon/
 title: De-Murgon
 ---
 
 # De-Murgon
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/demurgon.jpg" />
 
 De-Murgon ist das Reich des bösen Überkriegsherrn De-Murgon XII., der es von der Bösen Festung aus regiert. Es liegt zwischen Dar-Cor und dem Grenzreich am linken Rand des Lesezeichengebirges. In diesem Reich tummeln sich viele Antihelden und sonstigen Personen, die anderswo nicht länger willkommen sind. De-Murgon unterhält sehr gute Beziehungen zu Kreuzstadt, Freidorf und den Nomaden der Kuzduwüste. Es wird auch behauptet, dass dieses Reich sogar Beziehungen zu den bösen Völkern der Doppelseite pflegt, dies konnte aber bis jetzt noch nicht nachgewiesen werden.
 

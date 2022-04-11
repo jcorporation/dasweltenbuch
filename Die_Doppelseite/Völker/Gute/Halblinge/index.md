@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Gute/Halblinge/
 title: Halblinge
 ---
 
 # Halblinge
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/halbling.jpg" />
 
 Die Halblinge leben in kleinen Dörfern im Wellental. Das bekannteste Dorf, das außerhalb auch schon mal als Stadt bezeichnet wird, heißt Frydia. In ihren Dörfern feiern die Halblinge mehrmals im Jahr Dorffeste. Ziel dieser Feste ist eigentlich nur die gute Laune, Geselligkeit und viel gutes Essen. Allgemein legen die Halblinge gesteigerten Wert auf gutes und ausreichendes Essen und dies auch gerne mehr als dreimal am Tag, ein zweites Frühstück gehört zu ihrem Alltag. Die meisten Halblinge arbeiten als Bauern und schätzen die Gemütlichkeit ihres Zuhauses.
 

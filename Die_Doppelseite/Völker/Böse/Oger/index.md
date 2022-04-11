@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Oger/
 title: Oger
 ---
 
 # Oger
-
-<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/oger.jpg" width="286" />
 
 Oger leben in Rotten aus zwanzig bis zweihundert männlichen Ogern, dazu kommen noch Frauen und Kinder. Sie haben keinen festen Wohnsitz, sondern durchziehen ihr Gebiet, das sich über viele Quadratkilometer erstrecken kann. Die Größe des Gebietes hängt lediglich von der Stärke einer Rotte ab, da die Grenzen in keiner Weise festgelegt sind und Ogergruppen häufig versuchen, ihr Gebiet zu erweitern. Überhaupt beruht die Rangordnung bei den Ogern einzig auf der Stärke des Einzelnen, der stärkste Oger führt die Rotte an, unabhängig vom Geschlecht. Wenn in einer Familie die Frau stärker ist, so hütet der Mann die Kinder; dieses Dasein als Hausmann hat unter Ogern eine lange Tradition. Trotz ihrer unsteten Lebensweise wohnen Oger nicht unter freiem Himmel, sondern in stabilen, wenn auch einfachen, Hütten. Die meisten Oger sprechen lediglich ihre eigene Sprache, die sich auf das nötigste beschränkt und aus wilden Gebärden und einzelnen Rufen zusammensetzt. Nur sehr wenige Oger, allerdings die meisten Schamanen, beherrschen Urgonisch.
 

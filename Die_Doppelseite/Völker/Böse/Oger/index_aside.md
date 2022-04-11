@@ -1,0 +1,1 @@
+<img alt="Oger" src="{{ site.baseurl }}/assets/images/rassen/oger.jpg"/>

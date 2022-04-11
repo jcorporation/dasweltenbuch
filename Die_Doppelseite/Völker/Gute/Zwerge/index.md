@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Gute/Zwerge/
 title: Zwerge
 ---
 
 # Zwerge
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/zwerge.jpg" />
 
 Die Zwerge unterteilen sich in vier Stämme, die in den vier unterschiedlichen Gebirgen der Doppelseite leben. Jeder dieser Stämme ist unabhängig und besitzt einen Zwergenkönig. Einer dieser Könige wird zum lebenslangen Hochkönig der Zwerge gewählt, diese Wahlen finden immer im Bröselgebirge statt. Es ist Tradition, dass jeder Stamm abwechselnd den Hochkönig stellt. Zwerge hassen Pferde und sind so gut wie immer zu Fuß unterwegs. Lasten transportieren sie entweder auf Ponys oder auf ihren wagemutigen Erfindungen. Natürlich sind die Zwerge für ihre Trinkfestigkeit bekannt und brauen das beste Bier der Doppelseite. Bier ist das Nationalgetränk der Zwerge, es ist nicht unüblich, schon beim Frühstück eines zu trinken, bevor es in die Minen geht. Die Waffe ihrer Wahl ist die Axt, entweder eine große Zweihandaxt oder oft auch zwei kleinere Streitäxte. Zwerge werden bis zu 300 Jahre alt und sind nach 50 Jahren erwachsen. Die Zwerge mögen keine Magie, sie sind viel zu bodenständig dafür. Sie bevorzugen ehrliche Kämpfe und die harte Arbeit in den Minen oder in der Schmiede, sie sind einfach praktisch orientiert und Magie erscheint ihnen viel zu rätselhaft.
 

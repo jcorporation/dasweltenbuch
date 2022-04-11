@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Gute/Feen/
 title: Feen
 ---
 
 # Feen
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/fee.jpg" />
 
 Die Feen leben in einem lockeren Familienbund in ihrem Reich Färaa, das im rechten Ausläufer des Elfenwalds in der Rillenebene liegt. Sie sind aufgeschlossene und muntere Wesen. Gegenüber Fremden sind sie im ersten Moment zwar etwas verschlossen, aber dennoch freundlich. Trotz ihrer Verwundbarkeit können Sie auf dieser Welt überleben, vielleicht, weil niemand sie Ernst nimmt, wahrscheinlicher aber, weil sie sehr abgeschieden leben und über große magische Macht verfügen. Feen leben höchsten um die 40 Jahre und werden bereits mit 10 Jahren geschlechtsreif. Sie sind Vegetarier und vermutlich die nervigste Rasse der Doppelseite: Viele wagemutigen Helden kämpfen lieber mit bloßer Faust gegen einen Riesen, als sich mit einer Fee zu unterhalten. Die Feen sind sehr naturverbunden und leben auf Bäumen, jede Sippe besitzt einen eigenen Baum in einer der Städte im Elfenwald. Innerhalb der Feengesellschaft leben die Feen in kleinen Familien, die zwar größtenteils unabhängig agieren, sich aber der Sippe zugehörig fühlen. Eine Familie besteht, wie bei Menschen, aus Eltern, Großeltern und zumeist fünf oder mehr Kindern. Eine Fee gehört immer der Sippe ihres Vaters an.
 

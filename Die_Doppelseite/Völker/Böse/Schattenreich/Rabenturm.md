@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Schattenreich/Rabenturm
 title: Rabenturm
 ---
 
 # Rabenturm
-
-<img alt="" height="500" src="{{ site.baseurl }}/assets/images/illus/rabenturm.jpg" width="321" />
 
 Der Rabenturm ist das Zentrum der dunklen Macht der Doppelseite und damit der Gegenpol zum Elfenbeinturm im Edental. Oft ist der Turm jahrzehntelang unbewohnt, bis ein böser Herrscher erscheint und in den Turm einzieht, um von dort aus seinen Göttern Radiergummi und Fehlerteufel zu dienen, indem er versucht, das Böse zu vereinen und das Gute zu vernichten.
 

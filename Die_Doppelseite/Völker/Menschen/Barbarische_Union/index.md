@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Barbarische_Union/
 title: Barbarische Union
 ---
 
 # Barbarische Union
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/barbarischeunion.jpg" />
 
 Die Barbarische Union ist das Reich der wilden Barbaren und der fülligen Walküren. Zur Zeit der letzten großen Schlacht gegen das Böse schlossen sich das Reich der Barbaren und das der Walküren zu einem großen Reich zusammen. Davor bestimmte schon eine enge Zusammenarbeit die Politik dieser beiden Reiche. In der Barbarischen Union herrscht ein raues, nordisches Klima, der Winter ist lang und hart. An den küstennahen Gebieten herrscht ein eisiger Wind und an der Grenze zu Frosia gibt es kaum Plusgrade und der Schnee schmilzt nur selten.
 

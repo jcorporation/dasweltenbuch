@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Schattenreich/
 title: Schattenreich
 ---
 
 # Schattenreich
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/schattenreich.jpg" />
 
 Das Schattenreich erhielt seinem Namen vom Schatten des Lesezeichengebirges, unter dem es liegt. Es ist das Reich des absoluten Bösen. Es gibt nur zwei Zugänge: Das Tor Von und die Minen von Dar-Cid. Wer außerhalb dieser beiden gut bewachten Wege ins Schattenreich vordringen will, muss auf halsbrecherischen Wegen durch das Gebirge klettern. Das Tor Von wird von zwei riesigen, schwarzen Festungen gesichert, die links und rechts der Pforte in den Stein gehauen wurden. In ihnen sind Eliteeinheiten der Trolle, Goblins und Orks stationiert, zumindest solange ein böser Herrscher im Rabenturm residiert. Auf der Ebene hinter dem Tor patrouillieren und lagern Orkhorden.
 

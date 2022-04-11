@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Gute/Feen/Färaa
 title: Färaa
+aside: Faeraa_aside.md
 ---
 
 # Färaa
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/faeraa.jpg" />
 
 Färaa ist das Reich der Feen im rechten Ausläufer des Elfenwaldes. Die Feen haben ein gutes Verhältnis zu ihren Nachbarn, den Elfen, Gnomen und Halblingen. Innerhalb dieses Reiches gibt es viele kleinere Siedlungen der Feen. Es gibt kein gewähltes Oberhaupt, weder innerhalb der Familie noch über die komplette Rasse hinweg. Politik ist ein Fremdwort für die Feen.
 

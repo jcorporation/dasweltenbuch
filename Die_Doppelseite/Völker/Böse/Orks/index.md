@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Orks/
 title: Orks
 ---
 
 # Orks
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/ork.jpg" />
 
 Die Orks sind das Schwertfutter der sehr bösen Machthaber, die alle paar Jahrhunderte im Schattenreich aufsteigen und den guten Reichen den Krieg erklären. Wenn sie nicht gerade in irgendwelche Kämpfe verwickelt sind, spielen sie gerne eine Runde Orkball. Diese Spiele ziehen sich immer ziemlich lange hin, da Orks äußerst ausdauernd sind. Orks teilen sich in verschiedene Kohorten auf, deren Anführer jeweils durch einen offenen Massenkampf bestimmt wird &ndash; jeder, der Oberhaupt werden will, kann teilnehmen. Jede dieser Kohorten besitzt mehrere militärisch organisierte Lager, in denen ihre Mitglieder leben; ihr Siedlungsgebiet liegt in der Ebene zwischen Tintensee und Seitenabgrund. Ein Familienleben gibt es bei den Orks nicht, obwohl in den Gemeinschaften weibliche und männliche Orks mit ihren Kindern zusammenleben. Ein junger Ork hat einen schweren Stand und muss sich erst beweisen, bevor die Kohorte ihn akzeptiert. Vor Magie fürchten sich Orks, da sie ihnen völlig fremd ist und zudem ihren geistigen Horizont übersteigt.
 

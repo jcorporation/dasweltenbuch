@@ -49,6 +49,17 @@ p {
   width: 100%;
 }
 
+aside > img {
+  max-width: 400px;
+  height: auto;
+}
+
+@media (min-width: 1200px) {
+  aside > img {
+    float: right;
+  }
+}
+
 .bg-leder {
   background-color: #63462e;
   background-image: url("{{ site.baseurl }}/assets/images/leder.png");

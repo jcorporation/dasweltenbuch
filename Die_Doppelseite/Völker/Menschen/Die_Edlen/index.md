@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Die_Edlen/
 title: Die Edlen
 ---
 
 # Die Edlen
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/menschen-edler.jpg" />
 
 Die Edlen sind das edelste Menschenvolk, ihre Blutlinien reichen bis zu den ersten Menschen der Doppelseite zurück. Besonders die Adeligen sind stolz auf ihre Abstammung und ihr reines Blut. Die Edlen sind im Allgemeinen ein sehr hochnäsiges Volk, ohne Adelstitel ist man nicht viel Wert. Die einzige Ausnahme stellen Pferdezüchter dar.
 

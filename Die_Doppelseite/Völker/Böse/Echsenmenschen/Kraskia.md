@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Echsenmenschen/Kraskia
 title: Kraskia
 ---
 
 # Kraskia
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/kraskia.jpg" />
 
 Das Reich der Echsenmenschen erstreckt sich rund um den Brennpunkt in der Kuzduwüste, östlich der Falzschlucht. Die meisten anderen Rassen meiden Kraskia; zum einen, weil die Echsenmenschen eher unangenehme Zeitgenossen sind, zum anderen schreckt die unwirtliche Umgebung ab. Lediglich einige skrupellose und gierige Nomadenstämme treiben dennoch Handel mit den Echsenmenschen. Die Hauptstadt Kraskias heißt Karak, neben ihr existieren noch einige weitere, kleinere Echsenmenschenstädte, die allesamt in der Nähe natürlicher Oasen erbaut sind.
 

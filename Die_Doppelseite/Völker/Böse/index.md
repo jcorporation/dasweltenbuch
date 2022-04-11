@@ -18,11 +18,8 @@ Die Oger wiederum durchstreifen endlos ihre Sümpfe östlich des Kaffeemoors. Do
 
 - [Dunkelelfen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Dunkelelfen/)
 - [Echsenmenschen]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Echsenmenschen/)
-<li>[Schattenreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Schattenreich/)
-- [Goblins]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/)
-- [Orks]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Orks/)
-
-</li>
+- [Schattenreich]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Schattenreich/)
+  - [Goblins]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Goblins/)
+  - [Orks]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Orks/)
 - [Oger]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Oger/)
 - [Trolle]({{ site.baseurl }}/Die_Doppelseite/Völker/Böse/Trolle/)
-

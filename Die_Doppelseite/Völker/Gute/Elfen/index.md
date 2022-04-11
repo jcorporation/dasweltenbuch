@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Gute/Elfen/
 title: Elfen
 ---
 
 # Elfen
-
-<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/elfe.jpg" width="227" />
 
 Die Elfen sind ein sterbendes Volk. Obwohl sie unsterblich sind, verlassen immer mehr freiwillig die Doppelseite, da sie des Lebens überdrüssig sind. Unsterblichkeit bedeutet bei den Elfen aber nicht, dass man sie nicht töten kann: Sie werden lediglich keines natürlichen Todes sterben. Genau wie Menschen brauchen sie Nahrung, Wasser und Luft zum Atmen, daher können sie verhungern, ersticken, ertrinken oder auch erschlagen werden. Unsterblichkeit bedeutet, dass sie ab einem Alter von 25 Jahren nicht mehr altern. Dennoch sieht man den Elfen ihr Alter an, zwar nicht durch graue Haare oder Falten, sondern durch ihre Ausstrahlung. Ältere Elfen wirken wesentlich charismatischer, edler und beeindruckender als ihre jungen Brüder, sie bekommen einfach das gewisse Etwas.
 

@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Die_Edlen/Erstes_Kaiserreich
 title: Erstes Kaiserreich
 ---
 
 # Erstes Kaiserreich
-
-<img alt="" height="500" src="{{ site.baseurl }}/assets/images/wappen/ersteskaiserreich.jpg" width="368" />
 
 Das Erste Kaiserreich wird seinem Namen gerecht: Es ist wirklich das älteste Menschenreich der Doppelseite. Das Zentrum dieses Reiches ist seine Hauptstadt Wichtigste Stadt im Edental, von wo aus der Kaiser es absolutistisch beherrscht. Die Beziehungen zwischen Ersten und Zweitem Menschenreich sind gespannt, da beide Reiche einander übertrumpfen wollen &ndash; das Erste Kaiserreich wuchert hier mit seiner glorreichen Geschichte. Das Erste Kaiserreich unterhält sehr gute Beziehungen zu den Kobolden der Frachtschiff KG und den Yetis; seine Bewohner, die Edlen, werden von allen Menschenvölkern geachtet.
 

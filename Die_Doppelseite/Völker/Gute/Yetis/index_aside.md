@@ -1,0 +1,1 @@
+<img alt="" src="{{ site.baseurl }}/assets/images/rassen/yeti2.jpg" />

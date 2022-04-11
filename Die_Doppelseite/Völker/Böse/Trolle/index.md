@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Böse/Trolle/
 title: Trolle
 ---
@@ -7,8 +7,6 @@ title: Trolle
 # Trolle
 
 Die Trolle leben im nördlichen Teil des Bröselgebirges in riesigen Festungen in den Trollbergen. Sie sind große und schreckliche Kämpfer. Die Lieblingsspeise eines jeden Trolls ist eine frische Elfenprinzessin, aber auch Menschen gelten als Leckerbissen.
-
-<img alt="" height="500" src="{{ site.baseurl }}/assets/images/rassen/troll.jpg" width="301" />
 
 Die Trolle sind gezwungenermaßen nachtaktiv, da sie bei direkter Sonneneinstrahlung zu Stein erstarren. Diese Starre bedeutet aber nicht den Tod, sondern eher einen unfreiwilligen Schlaf, sie erwachen bei Dunkelheit wieder und sind frisch wie eh und je. Durch ihre Nachtaktivität haben sie eine sehr gute Nachtsicht entwickelt, die sich mit der der Elfen und Zwerge vergleichen lässt. Hinter dem Lesezeichengebirge stellt diese Sonnenallergie kein Problem dar, da das Schattenreich fast den ganzen Tag im Schatten des Lesezeichengebirges liegt und selten ein Sonnenstrahl durchdringt. Die Trolle werden etwa 250 Jahre alt, ein Troll ist nach etwa 40 Jahren ausgewachsen.
 

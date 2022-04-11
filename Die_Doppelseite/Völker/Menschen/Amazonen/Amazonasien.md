@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Amazonen/Amazonasien
 title: Amazonasien
 ---
 
 # Amazonasien
-
-<img alt="" src="{{ site.baseurl }}/assets/images/wappen/amazonasien.jpg" />
 
 Amazonasien, das Reich der Amazonen, ist ein dschungelartiges, feucht-warmes Gebiet. Es wird von den meisten Reisenden gemieden, obwohl es dort herrlich süße Früchtchen gibt. Amazonasien ist mit der benachbarten Barbarischen Union verfeindet. Die Feindschaft dieser zwei Reiche reicht schon länger zurück, als sich die meisten Menschen erinnern können, und der wahre Grund ist schon längst in Vergessenheit geraten. Es gibt aber einige Vermutungen, warum es zu dieser Feindschaft gekommen ist.
 

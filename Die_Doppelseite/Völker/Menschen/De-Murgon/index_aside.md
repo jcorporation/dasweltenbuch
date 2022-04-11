@@ -1,0 +1,1 @@
+<img alt="" src="{{ site.baseurl }}/assets/images/wappen/demurgon.jpg" />

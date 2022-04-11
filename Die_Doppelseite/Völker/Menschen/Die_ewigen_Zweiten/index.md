@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: aside
 permalink: /Die_Doppelseite/Völker/Menschen/Die_ewigen_Zweiten/
 title: Die (ewigen) Zweiten
 ---
 
 # Die (ewigen) Zweiten
-
-<img alt="" src="{{ site.baseurl }}/assets/images/rassen/menschen-zweiter.jpg" />
 
 Die (ewigen) Zweiten leben im Zweiten Menschenreich. Die letzten Jahrhunderte wurden von der Konkurrenz zu den Edlen geprägt. Es gibt zwar keinen offenen Streit zwischen beiden Ländern, die besten Freunde sind sie aber auch nicht.
 
