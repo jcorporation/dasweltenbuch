@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lektoriertes Grundregelwerk"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-03-29-lektoriertes-grundregelwerk
 ---
 

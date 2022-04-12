@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Umbenennung von Grafenreuth"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-01-06-UmbenennungvonGrafenreuth
 ---
 

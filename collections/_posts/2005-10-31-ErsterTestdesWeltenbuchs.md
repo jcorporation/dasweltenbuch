@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erster Test des Weltenbuchs"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-10-31-ErsterTestdesWeltenbuchs
 ---
 

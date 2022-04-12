@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Lizenz und Wiki"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-01-27-NeueLizenzundWiki
 ---
 

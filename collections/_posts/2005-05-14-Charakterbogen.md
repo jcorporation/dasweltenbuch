@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charakterbogen"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-05-14-Charakterbogen
 ---
 

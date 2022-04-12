@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pünktlich zu Ostern: neue Previewversion"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-04-07-PuenktlichzuOsternneuePreviewversion
 ---
 

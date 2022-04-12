@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testspieler und -runden sind gefragt!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-07-10-Testspielerund-rundensindgefragt
 ---
 

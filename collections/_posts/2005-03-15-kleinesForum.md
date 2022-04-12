@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "kleines Forum"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-15-kleinesForum
 ---
 

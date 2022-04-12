@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch im IRC"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-12-18-DasWeltenbuchimIRC
 ---
 

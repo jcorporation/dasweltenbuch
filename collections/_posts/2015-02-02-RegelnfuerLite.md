@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regeln für Lite"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2015-02-02-RegelnfuerLite
 ---
 

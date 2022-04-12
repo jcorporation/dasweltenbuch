@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seitentemplates"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-02-02-Seitentemplates
 ---
 

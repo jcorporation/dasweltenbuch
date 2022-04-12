@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte Vorschau des Monsterkompendiums"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-02-27-AktualisierteVorschaudesMonsterkompendiums
 ---
 

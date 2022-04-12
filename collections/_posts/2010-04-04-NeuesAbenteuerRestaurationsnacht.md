@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer: Restaurationsnacht"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-04-04-NeuesAbenteuerRestaurationsnacht
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuer: Die magischen Dolche"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-04-17-AbenteuerDiemagischenDolche
 ---
 

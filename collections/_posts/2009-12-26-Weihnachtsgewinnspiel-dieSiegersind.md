@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weihnachtsgewinnspiel - die Sieger sind..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-12-26-Weihnachtsgewinnspiel-dieSiegersind
 ---
 

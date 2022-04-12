@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeiteter Heldengenerator"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-12-25-UeberarbeiteterHeldengenerator
 ---
 

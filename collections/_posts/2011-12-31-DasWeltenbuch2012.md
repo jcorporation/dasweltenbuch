@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch 2012"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2011-12-31-DasWeltenbuch2012
 ---
 

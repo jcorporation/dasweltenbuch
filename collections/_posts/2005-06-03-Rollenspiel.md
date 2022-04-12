@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rollenspiel"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-06-03-Rollenspiel
 ---
 

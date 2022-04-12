@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viel Neues"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-11-21-VielNeues
 ---
 

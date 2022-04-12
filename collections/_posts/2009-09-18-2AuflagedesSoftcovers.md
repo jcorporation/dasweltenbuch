@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2. Auflage des Softcovers"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-09-18-2AuflagedesSoftcovers
 ---
 

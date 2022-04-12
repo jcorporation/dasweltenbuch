@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viele, kleinere Änderungen"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-01-14-VielekleinereAenderungen
 ---
 

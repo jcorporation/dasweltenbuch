@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch hat ein neues Logo!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-08-03-DasWeltenbuchhateinneuesLogo
 ---
 

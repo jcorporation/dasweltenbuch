@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weihnachtsgewinnspiel"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-12-07-Weihnachtsgewinnspiel
 ---
 

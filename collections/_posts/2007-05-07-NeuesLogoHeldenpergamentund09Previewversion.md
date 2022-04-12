@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Logo, Heldenpergament und 0.9 Previewversion"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-05-07-NeuesLogoHeldenpergamentund09Previewversion
 ---
 

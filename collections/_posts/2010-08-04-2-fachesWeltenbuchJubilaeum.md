@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2-faches Weltenbuch Jubiläum"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-08-04-2-fachesWeltenbuchJubilaeum
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuerbereich"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-07-Abenteuerbereich
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch v2 Vorschau"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2015-12-30-das-weltenbuch-v2-vorschau
 ---
 

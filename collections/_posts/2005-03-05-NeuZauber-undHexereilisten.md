@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neu: Zauber- und Hexereilisten"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-05-NeuZauber-undHexereilisten
 ---
 

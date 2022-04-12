@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch hat Geburtstag!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-09-18-dAswELTeNbUcHhatGeburtstag
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regelwerk Preview"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-05-22-RegelwerkPreview
 ---
 

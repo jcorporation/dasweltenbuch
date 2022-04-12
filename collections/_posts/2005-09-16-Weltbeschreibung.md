@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weltbeschreibung"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-09-16-Weltbeschreibung
 ---
 

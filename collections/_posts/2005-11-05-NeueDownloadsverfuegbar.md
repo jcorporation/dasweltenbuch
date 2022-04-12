@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Downloads verfügbar"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-11-05-NeueDownloadsverfuegbar
 ---
 

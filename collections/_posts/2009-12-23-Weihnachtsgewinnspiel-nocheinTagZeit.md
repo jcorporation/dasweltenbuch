@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weihnachtsgewinnspiel - noch ein Tag Zeit"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-12-23-Weihnachtsgewinnspiel-nocheinTagZeit
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch auf der Spiel in Essen"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-10-19-DasWeltenbuchaufderSpielinEssen
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heldenerschaffung für ein Kurzabenteuer"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-01-14-HeldenerschaffungfuereinKurzabenteuer
 ---
 

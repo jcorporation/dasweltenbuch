@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vorschau-PDF jetzt mit Spielleiterkapitel"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-03-06-vorschau-pdf-jetzt-mit-spielleiterkapitel
 ---
 

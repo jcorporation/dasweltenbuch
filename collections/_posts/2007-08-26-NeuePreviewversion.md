@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Previewversion"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-08-26-NeuePreviewversion
 ---
 

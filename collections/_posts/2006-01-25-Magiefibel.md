@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magiefibel"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-01-25-Magiefibel
 ---
 

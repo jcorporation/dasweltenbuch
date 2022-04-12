@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Karte der Doppelseite"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-01-06-neue-karte-der-doppelseite
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Logo"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-14-NeuesLogo
 ---
 

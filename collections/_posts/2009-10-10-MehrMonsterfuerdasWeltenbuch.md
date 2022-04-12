@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mehr Monster für das Weltenbuch!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-10-10-MehrMonsterfuerdasWeltenbuch
 ---
 

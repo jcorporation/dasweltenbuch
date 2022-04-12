@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch und Lite"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2013-05-26-DasWeltenbuchundLite
 ---
 

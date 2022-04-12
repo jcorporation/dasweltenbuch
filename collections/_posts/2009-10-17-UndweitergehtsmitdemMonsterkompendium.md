@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Und weiter gehts mit dem Monsterkompendium!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-10-17-UndweitergehtsmitdemMonsterkompendium
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die magischen Dolche"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-08-19-DiemagischenDolche
 ---
 

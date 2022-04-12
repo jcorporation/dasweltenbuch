@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Bilder"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-06-01-NeueBilder
 ---
 

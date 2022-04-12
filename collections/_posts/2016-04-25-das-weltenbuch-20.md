@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch 2.0 - einmal umgeblättert"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-04-25-das-weltenbuch-20
 ---
 

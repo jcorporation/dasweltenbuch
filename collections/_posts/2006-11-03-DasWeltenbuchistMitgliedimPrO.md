@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch ist Mitglied im PrO"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-11-03-DasWeltenbuchistMitgliedimPrO
 ---
 

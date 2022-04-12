@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heroische und epische Abenteuer"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-01-01-HeroischeundepischeAbenteuer
 ---
 

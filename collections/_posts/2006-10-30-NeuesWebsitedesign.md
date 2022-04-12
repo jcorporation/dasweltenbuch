@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Websitedesign"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-10-30-NeuesWebsitedesign
 ---
 

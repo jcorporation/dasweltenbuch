@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte PDFs"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-02-25-AktualisiertePDFs
 ---
 

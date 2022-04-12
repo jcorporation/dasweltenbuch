@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte Vorschau der Weltbeschreibung"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-01-16-aktualisierte-vorschau-der-weltbeschreibung
 ---
 

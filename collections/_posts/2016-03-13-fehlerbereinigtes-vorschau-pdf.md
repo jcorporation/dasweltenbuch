@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fehlerbereinigtes Vorschau-PDF"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-03-13-fehlerbereinigtes-vorschau-pdf
 ---
 

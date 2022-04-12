@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intelligenterer Heldengenerator"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-05-20-IntelligentererHeldengenerator
 ---
 

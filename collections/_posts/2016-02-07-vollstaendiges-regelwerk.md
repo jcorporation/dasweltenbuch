@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vollständiges Regelwerk"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-02-07-vollstaendiges-regelwerk
 ---
 

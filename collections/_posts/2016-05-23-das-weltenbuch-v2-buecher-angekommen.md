@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch v2 Bücher angekommen"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-05-23-das-weltenbuch-v2-buecher-angekommen
 ---
 

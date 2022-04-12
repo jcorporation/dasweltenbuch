@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kein Sommerloch!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-08-18-KeinSommerloch
 ---
 

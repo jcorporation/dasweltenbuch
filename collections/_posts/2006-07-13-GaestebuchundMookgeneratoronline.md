@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gästebuch und Mookgenerator online"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-07-13-GaestebuchundMookgeneratoronline
 ---
 

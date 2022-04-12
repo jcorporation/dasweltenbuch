@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch 1.0.4"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-09-11-DasWeltenbuch104
 ---
 

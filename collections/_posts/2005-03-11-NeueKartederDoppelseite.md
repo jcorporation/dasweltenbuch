@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Karte der Doppelseite"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-11-NeueKartederDoppelseite
 ---
 

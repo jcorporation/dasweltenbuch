@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Würfeltool"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-04-09-Wuerfeltool
 ---
 

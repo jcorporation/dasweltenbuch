@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Version des Regelwerks verfügbar"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-15-NeueVersiondesRegelwerksverfuegbar
 ---
 

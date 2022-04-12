@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch momentan nur in Shops verfügbar"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-10-05-DasWeltenbuchmomentannurinShopsverfuegbar
 ---
 

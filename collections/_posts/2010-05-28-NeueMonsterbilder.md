@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Monsterbilder"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-05-28-NeueMonsterbilder
 ---
 

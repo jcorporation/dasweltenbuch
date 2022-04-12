@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer im Zunftblatt"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-06-20-NeuesAbenteuerimZunftblatt
 ---
 

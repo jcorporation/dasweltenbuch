@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch goes 1.0 und braucht Deine Hilfe!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-02-28-DasWeltenbuchgoes10undbrauchtDeineHilfe
 ---
 

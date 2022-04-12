@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bilder und Galerie aktualisiert"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-01-02-bilder-und-galerie-aktualisiert
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch im Druck"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-07-25-DasWeltenbuchimDruck
 ---
 

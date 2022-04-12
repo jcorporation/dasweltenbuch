@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Notizzettelprojekt"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-06-14-DasNotizzettelprojekt
 ---
 

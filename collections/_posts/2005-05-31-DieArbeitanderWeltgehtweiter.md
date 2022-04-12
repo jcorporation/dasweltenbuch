@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die Arbeit an der Welt geht weiter..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-05-31-DieArbeitanderWeltgehtweiter
 ---
 

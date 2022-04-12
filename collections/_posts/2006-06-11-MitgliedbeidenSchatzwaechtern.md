@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mitglied bei den Schatzwächtern"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-06-11-MitgliedbeidenSchatzwaechtern
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch als Softcover"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-08-01-DasWeltenbuchalsSoftcover
 ---
 

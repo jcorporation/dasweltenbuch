@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuer Charakterbogen"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-01-26-neuer-charakterbogen
 ---
 

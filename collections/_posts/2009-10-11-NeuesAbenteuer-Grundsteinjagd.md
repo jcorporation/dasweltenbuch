@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Abenteuer - Grundsteinjagd"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-10-11-NeuesAbenteuer-Grundsteinjagd
 ---
 

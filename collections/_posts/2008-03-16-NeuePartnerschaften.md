@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Partnerschaften"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-03-16-NeuePartnerschaften
 ---
 

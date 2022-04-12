@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Jahre Weltenbuch"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-09-20-12-jahre-weltenbuch
 ---
 

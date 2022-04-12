@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Abenteuer"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2010-10-15-Abenteuer
 ---
 

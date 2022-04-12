@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch v2 entsteht (jetzt wirklich)"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2015-12-28-Das-Weltenbuch-v2-entsteht-jetzt-wirklich
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte Downloads"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-04-02-AktualisierteDownloads
 ---
 

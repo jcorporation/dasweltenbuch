@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Werkstattbericht"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-07-08-Werkstattbericht
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weltenbuch Sammelbestellung"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-08-30-WeltenbuchSammelbestellung
 ---
 

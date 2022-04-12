@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch 1.0"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-12-24-DasWeltenbuch10
 ---
 

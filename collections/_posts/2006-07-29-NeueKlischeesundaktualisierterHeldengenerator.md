@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Klischees und aktualisierter Heldengenerator"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-07-29-NeueKlischeesundaktualisierterHeldengenerator
 ---
 

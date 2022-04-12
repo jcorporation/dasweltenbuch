@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Klischee- und magische Ausrüstung"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-10-Klischee-undmagischeAusruestung
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homepage im neuen Design"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2014-09-26-HomepageimneuenDesign
 ---
 

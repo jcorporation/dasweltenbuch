@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die neue Karte schreitet voran!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-06-23-DieneueKarteschreitetvoran
 ---
 

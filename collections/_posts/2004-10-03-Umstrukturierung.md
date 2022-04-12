@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Umstrukturierung..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2004-10-03-Umstrukturierung
 ---
 

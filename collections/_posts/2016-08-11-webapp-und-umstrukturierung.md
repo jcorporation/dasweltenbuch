@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp und Umstrukturierung"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-08-11-webapp-und-umstrukturierung
 ---
 

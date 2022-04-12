@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Design"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-02-07-NeuesDesign
 ---
 

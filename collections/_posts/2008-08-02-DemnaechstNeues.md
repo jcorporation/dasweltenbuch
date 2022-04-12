@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demnächst Neues!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-08-02-DemnaechstNeues
 ---
 

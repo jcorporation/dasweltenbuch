@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Homepage"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2022-04-11-Neue-Homepage
 ---
 

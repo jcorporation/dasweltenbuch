@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch v2 Vorschau mit neuer Karte der Doppelseite"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2016-01-07-das-weltenbuch-v2-vorschau-mit-neuer-karte-der-doppelseite
 ---
 

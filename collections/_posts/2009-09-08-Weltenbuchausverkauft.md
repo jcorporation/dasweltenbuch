@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weltenbuch ausverkauft!"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-09-08-Weltenbuchausverkauft
 ---
 

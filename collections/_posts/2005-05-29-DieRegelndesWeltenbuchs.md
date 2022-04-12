@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die Regeln des Weltenbuchs..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-05-29-DieRegelndesWeltenbuchs
 ---
 

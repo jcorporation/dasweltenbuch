@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Webseite aktualisiert"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2008-02-15-Webseiteaktualisiert
 ---
 

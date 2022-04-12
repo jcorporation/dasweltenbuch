@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuigkeiten"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-05-14-Neuigkeiten
 ---
 

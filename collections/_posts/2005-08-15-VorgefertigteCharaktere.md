@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vorgefertigte Charaktere"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-08-15-VorgefertigteCharaktere
 ---
 

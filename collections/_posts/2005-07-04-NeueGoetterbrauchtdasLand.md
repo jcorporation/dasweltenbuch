@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Götter braucht das Land..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-07-04-NeueGoetterbrauchtdasLand
 ---
 

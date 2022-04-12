@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch auf der Odyssee 2006"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-08-14-DasWeltenbuchaufderOdysee2006
 ---
 

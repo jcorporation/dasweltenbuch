@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regelwerk"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-02-27-Regelwerk
 ---
 

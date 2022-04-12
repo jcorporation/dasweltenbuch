@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regelwerk PDF v0.3.0"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-05-RegelwerkPDFv030
 ---
 

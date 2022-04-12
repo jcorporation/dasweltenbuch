@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die Arbeit am Regelwerk geht weiter..."
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-03-06-DieArbeitamRegelwerkgehtweiter
 ---
 

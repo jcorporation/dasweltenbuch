@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Änderungen des Regelwerks"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-05-17-AenderungendesRegelwerks
 ---
 

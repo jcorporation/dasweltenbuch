@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weltenbuch Galerie"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2007-02-12-WeltenbuchGalerie
 ---
 

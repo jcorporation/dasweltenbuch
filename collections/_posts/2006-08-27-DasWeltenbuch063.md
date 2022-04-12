@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Weltenbuch 0.6.3"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2006-08-27-DasWeltenbuch063
 ---
 

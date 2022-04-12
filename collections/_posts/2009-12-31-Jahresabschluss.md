@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jahresabschluss"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2009-12-31-Jahresabschluss
 ---
 

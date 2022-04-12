@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stand der Dinge"
-tag: weltenbuch
+tag: Das Weltenbuch
 permalink: /Aktuelles/2005-12-10-StandderDinge
 ---
 
