@@ -10,7 +10,7 @@ sub checklink {
     if ($href =~ /^(http|mailto)/) {
         return;
     }
-    if ($href =~ /^\{\{ site\.baseurl \}\}\/(.*)$/) {
+    if ($href =~ /^\{\{\s*site\.baseurl\s*\}\}\/(.*)$/) {
         my $file = $1;
         if ($file =~ /\/$/) {
             $file .= "index";
@@ -23,7 +23,7 @@ sub checklink {
             $rc = 1;
         }
     }
-    elsif ($href =~ /^\{\{ site\.baseurl \}\}\{\{.*$/) {
+    elsif ($href =~ /^\{\{\s*site\.baseurl\s*\}\}\{\{.*$/) {
         #ok
     }
     else {
