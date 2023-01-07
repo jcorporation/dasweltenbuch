@@ -43,7 +43,7 @@ Spiele einen strahlenden Helden, der die Unschuldigen beschützt, sich für die 
     </div>
 </div>
 
-<div class="row row-cols-1 row-cols-sm-3 g-4 mb-3">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4 mb-3">
     <div class="col">
         <div class="card bg-leder text-light h-100 clickable">
             <div class="card-header bg-leder">Publikationen</div>
