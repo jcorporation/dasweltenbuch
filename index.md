@@ -45,26 +45,38 @@ Spiele einen strahlenden Helden, der die Unschuldigen beschützt, sich für die 
 
 <div class="row row-cols-1 row-cols-sm-3 g-4 mb-3">
     <div class="col">
-        <div class="card bg-leder text-light clickable">
-            <div class="card-header">Interaktive Karte</div>
-            <div class="card-body bg-doppelseite text-shadow">
-                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Die_Doppelseite/Karte/">Erforsche die Doppelseite</a></p>
+        <div class="card bg-leder text-light h-100 clickable">
+            <div class="card-header bg-leder">Publikationen</div>
+            <div class="card-body"></div>
+            <div class="card-footer mt-6 bg-leder">
+                <a class="link-light" href="{{ site.baseurl }}/Publikationen/">Alle PDFs und Bücher</a>
             </div>
         </div>
     </div>
     <div class="col">
-        <div class="card bg-leder text-light clickable">
-            <div class="card-header">Monsterkompendium</div>
-            <div class="card-body bg-monster text-shadow">
-                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Monsterkompendium/">Monsterkompendium</a></p>
+        <div class="card bg-doppelseite text-light h-100 clickable">
+            <div class="card-header bg-leder">Interaktive Karte</div>
+            <div class="card-body"></div>
+            <div class="card-footer mt-6 bg-leder">
+                <a class="link-light" href="{{ site.baseurl }}/Die_Doppelseite/Karte/">Erforsche die Doppelseite</a>
             </div>
         </div>
     </div>
     <div class="col">
-        <div class="card bg-leder text-light clickable">
-            <div class="card-header">Wiki</div>
-            <div class="card-body text-shadow">
-                <p class="mt-6 mb-0"><a class="link-light" href="{{ site.baseurl }}/Wiki/">Ideen für neue Inhalte</a></p>
+        <div class="card bg-leder text-light h-100 clickable">
+            <div class="card-header bg-leder">Monsterkompendium</div>
+            <div class="card-body"></div>
+            <div class="card-footer mt-6 bg-leder">
+                <a class="link-light" href="{{ site.baseurl }}/Monsterkompendium/">Monsterkompendium</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-leder text-light h-100 clickable">
+            <div class="card-header bg-leder">Ideenhalde</div>
+            <div class="card-body"></div>
+            <div class="card-footer mt-6 bg-leder">
+                <a class="link-light" href="{{ site.baseurl }}/Wiki/">Ideen für neue Inhalte</a>
             </div>
         </div>
     </div>
