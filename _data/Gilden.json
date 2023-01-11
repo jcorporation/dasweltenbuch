@@ -1,1 +1,44 @@
-null
+{
+  "Barden_und_Schaustellergilde": {
+    "Name": "Barden- und Schaustellergilde",
+    "Hauptsitz": "Wichtigste Stadt",
+    "Beitrag": "25 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Gluecksspielergilde": {
+    "Name": "Glücksspielergilde",
+    "Hauptsitz": "Kirnstein",
+    "Beitrag": "40 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Handelsgilde": {
+    "Name": "Handelsgilde",
+    "Hauptsitz": "Legendäre Stadt",
+    "Beitrag": "35 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Heldengilde": {
+    "Name": "Heldengilde",
+    "Hauptsitz": "Wichtigste Stadt",
+    "Beitrag": "30 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Magiergilde": {
+    "Name": "Magiergilde",
+    "Hauptsitz": "Glorantia",
+    "Beitrag": "25 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Mechgilde": {
+    "Name": "Mechgilde",
+    "Hauptsitz": "Spitzendorf",
+    "Beitrag": "30 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  },
+  "Meuchlergilde": {
+    "Name": "Meuchlergilde",
+    "Hauptsitz": "Kreuzstadt",
+    "Beitrag": "35 BM",
+    "Link": "/Die_Doppelseite/Gilden"
+  }
+}

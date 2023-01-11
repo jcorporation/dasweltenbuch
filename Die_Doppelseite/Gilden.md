@@ -2,6 +2,36 @@
 layout: page
 permalink: /Die_Doppelseite/Gilden
 title: Die wichtigsten Gilden
+sitedata:
+    Gilden:
+        Barden_und_Schaustellergilde:
+            Name: Barden- und Schaustellergilde
+            Hauptsitz: Wichtigste Stadt
+            Beitrag: 25 BM
+        Gluecksspielergilde:
+            Name: Glücksspielergilde
+            Hauptsitz: Kirnstein
+            Beitrag: 40 BM
+        Handelsgilde:
+            Name: Handelsgilde
+            Hauptsitz: Legendäre Stadt
+            Beitrag: 35 BM
+        Heldengilde:
+            Name: Heldengilde
+            Hauptsitz: Wichtigste Stadt
+            Beitrag: 30 BM
+        Magiergilde:
+            Name: Magiergilde
+            Hauptsitz: Glorantia
+            Beitrag: 25 BM
+        Mechgilde:
+            Name: Mechgilde
+            Hauptsitz: Spitzendorf
+            Beitrag: 30 BM
+        Meuchlergilde:
+            Name: Meuchlergilde
+            Hauptsitz: Kreuzstadt
+            Beitrag: 35 BM
 ---
 
 # Die wichtigsten Gilden

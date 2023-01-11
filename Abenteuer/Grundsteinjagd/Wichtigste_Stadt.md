@@ -47,7 +47,7 @@ Die Gilde hat einen Vertrag mit der Meuchlergilde, durch den sie Zugriff auf ein
 
 **Klarstellung:** Sämtliche Aufträge an die Meuchlergilde bestehen in Gutachten zur Sicherheit der verwendeten Theatergifte.
 
-#### Brauner Mond?**
+#### Brauner Mond?
 
 Die Haare der berühmten Schaustellerin Liliane vom Mondschein waren gefärbt, in Wirklichkeit waren sie gar nicht silbern, sondern brünett.
 

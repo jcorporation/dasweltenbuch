@@ -5,54 +5,63 @@ rc=0
 # select yq executable
 case "$(uname -m)" in
     armv7l)
-    	YQ=".scripts/bin/yq_linux_arm" ;;
+        YQ=".scripts/bin/yq_linux_arm" ;;
     x86_64)
-    	YQ=".scripts/bin/yq_linux_amd64" ;;
+        YQ=".scripts/bin/yq_linux_amd64" ;;
     *)
-    	exit 1 ;;
+        exit 1 ;;
 esac
 
 TMPDIR="_tmp"
 LISTS=$(cat .scripts/conf/data_keys.txt)
+DIRS=$(cat .scripts/conf/index_dirs.txt)
 
-#create empty tmp files
+# create empty tmp files
 for L in $LISTS
 do
     printf "" > "$TMPDIR/$L.yml.tmp"
 done
 
-echo "Parsing frontmatters"
-while read -r F
+for DIR in $DIRS
 do
-    [ "$F" = "./README.md" ] && continue
-    [[ "$F" =~ ^./_.* ]] && continue
-    [[ "$F" =~ .*_aside.md$ ]] && continue
-
-    SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
-    if [ $? -ne 0 ]
-    then
-        echo $F
-        exit 1
-    fi
-
-    PERMALINK=$($YQ --front-matter=extract '.permalink' "$F")
-
-    for L in $LISTS
+    echo "Parsing frontmatters from directory $DIR"
+    while read -r F
     do
-	# get content of list
-    	LIST=$($YQ ".$L" <<< "$SITEDATA")
-    	[ "$LIST" = "null" ] && continue
-    	TMPFILE="$TMPDIR/$L.yml.tmp"
-    	# iterate through keys of list and append permalink
-        while read -r KEY
+        [[ "$F" =~ .*_aside.md$ ]] && continue
+
+        SITEDATA=$($YQ --front-matter=extract '.sitedata' "$F")
+        if [ $? -ne 0 ]
+        then
+            echo $F
+            exit 1
+        fi
+
+        PERMALINK=$($YQ --front-matter=extract '.permalink' "$F")
+
+        for L in $LISTS
         do
-            echo "$KEY:" >> "$TMPFILE"
-            $YQ ".$KEY" <<< "$LIST" | sed -E 's/(^)/  \1/g' >> "$TMPFILE"
-            echo "  Link: $PERMALINK" >> "$TMPFILE"
-        done < <($YQ "keys()" <<< "$LIST" | sed 's/^- //g')
-    done
-    printf "."
-done < <(find ./ -name \*.md)
+            # get content of list
+            LIST=$($YQ ".$L" <<< "$SITEDATA")
+            [ "$LIST" = "null" ] && continue
+            TMPFILE="$TMPDIR/$L.yml.tmp"
+            # iterate through keys of list and append permalink
+            while read -r KEY
+            do
+                NAME=$($YQ ".$KEY" <<< "$LIST")
+                if [ "${NAME:0:5}" != "Name:" ]
+                then
+                    # handle arrays
+                    NAME="Name: $NAME"
+                fi
+                NAME=$(sed 's/^/  /g' <<< "$NAME")
+                printf "%s:\n%s\n  Link: %s\n" "$KEY" "$NAME" "$PERMALINK" >> "$TMPFILE"
+            done < <($YQ "keys()" <<< "$LIST" | sed 's/^- //g')
+        done
+
+        printf "."
+    done < <(find "./$DIR" -name \*.md)
+    echo ""
+done
 
 echo ""
 echo "Sorting"
@@ -72,7 +81,7 @@ do
         rc=1
     fi
     rm "$YMLTMP"
-    #print all names to javascript arrays for random generators
+    # print all names to javascript arrays for random generators
     printf "tabellen[\"existing%s\"] = " "$L" >> "$TMPDIR/data_names.js"
     jq ".[] | .Name" "_data/$L.json" | jq --slurp "." >> "$TMPDIR/data_names.js"
 done
