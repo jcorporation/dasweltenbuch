@@ -6,7 +6,7 @@ title: Publikationen
 
 # Publikationen
 
-Damit niemand die Katze im Sack kaufen muss, gibt es alle Weltenbuch Publikationen als kostenlose PDF. Die Bücher können direkt bei mir per Mail an [mail@jcgames.de](mailto:mail@jcgames.de) erstanden werden.
+Alle Weltenbuch Publikationen gibt es als kostenlose PDF.
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zum Weltenbuch. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt).
 
@@ -42,7 +42,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zum
                     <div class="col">
                         <p>Die Doppelseite auf einer A3 Karte, die auf A5 faltbar ist.</p>
                         <p>DIN A3</p>
-                        <p>Preis: 1,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zum
                         <img class="border border-black" src="{{ site.baseurl }}/assets/images/thumbnails/heldenpergament.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Der Piraten- und Raumschiffbogen als PDF.</p>
+                        <p>Das Heldenpergament als PDF.</p>
                         <p>DIN A4</p>
                     </div>
                 </div>
