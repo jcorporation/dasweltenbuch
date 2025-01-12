@@ -13,6 +13,7 @@ Zur Kontaktaufnahme stehen dir folgende Möglichkeiten zur Verfügung:
 - Poste einen Beitrag ins [Forum](http://tanelorn.net/index.php/board,225.0.html)
 - Schreibe eine eMail an: [mail@jcgames.de](mailto:mail@jcgames.de)
 - [Tanelorn Discord](https://discord.com/channels/493858616902811648/) (Nick: jcorporation)
+- [Mastodon](https://mastodon.social/@jcorporation)
 
 ## Datenschutzerklärung
 
