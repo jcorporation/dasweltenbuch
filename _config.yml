@@ -1,6 +1,6 @@
 title: Das Weltenbuch
 description: Das klischeehafte Fantasy-Rollenspiel 
-url: https://dasweltenbuch.jcgames.de
+url: https://dasweltenbuch.juergenmang.de
 paginate: 30
 paginate_path: "/Aktuelles/Seite_:num/"
 collections_dir: collections
