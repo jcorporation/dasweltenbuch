@@ -11,7 +11,7 @@ Indem du dich zum Weltenbuch äußerst, trägst du zur Entwicklung bei. Durch de
 Zur Kontaktaufnahme stehen dir folgende Möglichkeiten zur Verfügung:
 
 - Poste einen Beitrag ins [Forum](http://tanelorn.net/index.php/board,225.0.html)
-- Schreibe eine eMail an: [mail@jcgames.de](mailto:mail@jcgames.de)
+- Schreibe eine eMail an: [mail@uergenmang.de](mailto:mail@uergenmang.de)
 - [Tanelorn Discord](https://discord.com/channels/493858616902811648/) (Nick: jcorporation)
 - [Mastodon](https://mastodon.social/@jcorporation)
 
